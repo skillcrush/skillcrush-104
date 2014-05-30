@@ -1,5 +1,4 @@
 # Skillcrush 104
-==============
 #### Create Your First Web App With Ruby
 ==============
 
