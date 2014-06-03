@@ -5,3 +5,23 @@
 	border-bottom: 1px solid #DDDDDD;
 	padding-bottom: 5px;
 }
+
+.rosskinney-advice  h1  {
+	background-color: orange;
+	border-bottom: 11px solid blue;
+	padding-bottom: 5px;
+
+}
+
+.rosskinney-advice  {
+	background-color: orange
+	
+}
+
+.rosskinney-advice .ross-footer  {
+	background-color: blue
+	
+}
+
+.rosskinney.advice a:link {text-decoration:none;}
+
