@@ -5,3 +5,10 @@
 	border-bottom: 1px solid #DDDDDD;
 	padding-bottom: 5px;
 }
+
+/**amira keepin' it simple**/
+.amira-advice .advice h4{
+    background-color: #8cd9b8;
+    color: #aba3e0;
+    font-size: 30px;
+}
