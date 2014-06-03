@@ -5,3 +5,36 @@
 	border-bottom: 1px solid #DDDDDD;
 	padding-bottom: 5px;
 }
+
+/**CSS styles for kimsanders advice page **/
+.kimsanders-advice-main {
+	background-image: url(http://mrg.bz/KVxRhK);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	font-family:"Verdana";
+}
+
+.kimsanders-advice {
+  background:#7f7f7f;
+  background:rgba(255,255,255,0.7);
+  padding: 0px 25px;
+}
+
+.kimsanders-advice h1 {
+	font-style: italic;
+	font-size: 35px;
+	color: #000066;
+	text-align: center;
+}
+
+.kimsanders-advice h4 {
+	font-size: 25px;
+	color: #000065;
+}
+
+.kimsanders-advice p {
+	font-size: 18px;
+	color: #000065;
+}
+/**End styles for kimsanders **/
