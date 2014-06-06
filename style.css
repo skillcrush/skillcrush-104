@@ -5,3 +5,10 @@
 	border-bottom: 1px solid #DDDDDD;
 	padding-bottom: 5px;
 }
+
+/** Emily Chen styles **/
+.emilychen-advice {
+	font-family: Montserrat;
+	max-width: 960px;
+	margin: auto auto;
+}
