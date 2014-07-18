@@ -5,3 +5,17 @@
 	border-bottom: 1px solid #DDDDDD;
 	padding-bottom: 5px;
 }
+
+/*Cristy Koebler styles */
+.cristykoebler-advice header h1{
+	text-align: center;
+	font-family: serif;
+  	color: Crimson;
+}
+
+.cristykoebler-advice .advice h4 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.cristykoebler-advice footer {
+  text-align: center;
