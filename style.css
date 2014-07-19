@@ -1,7 +1,21 @@
 /** Add a comment at the beginning of your CSS styles with your name **/
 
 /** Skillcrush styles **/
-.skillcrush-advice .advice h4 {
+.lyndileighwk-advice h1{
+	color: DarkSlateGray;
+}
+.lyndileighwk-advice .advice h4 {
 	border-bottom: 1px solid #DDDDDD;
 	padding-bottom: 5px;
+	color: DarkSlateGray;
+}
+
+.lyndileighwk-advice #wrap{
+	width: 600px;
+	margin: auto;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.lyndileighwk-advice p{
+	font-weight: lighter;
+	color: DimGray
 }
