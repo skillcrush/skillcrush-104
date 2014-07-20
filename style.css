@@ -5,3 +5,9 @@
 	border-bottom: 1px solid #DDDDDD;
 	padding-bottom: 5px;
 }
+
+.evebee-advice {
+background-color: lightgreen;
+color: darkgreen;
+font-weight: bold;
+}
