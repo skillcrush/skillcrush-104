@@ -4,4 +4,30 @@
 .skillcrush-advice .advice h4 {
 	border-bottom: 1px solid #DDDDDD;
 	padding-bottom: 5px;
+	
+}
+
+
+/** Hi all, this is Jessica's advice style**/
+.jmg-advice   {
+color: #008599;
+background-color: navajowhite;
+text-align: center;
+width: 550px;
+margin-left: 35px;
+padding-left: 25px;
+padding-right: 25px;
+border: 14px mediumvioletred solid;
+}
+
+.jess-advice {
+background: cornsilk;
+border: 30px solid mediumvioletred;
+padding: 5px;
+
+}
+
+.jess-header {
+color: mediumblue;
+
 }
