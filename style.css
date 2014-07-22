@@ -83,3 +83,19 @@
 	color: #000065;
 }
 /**End styles for kimsanders **/
+
+/** Steve's styles **/
+.steveb-advice .advice h2 {
+	font-family: sans-serif;
+	border-bottom: 1px solid #DDDDDD;
+	padding-bottom: 5px;
+}
+.steveb-advice h1 {
+	font-family: sans-serif;
+}
+.steveb-advice p {
+	font-family: sans-serif;
+}
+.steveb-advice a {
+	font-family: sans-serif;
+}
