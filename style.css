@@ -207,3 +207,19 @@ p.sarahgreercopy-advice {
     font-family: 'Julius Sans One', sans-serif;
     font-size: .8em;
 }
+
+/** Emily Chen styles **/
+.emilychen-advice {
+	font-family: Montserrat;
+	max-width: 960px;
+	margin: auto auto;
+	background-color: #FAFFE5
+}
+
+.emilychen-advice h1 {
+	font-size: 2em;
+}
+
+.emilychen-advice h4 {
+	font-size: 1.4em;
+}
