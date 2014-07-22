@@ -99,3 +99,22 @@
 .steveb-advice a {
 	font-family: sans-serif;
 }
+
+.rosskinney-advice  h1  {
+	background-color: orange;
+	border-bottom: 11px solid blue;
+	padding-bottom: 5px;
+
+}
+
+.rosskinney-advice  {
+	background-color: orange
+	
+}
+
+.rosskinney-advice .ross-footer  {
+	background-color: blue
+	
+}
+
+.rosskinney-advice a:link {text-decoration:none;}
