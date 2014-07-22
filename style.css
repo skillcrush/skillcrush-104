@@ -1,4 +1,35 @@
 /** Add a comment at the beginning of your CSS styles with your name **/
+/** Yo it's Randle **/
+
+.randle-advice body {
+	padding: 50px;
+	font-family: helvetica;
+}
+
+.randle-advice h1, h4 {
+	margin: 10px 100px 10px 100px;
+	color: salmon;
+}
+
+.randle-advice h1 {
+	padding: 20px;
+	font-size: 3em;
+}
+
+.randle-advice h4 {
+	padding: 10px;
+	font-size: 2em;
+}
+
+.randle-advice p {
+	margin: 10px 150px 10px 150px;
+	border-radius: 20px;
+	background-color: salmon;
+	color: white;
+	padding: 25px;
+	font-size: 1.5em;
+}
+
 
 /** Skillcrush styles **/
 .skillcrush-advice .advice h4 {
