@@ -37,6 +37,23 @@
 	padding-bottom: 5px;
 }
 
+.lyndileighwk-advice h1{
+	color: DarkSlateGray;
+}
+.lyndileighwk-advice .advice h4 {
+	border-bottom: 1px solid #DDDDDD;
+	padding-bottom: 5px;
+}
+.lyndileighwk-advice #wrap{
+	width: 600px;
+	margin: auto;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.lyndileighwk-advice p{
+	font-weight: lighter;
+	color: DimGray
+}
+
 .deblevy-advice .advice h1 {
 	font-family: 'Roboto Condensed', sans-serif;
     font-size: 24px;
@@ -236,5 +253,5 @@ p.sarahgreercopy-advice {
 }
 
 .cristykoebler-advice footer {
-  text-align: center;
+	text-align: center;
 }
