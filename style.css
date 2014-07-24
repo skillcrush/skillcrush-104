@@ -284,3 +284,29 @@ background-color: lightgreen;
 color: darkgreen;
 font-weight: bold;
 }
+
+#amycphoto {
+    height: 300px;
+    border-radius: 50%;
+    margin-left: 300px;
+}
+.amych1 {
+    font-family: serif;
+    color: gray;
+    text-align: center;
+}
+.amycp {
+    color: gray;
+    text-align: center;
+}
+.amych4 {
+    text-align: center;
+    font-weight: 800;
+    font-size: 30px;
+}
+#amycwrapper {
+    width: 900px;
+    background-color: pink;
+    margin: 0px auto;
+    
+}
