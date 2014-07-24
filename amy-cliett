@@ -1,1 +1,0 @@
-puts "Heyyyy there Skillcrushers!"
