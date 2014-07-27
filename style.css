@@ -30,6 +30,31 @@
 	font-size: 1.5em;
 }
 
+.margaret-advice body {
+	padding: 20px;
+	}
+	
+.margaret-advice h1 {
+	padding: 10px;
+	font-size: 40px;
+	color: royalblue;
+	font-family: courier;
+	text-align: Center;
+	}
+	
+.margaret-advice h4 {
+	font-size: 30px;
+	color: darkpink;
+	font-family: courier;
+	text-align: center;
+	}
+	
+.margaret-advice p {
+	font-size: 20px;
+	padding: 10px;
+	font-family: courier;
+	margin-left: 20px;
+	}
 
 /** Skillcrush styles **/
 .skillcrush-advice .advice h4 {
