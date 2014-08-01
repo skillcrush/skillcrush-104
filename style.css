@@ -1,4 +1,52 @@
 /** Add a comment at the beginning of your CSS styles with your name **/
+
+/**Keri's Advice Style**/
+.keri-stoller-advice {
+	font-family: Georgia, sans-serif;
+	margin: 50px;
+	background-color: #B2AFB3;
+}
+
+.keri-stoller-advice .main-page {
+	text-decoration: none;
+	font-style: italic;
+	color: purple;
+}
+
+.keri-stoller-advice h1 {
+	font-size: 3em;
+	text-align: center;
+}
+
+.keri-stoller-advice .advice {
+	margin: 10px auto;
+}
+
+.keri-stoller-advice h4 {
+	text-align: left;
+	font-size: 1.5em;
+	font-weight: bolder;
+	text-decoration: underline;
+	color: #C3E30B;
+	margin: 0px;
+	padding: 0px;
+}
+
+.keri-stoller-advice p {
+	font-family: sans-serif;
+
+}
+
+.keri-stoller-advice footer {
+	text-align: right;
+	font-style: italic;
+	font-size: .75em;
+	font-weight: lighter;
+	color: purple;
+}
+/**End of Keri's Advice Style**/
+
+
 /** Yo it's Randle **/
 
 .randle-advice body {
