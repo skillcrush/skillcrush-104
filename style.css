@@ -383,3 +383,38 @@ font-weight: bold;
     margin: 0px auto;
     
 }
+
+/**Alex's Advice Style**/
+
+.alex-advice {
+	background-color: lightgreen;
+}
+
+.alex-advice h1 {
+	background-color: white;
+	border-radius: 5px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 55%;
+	border: solid green 4px;
+	padding: 20px;
+}
+
+.alex-advice .advice h4 {
+	color: #003300;
+	text-decoration: condensed;
+	font-size: 150%;
+	font-weight: normal;
+}
+
+.advice-item {
+	background-color:white;
+	border: solid 2px green;
+	padding: 5px;
+	border-radius: 10px;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/**End of Alex's Advice Style**/
