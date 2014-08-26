@@ -493,3 +493,20 @@ font-weight: bold;
 	text-align: center;
 }
 /*End of Melissa's contribution*/
+
+/*Michelle B's contribution*/
+.michelleb-advice{
+background-color: white;
+color: silver;
+font-size: 20px;
+font-family: arial;
+text-align: left;
+margin: 20px;
+width: 700px;
+text-decoration: none;
+}
+.michelle-advice{
+color: lightblue;
+font-size: 22px;
+}
+/*End of Michelle B's contribution*/
