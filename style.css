@@ -1,5 +1,62 @@
 /** Add a comment at the beginning of your CSS styles with your name **/
 
+/** Kenise's styles **/
+
+.kenise-advice .advice h1 {
+	font-family: 'Roboto Condensed', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+	margin-left: 40px;
+	margin-top:20px;
+	margin-bottom:15px;
+}
+
+.kenise-advice .advice p {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 16px;
+    width: 600px;
+	margin-left: 40px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.kenise-advice .advice h4 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    color: rgb(216, 35, 42);
+	margin-left: 40px;
+	margin-top: 20px;
+	margin-bottom: 15px;
+	border-bottom: 1px solid #DDDDDD;
+	padding-bottom: 5px;
+}
+
+.kenise-advice .advice ul {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 16px;
+    width: 600px;
+	margin-left: 30px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	}
+
+.kenise-advice .advice li {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 16px;
+    width: 600px;
+	margin-left: 40px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.kenise-advice .advice a {
+	text-decoration: none;
+}
+
+.kenise-advice .advice footer {
+	text-align: center;
+}
+/**End Kenise's Style**/
+
 /**Keri's Advice Style**/
 .keri-stoller-advice {
 	font-family: Georgia, sans-serif;
@@ -381,7 +438,6 @@ font-weight: bold;
     width: 900px;
     background-color: pink;
     margin: 0px auto;
-    
 }
 
 /**Alex's Advice Style**/
