@@ -418,3 +418,22 @@ font-weight: bold;
 }
 
 /**End of Alex's Advice Style**/
+
+/*This is Melissa's contribution*/
+.melissay-advice .advice h4 {
+	font-size: 50px;
+}
+
+.melissay-advice .advice p {
+	background-color: indigo;
+	color: white;
+	margin: 10px 200px;
+	font-size: 25px;
+	border-radius: 5px;
+}
+
+.melissay-advice footer {
+	margin: 10px auto;
+	text-align: center;
+}
+/*End of Melissa's contribution*/
