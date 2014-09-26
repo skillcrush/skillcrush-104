@@ -1,5 +1,51 @@
 /** Add a comment at the beginning of your CSS styles with your name **/
 
+/** Sarah Bagley's styles **/
+
+.sarahbagley-advice h1 {
+	font-family: 'Crushed', cursive;
+	color: Teal;
+	text-align: center;
+	font-size: 60px;
+}
+
+.sarahbagley-advice .sarahbagleymore-advice h4 {
+	font-family: 'Crushed', cursive;
+	color: Teal;
+	text-align: center;
+	font-size: 30px;
+	padding-top: 10px;
+}
+
+.sarahbagley-advice .sarahbagleymore-advice p {
+	font-family: 'Muli', sans-serif;
+	text-align: center;
+	font-size: 20px;
+	padding-left: 150px;
+	padding-right: 150px;
+	line-height: 30px;
+}
+
+.sarahbagley-advice a {
+	font-family: 'Muli', sans-serif;
+	color: Teal;
+	text-align: center;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+.sarahbagley-advice p {
+	font-family: 'Muli', sans-serif;
+	color: Gray;
+	text-align: center;
+	font-size: 20px;
+	text-decoration: none;
+	padding-bottom: 40px;
+}
+
+/** End of Sarah Bagley's styles **/
+
+
 /** Kenise's styles **/
 
 .kenise-advice .advice h1 {
