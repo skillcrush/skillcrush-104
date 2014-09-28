@@ -510,3 +510,57 @@ color: lightblue;
 font-size: 22px;
 }
 /*End of Michelle B's contribution*/
+
+/**** Chrissyg's advice styles start here ****/
+.chrissyg-advice {  
+	border: 1px solid white;
+	background-color:#3cc;
+	color:#036;
+	font-family: 'Montserrat', sans-serif;
+	margin: 20px;
+	padding:20px 40px;
+}
+
+.chrissyg-advice h1 {
+	color: white;
+	text-transform: uppercase;
+	margin-top:30px;
+	padding-top:20px;
+	padding-bottom:20px;
+	margin-bottom:0px;
+	font-size:26px;
+	border-top:1px solid white;
+	border-bottom:1px solid white;
+}
+
+.chrissyg-advice h2 {
+	font-size:21px;
+	margin-top:0px;
+	padding-top:0px;
+}
+
+.chrissyg-advice p {
+	margin-bottom:40px;
+	font-style:italic;
+}
+
+.chrissyg-advice a {
+	color:#036;
+	text-transform: uppercase;
+	text-decoration:none;
+	font-size: 13px;
+}
+
+.chrissyg-advice header {
+	text-align:center;
+}
+
+.chrissyg-advice div {
+	margin:0 40px 40px 40px; padding:40px;
+}
+
+.chrissyg-advice footer {
+	font-size: 12px;
+}
+
+/**** End of Chrissyg's advice styles ****/
