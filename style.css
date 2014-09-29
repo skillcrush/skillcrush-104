@@ -1,5 +1,26 @@
 /** Add a comment at the beginning of your CSS styles with your name **/
 
+/**Kim's Styles**/
+
+.kim-advice h1 {
+	font-family:'Arial', sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	}
+
+.kim-advice .advice h4 {
+	font-family: 'Helvetica';
+	font-size: 14px;
+	font-weight: bold;
+	}
+	
+.kim-advice .advice p {
+	font-family: 'Arial';
+	font-size: 10px;
+	}
+/**End Kim's Styles**/
+
+
 /** Kenise's styles **/
 
 .kenise-advice .advice h1 {
