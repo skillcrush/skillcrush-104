@@ -30,6 +30,16 @@
 	border-bottom: 1px solid #DDDDDD;
 	padding-bottom: 5px;
 }
+.kennedy-advice{
+color: lightblue;
+font-size: 18px;
+text-align: center;
+background-size: cover;
+background-position: center;
+color: blue;
+font-family: helvetica;
+background: orange;
+}
 
 .kenise-advice .advice ul {
     font-family: 'Roboto Condensed', sans-serif;
@@ -138,7 +148,7 @@
 .margaret-advice body {
 	padding: 20px;
 	}
-	
+
 .margaret-advice h1 {
 	padding: 10px;
 	font-size: 40px;
@@ -146,14 +156,14 @@
 	font-family: courier;
 	text-align: Center;
 	}
-	
+
 .margaret-advice h4 {
 	font-size: 30px;
 	color: darkpink;
 	font-family: courier;
 	text-align: center;
 	}
-	
+
 .margaret-advice p {
 	font-size: 20px;
 	padding: 10px;
@@ -287,12 +297,12 @@
 
 .rosskinney-advice  {
 	background-color: orange
-	
+
 }
 
 .rosskinney-advice .ross-footer  {
 	background-color: blue
-	
+
 }
 
 .rosskinney-advice a:link {text-decoration:none;}
@@ -493,3 +503,30 @@ font-weight: bold;
 	text-align: center;
 }
 /*End of Melissa's contribution*/
+
+/*Michelle B's contribution*/
+.michelleb-advice{
+background-color: white;
+color: silver;
+font-size: 20px;
+font-family: arial;
+text-align: left;
+margin: 20px;
+width: 700px;
+text-decoration: none;
+}
+.michelle-advice{
+color: lightblue;
+font-size: 22px;
+}
+/*End of Michelle B's contribution*/
+.kennedy-advice{
+color: lightblue;
+font-size: 18px;
+text-align: center;
+background-size: cover;
+background-position: center;
+color: blue;
+font-family: helvetica;
+background: orange;
+}
