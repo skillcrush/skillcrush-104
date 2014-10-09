@@ -1,71 +1,7 @@
 /** Add a comment at the beginning of your CSS styles with your name **/
 
-/**Kim's Styles**/
-
-.kim-advice h1 {
-	font-family:'Arial', sans-serif;
-	font-size: 16px;
-	font-weight: bold;
-	}
-
-.kim-advice .advice h4 {
-	font-family: 'Helvetica';
-	font-size: 14px;
-	font-weight: bold;
-	}
-	
-.kim-advice .advice p {
-	font-family: 'Arial';
-	font-size: 10px;
-	}
-/**End Kim's Styles**/
-
-/** Sarah Bagley's styles **/
-
-.sarahbagley-advice h1 {
-	font-family: 'Crushed', cursive;
-	color: Teal;
-	text-align: center;
-	font-size: 60px;
-}
-
-.sarahbagley-advice .sarahbagleymore-advice h4 {
-	font-family: 'Crushed', cursive;
-	color: Teal;
-	text-align: center;
-	font-size: 30px;
-	padding-top: 10px;
-}
-
-.sarahbagley-advice .sarahbagleymore-advice p {
-	font-family: 'Muli', sans-serif;
-	text-align: center;
-	font-size: 20px;
-	padding-left: 150px;
-	padding-right: 150px;
-	line-height: 30px;
-}
-
-.sarahbagley-advice a {
-	font-family: 'Muli', sans-serif;
-	color: Teal;
-	text-align: center;
-	font-size: 20px;
-	text-decoration: none;
-}
-
-.sarahbagley-advice p {
-	font-family: 'Muli', sans-serif;
-	color: Gray;
-	text-align: center;
-	font-size: 20px;
-	text-decoration: none;
-	padding-bottom: 40px;
-}
-
-/** End of Sarah Bagley's styles **/
-
 /** Kenise's styles **/
+
 .kenise-advice .advice h1 {
 	font-family: 'Roboto Condensed', sans-serif;
     font-size: 24px;
@@ -94,6 +30,7 @@
 	border-bottom: 1px solid #DDDDDD;
 	padding-bottom: 5px;
 }
+
 .kenise-advice .advice ul {
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 16px;
@@ -119,17 +56,6 @@
 	text-align: center;
 }
 /**End Kenise's Style**/
-
-.kennedy-advice{
-	color: lightblue;
-	font-size: 18px;
-	text-align: center;
-	background-size: cover;
-	background-position: center;
-	color: blue;
-	font-family: helvetica;
-	background: orange;
-}
 
 /**Keri's Advice Style**/
 .keri-stoller-advice {
@@ -179,6 +105,7 @@
 
 
 /** Yo it's Randle **/
+
 .randle-advice body {
 	padding: 50px;
 	font-family: helvetica;
@@ -211,7 +138,7 @@
 .margaret-advice body {
 	padding: 20px;
 	}
-
+	
 .margaret-advice h1 {
 	padding: 10px;
 	font-size: 40px;
@@ -219,14 +146,14 @@
 	font-family: courier;
 	text-align: Center;
 	}
-
+	
 .margaret-advice h4 {
 	font-size: 30px;
 	color: darkpink;
 	font-family: courier;
 	text-align: center;
 	}
-
+	
 .margaret-advice p {
 	font-size: 20px;
 	padding: 10px;
@@ -360,12 +287,12 @@
 
 .rosskinney-advice  {
 	background-color: orange
-
+	
 }
 
 .rosskinney-advice .ross-footer  {
 	background-color: blue
-
+	
 }
 
 .rosskinney-advice a:link {text-decoration:none;}
@@ -584,55 +511,34 @@ font-size: 22px;
 }
 /*End of Michelle B's contribution*/
 
-/**** Chrissyg's advice styles start here ****/
-.chrissyg-advice {  
-	border: 1px solid white;
-	background-color:#3cc;
-	color:#036;
-	font-family: 'Montserrat', sans-serif;
-	margin: 20px;
-	padding:20px 40px;
+/*Shannon G.'s Advice*/
+.shannongagnon-advice{
+width: 750px;
+height: auto;
+padding: 20px;
+font-size: 20px;
+background-color: #A5A6F2;
+color: #0F104A;
 }
 
-.chrissyg-advice h1 {
-	color: white;
-	text-transform: uppercase;
-	margin-top:30px;
-	padding-top:20px;
-	padding-bottom:20px;
-	margin-bottom:0px;
-	font-size:26px;
-	border-top:1px solid white;
-	border-bottom:1px solid white;
+.shannon-advice{
+background: #D1D1F0;
+padding: 30px;
 }
 
-.chrissyg-advice h2 {
-	font-size:21px;
-	margin-top:0px;
-	padding-top:0px;
+.shannongagnon-advice strong{
+color: #292AA3;
+padding: 25px;
+text-shadow: 1px 2px 2px gray;
 }
 
-.chrissyg-advice p {
-	margin-bottom:40px;
-	font-style:italic;
+.shannongagnon-advice h3{
+color: #001533;
+font-size: 30px;
 }
 
-.chrissyg-advice a {
-	color:#036;
-	text-transform: uppercase;
-	text-decoration:none;
-	font-size: 13px;
+.shannongagnon-advice h1{
+text-align: center;
+text-shadow: 1px 2px 3px #666;
 }
-
-.chrissyg-advice header {
-	text-align:center;
-}
-
-.chrissyg-advice div {
-	margin:0 40px 40px 40px; padding:40px;
-}
-
-.chrissyg-advice footer {
-	font-size: 12px;
-}
-/**** End of Chrissyg's advice styles ****/
+/*End of Shannon G.'s Advice*/
