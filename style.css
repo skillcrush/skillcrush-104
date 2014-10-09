@@ -510,3 +510,35 @@ color: lightblue;
 font-size: 22px;
 }
 /*End of Michelle B's contribution*/
+
+/** Kristi's Styles **/
+
+.kristi-advice body {
+	padding: 50px;
+	font-family: arial;
+}
+
+.kristi-advice h1, h4 {
+	margin: 10px 100px 10px 100px;
+	color: cyan;
+}
+
+.kristi-advice h1 {
+	padding: 20px;
+	font-size: 3em;
+}
+
+.kristi-advice h4 {
+	padding: 10px;
+	font-size: 2em;
+}
+
+.kristi-advice p {
+	margin: 10px 150px 10px 150px;
+	border-radius: 20px;
+	background-color: indigo;
+	color: white;
+	padding: 25px;
+	font-size: 1.5em;
+}
+/** End of Kristi's Styles **/
