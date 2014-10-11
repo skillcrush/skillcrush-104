@@ -13,7 +13,7 @@
 	font-size: 14px;
 	font-weight: bold;
 	}
-	
+
 .kim-advice .advice p {
 	font-family: 'Arial';
 	font-size: 10px;
@@ -585,7 +585,7 @@ font-size: 22px;
 /*End of Michelle B's contribution*/
 
 /**** Chrissyg's advice styles start here ****/
-.chrissyg-advice {  
+.chrissyg-advice {
 	border: 1px solid white;
 	background-color:#3cc;
 	color:#036;
@@ -636,3 +636,49 @@ font-size: 22px;
 	font-size: 12px;
 }
 /**** End of Chrissyg's advice styles ****/
+
+/**Kelly Murray's Styles**/
+
+.kellymurray-advice {
+  background: GhostWhite;}
+
+#kellym-text {
+height:500px;
+width:480px;
+margin:10px 20px 0;
+border-radius:0 5px 5px 0;}
+
+.kellymurray-advice h1 {
+  font-family: 'Montserrat', sans-serif;
+  color: IndianRed;}
+
+.kellymurray-advice h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: IndianRed;
+  padding: 0px;
+  margin: 10px;}
+
+.kellymurray-advice p {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  color: #000;
+  text-align: justify;
+  margin-left:20px;
+  margin-top:0px;
+  margin-right:15px;
+  line-height: 120%;
+  padding: 0px;
+}
+
+.kellymurray-advice a {
+  font-family: 'Open Sans', sans-serif;
+  text-decoration:none;
+  color: IndianRed;
+}
+
+.kellymurray-advice a:hover {
+  color: LightSalmon;
+}
+
+/**** End of Kelly Murray's styles ****/
