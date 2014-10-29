@@ -636,3 +636,19 @@ font-size: 22px;
 	font-size: 12px;
 }
 /**** End of Chrissyg's advice styles ****/
+
+.danielle-advice body{
+    background-color: #f3c5a3;
+    color: #00698f;
+    font-family: arial;
+    font-size: 12px;
+}
+.danielle-advice div {
+    background-color: #e7e2af;
+    border: 1px dashed #00698f;
+}
+.danielle-advice h4 {
+    font-family: georgia;
+    font-size: 22px;
+    text-align:center;
+}
