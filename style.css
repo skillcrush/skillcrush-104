@@ -1,5 +1,79 @@
 /** Add a comment at the beginning of your CSS styles with your name **/
 
+/*Jen's styles*/
+.jenbest-advice {
+	background-color: #98ff98;
+	border: 1px solid #4b8934;
+	padding: 15px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.jenbest-advice h1 {
+	color: black;
+	text-align: center;
+	font-size: 200%;
+}
+
+.jenbest-advice h4 {
+	color: black;
+	font-size: 130%;
+	text-align: left;
+}
+
+.jenbest-advice p {
+	color: black;
+	font-size: 105%;
+	padding: 10px 100px 10px 100px;
+}
+
+.jenbest-advice a {
+	color: #5f0c0c;
+}
+
+.jenbest-advice .one {
+	border: 1px solid #4b8934;
+	border-radius: 10px;
+	margin: 5px;
+	padding: 5px;
+}
+
+.jenbest-advice .two {
+	border: 1px solid #4b8934;
+	border-radius: 10px;
+	margin: 5px;
+	padding: 5px;
+}
+
+.jenbest-advice .three {
+	border: 1px solid #4b8934;
+	border-radius: 10px;
+	margin: 5px;
+	padding: 5px;
+}
+
+.jenbest-advice .four {
+	border: 1px solid #4b8934;
+	border-radius: 10px;
+	margin: 5px;
+	padding: 5px;
+}
+
+.jenbest-advice .five {
+	border: 1px solid #4b8934;
+	border-radius: 10px;
+	margin: 5px;
+	padding: 5px;
+}
+
+.jenbest-advice .copyright {
+	font-size: 80%;
+	margin-top: 50px;
+	text-align: center;
+}
+
+/*end Jen's styles*/
+
+
 /**Kim's Styles**/
 
 .kim-advice h1 {
