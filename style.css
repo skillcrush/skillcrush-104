@@ -584,6 +584,18 @@ font-size: 22px;
 }
 /*End of Michelle B's contribution*/
 
+.jean-advice {
+	color: cornflowerblue;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+#jean-google {
+	font-size: 48px;
+	color: purple;
+	font-weight: bolder;
+}
+
 /**** Chrissyg's advice styles start here ****/
 .chrissyg-advice {  
 	border: 1px solid white;
