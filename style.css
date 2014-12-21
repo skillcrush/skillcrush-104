@@ -636,3 +636,13 @@ font-size: 22px;
 	font-size: 12px;
 }
 /**** End of Chrissyg's advice styles ****/
+
+ .nelson-advice p{
+     color: blue;
+     border-color: yellow;
+     font-style: italic;
+}
+
+.nelson-advice h4{
+    color: black;
+}
