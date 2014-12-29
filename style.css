@@ -919,3 +919,41 @@ border-radius:0 5px 5px 0;}
     font-size: 22px;
     text-align:center;
 }
+
+/** davida's style **/
+
+.davida-advice {  
+	border: 1px solid #737CA1;
+	border-radius: 20px;
+	background-color: #F0F8FF;
+	color: #737CA1;
+	margin: 20px;
+	padding:20px 40px;
+}
+
+.davida-advice h1, h4 {
+	margin: 10px 100px 10px 100px;
+	color: #737CA1;
+	font-family: Arial Narrow;
+}
+
+.davida-advice h1 {
+	padding: 20px;
+	font-size: 2em;
+}
+
+.davida-advice h4 {
+	padding: 10px;
+	font-size: 1.5em;
+}
+
+.davida-advice p {
+	margin: 10px 150px 10px 150px;
+	border-radius: 20px;
+	background-color: white;
+	color: #737CA1;
+	padding: 25px;
+	font-size: 1em;
+}
+
+/** end of davida's style **/
