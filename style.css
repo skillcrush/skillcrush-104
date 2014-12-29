@@ -584,7 +584,6 @@ font-size: 22px;
 }
 /*End of Michelle B's contribution*/
 
-<<<<<<< HEAD
 /**** Chrissyg's advice styles start here ****/
 .chrissyg-advice {
 	border: 1px solid white;
@@ -637,7 +636,6 @@ font-size: 22px;
 	font-size: 12px;
 }
 /**** End of Chrissyg's advice styles ****/
-<<<<<<< HEAD
 
 /**Kelly Murray's Styles**/
 
@@ -716,3 +714,23 @@ border-radius:0 5px 5px 0;}
 	font-size: 1.5em;
 }
 /** End of Kristi's Styles **/
+
+/**** Andy LJ's advice styles ****/
+.andylj-advice {
+	background-color: white;
+	font-family: 'Montserrat', sans-serif;
+	padding: 20px;
+}
+
+.andylj-advice h1{
+	border-bottom: 2px solid DarkSlateGray;
+	padding: 10px;
+}
+
+.andylj-advice h4{
+	margin: 20px 20px 20px 0;
+	font-size: 120%;
+	color: CornflowerBlue;
+}
+
+/**** End of Andy LJ's advice styles ****/
