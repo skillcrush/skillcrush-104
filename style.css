@@ -957,3 +957,12 @@ border-radius:0 5px 5px 0;}
 }
 
 /** end of davida's style **/
+ .nelson-advice p{
+     color: blue;
+     border-color: yellow;
+     font-style: italic;
+}
+
+.nelson-advice h4{
+    color: black;
+}
