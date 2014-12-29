@@ -637,7 +637,6 @@ font-size: 22px;
 }
 /**** End of Chrissyg's advice styles ****/
 
-<<<<<<< HEAD
 /**Kelly Murray's Styles**/
 
 .kellymurray-advice {
@@ -735,7 +734,7 @@ border-radius:0 5px 5px 0;}
 }
 
 /**** End of Andy LJ's advice styles ****/
-=======
+
 /**** TIARA IS STYLISH maybe ****/
 
 .tiara-advice-ahoy {  
@@ -784,4 +783,19 @@ border-radius:0 5px 5px 0;}
 }
 
 /**** AND END SCENE ****/
->>>>>>> 349295d17398691a415c70dd42a1ce512e41e6b2
+
+.danielle-advice body{
+    background-color: #f3c5a3;
+    color: #00698f;
+    font-family: arial;
+    font-size: 12px;
+}
+.danielle-advice div {
+    background-color: #e7e2af;
+    border: 1px dashed #00698f;
+}
+.danielle-advice h4 {
+    font-family: georgia;
+    font-size: 22px;
+    text-align:center;
+}
