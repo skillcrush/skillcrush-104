@@ -637,6 +637,7 @@ font-size: 22px;
 }
 /**** End of Chrissyg's advice styles ****/
 
+<<<<<<< HEAD
 /**Kelly Murray's Styles**/
 
 .kellymurray-advice {
@@ -734,3 +735,53 @@ border-radius:0 5px 5px 0;}
 }
 
 /**** End of Andy LJ's advice styles ****/
+=======
+/**** TIARA IS STYLISH maybe ****/
+
+.tiara-advice-ahoy {  
+	border: 1px solid #B62084;
+	background-color:#CD96CD;
+	color:#B62084;
+	font-family: 'Calibri', sans-serif;
+	margin: 15px;
+	padding:15px 15px;
+}
+
+.tiara-advice-ahoy h1 {
+	color: #B62084;
+	text-transform: capitalize;
+	margin-top:15px;
+	padding-top:15px;
+	padding-bottom:15px;
+	margin-bottom:15px;
+	font-size:35px;
+	border-top:1px solid #B62084;
+	border-bottom:1px solid #B62084;
+}
+
+.tiara-advice-ahoy h2 {
+	font-size:25px;
+	margin-top:0px;
+	padding-top:0px;
+}
+
+.tiara-advice-ahoy h3 {
+	font-size:20px;
+	margin-top:0px;
+	padding-top:0px;
+}
+
+.tiara-advice-ahoy p {
+	margin-bottom:15px;
+}
+
+.tiara-advice-ahoy div {
+	margin:0 15px 15px 15px; padding:15px;
+}
+
+.tiara-advice-ahoy footer {
+	font-size: 15px;
+}
+
+/**** AND END SCENE ****/
+>>>>>>> 349295d17398691a415c70dd42a1ce512e41e6b2
