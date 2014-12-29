@@ -1,1 +1,1 @@
-text blah blah
+puts "text blah blah"

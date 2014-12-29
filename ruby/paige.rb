@@ -1,1 +1,1 @@
-"Adding paige.rb file"
+puts "Adding paige.rb file"

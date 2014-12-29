@@ -1,1 +1,1 @@
-puts "My first Ruby file! This is my forked repository!"
+puts "My first Ruby file!"

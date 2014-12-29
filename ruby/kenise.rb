@@ -1,3 +1,3 @@
-Nothing to see here. Just some text.
+puts "Nothing to see here. Just some text."
 
-I hope this is enough. :-)
+puts "I hope this is enough. :-)"

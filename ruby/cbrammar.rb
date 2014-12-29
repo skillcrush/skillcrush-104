@@ -1,1 +1,2 @@
-"Forked skillcrush clone"  "Making some changes"
+puts "Forked skillcrush clone" 
+puts "Making some changes"

@@ -1,1 +1,1 @@
-"This is my forked repository"
+puts "This is my forked repository"

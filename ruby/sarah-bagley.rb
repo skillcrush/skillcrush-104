@@ -1,5 +1,5 @@
-Hello!
+puts "Hello!"
 
-GitHub, whoo hooooooo!
+puts "GitHub, whoo hooooooo!"
 
-love, sarah
+puts "love, sarah"
