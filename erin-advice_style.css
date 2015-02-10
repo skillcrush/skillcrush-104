@@ -1,7 +1,6 @@
 /**Erin's style sheet**/
 
-.erinorr_advice body{
-body{
+body.erinorr_advice{
   background-attachment: fixed;
  background-image:url('http://s1368.photobucket.com/user/erinnorr/media/IMG_1462_zps20a4a7da.jpg');    
 background-position: center;
