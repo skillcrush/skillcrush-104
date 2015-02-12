@@ -1,5 +1,21 @@
 /** Add a comment at the beginning of your CSS styles with your name **/
+/**Erin's style sheet**/
 
+body.erinorr-advice{
+  
+  color: dime-grey ;
+  font-family:'Crushed', cursive;
+  font-size: 20px;
+  font-weight: bold;
+  background-image: url(http://i1368.photobucket.com/albums/ag180/erinnorr/mountains-nature-trees-path-fog-desktop-backgrounds_zps124e153d.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+ }	
+/**Erin's style sheet**/
 /**Julia's Styles**/
 .julia-advice {
 	background-color: lightcoral;
