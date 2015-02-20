@@ -966,3 +966,15 @@ border-radius:0 5px 5px 0;}
 .nelson-advice h4{
     color: black;
 }
+
+.lynn-advice h4 {
+    font-family: Arial;
+    color: pink;
+    background: blue;
+}
+
+.lynn-advice p {
+    font-family: Arial;
+    color: pink;
+    background: blue;
+}
