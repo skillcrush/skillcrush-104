@@ -1,0 +1,35 @@
+/*Joei's styles*/
+.joei-advice {
+	background-color: #98ff98;
+	border: 1px solid #4b8934;
+	padding: 15px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.joei-advice h1 {
+	color: black;
+	text-align: center;
+	font-size: 200%;
+}
+
+.joei-advice h4 {
+	color: black;
+	font-size: 130%;
+	text-align: left;
+}
+
+.joei-advice p {
+	color: black;
+	font-size: 105%;
+	padding: 10px 100px 10px 100px;
+}
+
+.joei-advice a {
+	color: #5f0c0c;
+}
+
+.joei-advice .copyright {
+	font-size: 80%;
+	margin-top: 50px;
+	text-align: center;
+}
