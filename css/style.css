@@ -966,3 +966,17 @@ border-radius:0 5px 5px 0;}
 .nelson-advice h4{
     color: black;
 }
+
+/** Manali's style **/
+.manali-advice h4{
+	color: Tomato;
+	padding:10px;
+	font-size: 2em;
+}
+.manali-advice p{
+	background-color: #e7e2af;
+	
+}
+
+/** end of Manali's style **/
+
