@@ -1068,3 +1068,15 @@ border-radius:0 5px 5px 0;}
 	font-size: 18px;
 }
 /**End of Nichole Styles**/
+
+.lynn-advice h4 {
+    font-family: Arial;
+    color: pink;
+    background: blue;
+}
+
+.lynn-advice p {
+    font-family: Arial;
+    color: pink;
+    background: blue;
+}
