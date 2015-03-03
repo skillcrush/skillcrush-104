@@ -1034,3 +1034,21 @@ border-radius:0 5px 5px 0;}
 	font-size: 18px;	
 }
 /** end of Amanda's style **/
+
+/**Nichole's Styles**/
+.nicholespeciale-advice body{
+	padding: 20px;
+	border: 3px solid rgb(40, 239, 190);
+	background-color: rgb(68, 176, 149);
+	color: rgb(40, 239, 190);
+	font-family: 'Courier New';
+}
+
+.nicholespeciale-advice h4{
+	font-size: 35px;
+}
+
+.nicholespeciale-advice p{
+	font-size: 18px;
+}
+/**End of Nichole Styles**/
