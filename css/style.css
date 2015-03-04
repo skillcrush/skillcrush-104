@@ -1127,3 +1127,15 @@ border-radius:0 5px 5px 0;}
     background: blue;
 }
 /** end of Amanda's style **/
+
+/** Nate's style **/
+
+.nate-advice {
+	background:linear-gradient(135deg, rgba(16, 96, 243, 0.74), rgba(111, 0, 243, 0.74));
+	color:#fff;
+	text-align: center;
+}
+
+
+
+
