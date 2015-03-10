@@ -1129,20 +1129,32 @@ border-radius:0 5px 5px 0;}
 /** end of Amanda's style **/
 
 /**Alice's styles **/
-.alice-advice body{
+body.alice-advice {
     font-family: 'Raleway', sans-serif;
     background: white;
     padding: 10px;
-    color: seagreen;
     text-align: left;
     font-size: 1em;
 }
 
-.alice-advice h4{
+p.alice-advice {
+font-family: 'Raleway', sans-serif;
+color: black;
+}
+
+h4.alice-advice {
     text-decoration: underline;
     font-size:1.5em;
     font-variant: small-caps;
     text-align: center;
-    color: black;
+    color: tomato;
+    padding: 20px;
+}
+
+div.alice-advice {
+border: 2px dashed orange;
+margin: 10px;
+padding: 10px;
+color: grey;
 }
 //**end of Alice's styles **/
