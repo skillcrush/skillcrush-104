@@ -1,5 +1,38 @@
 /** Add a comment at the beginning of your CSS styles with your name **/
 
+
+/**Emily Jo's style sheet**/
+
+body.emilyjoringer-advice{
+	font-family: Josefin Slab;
+	font-weight: bold;
+	font-size: 20px;
+	background-image: url(https://s3.amazonaws.com/f.cl.ly/items/1A2j1O3D3P3c3A27343p/IMG_2535.JPG);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+body.emilyjoringer-advice h1{
+	color: black;
+	text-align: center;
+	font-weight: bold;	
+}
+
+body.emilyjoringer-advice h2{
+	color: Wheat;
+}
+
+body.emilyjoringer-advice p{
+	padding-right: 20px;
+	padding-left: 20px;
+	color: Wheat;
+	
+}
+
+/**END Emily Jo's style sheet**//
+
 /**Erin's style sheet**/
 body.erinorr-advice{
   
