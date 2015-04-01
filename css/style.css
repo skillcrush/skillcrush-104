@@ -1,5 +1,43 @@
 /** Add a comment at the beginning of your CSS styles with your name **/
 
+/**Whitney's style sheet**/
+
+body.whitney-advice{
+    background-color: white;
+    width: 850px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.whitney-div{
+    font-family: arial, sans-serif;
+    font-size: 11px;
+    width: 650px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 2px;
+    padding: 10px;
+}    
+
+.whitney-header{
+    text-align: center;
+    color: tomato;
+    font-weight: lighter;
+    font-family: helvetica, sans-serif;
+}
+
+.whitney-footer{
+ 	font-size: 11px;
+    text-align: center;
+    color: gray;
+    text-transform: uppercase;
+    font-family: arial;
+    
+}
+
+
 /**Erin's style sheet**/
 body.erinorr-advice{
   
