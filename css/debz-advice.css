@@ -1,0 +1,21 @@
+/**debz-advice styles **/
+.debz-advice h1 {
+font-family: 'Python';
+font-size: 28 px;
+font-style: italic;
+text-align: left;
+color: green;
+}
+
+.debz-advice p {
+font-family: "Verdana";
+font-size: 18px;
+font-style: regular;
+text-align: left;
+color: grey;
+}
+
+.debz-advice h4 {
+font-size: 10px;
+text-align: left;
+}
