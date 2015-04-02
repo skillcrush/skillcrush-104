@@ -1127,3 +1127,24 @@ border-radius:0 5px 5px 0;}
     background: blue;
 }
 /** end of Amanda's style **/
+
+/** Nessa's styles **/
+
+.nessa-advice {
+    background-color: #FFD1E0;
+    color: #009999;
+}
+
+.nessa-advice p {
+    font-size: 20px;
+}
+
+.nessa-advice h4 {
+    font-size: 26px;
+}
+
+.nessa-advice h1 {
+    font-size: 30px;
+}
+
+/** end of Nessa's styles **/
