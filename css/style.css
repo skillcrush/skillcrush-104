@@ -1135,3 +1135,39 @@ border-radius:0 5px 5px 0;}
 	font-family: Arial, sans-serif;
 }
 /** end of Vicki's styles **/
+
+/** Juli's style...just took David's **/
+.juli-advice {  
+    border: 1px solid #737CA1;
+    border-radius: 20px;
+    background-color: #ADD6FF;
+    color: #737CA1;
+    margin: 20px;
+    padding:20px 40px;
+}
+
+.juli-advice h1, .juli-advice h4 {
+    margin: 10px 100px 10px 100px;
+    color: #737CA1;
+    font-family: Arial Narrow;
+}
+
+.juli-advice h1 {
+    padding: 20px;
+    font-size: 2em;
+}
+
+.juli-advice h4 {
+    padding: 10px;
+    font-size: 1.5em;
+}
+
+.juli-advice p {
+    margin: 10px 150px 10px 150px;
+    border-radius: 30px;
+    background-color: white;
+    color: #737CA1;
+    padding: 25px;
+    font-size: 1em;
+}
+/** end of Juli's style **/
