@@ -1135,3 +1135,27 @@ border-radius:0 5px 5px 0;}
 	font-family: Arial, sans-serif;
 }
 /** end of Vicki's styles **/
+
+/* Justin's Styles */
+
+.justinsmith-advice {
+	background-color: #99badd;
+	color: ivory;
+	font-family: helvetica, sans-serif ;
+	line-height: 15px;
+}
+
+.justinsmith-advice h1 {
+	width: 600px;
+	margin: 40px auto;
+	line-height: 25px;
+}
+
+.justinsmith-advice div {
+	width: 600px;
+	margin: 25px auto;
+}
+
+.justinsmith-advice footer {
+	text-align: center;
+}
