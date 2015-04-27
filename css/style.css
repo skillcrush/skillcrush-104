@@ -1128,6 +1128,7 @@ border-radius:0 5px 5px 0;}
 }
 /** end of Amanda's style **/
 
+<<<<<<< HEAD
 /** Vicki's styles **/
 .vickigreer-advice {
 	color: darkblue;
@@ -1199,3 +1200,22 @@ border-radius:0 5px 5px 0;}
   background-position: center;
  }	
  /** end of Anthony's style **/
+=======
+.fureigh-advice {
+  font-family: 'Source Sans Pro';
+  padding: 5% 30% 0 10%;
+  line-height: 1.4;
+}
+
+.fureigh-advice p {
+  color: #555;
+}
+
+.fureigh-advice header a {
+  color: #000;
+}
+
+.fureigh-advice footer a {
+  color: #000;
+}
+>>>>>>> 5b03083a3ed2a89254f3a7e3813bf3ddc13bb234
