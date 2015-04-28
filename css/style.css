@@ -144,6 +144,44 @@ body.kristinlinde-advice footer {
 
 /**END Kristin Linde's Styles**/
 
+/**Sharon's styling**/
+.sharon-advice div{
+    font-size: 16px;
+    padding: 10px;
+    text-align: center;
+}    
+
+.sharon-advice h1{
+    text-align: center;
+}    
+
+.sharon-advice h4{
+    font-size: 20px;
+    padding: 10px;
+    color: black;
+}    
+
+.sharon-advice header{
+    color: pink;
+    font-weight: lighter;
+}
+
+.sharon-advice footer{
+    text-align: left;
+    color: gray;
+    text-transform: uppercase;
+    font-family: arial;
+    
+}
+
+.sharon-advice section{
+    color: gray;
+}
+
+/**end of Sharon's styling**/
+
+
+
 /**Julia's Styles**/
 .julia-advice {
 	background-color: lightcoral;
