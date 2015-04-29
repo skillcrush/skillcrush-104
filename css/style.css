@@ -1179,6 +1179,23 @@ border-radius:0 5px 5px 0;}
 }
 /** end of Amanda's style **/
 
+/** Yami's Styles**/
+
+.yami-advice body {
+   font-family: "Arial";
+    color: purple;
+    background-color: white;    
+}
+
+.yami-advice h4 {
+   font-family: "Helvetica";
+    color: black;
+    background-color: lightgray; 
+    margin-left: 100px;
+}
+
+/** end of Yami's styles**/
+
 /**Nichole's Styles**/
 .nicholespeciale-advice body{
 	padding: 20px;
