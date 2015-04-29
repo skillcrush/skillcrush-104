@@ -1210,6 +1210,57 @@ border-radius:0 5px 5px 0;}
 }
 /** end of Amanda's style **/
 
+/** Chloe's Added Styles **/
+.chloequinn-advice .container {
+  	background-color: DimGray;
+  	border-radius: 8px;
+  	padding-top: 10px;
+  	
+  }
+
+ .chloequinn-advice p, h1, h4 {
+ 	text-align: center;	
+ }
+
+ .chloequinn-advice h1, h4{
+ 	font-family: 'Oxygen', sans-serif;
+ 	
+ }
+.chloequinn-advice h1 {
+	font-size: 2em;
+	color: Orange;
+}
+
+ .chloequinn-advice h4 {
+ 	color: Tomato;
+ 	font-size: 1.4em;
+ }
+ 
+ .chloequinn-advice h4 span {
+ 	color: orange;
+ 	font-size: 1.5em;
+ }
+
+ .chloequinn-advice p {
+	font-family: 'Open Sans', sans-serif;
+	color: White;
+	font-size: 1.2em;
+	line-height: 25px;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+.chloequinn-advice p span {
+	color: Tomato;
+}
+.chloequinn-advice a 
+{
+	padding-left: 10px;
+	color: white;
+}
+
+/** End of Chloe's Styles **/
+
 <<<<<<< HEAD
 /** Vicki's styles **/
 .vickigreer-advice {
