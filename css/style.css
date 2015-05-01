@@ -1,5 +1,54 @@
 /** Add a comment at the beginning of your CSS styles with your name **/
 
+/**Sheryl Hodgson's style**/
+
+.sherylhodgson-advice{
+	font-family: 'open sans', helvetica, arial, sans-serif;
+	background-color: #F16059;
+	}
+
+.sherylhodgson-advice h1{
+	color: #fff;
+	text-align: center;
+	text-transform: none;
+	font-size: 20px;
+	letter-spacing: 1px;
+	margin-bottom: 10px;
+	}
+	
+.sherylhodgson-advice h2{
+	color: #fff;
+	text-align: center;
+	text-transform: none;
+	font-size: 18px;
+	letter-spacing: 1px;
+	margin-bottom:20px;
+	}
+
+.sherylhodgson-advice h4{
+	color: #fff;
+	text-align: left;
+	text-transform: none;
+	font-size: 16px;
+	letter-spacing: 0px;
+	padding-left: 10px;
+	margin-bottom: 5px;
+	}
+	
+.sherylhodgson-advice p{
+	color: #fff;
+	text-align: left;
+	text-transform: none;
+	font-size: 13px;
+	letter-spacing: 0px;
+	padding-left: 10px;
+	margin-bottom: 5px;
+	}
+
+/**End Sheryl Hodgson's style**/
+
+
+
 /**Jason Force's styling**/
 
 .jasonforce-advice{
