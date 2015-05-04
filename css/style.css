@@ -82,6 +82,45 @@ body.whitney-advice{
 }
 
 
+/**Dima's style sheet**/
+.dima-advice {
+	background-color: lightcoral;
+	color: teal;
+	text-decoration: none;
+	font-family:'Open Sans', sans-serif;
+}
+
+.dima-advice a {
+	font-size: 10px;
+	text-decoration: none;
+	color: teal;
+	font-family:'Open Sans', sans-serif;
+	}
+
+.dima-advice p {
+	font-size: 10px;
+	}
+
+.dima-advice h1 {
+	font-size: 15.5px;
+	}
+
+.dima-advice .advice h4 {
+	font-size: 22px;
+	color: teal;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin: 30px 20px 30px 70px;
+	}
+
+.dima-advice .advice p {
+	font-size: 14px;
+	text-align: justify;
+	}
+
+/**End Dima's Styles**/
+
+
 /**Erin's style sheet**/
 body.erinorr-advice{
   
