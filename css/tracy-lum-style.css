@@ -1,0 +1,33 @@
+/** Add a comment at the beginning of your CSS styles with your name **/
+
+/** Tracy's style sheet **/
+body.tracylum-advice{
+	color:grey;
+	font-family: Arial;
+	font-size:12px;
+	width:400px;
+	margin:0 auto;
+
+}
+
+h1{
+	font-family: 'Helvetica';
+	font-size:18px;
+	color:#000;
+}
+
+h4{
+	font-family: 'Helvetica';
+	font-size:14px;
+	color:pink;
+	padding-bottom: 5px;
+	border-bottom: 1px pink dashed;
+}
+a{
+	text-decoration: none;
+	color:green;
+}
+
+
+/** End Tracy's Style sheet **/
+219c7934f8b73f927458948415467bd0f3ef444d
