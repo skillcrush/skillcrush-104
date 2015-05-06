@@ -1,5 +1,126 @@
 /** Add a comment at the beginning of your CSS styles with your name **/
 
+/**Jason Force's styling**/
+
+.jasonforce-advice{
+	font-family: helvetica;
+	background: yellow;
+	}
+
+.jasonforce-advice h1{
+	text-shadow: white 1px -1px 5px;
+	color: white;
+	text-align: center;
+	border-radius: 15px;
+	background: rgba(0, 0, 0, 0.70);
+	}
+	
+.jasonforce-advice h2{
+	text-shadow: white 1px -1px 5px;
+	color: white;
+	text-align: center;
+	border-radius: 15px;
+	background: rgba(0, 0, 0, 0.70);
+	}
+
+.jasonforce-advice h4{
+	text-shadow: white 1px -1px 5px;
+	color: white;
+	border-radius: 15px 15px 0 0;
+	background: rgba(0, 0, 0, 0.70);
+	padding-left: 10px;
+	margin-bottom: 2px;
+	}
+	
+.advice-jasonforce p{
+	color: white;
+	border-radius: 0 0 15px 15px;
+	background: rgba(0, 0, 0, 0.70);
+	padding-left: 10px;
+	margin-top: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	}
+
+/**End Jason Force's styling**/
+
+/**Whitney's style sheet**/
+
+body.whitney-advice{
+    background-color: white;
+    width: 850px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.whitney-div{
+    font-family: arial, sans-serif;
+    font-size: 11px;
+    width: 650px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 2px;
+    padding: 10px;
+}    
+
+.whitney-header{
+    text-align: center;
+    color: tomato;
+    font-weight: lighter;
+    font-family: helvetica, sans-serif;
+}
+
+.whitney-footer{
+ 	font-size: 11px;
+    text-align: center;
+    color: gray;
+    text-transform: uppercase;
+    font-family: arial;
+    
+}
+
+
+/**Dima's style sheet**/
+.dima-advice {
+	background-color: lightcoral;
+	color: teal;
+	text-decoration: none;
+	font-family:'Open Sans', sans-serif;
+}
+
+.dima-advice a {
+	font-size: 10px;
+	text-decoration: none;
+	color: teal;
+	font-family:'Open Sans', sans-serif;
+	}
+
+.dima-advice p {
+	font-size: 10px;
+	}
+
+.dima-advice h1 {
+	font-size: 15.5px;
+	}
+
+.dima-advice .advice h4 {
+	font-size: 22px;
+	color: teal;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin: 30px 20px 30px 70px;
+	}
+
+.dima-advice .advice p {
+	font-size: 14px;
+	text-align: justify;
+	}
+
+/**End Dima's Styles**/
+
+
 /**Erin's style sheet**/
 body.erinorr-advice{
   
@@ -1097,6 +1218,23 @@ border-radius:0 5px 5px 0;}
 }
 /** end of Amanda's style **/
 
+/** Yami's Styles**/
+
+.yami-advice body {
+   font-family: "Arial";
+    color: purple;
+    background-color: white;    
+}
+
+.yami-advice h4 {
+   font-family: "Helvetica";
+    color: black;
+    background-color: lightgray; 
+    margin-left: 100px;
+}
+
+/** end of Yami's styles**/
+
 /**Nichole's Styles**/
 .nicholespeciale-advice body{
 	padding: 20px;
@@ -1128,6 +1266,7 @@ border-radius:0 5px 5px 0;}
 }
 /** end of Amanda's style **/
 
+<<<<<<< HEAD
 /** Vicki's styles **/
 .vickigreer-advice {
 	color: darkblue;
@@ -1163,3 +1302,58 @@ border-radius:0 5px 5px 0;}
 
 
 
+
+/** Nessa's styles **/
+
+.nessa-advice {
+    background-color: #FFD1E0;
+    color: #009999;
+}
+
+.nessa-advice p {
+    font-size: 20px;
+}
+
+.nessa-advice h4 {
+    font-size: 26px;
+}
+
+.nessa-advice h1 {
+    font-size: 30px;
+}
+
+/** end of Nessa's styles **/
+.anthonylucio-advice{
+  
+  color: dime-grey ;
+  font-family:'Crushed', cursive;
+  font-size: 20px;
+  font-weight: bold;
+  background-image: url(http://s1022.photobucket.com/user/iveliq100/media/iveliq100003/26777/grg/11044580_861423557252741_7929461109415917968_n_zpstqrpde5r.jpg.html][IMG]http://i1022.photobucket.com/albums/af341/iveliq100/iveliq100003/26777/grg/11044580_861423557252741_7929461109415917968_n_zpstqrpde5r.jpg;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+ }	
+ /** end of Anthony's style **/
+=======
+.fureigh-advice {
+  font-family: 'Source Sans Pro';
+  padding: 5% 30% 0 10%;
+  line-height: 1.4;
+}
+
+.fureigh-advice p {
+  color: #555;
+}
+
+.fureigh-advice header a {
+  color: #000;
+}
+
+.fureigh-advice footer a {
+  color: #000;
+}
+>>>>>>> 5b03083a3ed2a89254f3a7e3813bf3ddc13bb234
