@@ -1338,7 +1338,7 @@ border-radius:0 5px 5px 0;}
   background-position: center;
  }	
  /** end of Anthony's style **/
-=======
+
 .fureigh-advice {
   font-family: 'Source Sans Pro';
   padding: 5% 30% 0 10%;
@@ -1356,4 +1356,27 @@ border-radius:0 5px 5px 0;}
 .fureigh-advice footer a {
   color: #000;
 }
->>>>>>> 5b03083a3ed2a89254f3a7e3813bf3ddc13bb234
+
+/* BEGIN chriswilker style */
+.chriswilker-advice {
+        background-color: #99badd;
+        color: ivory;
+        font-family: helvetica, sans-serif ;
+        line-height: 15px;
+}
+
+.chriswilker-advice h1 {
+        width: 600px;
+        margin: 40px auto;
+        line-height: 25px;
+}
+
+.chriswilker-advice div {
+        width: 600px;
+        margin: 25px auto;
+}
+
+.chriswilker-advice footer {
+        text-align: center;
+}
+/* END chriswilker style */
