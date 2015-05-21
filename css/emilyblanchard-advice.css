@@ -4,19 +4,10 @@
   background: cornflowerblue;
   font-family:georgia;
 }
-.emilyblanchard-advice .advice1 {
+.advice {
   border: 4px solid Aquamarine;
   padding: 10px;
   margin: 40px;
   text: center;
 }
 
-.emilyblanchard-advice img{
-  height:300px;
-}
-
-.emilyblanchard-advice .advice2 {
-  border: 4px solid Aquamarine;
-  padding: 10px;
-  margin: 40px;
-}
