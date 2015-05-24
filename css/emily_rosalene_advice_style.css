@@ -7,36 +7,39 @@
 body.emilyrosalene-advice h1{
     font-family:Helvetica;
     font-size: 22px;
-    text-align:left;
+    text-align:center;
+    width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    
+    border-radius: 5px;
 }
 
 body.emilyrosalene-advice header{
     text-align: center;
     font-family: Helvetica;
-    font-size: 14px;
+    font-size: 16px;
 }
 
-div.emilyrosalene-advice{
-    width: 650px;
+div.emilyrosalene-advice {
+    width: 800px;
     margin-left: auto;
     margin-right: auto;
     padding: 10px;
-    background-color:lightblue;
-    border-radius: 10px;
+    background-color:lightskyblue;
+    border-radius: 5px;
 }
 
 div.emilyrosalene-advice p{
     font-family: Helvetica;
-    font-size: 12px;
-    background-color: lightgrey;
-    border-radius: 5px;
-    padding: 5px;
+    font-size: 14px;
     
 }
 
 div.emilyrosalene-advice h4{
     font-family: helvetica;
-    font-size: 14px;
+    font-size: 18px;
     font-weight: bold;
 }
 
