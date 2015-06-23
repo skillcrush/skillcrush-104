@@ -1415,4 +1415,24 @@ border-radius:0 5px 5px 0;}
 .fureigh-advice footer a {
   color: #000;
 }
+
+/** Anne's styles **/
+
+.anne-advice h1 {
+  font-family: 'Aerial', sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.anne-advice h4 {
+  font-family: 'Aerial', sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.anne-advice p {
+  font-family: 'Aerial', sans-serif;
+  font-size: 14px;
+}
+
 >>>>>>> 5b03083a3ed2a89254f3a7e3813bf3ddc13bb234
