@@ -1,5 +1,27 @@
 /** Add a comment at the beginning of your CSS styles with your name **/
 
+/** Karen styles **/
+
+.karen-advice{
+	font-family: helvetica;
+	background: #EBD6FF;
+	}
+
+.karen-advice h1{
+	color: white;
+	text-align: center;
+	border-radius: 15px;
+	background: rgba(0, 0, 0, 0.70);
+	}
+	
+.karen-advice h2{
+	color: white;
+	text-align: center;
+	border-radius: 15px;
+	background: rgba(0, 0, 0, 0.70);
+	}
+
+/** end Karen styles **/
 
 /** Chris Sentman styles **/
 
