@@ -1,0 +1,1 @@
+puts "This is a file for forked repository"
