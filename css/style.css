@@ -1,5 +1,27 @@
 /** Add a comment at the beginning of your CSS styles with your name **/
 
+/** Camie DeCOvich styles **/
+.camie-advice {
+  color:#669999;
+  font-family: 'Railway', sans-serif;
+  margin: 20px;
+  padding:20px 40px;
+}
+
+.camie-advice h1 {
+	font-size: 2em;
+
+}
+
+.camie-advice h4 {
+	font-size: 1.5em;
+}
+
+.camie-advice p {
+  margin-bottom:40px;
+  font-style:italic;
+  font-family: 'Montserrat', sans-serif;
+}
 
 /** Chris Sentman styles **/
 
