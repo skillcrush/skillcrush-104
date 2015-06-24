@@ -1,5 +1,48 @@
 /** Add a comment at the beginning of your CSS styles with your name **/
 
+/** Ginger Spicer's Styles **/
+.gingerspicer-advice {
+	background: skyblue;
+}
+
+.gingerspicer-advice2 {
+	background: beige;
+	margin: 20px 150px 20px 150px;
+	padding: 10px 150px 10px 150px;
+}
+
+.gingerspicer-advice h1 {
+	font-family: 'Helvetica';
+	color: navy;
+	text-align: center;
+	font-size: 28px;
+	background: beige;
+}
+
+.gingerspicer-advice h4 {
+	font-family: 'Helvetica';
+	color: navy;
+	text-align: center;
+	font-size: 20px;
+	background: beige;
+}
+
+.gingerspicer-advice a {
+	font-family: 'Muli', sans-serif;
+	color: crimson;
+	font-size: 16px;
+	float: right;
+}
+
+.gingerspicer-advice p {
+	font-family: 'Muli', sans-serif;
+	color: crimson;
+	text-align: justify;
+	font-size: 16px;
+	background: beige;
+}
+
+/**End Ginger Spicer's Styles**/
 
 /** Chris Sentman styles **/
 
