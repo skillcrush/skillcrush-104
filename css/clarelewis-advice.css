@@ -1,7 +1,7 @@
 /** Add a comment at the beginning of your CSS styles with your name **/
 
 
-/** Clare Lewis styles **/
+/** Chris Sentman styles **/
 
 .chrissentman-advice h1 {
   font-size: 2em;
@@ -13,7 +13,7 @@
 
 .chrissentman-advice {
   border: 3px solid white;
-  background-color:#4c4242;
+  background-color:#884444;
   color:#ffdddd;
   font-family: 'Oswald', sans-serif;
   margin: 20px;
@@ -26,9 +26,9 @@
   padding-top:20px;
   padding-bottom:20px;
   margin-bottom:0px;
-  font-size:24px;
-  border-top:2px pink;
-  border-bottom:2px pink;
+  font-size:28px;
+  border-top:2px solid white;
+  border-bottom:2px solid white;
 }
 
 .chrissentman-advice p {
@@ -1416,3 +1416,18 @@ border-radius:0 5px 5px 0;}
   color: #000;
 }
 >>>>>>> 5b03083a3ed2a89254f3a7e3813bf3ddc13bb234
+/** Clare Lewis's style **/ 
+.clarelewis-advice { 
+background-color: #FFCCFF; 
+color: #606060;
+font-family: 'Arial'; 
+}
+.clarelewis-advice h1 {
+font-size: 28px; 
+}
+.clarelewis-advice h4 {
+font-size: 20px; 
+}
+.clarelewis-advice p {
+font-size: 16px; 
+}
