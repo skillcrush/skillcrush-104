@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="../css/brittney-style.css">
+<link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+	<!-- replace Skillcrush with your name here -->
+	<title>Skillcrush's Advice For Newbies</title>
+</head>
+
+<!-- replace skillcrush with your name here -->
+<body>
+	<header>
+		<a href="../index.html"><img src = "http://i.imgur.com/8D4ocVW.png" alt = "Back to Main Page"/></a>
+		<!-- Home Icon taken from www.iconfinder.com
+		https://www.iconfinder.com/icons/126572/home_house_icon#size=32 -->
+		<h1>Hi, my name is Brittney and I have some advice for you!</h1>
+	</header>
+
+	<section>
+		<div class="advice">
+			<h4>JavaScript is confusing, and that's okay.</h4>
+			<p>When you go through the JavaScript class with Skillcrush, there will be lots of questions and frustrating points. Take good notes while you go through the lessons and challenges, so you're <em>climbing up to success</em> rather than  <a href=" https://youtu.be/u8JtwkhYgLY">riding on the struggle bus.</a>
+			</p>
+
+			<p>Always be sure to ask questions, and investigate! There are thousands and thousands of resources online that cover exactly what you're confused about, or very close to your problem. </p>
+			<p> Read the errors that you're recieving. </p>
+			<p> Copy the error you're getting, and search on Google. </p>
+			<p> Ask TA or classmates on Mightybell for help </p>
+			<p> Post on your question on Stack Overflow, Reddit, or a similar kind of website to help with programming questions. </p>
+			<h4>Above all, take a break, and come back to your problems with a fresh head! You'll have a <span id = "discovery"><h4 id = "redH4">eureka moment!</h4></span>
+       </h4>
+			<div id= "hidden">
+				<img src="http://i.imgur.com/t789DlU.jpg"alt= "I found the answer! It's on my forehead."/>
+			</div>
+
+			</div>
+    </section>
+
+	<footer>
+		<!-- replace Skillcrush with your name here -->
+		<p>&copy; Copyright Brittney B 2014. </p>
+	</footer>
+<script>
+var discovery = document.getElementById('discovery');
+discovery.addEventListener('mouseover', showImage, false);
+discovery.addEventListener('mouseout', hideImage, false);
+discovery.onmouseover = showImage;
+function showImage() {
+  var lightbulb = document.getElementById('hidden');
+  lightbulb.style.display = 'block';
+}
+function hideImage () {
+  var lightbulb = document.getElementById('hidden');
+  lightbulb.style.display = 'none';
+}
+</script>
+</body>
+</html>
