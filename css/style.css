@@ -1,5 +1,62 @@
 /** Add a comment at the beginning of your CSS styles with your name **/
 
+/** ChristieP's Styles **/
+.christiepearson-advice background {
+	background-color: #fffdeb;
+	background-image: url(http://www.transparenttextures.com/patterns/45-degree-fabric-light.png);
+}
+
+.christiepearson-advice body {
+	padding: 10px;
+	font-family: Andale Mono, monospace;
+}
+
+img {
+    vertical-align: text-top;
+	margin: 20px 150px 20px 150px;
+}
+
+.christiepearson-advice h1 {
+	margin: 10px 100px 10px 100px;
+	padding: 20px;
+	font-size: 3em;
+} 
+
+.christiepearson-advice h2 {
+	margin: 10px 100px 10px 100px;
+	color: purple;
+	font-family: Florence, cursive;
+}
+
+.christiepearson-advice h3 {
+	margin: 10px 100px 10px 100px;
+	padding: 20px;
+}
+
+.christiepearson-advice p {
+	margin: 10px 100px 10px 100px;
+	border-radius: 10px;
+	padding: 20px;
+	font-size: 1.5em;
+}
+
+.christiepearson-advice a:hover {
+	background-color: purple;
+}
+
+.christiepearson-advice a:link {
+	color: green;
+}
+
+.christiepearson-advice a:visited {
+	color: cyan;
+}
+
+.christiepearson-advice footer {
+	padding: 0px;
+}
+
+/** End of ChristieP's Styles **/
 
 /** Chris Sentman styles **/
 
@@ -1359,7 +1416,14 @@ border-radius:0 5px 5px 0;}
 }
 
 
+/** Nicoal's Styles **/
 
+.nicoalprice-advice body {
+    color: rebeccapurple;
+    background-color: aquamarine;
+    font-family: fantasy;
+}
+/** End of Nicoal's Styles **/
 
 
 /** Nessa's styles **/
