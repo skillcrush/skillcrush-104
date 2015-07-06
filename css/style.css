@@ -12,6 +12,28 @@ text-align: center;
 	background-color: #fffdeb;
 	background-image: url(http://www.transparenttextures.com/patterns/45-degree-fabric-light.png);
 }
+/** Camie DeCOvich styles **/
+.camie-advice {
+  color:#669999;
+  font-family: 'Railway', sans-serif;
+  margin: 20px;
+  padding:20px 40px;
+}
+
+.camie-advice h1 {
+	font-size: 2em;
+
+}
+
+.camie-advice h4 {
+	font-size: 1.5em;
+}
+
+.camie-advice p {
+  margin-bottom:40px;
+  font-style:italic;
+  font-family: 'Montserrat', sans-serif;
+}
 
 .chrystalfaith-advice h4 {
 font-size: 1.25em;
