@@ -1,9 +1,36 @@
 /** Add a comment at the beginning of your CSS styles with your name **/
 
+/** ChrystalFaith Styles **/
+.chrystalfaith-advice h1 {
+font-family: 'Lobster', cursive;
+font-size: 2em;
+text-align: center;
+}
 /** ChristieP's Styles **/
 .christiepearson-advice background {
 	background-color: #fffdeb;
 	background-image: url(http://www.transparenttextures.com/patterns/45-degree-fabric-light.png);
+}
+
+.chrystalfaith-advice h4 {
+font-size: 1.25em;
+color: #660066;
+font-family: 'Poiret One', cursive;
+}
+
+.chrystalfaith-advice p {
+color: #b6b6b6;
+font-family: 'Poiret One', cursive;
+}
+
+.chrystalfaith-advice .advice {
+margin: 20px;
+}
+
+.chrystalfaith-advice footer {
+text-align: center;
+color: #b6b6b6;
+font-family: 'Poiret One', cursive;
 }
 
 .christiepearson-advice body {
