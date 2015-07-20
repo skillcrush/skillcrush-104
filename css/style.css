@@ -1599,4 +1599,34 @@ border-radius:0 5px 5px 0;}
   font-size: 14px;
 }
 
+
+/* Sue's Styles */
+.sued-advice {
+	width: 800px;
+	background-color: #EE1289;
+	font-family: helvetica, sans-serif;
+	font-size: 100%;
+}
+
+.sued-advice h1, h4 {
+	color: #FFA500;
+}
+
+.sued-advice h1 {
+	font-size: 125%;
+	margin-top:50px;
+	margin-bottom:0;
+}
+
+.sued-advice h4 {
+	font-size:115%;
+	margin-bottom:0;
+}
+
+.sued-advice footer {
+	font-size:70%;
+	margin-top:25px;
+}
+
+
 >>>>>>> 5b03083a3ed2a89254f3a7e3813bf3ddc13bb234
