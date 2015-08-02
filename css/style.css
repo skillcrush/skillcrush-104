@@ -1628,5 +1628,20 @@ border-radius:0 5px 5px 0;}
 	margin-top:25px;
 }
 
+/**Elizabeth's Styles**/
+.elizabethrussell-advice h4 {
+    text-align: left;
+    font-size: 16px;
+    font-weight: bolder;
+    text-decoration: underline;
+    color: coral;
+    margin: 0px;
+    padding: 0px;
+}
+
+.elizabethrussell-advice p {
+    font-family: sans-serif;
+    
+}
 
 >>>>>>> 5b03083a3ed2a89254f3a7e3813bf3ddc13bb234
