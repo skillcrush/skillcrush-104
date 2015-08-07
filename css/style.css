@@ -1628,5 +1628,42 @@ border-radius:0 5px 5px 0;}
 	margin-top:25px;
 }
 
+/**Johnny M's Advice Style**/
+
+.johnnym-advice h1 {
+	font-family: tahoma;
+	font-style: bold;
+	background-color: white;
+	text-align: center;
+}
+
+.johnnym-advice h4 {
+	font-family: Papyrus, fantasy;
+	color: black;
+	text-decoration: underline;
+	font-size: 150%;
+	font-weight: normal;
+	margin-bottom: -15px;
+}
+
+.johnnym-advice p {
+	font-family: "Comic Sans MS";
+}
+
+.johnnym-advice footer {
+	text-align: center;
+}
+/*
+.advice-item {
+	background-color:white;
+	border: solid 2px green;
+	padding: 5px;
+	border-radius: 10px;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+*/
+/**End of Alex's Advice Style**/
 
 >>>>>>> 5b03083a3ed2a89254f3a7e3813bf3ddc13bb234
