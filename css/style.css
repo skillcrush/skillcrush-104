@@ -1628,5 +1628,23 @@ border-radius:0 5px 5px 0;}
 	margin-top:25px;
 }
 
+/** Brian's Styles **/
 
+.briann-advice h1 {
+	font-size: 66px;
+	margin-top: 25px;
+	margin-bottom: 15px;
+	color: blue;
+}
+
+.briann-advice h4 {
+	font-size: 40px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+	color: midnightgrey;
+}
+
+.briann-advice p {
+	font-size: 25px;
+}
 >>>>>>> 5b03083a3ed2a89254f3a7e3813bf3ddc13bb234
