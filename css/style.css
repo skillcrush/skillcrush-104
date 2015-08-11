@@ -2,21 +2,24 @@
 
 /*~~~~~~~~~~Britni's Styles~~~~~~~~~~*/
 .britni-advice {
-  width:100%;
+  width:500px;
+  margin-right:auto;
+  margin-left:auto;
+  background-color:gray;
 }
 .britni-advice h1{
   font: courier;
-  font-size: 48em;
+  font-size: 48px;
   color:#1d0531;
 }
 .britni-advice h4{
   font: arial;
-  font-size:32em;
+  font-size:32px;
   color:#321456:
 }
 .britni-advice p{
   font: arial;
-  font-size: 16em;
+  font-size: 16px;
   color:#2b1f39;
 }
 
