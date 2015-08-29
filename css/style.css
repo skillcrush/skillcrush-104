@@ -158,6 +158,38 @@ img {
 
 /** END MARY KATHERINE STYLES **/
 
+
+/** Katie's Styles **/
+
+.katie-advice h4 {
+	
+	color: rgb(0,0,255);
+	font-size: 28px;
+	font-family: "Courier New", Courier, monospace
+	
+}
+
+.katie-advice h1 {
+	background-color: #6495ed;
+	font-size: 20px;
+	font-family:"Lucida Console", Monaco, monospace
+	background-color: #6495ed;
+	
+}
+
+.katie-advice p {
+	background-color: #e0ffff;
+	
+	font-size: 18px;
+	font-family:Times, serif
+	
+}
+
+
+
+
+/** End of Katie's Styles **/
+
 /** Chris Sentman styles **/
 
 .chrissentman-advice h1 {
