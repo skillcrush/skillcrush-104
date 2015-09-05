@@ -1,1 +1,1 @@
-$null 
+puts "This is Tricia's input"
