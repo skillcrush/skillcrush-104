@@ -1,0 +1,30 @@
+body {
+    background-color: #F7E4EC;
+}
+
+h1, section, footer {
+    width: 960px;
+    margin: auto;
+}
+
+h1 {
+    margin-top: 30px;
+}
+
+footer {
+    padding-top: 20px;
+}
+
+h1, footer {
+    text-align: center;
+}
+
+section {
+    line-height: 1.5;
+    font-size: 20px;
+    padding-left: 320px;
+}
+
+a {
+    text-decoration: none;
+}
