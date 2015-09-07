@@ -1690,3 +1690,41 @@ margin: 10px 100px 10px 100px;
 	font-size: 22px;
 
 }
+
+/* Adnan Q's Stlyes */
+.adnanq-advice {
+	font-family: helvetica, arial, sans-serif;
+	background: rgb(211,211,211);
+	color: rgb(119,136,153);
+}
+
+.adnanq-advice header {
+	width: 75%;
+	margin-left: 12.5%;
+	margin-right: 12.5%;
+}
+
+.adnanq-advice section {
+	width: 75%;
+	margin-left: 12.5%;
+	margin-right: 12.5%;
+}
+
+.adnanq-advice footer {
+	width: 75%;
+	margin-left: 12.5%;
+	margin-right: 12.5%;
+}
+
+.adnanq-advice h4 {
+	color: rgb(128,128,128);
+	margin: 1em;
+}
+
+.adnanq-advice section div p {
+	background: white;
+	padding: 1em;
+	border-radius: 5px;
+}
+
+
