@@ -1,0 +1,44 @@
+body {
+	background-color: #3A3335;
+}
+
+h1 {
+	text-align: center;
+}
+h1, h3 {
+	font-family: 'Indie Flower', cursive;
+	color: #17BEBB;
+}
+
+h3 {
+	font-weight: bold;
+	color: #17BEBB;
+}
+p {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #FDF0D5;
+	line-height: 1.4em;
+	font-size: 1.2em;
+}
+
+a {
+	color: #FDF0D5;
+	text-decoration: none;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+a:hover {
+	color: #17BEBB;
+}
+
+section {
+	width: 75%;
+	border: 2px solid #F0544F;
+	padding: 10px;
+	margin: 0 auto;
+	border-radius: 10px;
+}
+
+footer {
+	visibility: hidden;
+}

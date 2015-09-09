@@ -1,0 +1,57 @@
+
+/** Chris Sentman styles **/
+
+.chrissentman-advice h1 {
+  font-size: 2em;
+}
+
+.chrissentman-advice h4 {
+  font-size: 1.5em;
+}
+
+.chrissentman-advice {
+  border: 3px solid white;
+  background-color:#884444;
+  color:#ffdddd;
+  font-family: 'Oswald', sans-serif;
+  margin: 20px;
+  padding:20px 40px;
+}
+
+.chrissentman-advice h1 {
+  color: #ffccdd;
+  margin-top:30px;
+  padding-top:20px;
+  padding-bottom:20px;
+  margin-bottom:0px;
+  font-size:28px;
+  border-top:2px solid white;
+  border-bottom:2px solid white;
+}
+
+.chrissentman-advice p {
+  margin-bottom:40px;
+  font-style:italic;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.chrissentman-advice a {
+  color:#c99;
+  text-transform: uppercase;
+  text-decoration:none;
+  font-size: 13px;
+}
+
+.chrissentman-advice header {
+  text-align:center;
+}
+
+.chrissentman-advice div {
+  margin:0 40px 40px 40px; padding:40px;
+}
+
+.chrissentman-advice footer {
+  font-size: 12px;
+}
+
+/** END CHRIS SENTMAN'S STYLE **/
