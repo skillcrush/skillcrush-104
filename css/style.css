@@ -1,6 +1,62 @@
 /** Add a comment at the beginning of your CSS styles with your name **/
 
 /** Mary Katherine Styles **/
+/** Jubilee Bredenberg's Styles **/
+.jubileebredenberg-advice {
+	background-color: rgb(230, 230, 0);
+	color: rgb(255, 92, 51);
+	font-family:'Helvetica', sans-serif;
+}
+
+#jubileebredenberg-bubble {
+	width: 1200px;
+	height: 600px;
+	margin: 50px auto auto auto;
+	background-color: white;
+	padding: 50px;
+	border-radius: 100px;
+}
+
+.jubileebredenberg-advice a {
+	font-size: 10px;
+	text-decoration: underline;
+	color: inherit;
+	font-family:'Helvetica', sans-serif;
+	margin-left: 350px;
+	}
+
+.jubileebredenberg-advice p {
+	font-size: 10px;
+	color: black;
+	font-family: 'Helvetica', sans-serif;
+    margin-left: 350px;
+	}
+
+.jubileebredenberg-advice h1 {
+	font-size: 20px;
+	margin-left: 350px;
+	}
+
+.jubileebredenberg-advice .advice {
+	padding: 1px 250px 1px 250px;
+    }
+
+.jubileebredenberg-advice .advice h4 {
+	font-size: 18px;
+	color: rgb(230, 230, 0);
+	font-family: 'Helvetica', sans-serif;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin: 20px 20px 10px 100px;
+	}
+
+.jubileebredenberg-advice .advice p {
+	font-size: 14px;
+	text-align: justify;
+	margin: 20px 20px 10px 100px;
+	}
+
+/** End jubileebredenberg's Styles **/
 /** ChrystalFaith Styles **/
 .chrystalfaith-advice h1 {
 font-family: 'Lobster', cursive;
@@ -157,6 +213,38 @@ img {
 
 
 /** END MARY KATHERINE STYLES **/
+
+
+/** Katie's Styles **/
+
+.katie-advice h4 {
+	
+	color: rgb(0,0,255);
+	font-size: 28px;
+	font-family: "Courier New", Courier, monospace
+	
+}
+
+.katie-advice h1 {
+	background-color: #6495ed;
+	font-size: 20px;
+	font-family:"Lucida Console", Monaco, monospace
+	background-color: #6495ed;
+	
+}
+
+.katie-advice p {
+	background-color: #e0ffff;
+	
+	font-size: 18px;
+	font-family:Times, serif
+	
+}
+
+
+
+
+/** End of Katie's Styles **/
 
 /** Chris Sentman styles **/
 
