@@ -369,6 +369,34 @@ body.whitney-advice{
 /**End Dima's Styles**/
 
 
+
+/**Emily Jo's style sheet**/
+
+body.emilyjoringer-advice{
+	font-family: Josefin Slab;
+	font-size: 20px;
+	background-image: url(https://s3.amazonaws.com/f.cl.ly/items/1P1p1S1v3P2u2q0K470o/IMG_2595.JPG);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	color: LightGrey;
+	margin: 99px;
+}
+
+body.emilyjoringer-advice h2{
+	text-align: center;
+	font-weight: bold;
+	padding: 40px;	
+}
+
+body.emilyjoringer-advice p{
+	padding-right: 20px;
+	padding-left: 20px;	
+}
+
+/**END Emily Jo's style sheet**//
+
 /**Erin's style sheet**/
 body.erinorr-advice{
   
