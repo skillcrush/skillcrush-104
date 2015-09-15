@@ -1728,3 +1728,34 @@ margin: 10px 100px 10px 100px;
 }
 
 
+
+/**Alice's styles **/
+body.alice-advice {
+    font-family: 'Raleway', sans-serif;
+    background: white;
+    padding: 10px;
+    text-align: left;
+    font-size: 1em;
+}
+
+p.alice-advice {
+font-family: 'Raleway', sans-serif;
+color: black;
+}
+
+h4.alice-advice {
+    text-decoration: underline;
+    font-size:1.5em;
+    font-variant: small-caps;
+    text-align: center;
+    color: tomato;
+    padding: 20px;
+}
+
+div.alice-advice {
+border: 2px dashed orange;
+margin: 10px;
+padding: 10px;
+color: grey;
+}
+//**end of Alice's styles **/
