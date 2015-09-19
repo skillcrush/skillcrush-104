@@ -6,6 +6,28 @@
 	font-size: 2em;
 	text-align: center;
 }
+.chrystalfaith-advice h4 {
+font-size: 1.25em;
+color: #660066;
+font-family: 'Poiret One', cursive;
+}
+
+.chrystalfaith-advice p {
+color: #b6b6b6;
+font-family: 'Poiret One', cursive;
+}
+
+.chrystalfaith-advice .advice {
+margin: 20px;
+}
+
+.chrystalfaith-advice footer {
+text-align: center;
+color: #b6b6b6;
+font-family: 'Poiret One', cursive;
+}
+/** end Chrystal Faith Styles**/
+
 
 /** Camie DeCOvich styles **/
 .camie-advice {
@@ -30,27 +52,6 @@
   font-family: 'Montserrat', sans-serif;
 }
 
-.chrystalfaith-advice h4 {
-font-size: 1.25em;
-color: #660066;
-font-family: 'Poiret One', cursive;
-}
-
-.chrystalfaith-advice p {
-color: #b6b6b6;
-font-family: 'Poiret One', cursive;
-}
-
-.chrystalfaith-advice .advice {
-margin: 20px;
-}
-
-.chrystalfaith-advice footer {
-text-align: center;
-color: #b6b6b6;
-font-family: 'Poiret One', cursive;
-}
-
 /** ChristieP's Styles **/
 .christiepearson-advice background {
 	background-color: #fffdeb;
@@ -71,7 +72,7 @@ img {
 	margin: 10px 100px 10px 100px;
 	padding: 20px;
 	font-size: 3em;
-} 
+}
 
 .christiepearson-advice h2 {
 	margin: 10px 100px 10px 100px;
@@ -163,11 +164,11 @@ img {
 /** Katie's Styles **/
 
 .katie-advice h4 {
-	
+
 	color: rgb(0,0,255);
 	font-size: 28px;
 	font-family: "Courier New", Courier, monospace
-	
+
 }
 
 .katie-advice h1 {
@@ -175,15 +176,15 @@ img {
 	font-size: 20px;
 	font-family:"Lucida Console", Monaco, monospace
 	background-color: #6495ed;
-	
+
 }
 
 .katie-advice p {
 	background-color: #e0ffff;
-	
+
 	font-size: 18px;
 	font-family:Times, serif
-	
+
 }
 
 
@@ -263,7 +264,7 @@ img {
 	border-radius: 15px;
 	background: rgba(0, 0, 0, 0.70);
 	}
-	
+
 .jasonforce-advice h2{
 	text-shadow: white 1px -1px 5px;
 	color: white;
@@ -280,7 +281,7 @@ img {
 	padding-left: 10px;
 	margin-bottom: 2px;
 	}
-	
+
 .advice-jasonforce p{
 	color: white;
 	border-radius: 0 0 15px 15px;
@@ -300,7 +301,7 @@ body.whitney-advice{
     width: 850px;
     margin-left: auto;
     margin-right: auto;
-    
+
 }
 
 .whitney-div{
@@ -312,7 +313,7 @@ body.whitney-advice{
     margin-right: auto;
     border-radius: 2px;
     padding: 10px;
-}    
+}
 
 .whitney-header{
     text-align: center;
@@ -327,7 +328,7 @@ body.whitney-advice{
     color: gray;
     text-transform: uppercase;
     font-family: arial;
-    
+
 }
 
 
@@ -388,19 +389,19 @@ body.emilyjoringer-advice{
 body.emilyjoringer-advice h2{
 	text-align: center;
 	font-weight: bold;
-	padding: 40px;	
+	padding: 40px;
 }
 
 body.emilyjoringer-advice p{
 	padding-right: 20px;
-	padding-left: 20px;	
+	padding-left: 20px;
 }
 
 /**END Emily Jo's style sheet**//
 
 /**Erin's style sheet**/
 body.erinorr-advice{
-  
+
   color: dime-grey ;
   font-family:'Crushed', cursive;
   font-size: 20px;
@@ -412,7 +413,7 @@ body.erinorr-advice{
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: center;
- }	
+ }
 /**Erin's style sheet**/
 
 /**Kristin Linde's Styles**/
@@ -1317,7 +1318,7 @@ border-radius:0 5px 5px 0;}
 
 /**** TIARA IS STYLISH maybe ****/
 
-.tiara-advice-ahoy {  
+.tiara-advice-ahoy {
 	border: 1px solid #B62084;
 	background-color:#CD96CD;
 	color:#B62084;
@@ -1382,7 +1383,7 @@ border-radius:0 5px 5px 0;}
 
 /** davida's style **/
 
-.davida-advice {  
+.davida-advice {
 	border: 1px solid #737CA1;
 	border-radius: 20px;
 	background-color: #F0F8FF;
@@ -1436,7 +1437,7 @@ border-radius:0 5px 5px 0;}
   	background-color:gainsboro;
   	background-position: center;
   	background-attachment: fixed;
- 	 -webkit-background-size: cover; 
+ 	 -webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
  	 background-size: cover;
@@ -1449,7 +1450,7 @@ border-radius:0 5px 5px 0;}
 /** End of Eve's style **/
 
 /** Amanda's style **/
-.amandalglittle-advice {  
+.amandalglittle-advice {
 	background-color: #CAE4EB;
 	color: #52094E;
 	padding: 20px;
@@ -1491,7 +1492,7 @@ border-radius:0 5px 5px 0;}
 	color: white;
 	line-height: 30px;
 	padding: 30px;
-	font-size: 18px;	
+	font-size: 18px;
 }
 /** end of Amanda's style **/
 
@@ -1500,13 +1501,13 @@ border-radius:0 5px 5px 0;}
 .yami-advice body {
    font-family: "Arial";
     color: purple;
-    background-color: white;    
+    background-color: white;
 }
 
 .yami-advice h4 {
    font-family: "Helvetica";
     color: black;
-    background-color: lightgray; 
+    background-color: lightgray;
     margin-left: 100px;
 }
 
@@ -1548,16 +1549,16 @@ border-radius:0 5px 5px 0;}
   	background-color: DimGray;
   	border-radius: 8px;
   	padding-top: 10px;
-  	
+
   }
 
  .chloequinn-advice p, h1, h4 {
- 	text-align: center;	
+ 	text-align: center;
  }
 
  .chloequinn-advice h1, h4{
  	font-family: 'Oxygen', sans-serif;
- 	
+
  }
 .chloequinn-advice h1 {
 	font-size: 2em;
@@ -1568,7 +1569,7 @@ border-radius:0 5px 5px 0;}
  	color: Tomato;
  	font-size: 1.4em;
  }
- 
+
  .chloequinn-advice h4 span {
  	color: orange;
  	font-size: 1.5em;
@@ -1586,7 +1587,7 @@ border-radius:0 5px 5px 0;}
 .chloequinn-advice p span {
 	color: Tomato;
 }
-.chloequinn-advice a 
+.chloequinn-advice a
 {
 	padding-left: 10px;
 	color: white;
@@ -1659,7 +1660,7 @@ border-radius:0 5px 5px 0;}
 
 /** end of Nessa's styles **/
 .anthonylucio-advice{
-  
+
   color: dime-grey ;
   font-family:'Crushed', cursive;
   font-size: 20px;
@@ -1671,7 +1672,7 @@ border-radius:0 5px 5px 0;}
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: center;
- }	
+ }
  /** end of Anthony's style **/
 =======
 .fureigh-advice {
@@ -1753,7 +1754,7 @@ border-radius:0 5px 5px 0;}
 
 .elizabethrussell-advice p {
     font-family: sans-serif;
-    
+
 }
 
 /** Brian's Styles **/
@@ -1775,7 +1776,7 @@ border-radius:0 5px 5px 0;}
 	font-size: 25px;
 }
 
-/** Michelle B's Styles**/ 
+/** Michelle B's Styles**/
 .michelles-advice body{
 	font-family: Quicksand, sans-serif, EB Garamond, serif;
 	margin: 10px 100px 10px 100px;
