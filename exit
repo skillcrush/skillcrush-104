@@ -1,0 +1,3848 @@
+[33mcommit 901758eb8ce18600ab8be54f87f21033a6363ef9[m
+Author: Jennifer Grabowski <jennlynbates@gmail.com>
+Date:   Fri Jun 26 14:10:17 2015 -0400
+
+    add my name
+
+[33mcommit 8cffee169c3e7b79f8d0f3b0183ebd7bcf05159f[m
+Merge: be0cdec b7b104d
+Author: sareg0 <regan.sara@gmail.com>
+Date:   Mon May 25 22:48:56 2015 +0200
+
+    Merge pull request #200 from loguzzopearson/master
+    
+    Adding christie file to forked repo
+
+[33mcommit be0cdeca2b617287856dcf4309e0f97f01618d4e[m
+Merge: d0cc32e d65abbb
+Author: Sara Regan <regan.sara@gmail.com>
+Date:   Mon May 25 22:44:35 2015 +0200
+
+    Merge branch 'master' of github.com:JoezCodez/skillcrush-104
+    
+    # Conflicts:
+    #	index.html
+
+[33mcommit d0cc32e58c46cef53e3ec6900fe98faf9f4f8eb3[m
+Merge: 1d2b99f c629efb
+Author: Sara Regan <regan.sara@gmail.com>
+Date:   Mon May 25 22:40:39 2015 +0200
+
+    Merge branch 'master' of github.com:skillcrush/skillcrush-104
+    
+    # Conflicts:
+    #	index.html
+
+[33mcommit c629efbc8691a1a14ef1bc504ed43a370ec1f29e[m
+Merge: d762367 272f3c2
+Author: sareg0 <regan.sara@gmail.com>
+Date:   Mon May 25 22:31:42 2015 +0200
+
+    Merge pull request #197 from TravisBrace/master
+    
+    added advice page and stylesheet
+
+[33mcommit d7623678bd27a86cc58ea00c3684b41e539b4b08[m
+Merge: efd9ba0 1573440
+Author: sareg0 <regan.sara@gmail.com>
+Date:   Mon May 25 22:01:13 2015 +0200
+
+    Merge pull request #194 from Hughes064/master
+    
+    adding file to forked repo
+
+[33mcommit b7b104d3db64229c8f271dd1a5fd0d3821f1b709[m
+Author: unknown <hello@psdworkshop.com>
+Date:   Mon May 25 21:58:22 2015 +0200
+
+    Adding christie file to forked repo
+
+[33mcommit d65abbb270042b02630dc992790e9274b5c6f1f9[m
+Author: JNK <jnkrenicky@gmail.com>
+Date:   Mon May 25 15:57:11 2015 -0400
+
+    Added joe advice site, css, and updated index
+
+[33mcommit 884599ca53105c29843afc695fb971d8220a057f[m
+Author: JNK <jnkrenicky@gmail.com>
+Date:   Mon May 25 14:15:39 2015 -0400
+
+    Added my own file to fork.
+
+[33mcommit 272f3c2b4ecf754dca05b390305d2ac30cf7fe05[m
+Author: bractr <TravisBrace@gmail.com>
+Date:   Sun May 24 17:46:36 2015 -0400
+
+    added advice page and stylesheet
+
+[33mcommit 15734406038c52e8ee361f98d461a011d4b3c37c[m
+Author: Hughes064 <Hughes064@gmail.com>
+Date:   Mon May 18 16:43:38 2015 -0700
+
+    Jenn's addition to the advice column
+
+[33mcommit 8692ec7735cb3e9a0eae36cb56b3e5754b08cf61[m
+Author: Hughes064 <Hughes064@gmail.com>
+Date:   Mon May 18 14:46:12 2015 -0700
+
+    adding file to forked repo
+
+[33mcommit efd9ba01cf4526337deca49d46101f5a4e14e3e9[m
+Merge: dce447f 7be4a39
+Author: sareg0 <regan.sara@gmail.com>
+Date:   Tue May 12 00:33:44 2015 +0200
+
+    Merge pull request #193 from nmarentes/master
+    
+    First fork with Skillcrush-104
+
+[33mcommit dce447fe0e7d65dd8cac9e23ce93d4dc59503d3e[m
+Merge: 3f07067 3d4a5cc
+Author: sareg0 <regan.sara@gmail.com>
+Date:   Tue May 12 00:24:38 2015 +0200
+
+    Merge pull request #189 from 2learn/master
+    
+    add mdh advice
+
+[33mcommit 3f0706700773b5f2b0bb7f0a038552dfffcd6065[m
+Merge: 27317ad 0b6bb14
+Author: sareg0 <regan.sara@gmail.com>
+Date:   Tue May 12 00:11:36 2015 +0200
+
+    Merge pull request #185 from maureentheisen/master
+    
+    put maureen.rb into ruby file, delete maureen.rb from the root
+
+[33mcommit 1d2b99f4f65a4a51fd30fa2439c2a45f2f7e3547[m
+Merge: 0b4e090 99e5c09
+Author: Sara Regan <regan.sara@gmail.com>
+Date:   Mon May 11 23:55:55 2015 +0200
+
+    Merge branch 'master' of github.com:webovator/skillcrush-104
+
+[33mcommit 7be4a39497b05a79d71642deff0de6bdc911824e[m
+Author: Nikol Marentes <nikolmarentes@gmail.com>
+Date:   Sun May 10 13:32:46 2015 +0200
+
+    First forking with Skillcrush-104
+
+[33mcommit 3d4a5ccdc9896be8000af5e505168693e0940cd1[m
+Author: 2learn <michelledhartley@gmail.com>
+Date:   Mon May 4 17:06:53 2015 -0400
+
+    add mdh advice
+
+[33mcommit 27317ad64b307bb391717caeab6d86c88311abf2[m
+Merge: 3fc5568 3efbd68
+Author: sareg0 <regan.sara@gmail.com>
+Date:   Mon May 4 17:44:53 2015 +0200
+
+    Merge pull request #174 from s-e-g/master
+    
+    Some commits to my fork
+
+[33mcommit 3fc5568ac4c6610ca8091438e26b9299a54304e3[m
+Merge: 0b4e090 a1cdcd0
+Author: sareg0 <regan.sara@gmail.com>
+Date:   Mon May 4 17:25:54 2015 +0200
+
+    Merge pull request #164 from siamino/master
+    
+    simon.rb added to ruby fork
+
+[33mcommit 0b4e090c47285c48879d78d55851464e3ca365a3[m
+Merge: c366892 9dac9be
+Author: Sara Regan <regan.sara@gmail.com>
+Date:   Mon May 4 16:53:37 2015 +0200
+
+    Merge branch 'master' of github.com:joannakoulianos/skillcrush-104
+    
+    # Conflicts:
+    #	index.html
+
+[33mcommit c366892c678634bcbe2a8ed38429d631ec8a4559[m
+Merge: eca1aff 3817c02
+Author: Sara Regan <regan.sara@gmail.com>
+Date:   Mon May 4 16:42:23 2015 +0200
+
+    Merge branch 'master' of github.com:DimaYJ/skillcrush-104
+    
+    # Conflicts:
+    #	css/style.css
+    #	index.html
+
+[33mcommit 99e5c09fd82b56c643c3967e02f3c8c6a1ef0417[m
+Author: webovator <info@webovator.com>
+Date:   Thu Apr 30 18:28:47 2015 -0500
+
+    advice from Chris
+
+[33mcommit 4b803c8efa61b6f9d0ced375f34254c40da419c2[m
+Merge: 2b5210e eca1aff
+Author: webovator <info@webovator.com>
+Date:   Thu Apr 30 16:11:53 2015 -0500
+
+    Merge branch 'master' of github.com:skillcrush/skillcrush-104
+
+[33mcommit eca1aff093dfa4a9c2f093cc6b03d4b5530c7c4a[m
+Merge: 026f3dd 940c34e
+Author: sareg0 <regan.sara@gmail.com>
+Date:   Wed Apr 29 23:08:27 2015 +0200
+
+    Merge pull request #184 from yamilethmedina/master
+    
+    added Yami's advice
+
+[33mcommit 0b6bb14c8632f2471a0f7761773d240655960027[m
+Author: Maureen Theisen <maureenrtheisen@gmail.com>
+Date:   Wed Apr 29 15:17:57 2015 -0400
+
+    trying again to add my advice file
+
+[33mcommit efc5868b3a7910f07b94ac7da00816f10988b179[m
+Author: Maureen Theisen <maureenrtheisen@gmail.com>
+Date:   Wed Apr 29 13:47:09 2015 -0400
+
+    removed maureen.rb
+
+[33mcommit 0f5dcb93a4dea01af12ffc5b73538c48168cec36[m
+Author: Maureen Theisen <maureenrtheisen@gmail.com>
+Date:   Wed Apr 29 13:43:55 2015 -0400
+
+    adding maureen2.rb
+
+[33mcommit 940c34e89d267d16e8492cf19fad72c9bbe13a96[m
+Author: yamilethmedina <yamilethmedina1@gmail.com>
+Date:   Wed Apr 29 14:00:12 2015 +0000
+
+    added Yami's advice
+
+[33mcommit 026f3dd2fde29d21e31066fa31c1eb4cc75e81f7[m
+Merge: f325f10 43f2468
+Author: sareg0 <regan.sara@gmail.com>
+Date:   Wed Apr 29 10:36:24 2015 +0200
+
+    Merge pull request #180 from SirUncleCid/master
+    
+    Rob S's pull request resubmission
+
+[33mcommit 2b5210e6924e5c6574cc2e4c50c8c444362c0de6[m
+Author: webovator <info@webovator.com>
+Date:   Tue Apr 28 17:23:36 2015 -0500
+
+    Chris Sentman's got a joke for you
+
+[33mcommit f325f108d88d5ef217e214ddc2fe95dee8c52b7c[m
+Merge: 4c4e5bd 3a324cc
+Author: Sara Regan <regan.sara@gmail.com>
+Date:   Wed Apr 29 00:03:58 2015 +0200
+
+    Merge branch 'master' of github.com:jmichit/skillcrush-104
+    
+    # Conflicts:
+    #	index.html
+
+[33mcommit 4c4e5bdb4983dbae53fc3b3aa1464592a068b942[m
+Author: Nataly Tkachuk <techgirlua@gmail.com>
+Date:   Tue Apr 28 18:23:37 2015 +0300
+
+    Add Nataly's advice
+
+[33mcommit 43f24687c64df20f4a12af0b451f45681855f5c0[m
+Author: Robert Saunders <pwnd@pwnds.info>
+Date:   Tue Apr 28 17:22:50 2015 -0400
+
+    Added my advice page
+
+[33mcommit 302db90f2982d53487cdc72b53e0c72b1425c5d9[m
+Author: Robert Saunders <pwnd@pwnds.info>
+Date:   Tue Apr 28 17:20:36 2015 -0400
+
+    Added rob-s.rb
+
+[33mcommit d2d0c65cde60d781d2435f62544a865f3d9559e0[m
+Merge: 01867be 26a1826
+Author: sareg0 <regan.sara@gmail.com>
+Date:   Tue Apr 28 22:41:02 2015 +0200
+
+    Merge pull request #170 from skillcrush/SR-repo-cleanup
+    
+    cleaning up stray files in repo
+
+[33mcommit 01867bee4ffd2b011d132ac5815621a820d34691[m
+Merge: ef30dde f9c85f6
+Author: sareg0 <regan.sara@gmail.com>
+Date:   Tue Apr 28 22:33:13 2015 +0200
+
+    Merge pull request #179 from yamilethmedina/master
+    
+    added yami.rb
+
+[33mcommit f9c85f6ad3b81b3ecd57afb8a45278ac0e8e5add[m
+Author: yamilethmedina <yamilethmedina1@gmail.com>
+Date:   Tue Apr 28 20:22:57 2015 +0000
+
+    added yami.rb
+
+[33mcommit f3c50b49dcd88bfdbedc1acd6f37ab43cf83fa66[m
+Author: Maureen Theisen <maureenrtheisen@gmail.com>
+Date:   Tue Apr 28 15:57:46 2015 -0400
+
+    added maureen.rb file
+
+[33mcommit 3efbd6893bf119607f354a9c58f9b7728b07079e[m
+Author: Steve Greenwood <hperfn@gmail.com>
+Date:   Tue Apr 28 16:49:51 2015 +0300
+
+    StephenG's advice
+    
+    More advice
+
+[33mcommit 02082eec764d37ebbae9a4d30efbf2da916a0640[m
+Author: Steve Greenwood <hperfn@gmail.com>
+Date:   Tue Apr 28 16:46:48 2015 +0300
+
+    Revert "Advice of StephenG"
+    
+    This reverts commit 271119904583320443d7b8c7439af6bbee8a69b7.
+
+[33mcommit 271119904583320443d7b8c7439af6bbee8a69b7[m
+Author: Steve Greenwood <hperfn@gmail.com>
+Date:   Tue Apr 28 16:45:59 2015 +0300
+
+    Advice of StephenG
+    
+    Simple everday advice.
+
+[33mcommit fd5e0fdcf28c1eacc982a0df0b25082106cdd1a2[m
+Author: Steve Greenwood <hperfn@gmail.com>
+Date:   Tue Apr 28 16:43:38 2015 +0300
+
+    StephenG advice CSS file
+    
+    Adding CSS file for advice
+
+[33mcommit 729ac32be3255fb0d9cc6a95d662be6981867b06[m
+Author: Steve Greenwood <hperfn@gmail.com>
+Date:   Tue Apr 28 16:42:29 2015 +0300
+
+    StephenG's advice
+    
+    Best advice ever!
+
+[33mcommit ef30dde2713500f7fe173014c7ab95ea29efd345[m
+Merge: f6ee8e8 f53d2cd
+Author: sareg0 <regan.sara@gmail.com>
+Date:   Tue Apr 28 14:04:34 2015 +0200
+
+    Merge pull request #167 from sabadv06/master
+    
+    Adding sab file
+
+[33mcommit f6ee8e85dab90809506ac7eceb37c571144967ec[m
+Merge: 48375a0 c2e9b8e
+Author: sareg0 <regan.sara@gmail.com>
+Date:   Tue Apr 28 14:01:45 2015 +0200
+
+    Merge pull request #173 from sharonsiegel/master
+    
+    Added sharon.rb to ruby folder.
+
+[33mcommit 48375a0fd71db0daa322085ebe1788f2f9534c00[m
+Merge: cfd7acc e1b60e2
+Author: sareg0 <regan.sara@gmail.com>
+Date:   Tue Apr 28 13:53:26 2015 +0200
+
+    Merge pull request #171 from tnataly/master
+    
+    Add hello from Nataly.rb
+
+[33mcommit 3f1edb5a2242f74fcf17ba3572579b8225f855f2[m
+Author: Steve Greenwood <hperfn@gmail.com>
+Date:   Tue Apr 28 11:53:38 2015 +0300
+
+    Adding file stephenG.rb
+    
+    3 simple loops
+
+[33mcommit c2e9b8e93ae4e1ce5a348a7452e4a13b14acc54c[m
+Author: Sharon Siegel <sjsieg830@gmail.com>
+Date:   Mon Apr 27 20:30:48 2015 -0600
+
+    Added sharon.rb to ruby folder.
+
+[33mcommit f53d2cd7ed030bd9583e8310a2d6265c561721d5[m
+Author: sabadv06 <sabadv06@gmail.com>
+Date:   Mon Apr 27 22:20:03 2015 -0400
+
+    remove sab.rb from master
+
+[33mcommit e5eb1b7cba8f6622168a9094c7be455f68e81349[m
+Author: sabadv06 <sabadv06@gmail.com>
+Date:   Mon Apr 27 22:18:39 2015 -0400
+
+    Moving sab.rb to ruby directory
+
+[33mcommit e1b60e26402e32605601628d58ae891edd0274e6[m
+Author: Nataly Tkachuk <techgirlua@gmail.com>
+Date:   Mon Apr 27 14:56:15 2015 +0300
+
+    Add hello from Nataly.rb
+
+[33mcommit 26a18261175d7b14329cadf9ab753b429fecdbae[m
+Author: Sara Regan <regan.sara@gmail.com>
+Date:   Mon Apr 27 13:08:10 2015 +0200
+
+    cleaning up stray files in repo
+
+[33mcommit cfd7acc2fd8727534c684b8728ce53cba6d4a9f3[m
+Merge: 67b61bf c99d32a
+Author: Sara Regan <regan.sara@gmail.com>
+Date:   Mon Apr 27 13:01:03 2015 +0200
+
+    Merge branch 'master' of github.com:whitneyl206/skillcrush-104
+    
+    # Conflicts:
+    #	css/style.css
+
+[33mcommit 67b61bf4a614e7da8cb5dbfe5fdc41963e31424c[m
+Merge: add7406 d4198f9
+Author: sareg0 <regan.sara@gmail.com>
+Date:   Mon Apr 27 12:56:50 2015 +0200
+
+    Merge pull request #168 from chavez1310/master
+    
+    agustin file
+
+[33mcommit add74066ee2ba2f48259c5ff2195c76df4cda750[m
+Merge: 664933f f2bb68e
+Author: Sara Regan <regan.sara@gmail.com>
+Date:   Mon Apr 27 12:54:58 2015 +0200
+
+    Merge branch 'master' of github.com:skillcrush/skillcrush-104
+
+[33mcommit 664933f8f9398da5ca82f56f6eb0f455c67554e5[m
+Merge: 2926609 5b03083
+Author: Sara Regan <regan.sara@gmail.com>
+Date:   Mon Apr 27 12:49:50 2015 +0200
+
+    Merge branch 'master' of github.com:fureigh/skillcrush-104
+    
+    # Conflicts:
+    #	css/style.css
+    #	index.html
+
+[33mcommit f2bb68e23ab86a58c0fa4f9e8bbed7ec64c4b901[m
+Merge: 00cb228 6091f68
+Author: sareg0 <regan.sara@gmail.com>
+Date:   Mon Apr 27 12:40:14 2015 +0200
+
+    Merge pull request #169 from 2learn/master
+    
+    Hello Skillcrush
+
+[33mcommit fb2783861b66d2a422e4d2cccd1c4fbf45859f46[m
+Author: sabadv06 <sabadv06@gmail.com>
+Date:   Sun Apr 26 14:35:52 2015 -0400
+
+    Sabina html and css files add
+
+[33mcommit 6091f686d82e8fb024cb4825344e6a7d5c5d5bf3[m
+Author: 2learn <michelledhartley@gmail.com>
+Date:   Mon Apr 20 18:14:15 2015 -0400
+
+    Hello Skillcrush
+
+[33mcommit d4198f9e0cdacfe5b594c1285642264690c3faba[m
+Author: chavez1310 <chavez.agustin@outlook.com>
+Date:   Mon Apr 20 11:17:37 2015 -0500
+
+    agustin file
+
+[33mcommit 76ebecf068eca593532fe40171e7b4593ce30eca[m
+Author: sabadv06 <sabadv06@gmail.com>
+Date:   Sun Apr 19 19:49:22 2015 -0400
+
+    Adding sab file
+
+[33mcommit 00cb22808df6ee59a08a6cd6e3604d7c91694654[m
+Merge: f4f6f13 0387ff7
+Author: sareg0 <regan.sara@gmail.com>
+Date:   Sun Apr 19 20:44:26 2015 +0200
+
+    Merge pull request #144 from mojason-81/master
+    
+    added jason-force.rb
+
+[33mcommit 0387ff7ae79850f9c7b47ed604737d19536f48e2[m
+Author: jason@mojason.com <jason@thinkpad.(none)>
+Date:   Sat Apr 18 19:09:41 2015 -0500
+
+    moved jason-force.rb to ruby folder
+
+[33mcommit c99d32a787b48ea1354541946ef9e875d0ca0065[m
+Author: whitneyl206 <whitneyllittle@gmail.com>
+Date:   Thu Apr 16 17:16:03 2015 +0000
+
+    adding whitney.rb
+
+[33mcommit 0d43ef4cd70fd485e1be0f67c59fb938d5fcb1b0[m
+Author: whitneyl206 <whitneyllittle@gmail.com>
+Date:   Thu Apr 16 17:14:46 2015 +0000
+
+    adding whitney advice
+
+[33mcommit f4f6f1306f126ee3290a2207bf30e5ae8ec75deb[m
+Merge: 2926609 a402dfe
+Author: sareg0 <regan.sara@gmail.com>
+Date:   Thu Apr 16 16:53:09 2015 +0200
+
+    Merge pull request #165 from kimberleyberends/master
+    
+    kberends-advice / / created 2 files, added link to index.html
+
+[33mcommit 2926609398a09b8cd1fa50f6fa72ab1b2ed6ff83[m
+Merge: 7e677e2 cc9777f
+Author: Sara Regan <regan.sara@gmail.com>
+Date:   Thu Apr 16 16:51:38 2015 +0200
+
+    Merge branch 'master' of github.com:stix11us/skillcrush-104
+    
+    # Conflicts:
+    #	css/style.css
+
+[33mcommit cc9777f310815724e0a1af79a6d117ec320f450e[m
+Author: TLucio <anthony.lucio01@yahoo.com>
+Date:   Wed Apr 15 20:59:58 2015 -0700
+
+    tony351 to ruby
+
+[33mcommit 7e677e2d438af556f83ca66ae99e3c1726f1badb[m
+Merge: bd5016c 04dadbf
+Author: Sara Regan <regan.sara@gmail.com>
+Date:   Thu Apr 16 01:19:10 2015 +0200
+
+    Merge branch 'master' of github.com:skillcrush/skillcrush-104
+
+[33mcommit bd5016ca4f456c7763de5e5e6678ed35ad443c1b[m
+Merge: 17a369a e26b735
+Author: Sara Regan <regan.sara@gmail.com>
+Date:   Thu Apr 16 01:18:48 2015 +0200
+
+    Merge branch 'master' of github.com:Nessa-Stewart/skillcrush-104
+    
+    # Conflicts:
+    #	css/style.css
+    #	index.html
+
+[33mcommit 04dadbf937d883b3e4c8e9d58832ddfc85120aa4[m
+Merge: 97449c5 645ca01
+Author: sareg0 <regan.sara@gmail.com>
+Date:   Thu Apr 16 01:15:13 2015 +0200
+
+    Merge pull request #152 from LindsC/master
+    
+    adding message
+
+[33mcommit 97449c51a31d015746b38e179c81a3f06cd7fc97[m
+Merge: 302d827 c51823f
+Author: sareg0 <regan.sara@gmail.com>
+Date:   Thu Apr 16 01:12:41 2015 +0200
+
+    Merge pull request #150 from cdlampley/master
+    
+    Committing this file
+
+[33mcommit 302d827f7204a52d239f439efbf861b64918919f[m
+Merge: 8ee9f3f 930968b
+Author: sareg0 <regan.sara@gmail.com>
+Date:   Thu Apr 16 01:09:06 2015 +0200
+
+    Merge pull request #147 from AmandaNL/master
+    
+    Adding all of skillcrush 104
+
+[33mcommit 8ee9f3fc6d2835c16db32f83e3e1cc70438e0761[m
+Merge: 1e9df19 69d8db7
+Author: sareg0 <regan.sara@gmail.com>
+Date:   Thu Apr 16 01:07:20 2015 +0200
+
+    Merge pull request #145 from rklement/master
+    
+    added ryanklement.rb to forked repository
+
+[33mcommit 1e9df191ffd9bb4de45acb6b045c53277c0ccbea[m
+Merge: 836b861 a1686a0
+Author: sareg0 <regan.sara@gmail.com>
+Date:   Thu Apr 16 01:02:18 2015 +0200
+
+    Merge pull request #141 from awhmandan/master
+    
+    I'm committed
+
+[33mcommit a402dfe200bd3fe3f3989d86cf24a715b613134b[m
+Author: mounty <kimberley.berends@gmail.com>
+Date:   Wed Apr 15 23:19:49 2015 +1200
+
+    Changed stylesheet link for kberends-advice.html
+
+[33mcommit fab318189c4ed0728a5286ee1e753cadce851e07[m
+Author: mounty <kimberley.berends@gmail.com>
+Date:   Wed Apr 15 22:58:29 2015 +1200
+
+    Adding kberends-advice html file, css file, and index link
+
+[33mcommit a1cdcd09ad6561ad9019c3357851112fefff3041[m
+Author: siamino <simon.graham@talk21.com>
+Date:   Tue Apr 14 19:17:06 2015 +0100
+
+    simon.rb added to ruby fork
+
+[33mcommit 836b8615980f72ab370d68a187b5fe3343997652[m
+Merge: 17a369a 45c2504
+Author: sareg0 <regan.sara@gmail.com>
+Date:   Mon Apr 13 23:26:08 2015 +0200
+
+    Merge pull request #134 from adriannem/master
+    
+    Practice with forking a repository.
+
+[33mcommit 17a369a450a743fcb30854842762a3fcacd17d59[m
+Merge: 36527ea ee59b61
+Author: Sara Regan <regan.sara@gmail.com>
+Date:   Mon Apr 13 23:24:54 2015 +0200
+
+    Merge branch 'master' of github.com:saranatalia/skillcrush-104
+    
+    # Conflicts:
+    #	css/style.css
+    #	index.html
+
+[33mcommit 36527ea511bd46bcbae8e9cd33f0aeed6b405eaf[m
+Merge: b7f3052 76418ab
+Author: Sara Regan <regan.sara@gmail.com>
+Date:   Fri Apr 10 00:15:19 2015 +0200
+
+    Merge branch 'master' of github.com:mistahj/skillcrush-104
+    
+    Conflicts:
+    	css/style.css
+    	index.html
+
+[33mcommit b7f3052aaa01c2610047b33e181bff3f6c32f4f9[m
+Merge: 44351bf 6f84b0b
+Author: Sara Regan <regan.sara@gmail.com>
+Date:   Fri Apr 10 00:11:11 2015 +0200
+
+    Merge branch 'master' of github.com:saragreer/skillcrush-104
+    
+    Conflicts:
+    	index.html
+
+[33mcommit 44351bf6cb5ea58dc0840a485f3d188bb0273c93[m
+Merge: fde2e05 a0ce40d
+Author: Sara Regan <regan.sara@gmail.com>
+Date:   Fri Apr 10 00:06:49 2015 +0200
+
+    Merge branch 'master' of github.com:pandachess/skillcrush-104
+    
+    Conflicts:
+    	index.html
+
+[33mcommit 9dac9bea82da28e858bbb36281eec40330c0408c[m
+Author: Joanna Koulianos <joanna.koulianos@gmail.com>
+Date:   Thu Apr 9 13:28:29 2015 -0400
+
+    deleting copy
+
+[33mcommit c7d1f2b1b3c46625c35822c2481456a15b8f1fb7[m
+Author: Joanna Koulianos <joanna.koulianos@gmail.com>
+Date:   Thu Apr 9 13:26:48 2015 -0400
+
+    adding ruby file
+
+[33mcommit 6acc95136eb3db001488197bb1863a8bd5d027e7[m
+Author: Joanna Koulianos <joanna.koulianos@gmail.com>
+Date:   Thu Apr 9 12:59:44 2015 -0400
+
+    updating content
+
+[33mcommit cf816fce03bfb84088cb0f743af82bd660a25c46[m
+Author: Joanna Koulianos <joanna.koulianos@gmail.com>
+Date:   Thu Apr 9 12:56:48 2015 -0400
+
+    adding my advice link
+
+[33mcommit 6f15b40cc8c4e6abb61ec27e97a05efa127849c6[m
+Author: Joanna Koulianos <joanna.koulianos@gmail.com>
+Date:   Thu Apr 9 12:47:31 2015 -0400
+
+    adding css file for my advice page
+
+[33mcommit 81fec1e4b1b88903bfaebc8d642c6dc3029384bc[m
+Author: Joanna Koulianos <joanna.koulianos@gmail.com>
+Date:   Thu Apr 9 12:46:29 2015 -0400
+
+    adding updated advice page
+
+[33mcommit d3cc397c5ba33408e1c3608bc35aa1ecda70620e[m
+Author: Joanna Koulianos <joanna.koulianos@gmail.com>
+Date:   Thu Apr 9 11:13:41 2015 -0400
+
+    added new file
+
+[33mcommit fde2e05a3fedca09967f6cde05f7209f9d1426a9[m
+Merge: 2c735ea 99b974e
+Author: Sara Regan <regan.sara@gmail.com>
+Date:   Wed Apr 8 22:41:13 2015 +0200
+
+    Merge branch 'master' of git://github.com/daniellegaither/skillcrush-104
+    
+    Conflicts:
+    	index.html
+
+[33mcommit 2c735ea50857658340b223b5b5dedf84925715d6[m
+Merge: 61b2b0b bf1c3c6
+Author: sareg0 <regan.sara@gmail.com>
+Date:   Wed Apr 8 16:13:29 2015 +0200
+
+    Merge pull request #129 from dirkacts/master
+    
+    added my 2 cents
+
+[33mcommit c77f72bb02b6d15bf343dac5b615d5fef5d8baf3[m
+Author: TLucio <anthony.lucio01@yahoo.com>
+Date:   Tue Apr 7 14:03:16 2015 -0700
+
+    added files
+
+[33mcommit 61b2b0bec552e914d7aee55b16c222917b5c3700[m
+Merge: d617ab0 01b817a
+Author: sareg0 <regan.sara@gmail.com>
+Date:   Tue Apr 7 16:44:12 2015 +0200
+
+    Merge pull request #124 from yalazad/master
+    
+    Edited for forked rep.
+
+[33mcommit 3817c0222638109a269930f793da115bcbd02d4d[m
+Author: Dima Jadaan <dima.jadaan@gmail.com>
+Date:   Tue Apr 7 00:47:33 2015 +0100
+
+    Dima's Advice
+
+[33mcommit 066de2019c2e943d0bb115572250d703f84bc3bb[m
+Author: Dima Jadaan <dima.jadaan@gmail.com>
+Date:   Mon Apr 6 16:36:43 2015 +0100
+
+    Dima.rb Added
+
+[33mcommit 3a324cc3cf257e6e9513101fd58587a6f48ce5e2[m
+Author: JM <jmichit@yahoo.com>
+Date:   Mon Apr 6 11:23:37 2015 -0400
+
+    added johnm advice & updated index.html
+
+[33mcommit b9dbef85bb49bc66a776268f661a710329fa42c4[m
+Author: JM <jmichit@yahoo.com>
+Date:   Sun Apr 5 20:35:20 2015 -0400
+
+    fork test
+
+[33mcommit d617ab0e2ddb71860d154b95a9292fb65307ab41[m
+Merge: 04fdcb2 5af13ad
+Author: sareg0 <regan.sara@gmail.com>
+Date:   Sat Apr 4 14:03:17 2015 +0200
+
+    Merge pull request #148 from vtbookworm/master
+    
+    Added my file to repository
+
+[33mcommit 04fdcb2bdc256b6527086a1f5e60e412ece4ebfa[m
+Merge: 594586e 466a59e
+Author: sareg0 <regan.sara@gmail.com>
+Date:   Sat Apr 4 01:33:18 2015 +0200
+
+    Merge pull request #122 from brownnjmu/master
+    
+    adding nick_brown.rb
+
+[33mcommit 5af13ad17a4b229cd64396a69f0a2b299953e55d[m
+Author: Vicki_G <vicki.l.greer@gmail.com>
+Date:   Thu Apr 2 12:31:00 2015 -0400
+
+    Advice page, take 3
+
+[33mcommit e26b73588bf25622b9522b96a8294f0c48919bc3[m
+Author: Nessa Stewart <penessa@gmail.com>
+Date:   Wed Apr 1 19:11:31 2015 -0500
+
+    added advice file, made changes to css, added link to index.html
+
+[33mcommit 993bf11128fae9b0cf1f9d6569337115295934f6[m
+Author: whitneyl206 <whitneyllittle@gmail.com>
+Date:   Wed Apr 1 17:13:27 2015 +0000
+
+    changes to style and whitney-advice
+
+[33mcommit 645ca01766be9a9fc5481d7b9f333e13084b2766[m
+Author: LindsC177 <lindsaycs122@gmail.com>
+Date:   Tue Mar 31 23:55:42 2015 -0400
+
+    add message
+
+[33mcommit 00de2115d5c3ae96d999100300109a576f31ec91[m
+Author: LindsC177 <lindsaycs122@gmail.com>
+Date:   Tue Mar 31 23:49:51 2015 -0400
+
+    add message
+
+[33mcommit c5e3d9c769c0108d9339e5b6724cbcbdf6df98ed[m
+Author: Nessa Stewart <penessa@gmail.com>
+Date:   Tue Mar 31 22:21:27 2015 -0500
+
+    added my name file
+
+[33mcommit 9172588e4604632c2bc378288835a93ea22f2d1e[m
+Author: whitneyl206 <whitneyllittle@gmail.com>
+Date:   Tue Mar 31 23:20:13 2015 +0000
+
+    test
+
+[33mcommit 06e896e8301a74c6b909dd48f04fd1edb0843da4[m
+Author: LindsC177 <lindsaycs122@gmail.com>
+Date:   Tue Mar 31 19:09:45 2015 -0400
+
+    adding message
+
+[33mcommit c51823fdd820bb43dfbdc87c46f1eba5bf190b74[m
+Author: Cherie Lampley <cdlampley@gmail.com>
+Date:   Tue Mar 31 17:35:21 2015 -0400
+
+    Committing this file
+
+[33mcommit a33a9e418c389daffad219d510c4725b9d408944[m
+Author: whitneyl206 <whitneyllittle@gmail.com>
+Date:   Tue Mar 31 20:24:22 2015 +0000
+
+    adding whitney.rb
+
+[33mcommit dd51ef4df056a1a0ccf325621ad86b34b810b0a2[m
+Author: vtbookworm <vicki.l.greer@gmail.com>
+Date:   Tue Mar 31 12:44:55 2015 -0400
+
+    Added my file to repository
+
+[33mcommit 930968b22fc643df2df6d3bf469efdad4002a12e[m
+Author: Amanda NL <amanda.lemmons@gmail.com>
+Date:   Tue Mar 31 02:42:31 2015 -0500
+
+    Adding all of skillcrush 104
+
+[33mcommit 8491ae81cb0849313f77a92d68768e69675dcf13[m
+Author: TLucio <anthony.lucio01@yahoo.com>
+Date:   Mon Mar 30 16:01:55 2015 -0700
+
+    edited tony file
+
+[33mcommit 69d8db70667fb4848acb1afb531daeacf03df3f2[m
+Author: Ryan Klement <ryanklement@gmail.com>
+Date:   Thu Mar 26 22:19:15 2015 -0500
+
+    added ryanklement.rb to forked repository
+
+[33mcommit c71ae5f3643b6b3b02bb6f35b63621d20ae8dd6a[m
+Author: mojason-81 <jason@mojason.com>
+Date:   Sat Mar 21 17:36:21 2015 -0500
+
+    added my advice page and styling
+
+[33mcommit 72af7f59e3c9ae453c03f0634384141809b00ceb[m
+Author: mojason-81 <jason@mojason.com>
+Date:   Sat Mar 21 14:45:17 2015 -0500
+
+    added jason-force.rb
+
+[33mcommit 5b03083a3ed2a89254f3a7e3813bf3ddc13bb234[m
+Author: Fureigh <info@fureigh.com>
+Date:   Tue Mar 17 18:37:05 2015 -0700
+
+    Add Fureigh's advice page
+
+[33mcommit f52520c94adfd4435730c9c0cfd852474c975fc2[m
+Author: Fureigh <info@fureigh.com>
+Date:   Tue Mar 17 17:54:38 2015 -0700
+
+    Add sample Fureigh file.
+
+[33mcommit a1686a0aa482a37a1a6227c890d7ffbe3ca6d136[m
+Author: Dan <dgwalsh1@hotmail.com>
+Date:   Sat Mar 14 20:00:55 2015 +0000
+
+    My contribution
+
+[33mcommit 8befc097120c1291ac7b0ad01c1e4dcb50fecef3[m
+Author: Dan <dgwalsh1@hotmail.com>
+Date:   Sat Mar 14 10:41:31 2015 +0000
+
+    I'm committed
+
+[33mcommit 6f84b0ba200740f5c50138bf81e8d2f5284b6c18[m
+Author: Sara Greer <sara.m.greer@gmail.com>
+Date:   Sun Mar 8 10:01:56 2015 -0500
+
+    Adds Sara's Advice
+
+[33mcommit 45c2504a72f79a999b20c0aa0be48c02e449053a[m
+Author: adriannem <affirmwealth@gmail.com>
+Date:   Sat Mar 7 07:08:27 2015 +0000
+
+    Made a few minor changes to the CSS and to correct typos
+
+[33mcommit 3f84da120d112e09debf86f3414d9b68d166d91d[m
+Author: adriannem <affirmwealth@gmail.com>
+Date:   Sat Mar 7 06:45:03 2015 +0000
+
+    Deleted .swp file
+
+[33mcommit ab85b96fa4c2085d4ae3b67951a9bf967985dfec[m
+Author: adriannem <affirmwealth@gmail.com>
+Date:   Sat Mar 7 06:27:47 2015 +0000
+
+    Created and edited an advice page for newbies.
+
+[33mcommit 5a8be0c6407b3d222fdf2d95039daa7137a72991[m
+Author: adriannem <affirmwealth@gmail.com>
+Date:   Sat Mar 7 00:26:39 2015 +0000
+
+    Practice with forking a repository.
+
+[33mcommit ee59b61bd21cf5d49a495338657430652a3b1e44[m
+Author: Sara Cardullo <saranataliacardullo@gmail.com>
+Date:   Fri Mar 6 17:28:32 2015 +0100
+
+    Added sara_advice.html and sara-style.css
+
+[33mcommit 8b3088cfed8df8e089e7f8b56cfa25d527fac2ef[m
+Author: Sara Greer <sara.m.greer@gmail.com>
+Date:   Thu Mar 5 19:10:26 2015 -0600
+
+    Adds Sara Greer advice page
+
+[33mcommit d65dd53a6d45aab22fce9583d12a48b6f2b3f94c[m
+Author: Sara Cardullo <saranataliacardullo@gmail.com>
+Date:   Fri Mar 6 00:17:08 2015 +0100
+
+    Added sara.rb file
+
+[33mcommit 76418ab8e7611d9b4baf13485d1fda27e2a2c3be[m
+Author: Mistahj <mistahj@gmail.com>
+Date:   Wed Mar 4 20:59:05 2015 -0800
+
+    Update
+
+[33mcommit 8e07da91d62711988ef490e1e731cd01e69c07aa[m
+Author: Mistahj <mistahj@gmail.com>
+Date:   Wed Mar 4 16:38:47 2015 -0800
+
+    justin-smith.rb
+
+[33mcommit bf1c3c6805be0904d786c01ceb1a4455e38ad6a9[m
+Author: dirkActs <dirkf@comcast.net>
+Date:   Wed Mar 4 18:16:48 2015 -0600
+
+    added my 2 cents
+
+[33mcommit e02ec77eca0bd1ab9a0e356d7799c5e9ec04b70e[m
+Author: Sara Greer <sara.m.greer@gmail.com>
+Date:   Tue Mar 3 22:43:43 2015 -0600
+
+    adds
+
+[33mcommit 466a59e85209d0b59bb1964670970d4eb630cb4e[m
+Author: brownnjmu <brownnjmu@gmail.com>
+Date:   Tue Mar 3 22:39:06 2015 -0500
+
+    Insert Nick Brown Advice, CSS, and .rb files
+
+[33mcommit 99b974ed34fc98b678c68870e068dcc10585e0cc[m
+Author: Danielle Gaither <danielle@example.com>
+Date:   Tue Mar 3 20:17:09 2015 -0600
+
+    Added advice and CSS files for Danielle Gaither and a link to the page in index.html
+
+[33mcommit 01b817a28b05e05b187751dcd0861023c1283586[m
+Author: yalazad <yalazad@gmail.com>
+Date:   Wed Mar 4 00:34:56 2015 +0100
+
+    Edited for forked rep.
+
+[33mcommit a0ce40d79ab1364757ca3add2685b1e973521e22[m
+Author: Jacqueline Chapman <jacquelinechapman@me.com>
+Date:   Tue Mar 3 16:47:44 2015 -0500
+
+    Add jackie-chapman-advice.html
+
+[33mcommit fae9e324bd939347697eced5d725864e76cd23ff[m
+Author: brownnjmu <brownnjmu@gmail.com>
+Date:   Tue Mar 3 16:37:49 2015 -0500
+
+    adding nick_brown.rb
+
+[33mcommit 594586e5a4ddb194142189247d536f6ea5151dd0[m
+Merge: 850b6de 3d1c67d
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Mar 3 12:21:43 2015 -0500
+
+    Merge branch 'klinde0610-master'
+
+[33mcommit 3d1c67dfe04fba9a3431d53d6a0c0f44b7a6854d[m
+Merge: 850b6de 2734d15
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Mar 3 12:21:32 2015 -0500
+
+    Merge branch 'master' of https://github.com/klinde0610/skillcrush-104 into klinde0610-master
+    
+    Conflicts:
+    	css/style.css
+    	index.html
+
+[33mcommit 850b6de88909e037d1149699c7adbd0a9305eb01[m
+Merge: f44b9ca 37b393d
+Author: emlaser <emily@emilydavis.com>
+Date:   Tue Mar 3 12:19:33 2015 -0500
+
+    Merge pull request #119 from eaw20024/master
+    
+    Eric's Advice Page
+
+[33mcommit 2734d15802a23b955b95783dcc47e480d75dcce8[m
+Author: Kristin Linde <kristin@visualinspiration.com>
+Date:   Tue Mar 3 12:16:03 2015 -0500
+
+    Kristin Lindes advice files
+
+[33mcommit 37b393dba8b2f4e2d28b864a513f27178f6e75f4[m
+Author: eaw20024 <eric.washington.me@gmail.com>
+Date:   Tue Mar 3 12:12:53 2015 -0500
+
+    Eric's Advice Page
+
+[33mcommit f44b9ca7b341f46346545aecc2378e2c91096f05[m
+Merge: 95c3091 a0a2d3b
+Author: emlaser <emily@emilydavis.com>
+Date:   Tue Mar 3 11:55:30 2015 -0500
+
+    Merge pull request #118 from kentonscoding/master
+    
+    Added advice and css
+
+[33mcommit 95c3091e8ffaf53b04f080328591f8aa6d64f2ba[m
+Merge: 3252ac3 1166f17
+Author: emlaser <emily@emilydavis.com>
+Date:   Tue Mar 3 11:55:03 2015 -0500
+
+    Merge pull request #117 from pandachess/master
+    
+    Fork file
+
+[33mcommit 3252ac320ab87bf88068392b9a434a8ef066cbdf[m
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Mar 3 11:54:46 2015 -0500
+
+    fixing repo
+
+[33mcommit b7e3f3d02a9f8148c7306c3827189d84374a833a[m
+Merge: e512c04 baff80a
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Mar 3 11:54:22 2015 -0500
+
+    Merge branch 'humachuka-master'
+
+[33mcommit baff80ac4266b96c72d3a1d59cdba9bae87421d9[m
+Merge: e512c04 53fe573
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Mar 3 11:54:12 2015 -0500
+
+    Merge branch 'master' of https://github.com/humachuka/skillcrush-104 into humachuka-master
+
+[33mcommit e512c04dd38c469598372b2c144848c57915d3c7[m
+Merge: 1eb459c 98ad49a
+Author: emlaser <emily@emilydavis.com>
+Date:   Tue Mar 3 11:53:45 2015 -0500
+
+    Merge pull request #115 from klinde0610/master
+    
+    This is me committing my name file
+
+[33mcommit 1eb459c0c5e4b780edc0e7db711f0575fbeb88b4[m
+Merge: e1ab9e9 93f7849
+Author: emlaser <emily@emilydavis.com>
+Date:   Tue Mar 3 11:53:39 2015 -0500
+
+    Merge pull request #113 from daniellegaither/master
+    
+    Adding danielle-gaither.rb
+
+[33mcommit e1ab9e9d6660a043e976ecfcf3e7de4621ee49be[m
+Merge: 036bd3b fead148
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Mar 3 11:53:18 2015 -0500
+
+    Merge branch 'howeashley-master'
+
+[33mcommit fead14849b51b545716858d70f383aeae61e2956[m
+Merge: 036bd3b 40edbab
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Mar 3 11:53:06 2015 -0500
+
+    Merge branch 'master' of https://github.com/howeashley/skillcrush-104 into howeashley-master
+    
+    Conflicts:
+    	index.html
+
+[33mcommit 036bd3bb7d288ff6517fa6f63faf34758a679eee[m
+Merge: cbedb19 2a03777
+Author: emlaser <emily@emilydavis.com>
+Date:   Tue Mar 3 11:52:06 2015 -0500
+
+    Merge pull request #111 from samuelefabbro/master
+    
+    Samu's file
+
+[33mcommit cbedb193864244644e5a63ee6114f9f71a668feb[m
+Merge: eed632b ba5ef46
+Author: emlaser <emily@emilydavis.com>
+Date:   Tue Mar 3 11:51:57 2015 -0500
+
+    Merge pull request #110 from yalasti/master
+    
+    fork challenge
+
+[33mcommit eed632b3bcd63beb52040dc92d884ab6aea0de09[m
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Mar 3 11:51:38 2015 -0500
+
+    fixing repo
+
+[33mcommit 54d577e2d3ce0ccbe493416480da64f1a41062ee[m
+Merge: 25951a9 4eca607
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Mar 3 11:51:29 2015 -0500
+
+    Merge branch 'eaw20024-master'
+
+[33mcommit 4eca60789075da4108cdeeff0cecbd12f214c102[m
+Merge: 25951a9 edf91b1
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Mar 3 11:51:20 2015 -0500
+
+    Merge branch 'master' of https://github.com/eaw20024/skillcrush-104 into eaw20024-master
+
+[33mcommit 25951a9be03c742c6378acdd8c940462e98fa8cd[m
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Mar 3 11:50:35 2015 -0500
+
+    cleaning up repo
+
+[33mcommit d7dd1674c26b5cb5737c773f16bce2ab66b3dcb8[m
+Merge: e938836 bbee7af
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Mar 3 11:50:20 2015 -0500
+
+    Merge branch 'dirkacts-master'
+
+[33mcommit bbee7af361b3e5234d5d88d368e874cd861f11d3[m
+Merge: e938836 5d856ea
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Mar 3 11:50:01 2015 -0500
+
+    Merge branch 'master' of https://github.com/dirkacts/skillcrush-104 into dirkacts-master
+
+[33mcommit e9388363f49ef118763e55eadcd2b3161f60b43e[m
+Merge: 553e5b8 ba904ad
+Author: emlaser <emily@emilydavis.com>
+Date:   Tue Mar 3 11:49:36 2015 -0500
+
+    Merge pull request #107 from ludaires/master
+    
+    My first commit
+
+[33mcommit 553e5b8c02a5a5d2ee17f74e11078c9d676cbdd7[m
+Merge: db35f52 d6dc5f6
+Author: emlaser <emily@emilydavis.com>
+Date:   Tue Mar 3 11:49:28 2015 -0500
+
+    Merge pull request #106 from janinecodes/master
+    
+    forking-attempt file created
+
+[33mcommit db35f52f3d6dff873997ec4c6ae6907e1f156fa9[m
+Merge: a8cc841 909b08a
+Author: emlaser <emily@emilydavis.com>
+Date:   Tue Mar 3 11:49:16 2015 -0500
+
+    Merge pull request #105 from lizzzp1/master
+    
+    initial
+
+[33mcommit a8cc8410df72e4397c42e3593860753eec046adb[m
+Merge: 0ce91d2 c2748f4
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Mar 3 11:48:48 2015 -0500
+
+    Merge branch 'rhondaful-master'
+
+[33mcommit c2748f426fac3a0a13a870802cde46902a5bdf87[m
+Merge: 0ce91d2 e4cd1d4
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Mar 3 11:48:36 2015 -0500
+
+    Merge branch 'master' of https://github.com/rhondaful/skillcrush-104 into rhondaful-master
+    
+    Conflicts:
+    	index.html
+
+[33mcommit 0ce91d2948d7c63958dfc337bd3ba4debda23f02[m
+Merge: cc1898e fc62bf8
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Mar 3 11:47:32 2015 -0500
+
+    Merge branch 'ohminsun-master'
+
+[33mcommit fc62bf8df800094a05721d1f926ac5b46a59921d[m
+Merge: cc1898e 787f658
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Mar 3 11:47:20 2015 -0500
+
+    Merge branch 'master' of https://github.com/ohminsun/skillcrush-104 into ohminsun-master
+    
+    Conflicts:
+    	css/style.css
+    	index.html
+
+[33mcommit cc1898e7b131e335264b59d863cebacf6b948eb7[m
+Merge: d324cea c06eb44
+Author: emlaser <emily@emilydavis.com>
+Date:   Tue Mar 3 11:45:44 2015 -0500
+
+    Merge pull request #102 from bolenton/master
+    
+    Added Tauruso.rb
+
+[33mcommit d324cea6932a8559eb95cfca29ee734cdcaa45a5[m
+Merge: b13a57a 749a387
+Author: emlaser <emily@emilydavis.com>
+Date:   Tue Mar 3 11:45:35 2015 -0500
+
+    Merge pull request #101 from JoeiV/master
+    
+    add Joei
+
+[33mcommit b13a57a1e8eaa88ab5473e8bc8bfb69ceb9028b3[m
+Merge: b30cf87 6c1bb35
+Author: emlaser <emily@emilydavis.com>
+Date:   Tue Mar 3 11:45:11 2015 -0500
+
+    Merge pull request #100 from kimberleyberends/master
+    
+    test file: forking, pull requests
+
+[33mcommit b30cf877323478e48dc173f656fcdf5fe12b2431[m
+Merge: d2069cf 0803565
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Mar 3 11:44:53 2015 -0500
+
+    Merge branch 'leamerluck-master'
+
+[33mcommit 0803565d7c138e4f75e209600661a4dfd49337d6[m
+Merge: 97979ef f03154b
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Mar 3 11:44:44 2015 -0500
+
+    Merge branch 'master' of https://github.com/leamerluck/skillcrush-104 into leamerluck-master
+    
+    Conflicts:
+    	index.html
+
+[33mcommit d2069cfdb9d967c6e762edef7a8a95d14337eb65[m
+Merge: 3600eba 97979ef
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Mar 3 11:43:29 2015 -0500
+
+    Merge branch 'leamerluck-master'
+
+[33mcommit 97979efb680900e65912fb07837397b37d1f9fa5[m
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Mar 3 11:43:17 2015 -0500
+
+    fixing conflict
+
+[33mcommit 3600ebab807a483568c0dbb8587694c679321cbe[m
+Merge: 7244864 8f31f08
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Mar 3 11:41:11 2015 -0500
+
+    Merge branch 'vcarrasco25-master'
+
+[33mcommit 8f31f08574b9f7723a1e3d5891f0a060e385f333[m
+Merge: 7244864 636ef4f
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Mar 3 11:40:52 2015 -0500
+
+    Merge branch 'master' of https://github.com/vcarrasco25/skillcrush-104 into vcarrasco25-master
+    
+    Conflicts:
+    	index.html
+
+[33mcommit 724486470df424d4bc68edeccf5fbb880c532b74[m
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Mar 3 11:38:37 2015 -0500
+
+    fixing repo
+
+[33mcommit 1b6489c470ceb1c38c3ca8c7dea9e7871e4c4fe7[m
+Merge: 180b36b 8ab717e
+Author: emlaser <emily@emilydavis.com>
+Date:   Tue Mar 3 11:33:05 2015 -0500
+
+    Merge pull request #96 from ggstewart/master
+    
+    georgina.rb
+
+[33mcommit 180b36b7f7cdc7a0f6a013fdb30159713a435a8c[m
+Merge: 448b03f e4c884f
+Author: emlaser <emily@emilydavis.com>
+Date:   Tue Mar 3 11:32:56 2015 -0500
+
+    Merge pull request #95 from manalijoshi82/master
+    
+    created first file
+
+[33mcommit 448b03ffb47c3ca709952cc7b63ebad89c5818a1[m
+Merge: 1058cd9 a922fc8
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Mar 3 11:32:35 2015 -0500
+
+    Merge branch 'stw14-master'
+
+[33mcommit a922fc83f42991b67bd4b03ae4a3958a19a9128e[m
+Merge: 1058cd9 c10e739
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Mar 3 11:32:12 2015 -0500
+
+    Merge branch 'master' of https://github.com/stw14/skillcrush-104 into stw14-master
+    
+    Conflicts:
+    	index.html
+
+[33mcommit a0a2d3b13cede978fa5ea4b4d7a3533046dac222[m
+Author: Kenton <kentonscoding@users.noreply.github.com>
+Date:   Tue Mar 3 08:27:48 2015 -0800
+
+    Delete kenton.rb
+
+[33mcommit 1058cd9393808597f2bb16befbc110ca61dda144[m
+Merge: 14fde24 178a992
+Author: emlaser <emily@emilydavis.com>
+Date:   Tue Mar 3 11:24:35 2015 -0500
+
+    Merge pull request #93 from erinnorr/master
+    
+    edited Erin file
+
+[33mcommit e4f253855ecc803e3830af7d5907319f47dfa4dc[m
+Author: Kentonscoding <Kenton@Kentonscoding.com>
+Date:   Tue Mar 3 08:23:39 2015 -0800
+
+    adding advice file and some minor changes
+
+[33mcommit 14fde240d98bc36161805723a30b03c465edc46f[m
+Merge: d167d0e bb6a0a3
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Mar 3 11:20:20 2015 -0500
+
+    Merge branch 'master' of github.com:skillcrush/skillcrush-104
+
+[33mcommit d167d0eff9c32cc2e8c9e794ea30a3ffb87caaf5[m
+Merge: a5472a5 134bf23
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Mar 3 11:20:11 2015 -0500
+
+    Merge branch 'nspecial-master'
+
+[33mcommit 134bf23fd9ed394b1fd24954f1fc1c19a122ad37[m
+Merge: a5472a5 e0b2091
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Mar 3 11:19:57 2015 -0500
+
+    Merge branch 'master' of https://github.com/nspecial/skillcrush-104 into nspecial-master
+    
+    Conflicts:
+    	css/style.css
+
+[33mcommit 749a38700de3bb4f2c09873facada548e45ae512[m
+Author: JoeiV <JoeiV@users.noreply.github.com>
+Date:   Tue Mar 3 11:19:31 2015 -0500
+
+    Update joei-style.css
+
+[33mcommit 40e8c8597b0ccdf7a3ef6d0efb54c46d30be2cc0[m
+Author: JoeiV <joei.lynyrd@gmail.com>
+Date:   Tue Mar 3 16:17:23 2015 +0000
+
+    Updated
+
+[33mcommit 874122b155883427eb117f909e1cecc4089f8a43[m
+Author: JoeiV <joei.lynyrd@gmail.com>
+Date:   Tue Mar 3 16:16:45 2015 +0000
+
+    add Joei to the list
+
+[33mcommit bb6a0a38fef48b3f51cccbdf0333bed326c18ac1[m
+Merge: a5472a5 f28a37a
+Author: emlaser <emily@emilydavis.com>
+Date:   Tue Mar 3 11:16:31 2015 -0500
+
+    Merge pull request #91 from islndstrm/master
+    
+    making changes to a fork repo
+
+[33mcommit a5472a55a5f9eef8fa5dd729713171c243679d72[m
+Merge: 6715d9f 0b4ba41
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Mar 3 11:16:03 2015 -0500
+
+    Merge branch 'amandalglittle-master'
+
+[33mcommit 0b4ba4149111374e0761fa0a0a47fc91a0946a71[m
+Merge: 6715d9f 4ada5ca
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Mar 3 11:15:52 2015 -0500
+
+    Merge branch 'master' of https://github.com/amandalglittle/skillcrush-104 into amandalglittle-master
+    
+    Conflicts:
+    	css/style.css
+
+[33mcommit ab07ba14cfe4ba22cb1bd3bc5a4168292ff19318[m
+Author: JoeiV <joei.lynyrd@gmail.com>
+Date:   Tue Mar 3 16:15:50 2015 +0000
+
+    Updated
+
+[33mcommit 6715d9fa5446c4048ad5d22a760671ca69e94e2f[m
+Merge: b95b9da 4147200
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Mar 3 11:12:05 2015 -0500
+
+    Merge branch 'evefrohm-master'
+
+[33mcommit 4147200daa95b38917c614ed79ea3534264e360c[m
+Merge: b95b9da 4bc09ad
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Mar 3 11:11:55 2015 -0500
+
+    Merge branch 'master' of https://github.com/evefrohm/skillcrush-104 into evefrohm-master
+    
+    Conflicts:
+    	index.html
+
+[33mcommit b95b9da9e6de55f638beaecde751b02d833d39be[m
+Merge: 56fa14a 390dae0
+Author: emlaser <emily@emilydavis.com>
+Date:   Tue Mar 3 11:09:43 2015 -0500
+
+    Merge pull request #87 from gretchenista/master
+    
+    gretchenista2.rb
+
+[33mcommit 390dae0ab1022b857faeb2ce9ca300723bc0afc6[m
+Author: gretchenista <gretchenista@gmail.com>
+Date:   Tue Mar 3 10:36:16 2015 -0500
+
+    Update gretchenista-advice.html
+
+[33mcommit 85c5215748b8b248073b95f0744de19538ea6563[m
+Author: gretchenista <gretchenista@gmail.com>
+Date:   Tue Mar 3 10:10:27 2015 -0500
+
+    Update gretchenista-advice.html
+
+[33mcommit 06279fc5ae03f1e84653cb02c137b796b3666b48[m
+Author: JoeiV <joei.lynyrd@gmail.com>
+Date:   Tue Mar 3 14:17:32 2015 +0000
+
+    Initial
+
+[33mcommit 1166f17db50112137323c3057299f4dd74d38c99[m
+Author: Jacqueline Chapman <jacquelinechapman@me.com>
+Date:   Mon Mar 2 20:21:07 2015 -0500
+
+    Fork file
+
+[33mcommit 53fe5735311d07b590c738f36bbd23e6975eca47[m
+Author: humachuka <nate.alspaugh18@gmail.com>
+Date:   Mon Mar 2 16:36:32 2015 -0700
+
+    my ruby file
+
+[33mcommit eee297419bab49ff675ccfb92aa0b69300563a46[m
+Author: humachuka <nate.alspaugh18@gmail.com>
+Date:   Mon Mar 2 16:32:35 2015 -0700
+
+    my contribution
+
+[33mcommit 98ad49af34d7fe8c91ef40d4d722a5c162d95223[m
+Author: Kristin Linde <kristin@visualinspiration.com>
+Date:   Mon Mar 2 16:43:10 2015 -0500
+
+    This is me committing my name file
+
+[33mcommit 5facbf1e29b6f06ce3d63c8e2583d778fd15879c[m
+Author: Kentonscoding <Kenton@Kentonscoding.com>
+Date:   Mon Mar 2 10:42:34 2015 -0800
+
+    first commit on forked repo
+
+[33mcommit 93f78493817955a5ac4204b39c19d52bb92f62b6[m
+Author: Danielle Gaither <danielle@example.com>
+Date:   Sun Mar 1 17:41:45 2015 -0600
+
+    Adding danielle-gaither.rb
+
+[33mcommit 40edbabeec153aad3ff6150083ed936bc850ec84[m
+Author: Ashley Howe <ashleyhowe3@gmail.com>
+Date:   Sat Feb 28 18:07:24 2015 -0500
+
+    add Ashley files to advice page
+
+[33mcommit 829988e89862bd9c6f772a1bc0fc78bb18b357f0[m
+Author: Ashley Howe <ashleyhowe3@gmail.com>
+Date:   Sat Feb 28 16:32:35 2015 -0500
+
+    added Ashley file
+
+[33mcommit 2a0377709d9352c813d5433218789ab1d1fd08e0[m
+Author: samu <samuele.fabbro@gmail.com>
+Date:   Sat Feb 28 09:39:25 2015 +0100
+
+    Samu's file
+
+[33mcommit ba5ef466bb6ef7881f73875843b92dbff33a4f1b[m
+Author: yalasti <yvettecodes@gmail.com>
+Date:   Fri Feb 27 21:59:33 2015 -0500
+
+    fork challenge
+
+[33mcommit edf91b1698a85b9c134d039a76a42202cf68d3c8[m
+Author: eaw20024 <eric.washington.me@gmail.com>
+Date:   Fri Feb 27 14:49:28 2015 -0500
+
+    edited Eric file
+
+[33mcommit 5d856ea8ebeae1e546a7bbd316edac86c9fe04fa[m
+Author: dirkActs <dirkf@comcast.net>
+Date:   Fri Feb 27 12:56:59 2015 -0600
+
+    Added to fork
+
+[33mcommit ba904adba0273dea00f59d9032f51e8974e3d05c[m
+Author: Ludmilla Aires <ludaires@gmail.com>
+Date:   Fri Feb 27 13:16:02 2015 -0500
+
+    My first commit
+
+[33mcommit d6dc5f6ea44dbf5d1fbb1256da46a807193d37db[m
+Author: Janine Codes <janinecodes@gmail.com>
+Date:   Tue Feb 24 21:01:35 2015 +0700
+
+    forking-attempt file created
+
+[33mcommit 909b08af07e7741ee6a8296f705bf5a83f74d403[m
+Author: Liz Pineda <lizzzp1@gmail.com>
+Date:   Mon Feb 23 10:51:34 2015 -0500
+
+    initial
+
+[33mcommit e4cd1d4a1cd05174fe1544fea6753125c5ab16db[m
+Author: Rhonda Faulkner <rhondaful@gmail.com>
+Date:   Sun Feb 22 19:46:53 2015 -0600
+
+    rhondaful advice page update
+
+[33mcommit 4bd70deb984cf21a37e558210b464cb7abd0fe98[m
+Author: Rhonda Faulkner <rhondaful@gmail.com>
+Date:   Sun Feb 22 19:38:51 2015 -0600
+
+    rhondaful advice page update
+
+[33mcommit 787f658a106cc64992f68988423cc0d7d4e0e203[m
+Author: ohminsun <ohminsun@gmail.com>
+Date:   Fri Feb 20 22:01:01 2015 +0000
+
+    added lynn advice to skillcrush repository
+
+[33mcommit 81f134d2fb93fa251667748a22a08d3e1bf03e53[m
+Author: ohminsun <ohminsun@gmail.com>
+Date:   Fri Feb 20 20:27:41 2015 +0000
+
+    added name file lynn to skillcrush ruby folder
+
+[33mcommit c06eb44a60c41539ea6f23a09a4556205506f2f3[m
+Author: Taurus Omejia <bolenton@gmail.com>
+Date:   Thu Feb 19 14:34:11 2015 -0600
+
+    Added Tauruso.rb
+
+[33mcommit cf8d7264e405d6626a962bf79b16c0bf0a36a980[m
+Author: JoeiV <joei.lynyrd@gmail.com>
+Date:   Wed Feb 18 18:46:54 2015 +0000
+
+    add Joei
+
+[33mcommit f03154b36fbd7d653ee2661a2af8ded0e8e38875[m
+Author: Lone Leamer <leamerluck@gmail.com>
+Date:   Fri Feb 13 13:48:21 2015 -0500
+
+    Advice page commit
+
+[33mcommit 6c1bb35fd6b3ba72255b19e03356d6a99a8727a5[m
+Author: mounty <kimberley.berends@gmail.com>
+Date:   Fri Feb 13 17:39:26 2015 +1300
+
+    test file: forking, pull requests
+
+[33mcommit 178a992158add86aeeb76288f75c1de7d5cdae2c[m
+Author: Erin Orr <erinnorr@gmail.com>
+Date:   Wed Feb 11 22:20:39 2015 -0500
+
+    Update erinorr_advice.html
+
+[33mcommit d2682c4b017034721eede426935b72358e149b1e[m
+Author: Erin Orr <erinnorr@gmail.com>
+Date:   Wed Feb 11 22:19:29 2015 -0500
+
+    Delete erin-advice_style.css
+
+[33mcommit 76ee8b966803ef70a5d68fb734fe36cbc31e36a5[m
+Author: Erin Orr <erinnorr@gmail.com>
+Date:   Wed Feb 11 22:17:43 2015 -0500
+
+    Update style.css
+
+[33mcommit 636ef4fcbc36381fa2654f8c3314b67fc6969a7f[m
+Author: Valerie Carrasco <valerie.carrasco25@gmail.com>
+Date:   Tue Feb 10 21:01:10 2015 -0500
+
+    Link added for Valerie's Advice
+
+[33mcommit b735642abcad714d95d5bb595705ece9fb3b58a0[m
+Author: Valerie Carrasco <valerie.carrasco25@gmail.com>
+Date:   Tue Feb 10 20:59:44 2015 -0500
+
+    Creation of Valerie's css file
+
+[33mcommit 55f88f2920972e60199d609e283154ad57499634[m
+Author: Valerie Carrasco <valerie.carrasco25@gmail.com>
+Date:   Tue Feb 10 20:56:45 2015 -0500
+
+    Updates to Valerie's html file
+
+[33mcommit 8cd7d27a6bd55498f51ccdb2c1363f06511cde62[m
+Author: Erin Orr <erinnorr@gmail.com>
+Date:   Tue Feb 10 15:36:49 2015 -0500
+
+    Update erin-advice_style.css
+
+[33mcommit 3623588a8febdab4a27a6c03e4e5f6be5cd54d0e[m
+Author: Erin Orr <erinnorr@gmail.com>
+Date:   Tue Feb 10 15:36:26 2015 -0500
+
+    Update erin-advice_style.css
+
+[33mcommit 3e9fb69557826b25bde239ac3eb7b405c6faa160[m
+Author: Erin Orr <erinnorr@gmail.com>
+Date:   Tue Feb 10 15:26:18 2015 -0500
+
+    Update erinorr_advice.html
+
+[33mcommit 3aabbef74119f9949b6fe742495003bde39af2c4[m
+Author: Lone Leamer <leamerluck@gmail.com>
+Date:   Mon Feb 9 06:31:09 2015 -0500
+
+    added Chris file
+
+[33mcommit 2c671c3cc4b884a525109774a88685b81702ed20[m
+Author: Valerie Carrasco <valerie.carrasco25@gmail.com>
+Date:   Sun Feb 8 19:02:33 2015 -0500
+
+    Changing code using fork
+
+[33mcommit 8ab717e1c8452ff3cda2c94b0691cb1b394e1c04[m
+Author: GGStewart <georginastewart2@gmail.com>
+Date:   Sun Feb 8 18:58:05 2015 +1300
+
+    georgina.rb
+
+[33mcommit c10e739939420a6782feac8fb01b534b81863c0c[m
+Author: Sandy Thompkins-Williams <s.t-williams@comcast.net>
+Date:   Fri Feb 6 19:19:58 2015 -0500
+
+    Add my personal advice
+
+[33mcommit f3730fca0a43e84757ea19df4c0c14700323b70b[m
+Author: Erin Orr <erinnorr@gmail.com>
+Date:   Fri Feb 6 16:16:37 2015 -0500
+
+    erin advice edit
+
+[33mcommit ded6cbb30ff848f5be35a1cc9a814e75317388b3[m
+Author: Erin Orr <erinnorr@gmail.com>
+Date:   Fri Feb 6 16:16:07 2015 -0500
+
+    erin style edit
+
+[33mcommit e4c884f5fe4a4330d814a88cb96e5e8783c4af5f[m
+Author: Manali <manalijoshi82@gmail.com>
+Date:   Thu Feb 5 22:08:02 2015 -0800
+
+    created first file
+
+[33mcommit c926adb100a071b3d8d1d4bb9ecc3ec0fc6a3c38[m
+Author: Sandy Thompkins-Williams <s.t-williams@comcast.net>
+Date:   Thu Feb 5 18:57:27 2015 -0500
+
+    Add additional info
+
+[33mcommit 925e6965123d83f1df8c4ff30e2529c9c8430b6a[m
+Author: Sandy Thompkins-Williams <s.t-williams@comcast.net>
+Date:   Thu Feb 5 18:38:42 2015 -0500
+
+    This is my first fork
+
+[33mcommit 9895bdc9792be5f180e6d50fa3f05d410def0580[m
+Author: Erin Orr <erinnorr@gmail.com>
+Date:   Thu Feb 5 08:09:26 2015 -0500
+
+    changes
+
+[33mcommit 2945047645f039c827c87e3198d6b236021c2d17[m
+Author: Erin Orr <erinnorr@gmail.com>
+Date:   Thu Feb 5 07:17:37 2015 -0500
+
+    edited Erin file
+
+[33mcommit e0b209166d005469f78602feb31622f4af4ea755[m
+Author: Nichole Speciale <nichole.speciale@gmail.com>
+Date:   Tue Feb 3 17:26:58 2015 -0800
+
+    revised advice html and style for Nichole
+
+[33mcommit a94412279d8457004ca84c2909cfa4485bec0957[m
+Author: Nichole Speciale <nichole.speciale@gmail.com>
+Date:   Tue Feb 3 14:03:36 2015 -0800
+
+    my fork attempt
+
+[33mcommit f28a37a4df8953374ffc352dcddf77d87b580380[m
+Author: islndstrm <lizetchells@gmail.com>
+Date:   Mon Feb 2 00:10:41 2015 +0000
+
+    making changes to a fork repo
+
+[33mcommit 4ada5ca89049528697a7eba2af406e851c76482d[m
+Author: Amanda G Little <amandalglittle@gmail.com>
+Date:   Wed Jan 28 16:42:00 2015 -0600
+
+    Amanda's personal advice page for Skillrush 104 repository
+
+[33mcommit 877934b85160471d471d2b4112ab958a65b5ce8d[m
+Author: Amanda G Little <amandalglittle@gmail.com>
+Date:   Mon Jan 26 17:20:16 2015 -0600
+
+    Skillcrush 104 forked repo
+
+[33mcommit 4bc09adecf6ce86ea4e358624560ed6c0e48f3e7[m
+Author: Eve Frohm <evefrohm@gmail.com>
+Date:   Wed Jan 21 16:49:48 2015 -0500
+
+    more changes to advice page
+
+[33mcommit f3680387d143338052388289b4510284f41bd6d5[m
+Author: Eve Frohm <evefrohm@gmail.com>
+Date:   Wed Jan 21 16:12:04 2015 -0500
+
+    changes for Eve Frohm's advice page
+
+[33mcommit 1a47865da4e97263c4d0c31f983ae420c5c64c70[m
+Author: Eve Frohm <evefrohm@gmail.com>
+Date:   Wed Jan 21 15:18:18 2015 -0500
+
+    edited Eve file
+
+[33mcommit 20ed78ee18af8813a42a6b3ba895f2c2d3afe4c9[m
+Author: gretchenista <gretchenista@gmail.com>
+Date:   Wed Jan 21 13:37:04 2015 -0500
+
+    Update gretchenista-advice.html
+
+[33mcommit 42458e4cb91a7a27e6d7db81013c92cc7e0a184c[m
+Author: gretchenista <gretchenista@gmail.com>
+Date:   Mon Jan 12 12:19:49 2015 -0500
+
+    Update index.html
+
+[33mcommit 410e945ee903341944b110f275132530e4009d84[m
+Author: gretchenista <gretchenista@gmail.com>
+Date:   Mon Jan 12 12:12:43 2015 -0500
+
+    Update gretchenista-advice.html
+
+[33mcommit d59b54aec31873555154c04f2094bd8c7b896e0a[m
+Author: gretchenista <gretchenista@gmail.com>
+Date:   Mon Jan 12 12:11:26 2015 -0500
+
+    Create gretchenista-advice.css
+
+[33mcommit 83bd0ab9868053c59674829c18437d0c672bc990[m
+Author: gretchenista <gretchenista@gmail.com>
+Date:   Mon Jan 12 12:06:29 2015 -0500
+
+    Create gretchenista-advice.html
+
+[33mcommit 85610f192f7ecc27b0e540af11a873bf9a0c804d[m
+Author: gretchenista <gretchenista@gmail.com>
+Date:   Thu Jan 8 12:32:21 2015 -0500
+
+    Create gretchenista.rb
+
+[33mcommit d3a13a66e9318960c8a404024c163ba1e6c78bc4[m
+Author: gretchenista <gretchenista@gmail.com>
+Date:   Thu Jan 8 12:26:52 2015 -0500
+
+    Create gretchenista
+
+[33mcommit 56fa14a61ae75aa902cdbea7572978237bceae00[m
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Jan 6 15:27:37 2015 -0500
+
+    updating .gitignore
+
+[33mcommit ca2b4aa6b3dc0d1e0878a69e7fb4a34218c65a1d[m
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Jan 6 15:26:17 2015 -0500
+
+    cleaning up repo
+
+[33mcommit 44e1992d5953ac49e32830187ec14f04c81a8687[m
+Merge: fd6dbf6 545b578
+Author: emlaser <emily@emilydavis.com>
+Date:   Tue Jan 6 15:23:18 2015 -0500
+
+    Merge pull request #86 from eab70/master
+    
+    commit to forked Skillcrush-104
+
+[33mcommit fd6dbf6cbf9f1809dd149e34fa05e9bc3327377c[m
+Merge: d455e86 8ef2ed1
+Author: emlaser <emily@emilydavis.com>
+Date:   Tue Jan 6 15:22:58 2015 -0500
+
+    Merge pull request #85 from esoufan/master
+    
+    edited emily file
+
+[33mcommit d455e865f842066e7e99395dfa44cf6c8f0126b6[m
+Merge: 48295d1 a1839ca
+Author: emlaser <emily@emilydavis.com>
+Date:   Tue Jan 6 15:22:17 2015 -0500
+
+    Merge pull request #84 from rjamielynn/master
+    
+    Pull request Jamie
+
+[33mcommit 545b57844cddda85fd8412a80476ae9a41d1482f[m
+Author: eab70 <eabacus@msn.com>
+Date:   Tue Jan 6 15:13:14 2015 -0500
+
+    commit to forked Skillcrush-104
+
+[33mcommit 8ef2ed16b8f0b7d86a2f1513001ce18c9df538c9[m
+Author: esoufan <esoufan@hotmail.com>
+Date:   Mon Jan 5 17:30:27 2015 -0500
+
+    edited emily file
+
+[33mcommit a1839ca0c4680fa594672a2f78f72db444607f3e[m
+Author: rjamielynn <rjamielynn@gmail.com>
+Date:   Thu Jan 1 22:13:44 2015 -0500
+
+    jamie
+
+[33mcommit 8d375b6b7126edbbd96814612f00ce13a198c90c[m
+Author: rjamielynn <rjamielynn@gmail.com>
+Date:   Thu Jan 1 22:12:10 2015 -0500
+
+    jamie hello
+
+[33mcommit 48295d17c71cf56179e5c086b96ddd6cdaaa558e[m
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Mon Dec 29 18:06:32 2014 -0500
+
+    fixing html files
+
+[33mcommit bd80e0bfcebd046684eee657c170690db91a9f40[m
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Mon Dec 29 17:48:04 2014 -0500
+
+    fixing ruby files
+
+[33mcommit 03dd5d5677386fc99e8caef4bf25924ba42a6f8d[m
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Mon Dec 29 17:35:02 2014 -0500
+
+    moving files into separate directories
+
+[33mcommit 73d5916e62285f48cd3253d117f62ca5d68f7e6e[m
+Merge: 72d05bb 659430a
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Mon Dec 29 15:27:21 2014 -0500
+
+    Merge branch 'master' of github.com:skillcrush/skillcrush-104
+
+[33mcommit 72d05bb45bc7445e9351ebd0ffc4a873ceb82431[m
+Merge: 40277f0 e890ec6
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Mon Dec 29 15:27:07 2014 -0500
+
+    Merge branch 'nerdyshelties-master'
+
+[33mcommit e890ec6a16f2621d4822c744d464330f541b0faa[m
+Merge: 40277f0 20c7d5e
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Mon Dec 29 15:26:57 2014 -0500
+
+    Merge branch 'master' of https://github.com/nerdyshelties/skillcrush-104 into nerdyshelties-master
+    
+    Conflicts:
+    	index.html
+
+[33mcommit 659430abbe81574a7e76d9502bd15d98087b0e87[m
+Merge: 40277f0 2b2447d
+Author: emlaser <emily@emilydavis.com>
+Date:   Mon Dec 29 15:26:10 2014 -0500
+
+    Merge pull request #82 from odrisck/master
+    
+    added kathy file
+
+[33mcommit 40277f0cbad92691b1cfe88ef2df6eb0c5c06043[m
+Merge: 60fc9b6 8996e95
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Mon Dec 29 15:25:50 2014 -0500
+
+    Merge branch 'Cnwauche-master'
+
+[33mcommit 8996e95af211534f3319c710ba82906ff2c8b829[m
+Merge: 60fc9b6 3af847c
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Mon Dec 29 15:25:37 2014 -0500
+
+    Merge branch 'master' of https://github.com/Cnwauche/skillcrush-104 into Cnwauche-master
+    
+    Conflicts:
+    	index.html
+    	style.css
+
+[33mcommit 60fc9b6f763b673dbae8fbfe43925db09ae2e33c[m
+Merge: 4daae24 42485a3
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Mon Dec 29 15:21:48 2014 -0500
+
+    Merge branch 'andpickens-master'
+
+[33mcommit 42485a34dda32dd5bf2d7510c71d3ce08e0e2967[m
+Merge: 4daae24 92d0029
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Mon Dec 29 15:21:38 2014 -0500
+
+    Merge branch 'master' of https://github.com/andpickens/skillcrush-104 into andpickens-master
+    
+    Conflicts:
+    	index.html
+
+[33mcommit 4daae245c771964b4942f246cb13e7efbdc51910[m
+Merge: 831363e 83b510d
+Author: emlaser <emily@emilydavis.com>
+Date:   Mon Dec 29 15:09:32 2014 -0500
+
+    Merge pull request #78 from chicgreenie/master
+    
+    edited Lauren file
+
+[33mcommit 831363e596a9e6b896f5136ebbd0aa7c9342daed[m
+Merge: 32e10aa 3863051
+Author: emlaser <emily@emilydavis.com>
+Date:   Mon Dec 29 15:09:25 2014 -0500
+
+    Merge pull request #77 from verbledd/master
+    
+    forked commit
+
+[33mcommit 32e10aa52d1b892c869a7aa05c9718610cfeb449[m
+Merge: 961884a 308b664
+Author: emlaser <emily@emilydavis.com>
+Date:   Mon Dec 29 15:09:14 2014 -0500
+
+    Merge pull request #76 from m-zahr/master
+    
+    please work
+
+[33mcommit 961884a3de363ced7103c483d922e111eea387dd[m
+Merge: 2df64b5 33e69c7
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Mon Dec 29 15:08:57 2014 -0500
+
+    Merge branch 'drabelpdx-master'
+
+[33mcommit 33e69c70f4f1571c883ad033b61349e646a240c7[m
+Merge: 2df64b5 a2a8745
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Mon Dec 29 15:08:46 2014 -0500
+
+    Merge branch 'master' of https://github.com/drabelpdx/skillcrush-104 into drabelpdx-master
+    
+    Conflicts:
+    	index.html
+    	style.css
+
+[33mcommit 2df64b585e1555f0ce3dee85b645f93a24f93e5f[m
+Merge: 1de922b b07b22a
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Mon Dec 29 15:03:56 2014 -0500
+
+    Merge branch 'jenthebest-master'
+
+[33mcommit b07b22a7a6bede39a454bd820a5ebb7278f9a724[m
+Merge: 1de922b 0072bc3
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Mon Dec 29 15:03:48 2014 -0500
+
+    Merge branch 'master' of https://github.com/jenthebest/skillcrush-104 into jenthebest-master
+    
+    Conflicts:
+    	index.html
+    	style.css
+
+[33mcommit 1de922b0bdf1bc73c3c27c8cec09b7b617d64cbe[m
+Merge: c569ae4 72ac581
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Mon Dec 29 15:01:36 2014 -0500
+
+    Merge branch 'JuliaBD-master'
+
+[33mcommit 72ac581634681fdc66f38827ab14a11974111645[m
+Merge: f1f32db 21a4abd
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Mon Dec 29 15:01:28 2014 -0500
+
+    Merge branch 'master' of https://github.com/JuliaBD/skillcrush-104 into JuliaBD-master
+    
+    Conflicts:
+    	index.html
+
+[33mcommit c569ae4d6b0a878cd8786104410aca794b36097c[m
+Merge: f1f32db e3f1325
+Author: emlaser <emily@emilydavis.com>
+Date:   Mon Dec 29 14:57:41 2014 -0500
+
+    Merge pull request #72 from dehawkins/master
+    
+    added 2 files to the skillcrush directory
+
+[33mcommit f1f32db0bae050e35cccf1bf1ac67176fb19a7da[m
+Merge: 4754db1 ef22b5e
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Mon Dec 29 14:57:23 2014 -0500
+
+    Merge branch 'dcushing-master'
+
+[33mcommit ef22b5e66e2a0eb06f73bedb409a93a5c32d858c[m
+Merge: 4754db1 f1fa506
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Mon Dec 29 14:57:04 2014 -0500
+
+    Merge branch 'master' of https://github.com/dcushing/skillcrush-104 into dcushing-master
+    
+    Conflicts:
+    	style.css
+
+[33mcommit 4754db10621750bd959bb73784aeca79200f3b1e[m
+Merge: 5437e8c abf7e93
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Mon Dec 29 14:54:05 2014 -0500
+
+    Merge branch 'creatrixtiara-master'
+
+[33mcommit abf7e9355b49910f9cf6882ee60170e2750d19c3[m
+Merge: 5437e8c 349295d
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Mon Dec 29 14:53:54 2014 -0500
+
+    Merge branch 'master' of https://github.com/creatrixtiara/skillcrush-104 into creatrixtiara-master
+    
+    Conflicts:
+    	index.html
+    	style.css
+
+[33mcommit 5437e8c282c593d6f03ae20eb314d39323d30a8e[m
+Merge: efbcd3e f9efab8
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Mon Dec 29 11:20:28 2014 -0500
+
+    Merge branch 'andylj-master'
+
+[33mcommit f9efab83f8e1127e1e909601a39fac45ba2721c9[m
+Merge: 8b8f718 a773a75
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Mon Dec 29 11:20:08 2014 -0500
+
+    Merge branch 'master' of https://github.com/andylj/skillcrush-104 into andylj-master
+    
+    Conflicts:
+    	index.html
+    	style.css
+
+[33mcommit 8b8f718b5f9615c9013151003454dd3b4727dc10[m
+Merge: ad92a9e 546f2c5
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Mon Dec 29 11:15:17 2014 -0500
+
+    Merge branch 'dixieyogi-master'
+
+[33mcommit efbcd3e1e81127850af6dec6eb76104382307fff[m
+Merge: 8b8f718 8298244
+Author: emlaser <emily@emilydavis.com>
+Date:   Mon Dec 29 11:15:16 2014 -0500
+
+    Merge pull request #68 from mattv135/master
+    
+    adding my file
+
+[33mcommit 546f2c5fa6793ca30b56f8e7aedf1e7fcad2a51b[m
+Merge: ad92a9e 13c7d09
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Mon Dec 29 11:15:03 2014 -0500
+
+    Merge branch 'master' of https://github.com/dixieyogi/skillcrush-104 into dixieyogi-master
+    
+    Conflicts:
+    	style.css
+
+[33mcommit ad92a9edd8decfb35aea66ebb2ae3e2c9c68a194[m
+Merge: d7854bc c2c10cd
+Author: emlaser <emily@emilydavis.com>
+Date:   Mon Dec 29 11:07:13 2014 -0500
+
+    Merge pull request #66 from Neilda/master
+    
+    Advice and style
+
+[33mcommit d7854bc93df3042e665c4b33abc635daea3511fd[m
+Merge: f0d95cf c510629
+Author: emlaser <emily@emilydavis.com>
+Date:   Mon Dec 29 11:07:06 2014 -0500
+
+    Merge pull request #65 from kellymurray/master
+    
+    added file
+
+[33mcommit f0d95cfbb6c21bf97f48981fcff602cb2f810b47[m
+Merge: 0ba5a9c 324ac67
+Author: emlaser <emily@emilydavis.com>
+Date:   Mon Dec 29 11:06:59 2014 -0500
+
+    Merge pull request #64 from paigelet/master
+    
+    Pull/merge request
+
+[33mcommit 0ba5a9cc5ee48db067868d34fb40ac021f2d546f[m
+Merge: f0990b4 bbb78b2
+Author: emlaser <emily@emilydavis.com>
+Date:   Mon Dec 29 11:06:49 2014 -0500
+
+    Merge pull request #63 from melliep/master
+    
+    Commit Forked Melanie
+
+[33mcommit f0990b458c5aa8b3927e33d3c99dd3de19fe1295[m
+Merge: 1c25797 c054100
+Author: emlaser <emily@emilydavis.com>
+Date:   Mon Dec 29 11:06:38 2014 -0500
+
+    Merge pull request #62 from katedp/master
+    
+    adding my file. better late than never.
+
+[33mcommit 20c7d5e0d9a7e95fbed0ca1ca5f9c34dbb60519b[m
+Author: nerdyshelties <carrie@sheltietown.com>
+Date:   Thu Dec 25 17:45:47 2014 -0500
+
+    added advice file and changed index to link to it - C Smith
+
+[33mcommit 510b4e2006a3bf1c1afe5283844418df57d54b3b[m
+Author: nerdyshelties <carrie@sheltietown.com>
+Date:   Thu Dec 25 16:17:18 2014 -0500
+
+    cs.rb
+
+[33mcommit 2b2447d15f99b0ce7c97df1ce874dae31d50d58a[m
+Author: Kathy ODriscoll <kodriscoll.dev@gmail.com>
+Date:   Mon Dec 22 18:24:28 2014 -0800
+
+    added kathys advice page and kathys css styles
+
+[33mcommit b08ac1a6c7c5f2118ed363092a1d878a7e6c92c0[m
+Author: Kathy ODriscoll <kodriscoll.dev@gmail.com>
+Date:   Mon Dec 22 15:43:27 2014 -0800
+
+    added kathy file
+
+[33mcommit 3af847c37b21f3ed134c41ea55fe3663fd855f50[m
+Merge: e020fcb 1974f63
+Author: Nelson Nwauche <chukwuemekanwauche@gmail.com>
+Date:   Sun Dec 21 15:39:38 2014 -0500
+
+    Merge github.com:Cnwauche/skillcrush-104
+
+[33mcommit e020fcb5783ae093899548247ce27bbe6ea08c0a[m
+Author: Nelson Nwauche <chukwuemekanwauche@gmail.com>
+Date:   Sun Dec 21 15:33:57 2014 -0500
+
+    nelson-advice
+
+[33mcommit 1974f632115fc5723b3151645d59a38068a35efc[m
+Author: Nelson Nwauche <chukwuemekanwauche@gmail.com>
+Date:   Sun Dec 21 12:19:50 2014 -0500
+
+    Nelson
+
+[33mcommit 8cd6780edaa439758c0d2b1a5083214e77e82b23[m
+Author: Nelson Nwauche <chukwuemekanwauche@gmail.com>
+Date:   Sun Dec 21 11:35:02 2014 -0500
+
+    your_name.rb
+
+[33mcommit 92d002949f9b4f1bc6d9789fdba546c9b30f4d22[m
+Author: Andrea Pickens <apickens21@gmail.com>
+Date:   Sat Dec 20 15:15:35 2014 -0500
+
+    my advice pages
+
+[33mcommit 5ce11049812ab2b673ed4a2315bdf30c801022ce[m
+Author: Andrea Pickens <apickens21@gmail.com>
+Date:   Fri Dec 19 22:34:23 2014 -0500
+
+    andrea's file
+
+[33mcommit 83b510dc21dfd1921ca91a62a955a60b2049015f[m
+Author: Chicgreenie <lauren.a.grant20@gmail.com>
+Date:   Sun Dec 14 12:38:02 2014 -0500
+
+    edited Lauren file
+
+[33mcommit 3863051ed6af0bd1591d97ecd6127c87d48227be[m
+Author: Danielle Verble <dmdesantis@gmail.com>
+Date:   Sat Dec 13 13:52:54 2014 -0500
+
+    forked commit
+
+[33mcommit 308b6645dc46ceb2e4bf6c06a124ffe9e4d2fa6a[m
+Author: Megan Z <megan.zahr@gmail.com>
+Date:   Wed Dec 3 21:24:59 2014 +0300
+
+    please work
+
+[33mcommit a2a87451d56f62438775b72030f8fc0c146da340[m
+Author: drabelpdx <drabelpdx@gmail.com>
+Date:   Sun Nov 30 22:39:10 2014 -0800
+
+    Added advice page to Skillcrush folder
+
+[33mcommit 49a58329a59d905dd657f2e058e22f1846a326c4[m
+Author: drabelpdx <drabelpdx@gmail.com>
+Date:   Fri Nov 28 11:33:02 2014 -0800
+
+    Added davids file
+
+[33mcommit 0072bc3b1a39209da80dcbd88b763529f682f169[m
+Author: Jen Best <jenthebest@gmail.com>
+Date:   Thu Nov 20 20:36:28 2014 -0500
+
+    Added my advice page
+
+[33mcommit 7c0270b5630ec2eda5536036d2a3228b8545a414[m
+Author: Jen Best <jenthebest@gmail.com>
+Date:   Thu Nov 20 20:31:57 2014 -0500
+
+    Added my advice page
+
+[33mcommit 2882cb3722bb4316bc841ac7af8a4d92e12c9359[m
+Author: Jen Best <jenthebest@gmail.com>
+Date:   Wed Nov 19 15:07:24 2014 -0500
+
+    My first fork
+
+[33mcommit 21a4abd41ca8711750253868a177e8e418a02340[m
+Author: JuliaBD <juliabuysingdamste@gmail.com>
+Date:   Tue Nov 18 11:43:03 2014 +0900
+
+    added and styled julia's advice page
+
+[33mcommit 024295393ed6303ded4cefcc5de6bc771e189443[m
+Author: JuliaBD <juliabuysingdamste@gmail.com>
+Date:   Tue Nov 18 10:25:06 2014 +0900
+
+    added julia.rb
+
+[33mcommit e3f1325ff69e35a390e6b80532eebffa0e6d739d[m
+Author: de hawkins <dhawkins1005@hotmail.com>
+Date:   Fri Nov 7 00:14:50 2014 +0000
+
+    added 2 files
+
+[33mcommit f1fa5063a0f22a0c4ef4b801bdc1f9de6966dfc2[m
+Author: Danielle Cushing <dcushing09@gmail.com>
+Date:   Wed Oct 29 16:14:45 2014 +0000
+
+    updates from Danielle in Skillcrush 104
+
+[33mcommit 47c574abda04bbbb5f93883d88a542d10fd95115[m
+Author: Danielle Cushing <dcushing09@gmail.com>
+Date:   Wed Oct 29 13:34:28 2014 +0000
+
+    adding my advice file
+
+[33mcommit a773a75f816d37fa3357917678c4ccd9c2257e80[m
+Author: andylj <andrew.littlejohns99@gmail.com>
+Date:   Mon Oct 27 20:51:41 2014 +0000
+
+    AndyLJ advice page and styles
+
+[33mcommit 349295d17398691a415c70dd42a1ce512e41e6b2[m
+Author: Creatrix Tiara <me@creatrixtiara.com>
+Date:   Mon Oct 27 00:50:48 2014 -0700
+
+    tiara updates with possibly garish advice page
+
+[33mcommit e658e75cd1fbc02506f03ded263b63a86020a51d[m
+Author: Creatrix Tiara <me@creatrixtiara.com>
+Date:   Mon Oct 27 00:21:37 2014 -0700
+
+    tiara gives this a shot
+
+[33mcommit 4acfeb0b6366baf0411b2361d539b0928d30e795[m
+Author: andylj <andrew.littlejohns99@gmail.com>
+Date:   Sat Oct 25 16:37:17 2014 +0100
+
+    This is the initial commit into the forked repo
+
+[33mcommit 82982440d1a2d9cb9c1ca9ee2aab8dcb92b7c825[m
+Author: Matthew Vallevand <matt.vallevand@gmail.com>
+Date:   Tue Oct 21 14:14:23 2014 -0400
+
+    adding my file
+
+[33mcommit c510629590e57c6edb4c4e8f2702718f645003c5[m
+Author: Kelly Murray <kelly@devbootcamp.com>
+Date:   Sat Oct 11 11:27:31 2014 -0700
+
+    new advice
+
+[33mcommit 13c7d09009723de53b1aac7f0101861963178e7f[m
+Author: dixieyogi <info@truepotentialmarketing.com>
+Date:   Thu Oct 9 08:56:32 2014 -0400
+
+    whoops now I really added my advice
+
+[33mcommit fc1c3d2ebad0af4da80cfbfcc257f42dad626031[m
+Merge: b0d1172 6dab9b5
+Author: dixieyogi <info@truepotentialmarketing.com>
+Date:   Thu Oct 9 08:52:42 2014 -0400
+
+    added my css
+
+[33mcommit b0d117251bbc9c8e94b74a03256d056f850c50b8[m
+Merge: df8cd3a 1c25797
+Author: dixieyogi <info@truepotentialmarketing.com>
+Date:   Thu Oct 9 08:47:04 2014 -0400
+
+    added my words of wisdom
+
+[33mcommit 6dab9b516d6e31ccd40f34fb1da1822efb4b7750[m
+Author: dixieyogi <info@truepotentialmarketing.com>
+Date:   Thu Oct 9 08:45:14 2014 -0400
+
+    Update style.css
+
+[33mcommit df8cd3a82f7776cd03f509add815220a012a8dea[m
+Author: dixieyogi <info@truepotentialmarketing.com>
+Date:   Thu Oct 9 07:54:40 2014 -0400
+
+    forking magic
+
+[33mcommit f0c1478ffe0f642ed566b35813ce4c29c2a2fc00[m
+Author: dixieyogi <info@truepotentialmarketing.com>
+Date:   Thu Oct 9 07:44:13 2014 -0400
+
+    edited Hello file
+
+[33mcommit c2c10cdc3aef1e8bf7edad45321dcce1639048cc[m
+Author: Neilda <neilda.pacquing@gmail.com>
+Date:   Wed Oct 8 22:13:42 2014 -0700
+
+    Advice and style
+
+[33mcommit 5f6b95a217a632c42c18c5ad8295a759084aa5e6[m
+Author: Kelly Murray <kelly@devbootcamp.com>
+Date:   Mon Oct 6 19:34:17 2014 -0700
+
+    added file
+
+[33mcommit 324ac67cd2854324b008462462ebebc2ef23f598[m
+Author: Paigelet <websales.cutrell@gmail.com>
+Date:   Fri Oct 3 15:20:51 2014 +0530
+
+    Added paige.rb
+
+[33mcommit 6c91c5bcf1d06eaf4d9d3187aaadad7a2921664e[m
+Author: Paigelet <websales.cutrell@gmail.com>
+Date:   Fri Oct 3 15:09:17 2014 +0530
+
+    Commit to clone of forked repo
+
+[33mcommit bbb78b27e31f13ce198b8643ec1918a7e05816b2[m
+Author: MellieP <melprisco@gmail.com>
+Date:   Wed Oct 1 12:25:35 2014 +0000
+
+    Commit Forked Melanie
+
+[33mcommit c0541008ae5197f5598ecb8caea7d4309e962aeb[m
+Author: katedp <kdegelau@gmail.com>
+Date:   Tue Sep 30 15:59:40 2014 -0700
+
+    my advice file
+
+[33mcommit 75dbd86b4c52fb266ff6fdc5f7ac69d9aac213e3[m
+Author: katedp <kdegelau@gmail.com>
+Date:   Tue Sep 30 14:29:10 2014 -0700
+
+    adding my file. better late than never.
+
+[33mcommit 1c25797525e6269c4ab447f768c52b77ddbe33f9[m
+Merge: 23149d7 863e1e9
+Author: emlaser <emily@emilydavis.com>
+Date:   Mon Sep 29 16:40:50 2014 -0400
+
+    Merge pull request #61 from Neilda/master
+    
+    my sparkling contribution
+
+[33mcommit 23149d7e8112d9224adf7b2158e2f94562e27a35[m
+Merge: 631d51d 1a790d3
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Mon Sep 29 16:40:45 2014 -0400
+
+    Merge branch 'master' of github.com:skillcrush/skillcrush-104
+
+[33mcommit 631d51dc00ee1b931916b6d0eeb90a02242e6284[m
+Merge: 3b69ace e85fdb6
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Mon Sep 29 16:40:11 2014 -0400
+
+    Merge branch 'shmgagnon-master'
+
+[33mcommit e85fdb6c582cd7aaa1d41fcf2329cf3a1555d66f[m
+Merge: 3b69ace 914b0a5
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Mon Sep 29 16:40:01 2014 -0400
+
+    Merge branch 'master' of github.com:shmgagnon/skillcrush-104 into shmgagnon-master
+    
+    Conflicts:
+    	index.html
+
+[33mcommit 1a790d383998eca6865c28aa068bc7be58c99e01[m
+Merge: 3b69ace c8f06c5
+Author: emlaser <emily@emilydavis.com>
+Date:   Mon Sep 29 16:38:53 2014 -0400
+
+    Merge pull request #58 from amymarlow/master
+    
+    amy
+
+[33mcommit 3b69acea2599bf77e104e874721e284143d59abd[m
+Merge: 725040f 3e8ec51
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Mon Sep 29 16:38:25 2014 -0400
+
+    Merge branch 'chrissygonzalez-master'
+
+[33mcommit 3e8ec5119114b8d7e802293564b4ab94e22841db[m
+Merge: 725040f 07c5774
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Mon Sep 29 16:38:12 2014 -0400
+
+    Merge branch 'master' of github.com:chrissygonzalez/skillcrush-104 into chrissygonzalez-master
+    
+    Conflicts:
+    	index.html
+    	style.css
+
+[33mcommit 725040fdf96f9e310e5089105bf7aae4a0276a5f[m
+Merge: 5dde1b4 6875f32
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Mon Sep 29 16:34:56 2014 -0400
+
+    Merge branch 'master' of github.com:skillcrush/skillcrush-104
+    
+    Conflicts:
+    	style.css
+
+[33mcommit 5dde1b4b915c3e46ef29c4386807016db34794be[m
+Merge: 4a5be2d e8c7c58
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Mon Sep 29 16:33:21 2014 -0400
+
+    Merge branch 'littlesparksf-master'
+
+[33mcommit e8c7c58e1babe7aad7c58cadc600ad495b1fe885[m
+Merge: 4a5be2d 8618289
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Mon Sep 29 16:33:05 2014 -0400
+
+    Merge branch 'master' of github.com:littlesparksf/skillcrush-104 into littlesparksf-master
+
+[33mcommit 6875f3246ac55447b5c7ffba8213d2f60243cf9a[m
+Merge: 4a5be2d 60b452f
+Author: emlaser <emily@emilydavis.com>
+Date:   Mon Sep 29 16:32:39 2014 -0400
+
+    Merge pull request #55 from SarahBagleyWebDesign/master
+    
+    My first commit
+
+[33mcommit 4a5be2d3390764f6d66394faef2d2a1e97770476[m
+Merge: 66eacda 310d40e
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Mon Sep 29 16:32:34 2014 -0400
+
+    Merge branch 'Spiritninja66-kennedy'
+
+[33mcommit 310d40eceb31fbcc0a852332b7f775652833cc2f[m
+Merge: 0a292b6 e1988bb
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Mon Sep 29 16:32:22 2014 -0400
+
+    Merge branch 'master' of github.com:skillcrush/skillcrush-104 into Spiritninja66-kennedy
+    
+    Conflicts:
+    	style.css
+
+[33mcommit e1988bbba0305871d99a728a1d0a3cb6ae10dd91[m
+Merge: 9dcc144 684bc3d
+Author: emlaser <emily@emilydavis.com>
+Date:   Mon Sep 29 16:29:55 2014 -0400
+
+    Merge pull request #53 from Spiritninja66/kennedy
+    
+    Added kennedy.rb file
+
+[33mcommit 863e1e9d3a6d43d60ca97e1d8041953ac4e9e9c4[m
+Author: Neilda <neilda.pacquing@gmail.com>
+Date:   Mon Sep 29 12:30:37 2014 -0700
+
+    my sparkling contribution
+
+[33mcommit 914b0a57bf98e92d439a7aec2caa4ca3025105cd[m
+Author: Shannon Gagnon <shannon.gagnon@gmail.com>
+Date:   Sun Sep 28 18:36:00 2014 -0400
+
+    Shannon's Advice
+
+[33mcommit 526a896740b560484ed4b2f3c907bcd73165793f[m
+Author: Shannon Gagnon <shannon.gagnon@gmail.com>
+Date:   Sun Sep 28 12:09:58 2014 -0400
+
+    new file
+
+[33mcommit 07c5774954533e29e060688d813a0b5b5bc251ff[m
+Author: Chrissy Gonzalez <chrissygonzalez@gmail.com>
+Date:   Sat Sep 27 22:43:59 2014 -0400
+
+    added advice from Chrissy
+
+[33mcommit c8f06c57c28aa8c6ff5319fc55081f27d1e6011d[m
+Author: Amy Marlow <amy.k.marlow@gmail.com>
+Date:   Fri Sep 26 19:24:37 2014 -0600
+
+    amy
+
+[33mcommit 60b452f3bde55160d146ec151f8b8af184b0506d[m
+Author: Sarah Bagley <sarahliz06@gmail.com>
+Date:   Fri Sep 26 14:12:30 2014 -0700
+
+    Commit for index.html
+
+[33mcommit d1b69fc27475354981ec2c7e29b2bf746bd73dde[m
+Author: Sarah Bagley <sarahliz06@gmail.com>
+Date:   Fri Sep 26 14:04:13 2014 -0700
+
+    Sarah Bagley advice commits
+
+[33mcommit 8618289cdf9a75c1de873fd6696e0f9c818cdb43[m
+Author: Kimberly Chase <kimberlychase@Kimberlys-MacBook-Air.local>
+Date:   Fri Sep 26 10:24:20 2014 -0700
+
+    changes name and deletes some text
+
+[33mcommit 72fb70806e2d4561c63718c77e038c2ab22c4f17[m
+Author: Kimberly Chase <kimberlychase@Kimberlys-MacBook-Air.local>
+Date:   Fri Sep 26 10:20:32 2014 -0700
+
+    Kim's file, changes to stylesheet and index
+
+[33mcommit ff1597ed8577700f9a1cd31fa5556648e4884287[m
+Author: Chrissy Gonzalez <chrissygonzalez@gmail.com>
+Date:   Thu Sep 25 19:41:21 2014 -0400
+
+    add chrissy gonzalez
+
+[33mcommit e404ffccc22193fa308195b567e94d704749bd8b[m
+Author: Kimberly <info@littlesparkmedia.com>
+Date:   Thu Sep 25 16:22:33 2014 -0700
+
+    adding hello
+
+[33mcommit c41cc284d5c8039d566a5a2a3621cc363d61a17e[m
+Author: Sarah Bagley <sarahliz06@gmail.com>
+Date:   Thu Sep 25 16:12:28 2014 -0700
+
+    My first commit
+
+[33mcommit 0a292b69d1e327ed812670f364f8be98b61fa38d[m
+Author: SpiritJinja66 <spiritninja66@aol.com>
+Date:   Wed Sep 17 10:31:47 2014 -0400
+
+    Added kennedy's advice html and css styles.
+
+[33mcommit 684bc3d1c6fbc75050d442f360309c846fef061c[m
+Author: SpiritJinja66 <spiritninja66@aol.com>
+Date:   Wed Sep 17 10:26:10 2014 -0400
+
+    Added new lines to confusion paragraph.
+
+[33mcommit 19759a58dcb7369b38a5d79f6c1c1e20a46e0b0f[m
+Author: SpiritJinja66 <spiritninja66@aol.com>
+Date:   Wed Sep 17 10:23:52 2014 -0400
+
+    updated advice template.
+
+[33mcommit 6763fe523a3110aaac557a3c6dd6d71f9e2275d3[m
+Author: SpiritJinja66 <spiritninja66@aol.com>
+Date:   Wed Sep 17 10:20:26 2014 -0400
+
+    Added styles for Kennedy's advice page.
+
+[33mcommit c3c8a18230465dd54291aa9ea4d9693bf79937b4[m
+Author: SpiritJinja66 <spiritninja66@aol.com>
+Date:   Tue Sep 16 13:06:03 2014 -0400
+
+    Added kennedy.rb file
+
+[33mcommit 9dcc144bf3d5c4e0c2721e2df847b34585867db1[m
+Merge: 0c15760 bca8c9a
+Author: emlaser <emily@emilydavis.com>
+Date:   Mon Sep 8 09:34:00 2014 -0400
+
+    Merge pull request #52 from karenmcn/master
+    
+    Karen's skillcrush revision ideas.
+
+[33mcommit bca8c9af80ddf061487d0cda0266dc083e5e9e77[m
+Author: Karen Nelson <karennelson@Karens-MacBook-Air.local>
+Date:   Sat Sep 6 15:55:13 2014 -0700
+
+    Karen's skillcrush revision ideas.
+
+[33mcommit 0c15760cd349f49363cf05c89f8963aaa5e0b4f7[m
+Merge: cad09ad 57bb97d
+Author: emlaser <emily@emilydavis.com>
+Date:   Wed Sep 3 15:40:26 2014 -0400
+
+    Merge pull request #51 from lsmithrodriguez/master
+    
+    Created lisa.rb
+
+[33mcommit cad09ad3149bbae3b8f466756d176e5d86b04200[m
+Merge: eab8a7a f6bcd09
+Author: emlaser <emily@emilydavis.com>
+Date:   Wed Sep 3 15:40:16 2014 -0400
+
+    Merge pull request #50 from mtowner/master
+    
+    mtowner-advice-template.html
+
+[33mcommit 57bb97d0d696f9fb2f022250f3bc1f4b0efe6905[m
+Author: Lisa S. Rodriguez <lsmithrodriguez@users.noreply.github.com>
+Date:   Tue Sep 2 13:34:01 2014 -0700
+
+    Created lisa.rb
+    
+    Experimenting with pushing and pulling
+
+[33mcommit f6bcd0978207d6524cbdf5a466472f7decb576c5[m
+Author: Maria Towner <mtowner87@gmail.com>
+Date:   Fri Aug 29 16:02:08 2014 -0500
+
+    edited Maria file
+
+[33mcommit eab8a7aad88529cbbf13732fa0c518a1fbbc713e[m
+Merge: 010a09c 388f9c9
+Author: emlaser <emily@emilydavis.com>
+Date:   Tue Aug 26 12:59:53 2014 -0400
+
+    Merge pull request #49 from photoplays/master
+    
+    michelle's advice page
+
+[33mcommit 388f9c99ec097521deb3fed276645384882b99e7[m
+Author: Michelle <michelle@photoplays.ca>
+Date:   Tue Aug 26 12:20:24 2014 -0400
+
+    Michelle's advice add
+
+[33mcommit 6fa764b7ed0eba57f85e4f7593ed1cf2c10d58df[m
+Merge: 5839ba4 010a09c
+Author: Michelle <michelle@photoplays.ca>
+Date:   Tue Aug 26 11:22:54 2014 -0400
+
+    Merge branch 'master' of github.com:skillcrush/skillcrush-104
+
+[33mcommit 5839ba44b2e0286d8832100ae29d3629fc75c88e[m
+Author: Michelle <michelle@photoplays.ca>
+Date:   Tue Aug 26 11:18:27 2014 -0400
+
+    another try
+
+[33mcommit 010a09c4fb9a83879d359724ed71afdfaa2b7ff6[m
+Merge: 66eacda 4eb4375
+Author: emlaser <emily@emilydavis.com>
+Date:   Tue Aug 26 10:41:00 2014 -0400
+
+    Merge pull request #48 from photoplays/master
+    
+    this is a fork
+
+[33mcommit 4eb437564eedacaca04af3debf57430a60c514e1[m
+Author: Michelle <michelle@photoplays.ca>
+Date:   Tue Aug 26 10:26:14 2014 -0400
+
+    this is a fork
+
+[33mcommit 66eacda092e50667ea820e4931484a3b0b2d6479[m
+Merge: 9462e61 02e19e6
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Aug 26 10:23:37 2014 -0400
+
+    Merge branch 'KeniseCodes-master'
+
+[33mcommit 02e19e62555d61e5b4350d010e55ec0c763b2873[m
+Merge: 9462e61 6b3def2
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Aug 26 10:23:19 2014 -0400
+
+    Merge branch 'master' of github.com:KeniseCodes/skillcrush-104 into KeniseCodes-master
+    
+    Conflicts:
+    	style.css
+
+[33mcommit 9462e61e0c52429e2eb6e3f33ca2bce894abc349[m
+Merge: 6d508fa faafd4f
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Aug 26 10:20:21 2014 -0400
+
+    Merge branch 'su6a12-master'
+
+[33mcommit faafd4f523496b2ad4c5f6e378d5c7fec6b40139[m
+Merge: 6d508fa 8566e01
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Aug 26 10:19:47 2014 -0400
+
+    Merge branch 'master' of github.com:su6a12/skillcrush-104 into su6a12-master
+    
+    Conflicts:
+    	style.css
+
+[33mcommit 6b3def2fc6ed23450e97bfee0b26f5131ed3717c[m
+Author: Kenise D. Scavella <keniset@gmail.com>
+Date:   Sat Aug 23 06:56:01 2014 -0400
+
+    Adding Kenise's Advice Page
+
+[33mcommit 1bdb886ce732e2fddfe5944f7faad62fa2aec7ea[m
+Merge: 4c93090 6d508fa
+Author: Kenise D. Scavella <keniset@gmail.com>
+Date:   Sat Aug 23 05:25:41 2014 -0400
+
+    Merge branch 'master' of github.com:skillcrush/skillcrush-104
+
+[33mcommit 6d508fa74a23b6486a03119f53b1f1247aebfbca[m
+Merge: c595dc8 f25c34f
+Author: emlaser <emily@emilydavis.com>
+Date:   Thu Aug 21 09:23:27 2014 -0400
+
+    Merge pull request #45 from paloobi/master
+    
+    Added Alex Advice HTML file, added to styles.css and added link in index.html
+
+[33mcommit 8566e01927ac95c2c984dd53fb40d93516da1de1[m
+Author: su6a12 <su6a12m3lon@gmail.com>
+Date:   Wed Aug 20 21:36:17 2014 -0700
+
+    add melissa's contribution
+
+[33mcommit 4c930909aa208c5dec3f492e67077c3cc25fde30[m
+Author: Kenise D. Scavella <keniset@gmail.com>
+Date:   Wed Aug 20 20:05:49 2014 -0400
+
+    Added Kenise.rb
+
+[33mcommit a706fc7024eb89a5d58c19fe5c54a3b3d1827157[m
+Author: su6a12 <su6a12m3lon@gmail.com>
+Date:   Tue Aug 19 21:08:05 2014 -0700
+
+    adding melissa's file
+
+[33mcommit f25c34f317ebd7f102b8ff8f3d668639538fbf92[m
+Author: paloobi <alexandra.polubiec@gmail.com>
+Date:   Wed Aug 6 22:48:11 2014 -0700
+
+    Added styles for Alex's advice HTML file
+
+[33mcommit 8332e9216f19342f4c41607cb54469776af3ec24[m
+Author: paloobi <alexandra.polubiec@gmail.com>
+Date:   Wed Aug 6 22:47:48 2014 -0700
+
+    Updated index.html with link to Alex's advice HTML file
+
+[33mcommit 621e4a684210996481be3b715957e23b210e1b1d[m
+Author: paloobi <alexandra.polubiec@gmail.com>
+Date:   Wed Aug 6 22:47:20 2014 -0700
+
+    Added Alex's advice HTML file
+
+[33mcommit c595dc8fb030aee8e77f7c77f5c3ec1444882945[m
+Merge: d4cae00 eb7ce0e
+Author: emlaser <emily@emilydavis.com>
+Date:   Wed Aug 6 10:27:53 2014 -0400
+
+    Merge pull request #44 from paloobi/master
+    
+    Added Alex file
+
+[33mcommit eb7ce0eebcc1e4388b92587d81e511f91c3406c1[m
+Author: paloobi <alexandra.polubiec@gmail.com>
+Date:   Wed Aug 6 00:10:42 2014 -0700
+
+    Added Alex file
+
+[33mcommit d4cae002bee08e5b2d7191ed23be2d08df82b1e1[m
+Merge: 04b41aa 966da59
+Author: emlaser <emily@emilydavis.com>
+Date:   Fri Aug 1 09:36:21 2014 -0400
+
+    Merge pull request #42 from KeriStoller/master
+    
+    Added Keri's Advice page & updated the index.html & style.css files
+
+[33mcommit 966da59a195abc5b59afea5297cd49b0f9e542bf[m
+Author: Keri Stoller <keristoller@gmail.com>
+Date:   Thu Jul 31 18:12:57 2014 -0700
+
+    Added Keri's Advice page & updated the index.html & style.css files
+
+[33mcommit 04b41aa60b0bd23dc9459c1773b88506a1f055b3[m
+Merge: a48294a 4aa146b
+Author: emlaser <emily@emilydavis.com>
+Date:   Sun Jul 27 11:35:58 2014 -0400
+
+    Merge pull request #41 from KeriStoller/master
+    
+    Added my keri.rb file
+
+[33mcommit a48294ac601558cf1ca4c0aba1bfad1f53dd0e02[m
+Merge: 7d705c2 d35b906
+Author: emlaser <emily@emilydavis.com>
+Date:   Sun Jul 27 11:35:52 2014 -0400
+
+    Merge pull request #40 from angelawyman/master
+    
+    angelawyman.rb
+
+[33mcommit 7d705c2d90782de5fd346f143bde3c245efaa7b0[m
+Merge: f29a044 3fbefeb
+Author: emlaser <emily@emilydavis.com>
+Date:   Sun Jul 27 11:35:18 2014 -0400
+
+    Merge pull request #39 from Margaret921/master
+    
+    added margaret.rb
+
+[33mcommit 3fbefeb275d65fae1fe9c128571e236d75012f0c[m
+Author: Margaret R. Moore <Margaret.Rita.Moore@gmail.com>
+Date:   Sat Jul 26 11:59:27 2014 -0400
+
+    added margaret's advice
+
+[33mcommit 4aa146be3fa124654fd23377852e394cc488e41f[m
+Author: Keri Stoller <keristoller@gmail.com>
+Date:   Fri Jul 25 22:55:25 2014 -0700
+
+    Added my keri.rb file
+
+[33mcommit d35b906ca65b7220c0d5e29832e2a77f8e4495d5[m
+Author: A Wyman <angelawyman@me.com>
+Date:   Fri Jul 25 22:37:23 2014 -0400
+
+    angelawyman.rb
+
+[33mcommit 99233a72ad95d000a5ec940b6ca0623b0d846373[m
+Author: Margaret R. Moore <Margaret.Rita.Moore@gmail.com>
+Date:   Fri Jul 25 19:30:41 2014 -0400
+
+    added margaret.rb
+
+[33mcommit f29a04499f5fdbc84713b72624c042bcfcdc914e[m
+Merge: 21c15bc 47d8551
+Author: emlaser <emily@emilydavis.com>
+Date:   Fri Jul 25 09:33:37 2014 -0400
+
+    Merge pull request #38 from ahartenstein/master
+    
+    Added Ally file
+
+[33mcommit 47d85511e8f547a5249a9f8f228020413063cb1e[m
+Author: Ally <ahartenstein@wustl.edu>
+Date:   Fri Jul 25 08:26:08 2014 -0400
+
+    Added Ally file
+
+[33mcommit 21c15bc9504549e4420327b4ba32b8a6e2b4b2e4[m
+Merge: c1956d8 4a40dbb
+Author: emlaser <emily@emilydavis.com>
+Date:   Wed Jul 23 22:21:00 2014 -0400
+
+    Merge pull request #37 from ChaseAmy/master
+    
+    Amy Cliett's advice challenge
+
+[33mcommit 4a40dbbc9dc27f7f7147f31b11b7349d507c4b0d[m
+Author: Amy Cliett <mrscliett@gmail.com>
+Date:   Wed Jul 23 22:08:54 2014 -0400
+
+    Added new html page
+    updated css file to include new html file
+
+[33mcommit c1956d87624fd0efad4951cfc5e22e6fd69e67a4[m
+Merge: 36302c2 8289890
+Author: emlaser <emily@emilydavis.com>
+Date:   Wed Jul 23 21:22:59 2014 -0400
+
+    Merge pull request #36 from jdturner88/master
+    
+    added jonathan.rb file
+
+[33mcommit 8289890b452d30da6a4af4799727b29af752cf9f[m
+Author: jdturner88 <jdturner88@gmail.com>
+Date:   Wed Jul 23 19:35:32 2014 -0400
+
+    added jonathan.rb file
+
+[33mcommit 36302c2b5044ae0f4e043a32f0bff3fd64cc4f73[m
+Merge: 5fd28ee 171abcd
+Author: emlaser <emily@emilydavis.com>
+Date:   Wed Jul 23 16:45:30 2014 -0400
+
+    Merge pull request #35 from ChaseAmy/master
+    
+    First commit on forked repository
+
+[33mcommit 5ad208a7300206b11fe6c39c2902160652e9ddaa[m
+Author: AmyC <mrscliett@gmail.com>
+Date:   Wed Jul 23 13:28:33 2014 -0400
+
+    Deleted duplicate file
+
+[33mcommit 171abcda87dd0f0944f22c6f2aef9aa349d62fd1[m
+Author: AmyC <mrscliett@gmail.com>
+Date:   Wed Jul 23 13:16:41 2014 -0400
+
+    First commit on forked repository
+
+[33mcommit 5fd28eec3a4379aec1a5315f209b43a77d6a56d3[m
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Jul 22 16:42:07 2014 -0400
+
+    fixing link to sarah's advice page
+
+[33mcommit 1c8c091f2a4e1fbf6bd62b4e76dd521ded37b79f[m
+Merge: 5cdc960 5469e2d
+Author: emlaser <emily@emilydavis.com>
+Date:   Tue Jul 22 16:39:22 2014 -0400
+
+    Merge pull request #33 from Kallistia/master
+    
+    Kallistia Giermek file edited
+
+[33mcommit 5cdc960f3e5e3e2fb5f9c02a150fc27593aa3abf[m
+Merge: 115030b c7793f5
+Author: emlaser <emily@emilydavis.com>
+Date:   Tue Jul 22 16:39:16 2014 -0400
+
+    Merge pull request #32 from lyndap/master
+    
+    added lynda file
+
+[33mcommit 115030b279b02ad901cbd290287a293ec7d0eb33[m
+Merge: 9400acc e417cf7
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Jul 22 16:38:41 2014 -0400
+
+    Merge branch 'evehoneybee-master'
+
+[33mcommit e417cf7d36be5a2292347f803b7f4ae6459ff11c[m
+Merge: 9400acc e4ee267
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Jul 22 16:38:36 2014 -0400
+
+    Merge branch 'master' of github.com:evehoneybee/skillcrush-104 into evehoneybee-master
+    
+    Conflicts:
+    	index.html
+    	style.css
+
+[33mcommit 9400acc7364c82249c4ccaae6db45ba848be14d3[m
+Merge: ed2a093 36c1e41
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Jul 22 16:36:19 2014 -0400
+
+    Merge branch 'master' of github.com:skillcrush/skillcrush-104
+
+[33mcommit ed2a0939d9b2640544b21e9c81cbf403dbd26331[m
+Merge: 7660973 e80ffc3
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Jul 22 16:36:03 2014 -0400
+
+    Merge branch 'jessmelvi-master'
+
+[33mcommit e80ffc391d074ad007727b7962c08f647aee8b3e[m
+Merge: 7660973 bb14b94
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Jul 22 16:35:52 2014 -0400
+
+    Merge branch 'master' of github.com:jessmelvi/skillcrush-104 into jessmelvi-master
+    
+    Conflicts:
+    	index.html
+    	style.css
+
+[33mcommit 36c1e41614c56a1d6332cc46198f7fbc75a297e3[m
+Merge: 7660973 5c876f6
+Author: emlaser <emily@emilydavis.com>
+Date:   Tue Jul 22 16:32:54 2014 -0400
+
+    Merge pull request #29 from ghost/master
+    
+    eve-bee.rb
+
+[33mcommit 766097367f9da9dca33bb63be0c53e0edc64761f[m
+Merge: 641e956 4ae66c5
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Jul 22 16:32:38 2014 -0400
+
+    Merge branch 'master' of github.com:skillcrush/skillcrush-104
+
+[33mcommit 641e95601dc373f97ce62371536d012dfc59b92b[m
+Merge: 6359ba1 3586c1e
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Jul 22 16:32:23 2014 -0400
+
+    Merge branch 'LyndiLeighWK-master'
+
+[33mcommit 3586c1e4154af8ec2c47b86a2b54ed2f155844b0[m
+Merge: 6359ba1 2c5d7f0
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Jul 22 16:32:10 2014 -0400
+
+    Merge branch 'master' of github.com:LyndiLeighWK/skillcrush-104 into LyndiLeighWK-master
+    
+    Conflicts:
+    	index.html
+    	style.css
+
+[33mcommit 4ae66c52b51fe21eb0c21244ebe41c3c0f5e51ec[m
+Merge: 6359ba1 702cd15
+Author: emlaser <emily@emilydavis.com>
+Date:   Tue Jul 22 16:28:14 2014 -0400
+
+    Merge pull request #27 from katelilly/master
+    
+    Kate's addition to the forked skillcrush-104 repository
+
+[33mcommit 6359ba116b794ea935cf2cf8c86a611f0899db37[m
+Merge: 241de2c 7025449
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Jul 22 16:27:53 2014 -0400
+
+    Merge branch 'cristylk-master'
+
+[33mcommit 702544907ed79f0e78e0031e5a8ff9afcb117c94[m
+Merge: 241de2c 225363d
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Jul 22 16:27:34 2014 -0400
+
+    Merge branch 'master' of github.com:cristylk/skillcrush-104 into cristylk-master
+    
+    Conflicts:
+    	index.html
+    	style.css
+
+[33mcommit 241de2ca5661adf0186d6a36c36804a7bfd4c0f7[m
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Jul 22 16:24:07 2014 -0400
+
+    fixing README
+
+[33mcommit fd1d04d5253759bcd68fc2d9eeb157d7f14a3bfc[m
+Merge: 3b51f7b 5c9f5dc
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Jul 22 16:22:53 2014 -0400
+
+    Merge branch 'CBrammar-master'
+
+[33mcommit 5c9f5dc2fcea06417c0db1c483be0f047221c219[m
+Merge: 3b51f7b 8d57f9b
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Jul 22 16:22:48 2014 -0400
+
+    Merge branch 'master' of github.com:CBrammar/skillcrush-104 into CBrammar-master
+    
+    Conflicts:
+    	index.html
+
+[33mcommit 3b51f7b8e08861c4f2ee8b15db10d3cb20258a99[m
+Merge: 405466d 1010ce6
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Jul 22 16:21:03 2014 -0400
+
+    Merge branch 'kathrynemary-master'
+
+[33mcommit 1010ce69f546a3a42a0fb1cc77c929a051bda11f[m
+Merge: 405466d 909ada4
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Jul 22 16:20:55 2014 -0400
+
+    Merge branch 'master' of github.com:kathrynemary/skillcrush-104 into kathrynemary-master
+    
+    Conflicts:
+    	index.html
+
+[33mcommit 405466d15eec24c74609efffed4acb138aaa3025[m
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Jul 22 16:17:41 2014 -0400
+
+    removing files that shouldn't be here!
+
+[33mcommit 14c1955f8c40bb19bd68e29f2259ce7697109d10[m
+Merge: 07165b2 185e070
+Author: emlaser <emily@emilydavis.com>
+Date:   Tue Jul 22 16:14:59 2014 -0400
+
+    Merge pull request #23 from mango79/master
+    
+    my new commit
+
+[33mcommit 07165b2d806532ebc85fef0d6f4f5f12d195262e[m
+Merge: 5de0c11 5d9ac00
+Author: emlaser <emily@emilydavis.com>
+Date:   Tue Jul 22 16:14:25 2014 -0400
+
+    Merge pull request #22 from deniselaw/master
+    
+    Yipee
+
+[33mcommit 5de0c1102b89bc174e5b9f0cd3d9331e607898a0[m
+Merge: 61aa965 e70f943
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Jul 22 16:14:09 2014 -0400
+
+    Merge branch 'tenshiemi-emily_advice'
+
+[33mcommit e70f9434f1239e01ea255c72ec6f36cf3280bbfe[m
+Merge: 61aa965 021b829
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Jul 22 16:14:00 2014 -0400
+
+    Merge branch 'emily_advice' of github.com:tenshiemi/skillcrush-104 into tenshiemi-emily_advice
+    
+    Conflicts:
+    	style.css
+
+[33mcommit 61aa965603de22bbfddcbb988bd1f72e7185008a[m
+Merge: 4076e40 d022796
+Author: emlaser <emily@emilydavis.com>
+Date:   Tue Jul 22 16:11:44 2014 -0400
+
+    Merge pull request #20 from tenshiemi/master
+    
+    Adding named file for Emily Chen
+
+[33mcommit 4076e40e35be4eae8ad52c500f91b96e31fa8727[m
+Merge: 9a42b82 7ddaad3
+Author: emlaser <emily@emilydavis.com>
+Date:   Tue Jul 22 16:11:27 2014 -0400
+
+    Merge pull request #19 from emilywiegand/master
+    
+    test forked add
+
+[33mcommit 9a42b82ba7ea3a5fb4797eebf372ec99ea62da50[m
+Merge: b1e326a 2c9c72a
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Jul 22 16:10:44 2014 -0400
+
+    Merge branch 'RandleTDBrowning-master'
+
+[33mcommit 2c9c72a8bd1baad7a4f8b92c521c04e0e79e4a5e[m
+Merge: b1e326a 740ede5
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Jul 22 16:10:33 2014 -0400
+
+    Merge branch 'master' of github.com:RandleTDBrowning/skillcrush-104 into RandleTDBrowning-master
+    
+    Conflicts:
+    	index.html
+    	style.css
+
+[33mcommit b1e326acfaa31ac469aeb61ccec5e908db06641b[m
+Merge: 4377b7c 0486bc6
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Jul 22 16:08:28 2014 -0400
+
+    Merge branch 'master' of github.com:skillcrush/skillcrush-104
+
+[33mcommit 4377b7c18160820d90a4c4abf16e31ea0bfebad0[m
+Merge: e1773ea 5ba6b26
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Jul 22 16:08:13 2014 -0400
+
+    Merge branch 'CodeGreer-master'
+
+[33mcommit 5ba6b261acf05aba22a8dcc8c6bf291f412249c5[m
+Merge: e1773ea 2434dc4
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Jul 22 16:08:02 2014 -0400
+
+    Merge branch 'master' of github.com:CodeGreer/skillcrush-104 into CodeGreer-master
+    
+    Conflicts:
+    	index.html
+    	style.css
+
+[33mcommit 0486bc6198942fc59b145852b563477d3547f0b3[m
+Merge: 3607214 cd0ddf2
+Author: emlaser <emily@emilydavis.com>
+Date:   Tue Jul 22 16:06:25 2014 -0400
+
+    Merge pull request #16 from mariemosley/master
+    
+    marie mosley commit
+
+[33mcommit 360721416664323028dd4436c1d582501db29893[m
+Merge: e1773ea 8f1ed41
+Author: emlaser <emily@emilydavis.com>
+Date:   Tue Jul 22 16:06:09 2014 -0400
+
+    Merge pull request #4 from tinekef/master
+    
+    Changes made for challenge
+
+[33mcommit e1773eae848d3a7386012fab6d3986055651fb07[m
+Merge: cbebc59 c795a29
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Jul 22 16:05:46 2014 -0400
+
+    Merge branch 'amirahaile-master'
+
+[33mcommit c795a29bc324a320406b61883271efe44288e4df[m
+Merge: cbebc59 5a98561
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Jul 22 16:05:36 2014 -0400
+
+    Merge branch 'master' of github.com:amirahaile/skillcrush-104 into amirahaile-master
+    
+    Conflicts:
+    	index.html
+    	style.css
+
+[33mcommit cbebc59835e1a1e47110ae84b73ed416e417990a[m
+Merge: ac7fa7f d7c8a74
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Jul 22 16:02:54 2014 -0400
+
+    Merge branch 'rosskinney-my_advice_branch'
+
+[33mcommit d7c8a74add523bc0ae57b6dbe5f6dc16662013c4[m
+Merge: ac7fa7f 08940cb
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Jul 22 16:02:42 2014 -0400
+
+    Merge branch 'my_advice_branch' of github.com:rosskinney/skillcrush-104 into rosskinney-my_advice_branch
+    
+    Conflicts:
+    	index.html
+    	style.css
+
+[33mcommit ac7fa7f50944c18b95a26a17c6a8b81c4a301a4f[m
+Merge: 77cd04f 3b53277
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Jul 22 15:59:47 2014 -0400
+
+    Merge branch 'stevebrown-master'
+
+[33mcommit 3b53277171d6754564af312b7a8ab81c5e4083a7[m
+Merge: 77cd04f 50959e1
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Jul 22 15:59:26 2014 -0400
+
+    Merge branch 'master' of github.com:stevebrown/skillcrush-104 into stevebrown-master
+    
+    Conflicts:
+    	style.css
+
+[33mcommit 77cd04f332d78f0311b05be7b214a2352ad5a7c3[m
+Merge: 36f90cb 78dfe61
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Jul 22 15:55:34 2014 -0400
+
+    Merge branch 'kimdsanders-master'
+
+[33mcommit 78dfe61639e8f954ea5659ac9358720fdab5835b[m
+Merge: 36f90cb 6cdabd2
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Tue Jul 22 15:55:20 2014 -0400
+
+    Merge branch 'master' of github.com:kimdsanders/skillcrush-104 into kimdsanders-master
+    
+    Conflicts:
+    	index.html
+    	style.css
+
+[33mcommit 36f90cb0336b4f856f88977eb8510f1b8014d8f5[m
+Merge: 83f65b1 f268827
+Author: emlaser <emily@emilydavis.com>
+Date:   Tue Jul 22 10:34:50 2014 -0400
+
+    Merge pull request #11 from deblevynyc/master
+    
+    Deb Levy's advice page
+
+[33mcommit 5469e2d3d4be7eae79e6a16559be4b8f411b1357[m
+Author: Kallistia <kallistiagiermek@gmail.com>
+Date:   Mon Jul 21 15:14:30 2014 -0500
+
+    Adding Kallistia Giermek's advice. HTML and CSS
+
+[33mcommit 1c83e6302245128af2cee8e1c19a9b316bcd8916[m
+Author: Kallistia <kallistiagiermek@gmail.com>
+Date:   Mon Jul 21 09:30:51 2014 -0500
+
+    Kallistia Giermek file edited
+
+[33mcommit c7793f548ee2c3a2a9f2c140290e359068c03cbe[m
+Author: Lynda <lyndap@gmail.com>
+Date:   Sun Jul 20 22:40:47 2014 -0700
+
+    added lynda file
+
+[33mcommit bb14b941cd132cb594daef798cc885bdbb4d1ebc[m
+Author: Jessica Melville Goodin <jessmelvi@yahoo.com>
+Date:   Sun Jul 20 22:12:19 2014 -0500
+
+    adding jess-melvi-advice.html and modifying style.css as well as index.html to include my styles and my link
+
+[33mcommit e4ee267ab10227808a1d82d58bae5f1809ff83ea[m
+Author: Eve Honey Bee <evebrettell@gmail.com>
+Date:   Sun Jul 20 23:35:22 2014 +0200
+
+    added advice page
+
+[33mcommit 5e8e2ee3e5dd89b683101dd104294d8c1907fda8[m
+Author: Eve Honey Bee <evebrettell@gmail.com>
+Date:   Sun Jul 20 23:02:48 2014 +0200
+
+    adding evebee file
+
+[33mcommit f8bbe17690a7f675577b9a722990020bca8e3ccf[m
+Author: Jessica Melville Goodin <jessmelvi@yahoo.com>
+Date:   Sun Jul 20 10:19:19 2014 -0500
+
+    added jessfirstforkedfile.rb file to forked sc repo
+
+[33mcommit 2c5d7f0b9aeac26560b3193975fb1eaa46c4e523[m
+Author: LyndiLeighWK <lyndi.weener.kuiper@gmail.com>
+Date:   Sat Jul 19 16:50:35 2014 -0400
+
+    add lyndi's advice page
+
+[33mcommit 5c876f62692f6507f1cd787f830cf1fd284a0c72[m
+Author: HoneyBee <evebrettell@gmail.com>
+Date:   Sat Jul 19 03:00:53 2014 +0200
+
+    eve-bee.rb
+
+[33mcommit 21910f60c33475ea41f5a29b8e8c973de3e158b6[m
+Author: LyndiLeighWK <lyndi.weener.kuiper@gmail.com>
+Date:   Fri Jul 18 15:45:01 2014 -0400
+
+    my commit to the forked skillcrush repo
+
+[33mcommit 225363d82a31371694b30e3e2d6624df427e205b[m
+Author: cristylk <cristy.koebler@gmail.com>
+Date:   Fri Jul 18 15:02:26 2014 -0400
+
+    Cristy Koebler advice file closing bracket added
+
+[33mcommit 890ed6e981c059a3896b00b4b1690c9c1185ca81[m
+Author: cristylk <cristy.koebler@gmail.com>
+Date:   Fri Jul 18 14:44:11 2014 -0400
+
+    Cristy Koebler file added
+
+[33mcommit 702cd15ba89548dd482ee5848c2273152fe94e78[m
+Author: Kate Lilly <lilly915@gmail.com>
+Date:   Thu Jul 17 19:18:26 2014 -0500
+
+    Kate's addition to the forked skillcrush-104 repository
+
+[33mcommit 8d34f9c0cd9d8e8d25d33b684082d0e7b9dad073[m
+Author: cristylk <cristy.koebler@gmail.com>
+Date:   Thu Jul 17 14:57:04 2014 -0400
+
+    Adding Cristy Koebler
+
+[33mcommit 8d57f9ba8494ce19d9ec3be663152ae19736284d[m
+Author: CBrammar <cbrammar@premiacapital.com>
+Date:   Tue Jul 8 11:03:20 2014 +0200
+
+    linked cbrammar-advice to index.html
+
+[33mcommit 7ae907916161adc1f6bdf8c2b6ac1e3f67a6df55[m
+Author: CBrammar <cbrammar@premiacapital.com>
+Date:   Tue Jul 8 10:55:01 2014 +0200
+
+    cbrammar advice page and style sheet added
+
+[33mcommit 55915b5f9c20c7b34389dfff9c70329a28a2e816[m
+Author: CBrammar <cbrammar@premiacapital.com>
+Date:   Mon Jul 7 14:24:32 2014 +0200
+
+    new cbrammar file
+
+[33mcommit 909ada405f912bcc60b213772c8ab2f14920ff61[m
+Author: Kathryne <kathrynemary@gmail.com>
+Date:   Sun Jul 6 16:37:20 2014 -0700
+
+    Adding advice, modifying index to include it.
+
+[33mcommit c32e39ff26e9877634a42297f70a0724c7cb0b98[m
+Author: Kathryne <kathrynemary@gmail.com>
+Date:   Tue Jul 1 17:57:39 2014 -0700
+
+    added 1 file
+
+[33mcommit 185e0700b9bd06e4ee4463ed43f79a02eaea67c9[m
+Author: Maritza <curlyhazel79@gmail.com>
+Date:   Tue Jun 17 20:01:14 2014 -0500
+
+    My advice commit
+
+[33mcommit 2e73fe221f098aa804ed0a2026caf210ed6dd28c[m
+Author: Maritza <curlyhazel79@gmail.com>
+Date:   Mon Jun 16 19:14:03 2014 -0500
+
+    index.html commit
+
+[33mcommit b09f822c1f26c53e973c51dd07d77a58464524cb[m
+Author: Maritza <curlyhazel79@gmail.com>
+Date:   Mon Jun 16 18:53:43 2014 -0500
+
+    my new commit
+
+[33mcommit 5d9ac00f551ff053922993298a4e16150c220a15[m
+Merge: ce6aef6 83f65b1
+Author: Denise Law <denise.law@hotmail.com>
+Date:   Sat Jun 7 19:04:10 2014 +0100
+
+    yes
+
+[33mcommit ce6aef6e73b22a0961d332a4be9c26383184e471[m
+Author: Denise Law <denise.law@hotmail.com>
+Date:   Sat Jun 7 18:52:33 2014 +0100
+
+    woohoo
+
+[33mcommit 55164d0ca706a5252d221ec38588c6221e1e13eb[m
+Author: Denise Law <denise.law@hotmail.com>
+Date:   Sat Jun 7 18:28:18 2014 +0100
+
+    awesome
+
+[33mcommit 021b829e788fd27ad359b81428df21e098b7b6ce[m
+Author: Emily Chen <tenshiemi@gmail.com>
+Date:   Sat Jun 7 08:52:39 2014 -0700
+
+    Updated Emily advice and styles
+
+[33mcommit c0b3f3ff17e3db536b5f30f6f94202380b9ba844[m
+Author: Emily Chen <tenshiemi@gmail.com>
+Date:   Fri Jun 6 16:17:23 2014 -0700
+
+    Adding new Emily's Advice page
+
+[33mcommit d022796241fcc55f6cd85efd85c12cc672d37aea[m
+Author: Emily Chen <tenshiemi@gmail.com>
+Date:   Fri Jun 6 10:16:03 2014 -0700
+
+    Adding my file
+
+[33mcommit 7ddaad3124cc14e88b766cb9a6de9439eba25de7[m
+Author: Emily Wiegand <emilywie@gmail.com>
+Date:   Thu Jun 5 22:31:46 2014 -0500
+
+    test forked add
+
+[33mcommit 740ede5e2d1565e32f0efa11595c605ac3ab2c35[m
+Author: Randle TD Browning <randi.dube@gmail.com>
+Date:   Wed Jun 4 16:03:38 2014 -0500
+
+    Second try - Randle's advice page changes on html and css files
+
+[33mcommit 27785eadd71e78de75621caf0e8bd84b4a94ffd7[m
+Author: Randle TD Browning <randi.dube@gmail.com>
+Date:   Wed Jun 4 16:02:21 2014 -0500
+
+    Add Randle's advice page
+
+[33mcommit 2434dc44b9365b2472adf85ee3777d76cb8bedbb[m
+Author: Code Greer <tjed.greer@gmail.com>
+Date:   Wed Jun 4 13:12:09 2014 -0400
+
+    fixed a css error
+
+[33mcommit 85785639863be1ee1adfd60c1d7b33c21bb06b76[m
+Author: Code Greer <tjed.greer@gmail.com>
+Date:   Wed Jun 4 13:03:08 2014 -0400
+
+    sarah's advice page, css, and link added to index
+
+[33mcommit cd0ddf2bb9e8976e0474a691cf26d7da22a40e53[m
+Author: Marie Mosley <mariemosley@gmail.com>
+Date:   Wed Jun 4 10:08:58 2014 -0400
+
+    marie mosley commit
+
+[33mcommit 50959e18eec92a40dda870f9b7bbf2fa80ce9e2b[m
+Author: Steve Brown <steve.brown@veuxlabs.com>
+Date:   Tue Jun 3 22:10:17 2014 -0400
+
+    Forgot to add the updated Index and Style files
+
+[33mcommit 8732ddbf06dd35b3a55795a31a0e0d10941109ef[m
+Author: Steve Brown <steve.brown@veuxlabs.com>
+Date:   Tue Jun 3 22:06:44 2014 -0400
+
+    Adding Steve B's advice
+
+[33mcommit 5a9856172c88552745e5e28804f520dc243ef058[m
+Author: amirahaile <amira.dhaile@gmail.com>
+Date:   Tue Jun 3 10:40:51 2014 -0700
+
+    adding my terrible styling
+
+[33mcommit 7bef573a7ec1d7b9f06e8776bcfac5822ec36064[m
+Author: amirahaile <amira.dhaile@gmail.com>
+Date:   Tue Jun 3 10:40:22 2014 -0700
+
+    adding my link
+
+[33mcommit 7c050a0f361a054eb1f4a48a5235db34a2834169[m
+Author: amirahaile <amira.dhaile@gmail.com>
+Date:   Tue Jun 3 10:40:15 2014 -0700
+
+    adding amira's advice
+
+[33mcommit 624715b646f9baddd96e3c51db9ec627b31d2744[m
+Author: amirahaile <amira.dhaile@gmail.com>
+Date:   Tue Jun 3 09:24:27 2014 -0700
+
+    adding myself
+
+[33mcommit 08940cb0f450c042b4985190bd220e8b422b1410[m
+Author: MakerSquare Student <ross@rossgkinney.com>
+Date:   Mon Jun 2 20:56:31 2014 -0600
+
+    Finish html and css updates for rosskinney.advice page
+
+[33mcommit 7f23e8a71e3fc18a44a8d41ae113aeb3c5235af5[m
+Author: Steve Brown <steve.brown@veuxlabs.com>
+Date:   Mon Jun 2 22:55:35 2014 -0400
+
+    Steve B's commit
+
+[33mcommit 2c6fb48e9c594bf301d5f24b304d6823c5d18c92[m
+Author: MakerSquare Student <ross@rossgkinney.com>
+Date:   Mon Jun 2 19:25:42 2014 -0600
+
+    initial changes to add rosskinney-advice html and css files
+
+[33mcommit 6cdabd278f8a94f911768f18bee0ee8068f2d11a[m
+Merge: 08652ff 83f65b1
+Author: Kimberly <kimdionnesanders@gmail.com>
+Date:   Mon Jun 2 21:07:01 2014 -0400
+
+    Merge branch 'master' of github.com:skillcrush/skillcrush-104
+
+[33mcommit 08652ff71378105737e15db48b48bd9b2e8b8318[m
+Author: Kimberly <kimdionnesanders@gmail.com>
+Date:   Mon Jun 2 20:56:29 2014 -0400
+
+    add kimsanders advice page
+
+[33mcommit 4b2974a265bfcdbb2edd248b6e39adc1994c1de7[m
+Author: Kimberly <kimdionnesanders@gmail.com>
+Date:   Mon Jun 2 20:47:33 2014 -0400
+
+    add kimsanders advice page
+
+[33mcommit f268827490190d92b0bcdaf10873c892a3078e1c[m
+Author: Deb Levy <deblevy@me.com>
+Date:   Mon Jun 2 18:40:30 2014 -0400
+
+    adds link to Deb Levy's page
+
+[33mcommit b5c04aa442ba1d0ae637d3ffa93f97636ea0fdcb[m
+Author: Deb Levy <deblevy@me.com>
+Date:   Mon Jun 2 18:39:47 2014 -0400
+
+    Deb Levy's css
+
+[33mcommit 75b19e25fa65620be2f3bb3569c3f69378108fd5[m
+Author: Deb Levy <deblevy@me.com>
+Date:   Mon Jun 2 18:39:07 2014 -0400
+
+    Deb Levy's advice page
+
+[33mcommit b26f51dd329724bd087697b0618c4b02674ae290[m
+Merge: 78ff26c 83f65b1
+Author: MakerSquare Student <ross@rossgkinney.com>
+Date:   Mon Jun 2 16:38:09 2014 -0600
+
+    Pull upstream changes to local repo.
+    Merge branch 'master' of github.com:skillcrush/skillcrush-104
+
+[33mcommit 83f65b1a4a747e6af3bce1393d8a13e3af9a1804[m
+Merge: 0a2e47d 0ab3a60
+Author: Skillcrush <hello@skillcrush.com>
+Date:   Mon Jun 2 14:11:12 2014 -0400
+
+    Merge pull request #10 from goodtimesnoodlesalad/master
+    
+    Committing my Ruby file to the skillcrush-104 repo
+
+[33mcommit 0ab3a60f217bed37e7c5ef429524284df32b2a76[m
+Author: goodtimesnoodlesalad <sbarnard85@gmail.com>
+Date:   Mon Jun 2 18:02:33 2014 +0000
+
+    Committing my Ruby file to the skillcrush-104 repo
+
+[33mcommit 0a2e47dc70bbba73b4b618691f03bf2406ffae69[m
+Merge: 2d057f9 c46b3d6
+Author: Skillcrush <hello@skillcrush.com>
+Date:   Mon Jun 2 13:55:47 2014 -0400
+
+    Merge pull request #9 from bbmatson/master
+    
+    edited barbaramatson file
+
+[33mcommit c46b3d6391c4e5e51eed0032b9e29e2a293248f2[m
+Author: Barbara Matson <barbaramatson@usa.net>
+Date:   Mon Jun 2 13:58:25 2014 -0400
+
+    edited barbaramatson file
+
+[33mcommit 2d057f97b77d01b180b286328ef53b3a9bf4bc59[m
+Merge: 17ec0d2 f0729c8
+Author: Skillcrush <hello@skillcrush.com>
+Date:   Mon Jun 2 13:55:29 2014 -0400
+
+    Merge pull request #8 from ypadron/master
+    
+    Fork Skillcrush's Public Repository
+
+[33mcommit 17ec0d20a65d0ba5adf8ff374f4d00e712eac943[m
+Merge: 9033217 984a37f
+Author: Skillcrush <hello@skillcrush.com>
+Date:   Mon Jun 2 13:55:11 2014 -0400
+
+    Merge pull request #7 from kimdsanders/master
+    
+    This is my skillcrush clone
+
+[33mcommit f0729c828c9e075109fc0af5f4e11709814c2832[m
+Author: ypadron <ypadron82@gmail.com>
+Date:   Sun Jun 1 23:32:33 2014 -0400
+
+    Fork Skillcrush's Public Repository
+
+[33mcommit 984a37f7e44c45a5b28aca8cfd17416096590995[m
+Author: Kimberly <kimdionnesanders@gmail.com>
+Date:   Sun Jun 1 19:51:03 2014 -0400
+
+    This is my skillcrush clone
+
+[33mcommit 903321737ce8b30e71b968dac12d487d6c77cdcd[m
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Sun Jun 1 18:39:20 2014 -0400
+
+    adding files for new collaboration challenge!
+
+[33mcommit d8f84032dd3432fef74a255b48eccac64f580a18[m
+Merge: ee93e41 886a05d
+Author: Skillcrush <hello@skillcrush.com>
+Date:   Sun Jun 1 17:52:30 2014 -0400
+
+    Merge pull request #6 from stockwellaz/master
+    
+    This is from Raelyn
+
+[33mcommit ee93e4121c1ba6d4b6c2913dc0ded6c7b227b73c[m
+Merge: a086d80 be4a88f
+Author: Skillcrush <hello@skillcrush.com>
+Date:   Sun Jun 1 17:51:44 2014 -0400
+
+    Merge pull request #5 from RandleTDBrowning/master
+    
+    edited Randle file
+
+[33mcommit a086d80775b722710eebf2faf7310893f2ac937e[m
+Merge: a8a8ef7 5296492
+Author: Skillcrush <hello@skillcrush.com>
+Date:   Sun Jun 1 17:49:44 2014 -0400
+
+    Merge pull request #3 from CodeGreer/master
+    
+    Adding sarahgreer.rb
+
+[33mcommit a8a8ef749ec86ebc7e9f5ff6e47b935f9612b45c[m
+Merge: 2f53655 514757c
+Author: Skillcrush <hello@skillcrush.com>
+Date:   Sun Jun 1 17:48:32 2014 -0400
+
+    Merge pull request #2 from deblevynyc/master
+    
+    test for forking lesson
+
+[33mcommit 2f53655e7852fb8b970d66b2921ba8c40ebf059d[m
+Merge: 2488794 dabe50b
+Author: Skillcrush <hello@skillcrush.com>
+Date:   Sun Jun 1 17:48:17 2014 -0400
+
+    Merge pull request #1 from rosskinney/master
+    
+    Commit new file
+
+[33mcommit 886a05d8b1d62812f5a00dbb9b388fcd2e72a745[m
+Author: Raelyn Stockwell <rstockwell@cox.net>
+Date:   Sun Jun 1 13:47:36 2014 -0700
+
+    This is from Raelyn
+
+[33mcommit be4a88f8f9c0128d878672f2634630ba2d62b3d4[m
+Author: Randle TD Browning <randi.dube@gmail.com>
+Date:   Sun Jun 1 14:19:38 2014 -0500
+
+    edited Randle file
+
+[33mcommit 8f1ed41da36ce6f0a397721f15be0c51388d4f14[m
+Author: Tineke <tinekemariafranssen@gmail.com>
+Date:   Sun Jun 1 18:09:15 2014 +0200
+
+    Changes made for challenge
+
+[33mcommit 5296492480cb35252032b67bea736d6b849fd52e[m
+Author: Code Greer <tjed.greer@gmail.com>
+Date:   Sun Jun 1 11:04:06 2014 -0400
+
+    Adding sarahgreer.rb
+
+[33mcommit 514757cd126528428b628b0ade24300b637416b0[m
+Author: Deb Levy <deblevy@me.com>
+Date:   Sat May 31 14:56:16 2014 -0400
+
+    test for forking lesson
+
+[33mcommit 78ff26c56114fc193a79e1cfd1a3854dff59dcc1[m
+Author: MakerSquare Student <ross@rossgkinney.com>
+Date:   Sat May 31 11:45:10 2014 -0600
+
+    Commit blog.rb file
+
+[33mcommit dabe50ba5f2462f2c5f1ab4e14bf39353288a2b1[m
+Author: MakerSquare Student <ross@rossgkinney.com>
+Date:   Fri May 30 15:09:36 2014 -0600
+
+    Commit new file
+
+[33mcommit 24887946d8cbd64c87b08e6cf453dabec49c018d[m
+Author: Skillcrush <hello@skillcrush.com>
+Date:   Fri May 30 09:20:07 2014 -0400
+
+    Update README.md
+
+[33mcommit 19c9ff02f3206a857247624154effe65a92564b5[m
+Author: Skillcrush <hello@skillcrush.com>
+Date:   Fri May 30 09:19:27 2014 -0400
+
+    Update README.md
+
+[33mcommit bb4f098ffe08fdff14dde18d5d0df9cb70254dde[m
+Author: Skillcrush <hello@skillcrush.com>
+Date:   Fri May 30 09:16:29 2014 -0400
+
+    Initial commit
+
+[33mcommit 808f29b3f61b68983ca81e5a8e6b334a57de1579[m
+Author: emlaser <emily@emilydavis.com>
+Date:   Thu May 29 14:36:16 2014 -0400
+
+    Create README.md
+
+[33mcommit dab86fcab2b574d7f2915c990bcebd77ebb2130a[m
+Author: Emily Davis <emily@emilydavis.com>
+Date:   Thu May 29 14:34:59 2014 -0400
+
+    first commit
