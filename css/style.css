@@ -1595,7 +1595,6 @@ border-radius:0 5px 5px 0;}
 
 /** End of Chloe's Styles **/
 
-<<<<<<< HEAD
 /** Vicki's styles **/
 .vickigreer-advice {
 	color: darkblue;
@@ -1674,7 +1673,6 @@ border-radius:0 5px 5px 0;}
   background-position: center;
  }
  /** end of Anthony's style **/
-=======
 .fureigh-advice {
   font-family: 'Source Sans Pro';
   padding: 5% 30% 0 10%;
@@ -1852,3 +1850,20 @@ padding: 10px;
 color: grey;
 }
 /**end of Alice's styles **/
+
+/*Sami's Pink Text */
+
+.samim-advice {
+	background-color: #000000;
+}
+.samim-advice p {
+	color: #FF00FF;
+	font-family: sans-serif;
+	font-size: 18px;
+	}
+	
+.samim-advice h1 {
+	color: #FF00FF;
+	font-family: sans-serif;
+	font-size: 36px;
+}
