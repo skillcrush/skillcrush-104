@@ -36,6 +36,12 @@ font-family: 'Poiret One', cursive;
   margin: 20px;
   padding:20px 40px;
 }
+/** Albert Ramirez Styles **/
+.albert-advice h1 {
+font-family:'Open Sans', sans-serif;
+font-size: 2em;
+text-align: center;
+}
 
 .camie-advice h1 {
 	font-size: 2em;
