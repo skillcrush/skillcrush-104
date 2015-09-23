@@ -1,0 +1,17 @@
+h1{
+   font-family: georgia;
+   font-size: 48px;
+    color: crimson;
+}
+
+h4 {font-family: georgia;
+    font-size: 36px;
+    color: crimson;
+}
+
+body {background: mediumturquoise;
+      color: crimson;
+      font-family: georgia;
+      font-size: 24px;
+      margin: 25px 200px 200px 25px;
+        }
