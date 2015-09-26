@@ -376,7 +376,47 @@ body.whitney-advice{
 
 /**End Dima's Styles**/
 
+/**Jessica O's style sheet**/
 
+body.jessicao-advice  {
+    background-attachment: fixed;
+    background-clip: border-box;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: url("http://farm3.static.flickr.com/2079/2351178797_495e41138c.jpg");
+    background-origin: padding-box;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div.jessicao-advice p {
+	color: white;
+	font-family: 'Raleway', sans-serif;
+	font-size:15px;
+	text-align: justify;
+	margin-right: 20px;
+	padding-bottom: 20px;
+}
+
+body.jessicao-advice h1 {
+	color: white;
+    font-family: "Megrim",cursive;
+    font-size: 75px;
+}
+
+
+div.jessicao-advice h4 {
+	color: white;
+	font-family: "Megrim",cursive;
+    font-size: 25px;
+	padding-bottom: 10px;
+    padding-left: 0;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+
+
+/**End Jessica O's Style Sheet**/
 
 /**Emily Jo's style sheet**/
 
