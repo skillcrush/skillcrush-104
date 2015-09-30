@@ -1,0 +1,32 @@
+/** Natalya's Style **/
+
+.natalya-patrikeeva-advice h1 {
+	color: #333;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  font-size: 70px;
+  margin-top: 0;
+  margin-bottom: 80px;
+  text-transform: uppercase;
+
+}
+
+.natalya-patrikeeva-advice a {
+	margin-right: 10px;
+  border: 0.5px solid #333333;
+}
+
+
+.advice h4 {
+	background-color: #333333;
+}
+
+.advice p {
+	background-color: #333333;
+}
+
+.footer p {
+	background-color: #333;
+  color: #fff;
+  padding: 30px 0;
+}
