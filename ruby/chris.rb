@@ -1,1 +1,1 @@
-puts "Hello Skillcrush! I'm forking this repository to you! Yay!"
+puts "Hi! I'm Chris :)"
