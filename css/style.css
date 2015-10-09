@@ -2105,3 +2105,25 @@ body.emilychapman-advice {
 	}
 
 /** End of Emily Chapman's Styles **/
+
+/** Kristin Clement's Styles **/
+
+body.kristinclement-advice {
+  background-color:FFFFFF;
+  font-family: Times New Roman;
+  text-align: justify;
+}
+
+.kristinclement-advice h4 {
+  color: #000000;
+}
+
+
+.kristinclement-advice h1 {
+  text-align: center;
+  background-color: #ffffff;
+  color: #000000;
+  font-family: Times New Roman;
+}
+
+/** End of Kristin Clement's Styles **/
