@@ -24,6 +24,26 @@
 
 /*end Clint Johnson's Styles*/
 
+/**Taiwei's style sheet**/
+html.taiwei-advice{
+    background: #333 url('https://images.unsplash.com/uploads/14125120591540eb48427/c1c4b1aa?q=80&fm=jpg&s=48e7fdc5e7f701d289b7134d55211768') center center no-repeat;
+    background-size: cover;
+    color:#532827;
+}
+#taiwei_container{
+    width: 400px;
+    margin:40px auto 0;
+    padding: 50px;
+    box-sizing:border-box;
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3kmOeRmB2UO58ijPzIrEC-9_Gwu5QXY7QhMhwx9eYh_ierqYoOQ")top left repeat;
+    box-shadow:0 10px 15px -8px #000;
+    -webkit-border-radius:5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    text-align:center;
+}
+/**Taiwei's Style Sheet**/
+
 /** Jubilee Bredenberg's Styles **/
 .jubileebredenberg-advice {
 	background-color: rgb(230, 230, 0);
