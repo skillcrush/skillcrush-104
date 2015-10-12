@@ -79,6 +79,28 @@
   font-size: 16px;
   color:#2b1f39;
 }
+/*~~~~~~~~~~Katrin's Styles~~~~~~~~~~*/
+.britni-advice {
+  width:600px;
+  margin-right:auto;
+  margin-left:auto;
+  background-color:#086956;
+}
+.britni-advice h1{
+  font: Garamond;
+  font-size: 48px;
+  color:#FFFFFF;
+}
+.britni-advice h4{
+  font: helvetica;
+  font-size:32px;
+  color:#FFFFFF:
+}
+.britni-advice p{
+  font: helvetica;
+  font-size: 16px;
+  color:#FFFFFF;
+}
 
 /** Marshmeryl Styles **/
 
