@@ -2147,3 +2147,31 @@ body.kristinclement-advice {
 }
 
 /** End of Kristin Clement's Styles **/
+
+/** Dayis Patterson's Styles **/
+body.dayispatterson-advice {
+	background-color: #C4C4C4;
+	font-family: Times New Roman;
+	text-align: justify;
+	margin-left: 25%;
+	width: 50%;
+}
+.dayispatterson-advice h1, h2, h3 h4 {
+	color: #45617D;
+	font-family: Lobster;
+	text-align: left;
+}
+
+.dayispatterson-advice ul,li {
+	list-style: square;
+}
+
+.dayispatterson-advice footer {
+	color: #92C0D8;
+	font-family: Lobster;
+	font-size: small;
+	text-align: center;
+	background-color: #45617D;
+}
+
+/** End of Dayis Patterson's Styles **/
