@@ -2175,3 +2175,31 @@ body.dayispatterson-advice {
 }
 
 /** End of Dayis Patterson's Styles **/
+
+/** Brandi Bermann's Styles **/
+.brandi-advice {
+	font-family: monospace;
+	
+}
+.brandi-advice header, img {
+    min-width: 100%;
+    margin: 0px 0px 0px 0px;
+
+}
+.brandi-advice header h1 {
+
+	font-size: -webkit-xxx-large;
+}
+.brandi-advice section {
+	padding: 0 10px 0 100px;
+    border: double;
+    border-color: blue;
+    margin: 10px 100px 10px 100px;
+}
+.brandi-advice ul,li {
+	font-size: 14px;
+}
+footer.brandi-advice {
+	float: right;
+}
+ /** End of Brandi Bermann's Styles **/
