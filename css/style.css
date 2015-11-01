@@ -1,5 +1,16 @@
 /** Add a comment at the beginning of your CSS styles with your name **/
+/**John Magee advice styling **/
+.johnmagee-advice h1 {
+  color: red;
+  size: 16pt;
+  background: blue;
+}
 
+.johnmagee-advice h4 {
+  color: white;
+  background: black;
+  margin: 0 0 -10 0;
+}
 
 /** Josh Stern's styles **/
 .joshstern-advice h4 {
