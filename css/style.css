@@ -2223,3 +2223,19 @@ footer.brandi-advice {
 	float: right;
 }
  /** End of Brandi Bermann's Styles **/
+ /**Amanda Capella Style Start**/
+ .amandacapella-advice p {
+	 font-family : Georgia;
+	 color : darksteelblue;
+	 text-align : left;
+ }
+ .amandacapella-advice h4{
+	 color : darkblue;
+	 font-family : Georgia;
+	 font-size : 20px;
+ }
+ .amandacapella-advice {
+	 padding : 100px 200px 200px 200px;
+	 border : 20px solid darkblue;
+ }
+ /**Amanda Capella Style End**/
