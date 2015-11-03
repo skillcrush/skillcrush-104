@@ -2223,3 +2223,17 @@ footer.brandi-advice {
 	float: right;
 }
  /** End of Brandi Bermann's Styles **/
+ 
+ /**Becky Bair's advice styling **/
+.beckybair-advice h1 {
+  color: #185DB8;
+  size: 16pt;
+}
+.beckybair-advice h4 {
+  color: #D11932
+}
+.beckybair-advice .bbfooter p {
+  color: #185DB8;
+  size: 16pt;
+}
+/**End Becky Bair's advice styling **/
