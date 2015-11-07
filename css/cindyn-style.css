@@ -2,19 +2,11 @@
 /**Cindy's advice styling **/
 
 .cindyn-advice {
-	background-color: rgb(230, 230, 0);
-	color: rgb(255, 92, 51);
+	background-color: rgb(15, 75, 15);
+	color: rgb(255, 0, 51);
 	font-family:'Helvetica', sans-serif;
 }
 
-#cindyn-bubble {
-	width: 1200px;
-	height: 600px;
-	margin: 50px auto auto auto;
-	background-color: white;
-	padding: 50px;
-	border-radius: 100px;
-}
 
 .cindyn-advice a {
 	font-size: 10px;
@@ -28,12 +20,12 @@
 	font-size: 10px;
 	color: black;
 	font-family: 'Helvetica', sans-serif;
-    margin-left: 350px;
+    margin-left: 300px;
 	}
 
 .cindyn-advice h1 {
-	font-size: 20px;
-	margin-left: 350px;
+	font-size: 40px;
+	margin-left: 300px;
 	}
 
 .cindyn-advice .advice {
@@ -46,13 +38,13 @@
 	font-family: 'Helvetica', sans-serif;
 	font-weight: bold;
 	text-transform: uppercase;
-	margin: 20px 20px 10px 100px;
+	margin: 10px 10px 10px 50px;
 	}
 
 .cindyn-advice .advice p {
 	font-size: 14px;
 	text-align: justify;
-	margin: 20px 20px 10px 100px;
+	margin: 10px 10px 50px 50px;
 	}
 
 /** End cindyn's Styles **/
