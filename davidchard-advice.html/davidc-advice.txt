@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="../css/style.css">
+
+	<!-- replace Skillcrush with your name here -->
+<title>David's Advice For Newbies</title>
+
+
+</head>
+
+<!-- replace skillcrush with your name here -->
+<body class="davidc-advice">
+	<header>
+		<a href="../index.html">Back to Main Page</a>
+		<h1>Hi my name is David and I have some advice for you!</h1>
+	</header>
+
+	<section>
+		<div class="advice">
+			<h4>Everyone gets frustrated!</h4>
+			<p>Always remember that nobody starts as an expert.  You have to learn to walk before you can run.  Cussing like a sailor doesn't make things better.  
+                           Maybe try taking deep breaths or a short walk to help focus.</p>
+
+		
+
+			<h4>Use all available resources</h4>
+			<p>Everybody gets stuck but its taking advantage of resources that will help get you going again. Being an expert isn't always knowing the answer but knowing where to find the answer.       </p>
+				
+			
+
+			
+		</div>
+    </section>
+
+	<footer>
+		<!-- replace Skillcrush with your name here -->
+		<p>&copy; Copyright David Chard 2015.
+	</footer>
+</body>
+</html>
