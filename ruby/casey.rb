@@ -1,4 +1,1 @@
-Sorry for being a day late with this assignment. But I'm loving it! 
-
-Thanks, 
-Casey
+puts "Sorry for being a day late with this assignment. I'll be caught up soon!"
