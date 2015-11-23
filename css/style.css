@@ -2199,7 +2199,7 @@ body.dayispatterson-advice {
 /** Brandi Bermann's Styles **/
 .brandi-advice {
 	font-family: monospace;
-	
+
 }
 .brandi-advice header, img {
     min-width: 100%;
@@ -2223,7 +2223,7 @@ footer.brandi-advice {
 	float: right;
 }
  /** End of Brandi Bermann's Styles **/
- 
+
  /**Becky Bair's advice styling **/
 .beckybair-advice h1 {
   color: #185DB8;
@@ -2254,3 +2254,46 @@ footer.brandi-advice {
 	 border : 20px solid darkblue;
  }
  /**Amanda Capella Style End**/
+
+ /**Mariam Camara's advice styles**/
+
+ .mariamcamara-advice {
+   background-color: #E6E6FA;
+ }
+
+ .mariamcamara-advice a:hover {
+ 	font-weight: bold;
+ }
+
+ .mariamcamara-advice section {
+   padding: 0 10px 0 100px;
+     border: double;
+     border-color: black;
+     margin: 10px 100px 10px 100px;
+ }
+
+ .mariamcamara-advice h4 {
+ 	margin-left: 5px;
+ 	margin-bottom: 15px;
+ 	font-family: Verdana, sans-serif;
+ }
+
+.mariamcamara-advice p {
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: -10px;
+	font-family: Garamond, serif;
+	color: #000000;
+}
+
+.mariamcamara-advice footer {
+    clear: both;
+    position: relative;
+    background-color: red;
+    height: 50px;
+    text-align: center;
+    font-size: 20px;
+    font-family; Helvetica, serif;
+}
+
+/**End of Mariam Camara's styles**/
