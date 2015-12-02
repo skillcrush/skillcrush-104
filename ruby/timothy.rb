@@ -1,1 +1,1 @@
-Puts "Hello, I'm Timothy"
+puts "Hello, I'm Timothy"
