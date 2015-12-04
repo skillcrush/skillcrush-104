@@ -1,0 +1,50 @@
+/** Add a comment at the beginning of your CSS styles with your name **/
+/**Cindy's advice styling **/
+
+.cindyn-advice {
+	background-color: rgb(15, 75, 15);
+	color: rgb(255, 0, 51);
+	font-family:'Helvetica', sans-serif;
+}
+
+
+.cindyn-advice a {
+	font-size: 10px;
+	text-decoration: underline;
+	color: inherit;
+	font-family:'Helvetica', sans-serif;
+	margin-left: 350px;
+	}
+
+.cindyn-advice p {
+	font-size: 10px;
+	color: black;
+	font-family: 'Helvetica', sans-serif;
+    margin-left: 300px;
+	}
+
+.cindyn-advice h1 {
+	font-size: 40px;
+	margin-left: 300px;
+	}
+
+.cindyn-advice .advice {
+	padding: 1px 250px 1px 250px;
+    }
+
+.cindyn-advice .advice h4 {
+	font-size: 18px;
+	color: rgb(230, 230, 0);
+	font-family: 'Helvetica', sans-serif;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin: 10px 10px 10px 50px;
+	}
+
+.cindyn-advice .advice p {
+	font-size: 14px;
+	text-align: justify;
+	margin: 10px 10px 50px 50px;
+	}
+
+/** End cindyn's Styles **/
