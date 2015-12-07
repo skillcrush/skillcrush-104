@@ -2325,4 +2325,51 @@ footer.brandi-advice {
     font-family; Helvetica, serif;
 }
 
+
+
 /**End of Mariam Camara's styles**/
+
+
+
+/**Andrew Daley's advice styles**/
+
+.andrewdaley-advice  {
+	background-color: #201A21;
+	margin: 10px 50px 10px 50px;
+
+}
+
+.andrewdaley-advice p {
+	color: white;
+	font-family: 'helvetica neue' ;
+
+
+}
+
+.andrewdaley-advice h1 {
+	color: white;
+	font-family: 'helvetica neue' ;
+
+}
+
+.andrewdaley-advice a {
+	font-family: 'helvetica neue' ;
+	color: red;
+
+}
+
+.andrewdaley-advice h4 {
+	font-family: 'helvetica neue' ;
+	font-size: 30px;
+
+}
+
+.andrewdaley-advice footer {
+
+	background-color: #FF9715;
+	height: 250px;
+	text-align: center;
+} 
+
+/**End of Andrew Daley's styles**/
+
