@@ -2326,3 +2326,38 @@ footer.brandi-advice {
 }
 
 /**End of Mariam Camara's styles**/
+
+/** Timothy's Styles **/
+
+.timothy-advice h1 {
+
+	color: #590e0c;
+	text-align: center;
+	font-size: 30px;
+	font-family: Helvetica, sans-serif;
+	margin-bottom: -40px;
+}
+
+.timothy-advice h4 {
+	color: #590e0c;
+	font-size: 20px;
+	font-family: sans-serif;
+}
+
+.timothy-advice p {
+	background-color: lightgray;
+	color: #000;
+	margin: 10px 0px;
+	text-indent: 5px;
+	text-align: center;
+	font-size: 1.25em;
+}
+
+.timothy-advice footer {
+	padding: 10px;
+	font-size: 8px;
+}
+
+
+
+/** End of Timothy's Styles **/
