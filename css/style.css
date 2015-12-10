@@ -2365,8 +2365,33 @@ footer.brandi-advice {
 .JenS-advice h1 {
   color: #DDDDDD;
   size: 18pt;
+}
 .JenS-advice background {
   color: #GGGGGG;
 }
 
 /**End Jen S advice styles**/
+
+/**Tricia Isham advice style**/
+
+ .tricia-advice h1 {
+   font-family: 'Aerial', sans-serif;
+   font-size: 20px;
+   font-weight: bold;
+   color: #7d4627;
+ }
+
+ .tricia-advice h4 {
+   font-family: 'Aerial', sans-serif;
+   font-size: 18px;
+   font-weight: bold;
+   color: #7d4627;
+ }
+
+ .tricia-advice p {
+   font-family: 'Aerial', sans-serif;
+   font-size: 14px;
+   color: #c9d8c5
+ }
+
+ /**end Tricia Isham advice end**/
