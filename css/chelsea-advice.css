@@ -1,0 +1,17 @@
+body {
+	font-family: sans-serif;
+}
+
+header h1 {
+	text-align: center;
+}
+
+div.advice {
+	width: 70%;
+	margin: 0 auto;
+}
+
+footer {
+	margin-top: 100px;
+	text-align: right;
+}
