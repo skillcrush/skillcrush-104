@@ -1,5 +1,28 @@
 /** Add a comment at the beginning of your CSS styles with your name **/
 
+/**Shiloa advice styling**/
+.shiloa-advice	{
+	font-family: Helvetica;
+	background:navy;
+	font-align: center;
+}
+	
+.shiloa-advice h1 {
+	color: purple;
+	font-size: 36px;
+}
+
+.shiloa-advice h4 {
+	color: white;
+	font-size: 24px;
+}
+
+.shiloa-advice p {
+	color: lightgray;
+}
+
+/**end Shiloa advice styling**/
+
 /* Melissa Manousos advice styling **/
 .melissam-advice h1 {
 	color: blue;
