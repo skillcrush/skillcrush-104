@@ -1,26 +1,5 @@
 /** Add a comment at the beginning of your CSS styles with your name **/
 
-/**Erica advice styling**/
-.ericabry-advice	{
-	font-family: Helvetica;
-	background:#ffffff;
-	font-align: center;
-}
-	
-.ericabry-advice h1 {
-	color: #00ace6;
-	font-size: 36px;
-}
-
-.ericabry-advice h4 {
-	color: #5c5c8a;
-	font-size: 24px;
-}
-
-.ericabry-advice p {
-	color: #1f1f2e;
-}
-
 /**Shiloa advice styling**/
 .shiloa-advice	{
 	font-family: Helvetica;
