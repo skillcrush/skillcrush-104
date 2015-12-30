@@ -1,0 +1,11 @@
+*.sw?
+.DS_Store
+coverage
+rdoc
+pkg
+vendor/bundle
+.bundle
+Gemfile.lock
+bin
+.rvmrc
+.project
