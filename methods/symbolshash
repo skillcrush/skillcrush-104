@@ -1,0 +1,9 @@
+christmas_01 = { name: "Kringle"}
+
+christmas_02 = { name: "Saint Nick"}
+
+christmas_03 = { name: "Santa"}
+
+presents = christmas_03[:name]
+
+puts "#{presents} will be bringing gifts!"

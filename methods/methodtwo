@@ -1,0 +1,5 @@
+def my_sophmore_method
+	result = 2 + 2
+	puts result
+end
+my_sophmore_method

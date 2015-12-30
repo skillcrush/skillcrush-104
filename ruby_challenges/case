@@ -1,0 +1,15 @@
+current_weather = 'foggy'
+case current_weather
+when 'foggy'
+	puts "Turn on your brights!"
+when 'sunny'
+	puts "Put on your shades!"
+when 'rainy'
+	puts "Bring your unmbrella!"
+when 'cold'
+	puts "Wear your coat and gloves!"
+when 'hot'
+	puts "Drink lots of water!"
+else
+	puts "Wear layers, it's southern California dude!"
+end

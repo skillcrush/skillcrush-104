@@ -1,0 +1,51 @@
+class Spaceships
+	
+	attr_accessor :name, :pilot_name
+	
+
+
+end
+
+
+
+class Rocket < Spaceships
+
+	def blastoff
+		return "blastoff!"
+	end
+	
+end
+
+class Shuttle < Spaceships
+
+	def main_engine_start
+		return "main engine start!"
+	end
+
+end
+
+class Tardis < Spaceships
+
+	def vworpvworp
+		return "vworp vworp!"
+	end
+
+end
+
+my_rocket = Rocket.new
+my_rocket.name= "Falcon9"
+rocket_name = my_rocket.name
+
+my_shuttle = Shuttle.new
+my_shuttle.name= "Endeavour"
+shuttle_name = my_shuttle.name
+
+my_tardis = Tardis.new
+my_tardis.name= "my T.A.R.D.I.S"
+tardis_name = my_tardis.name
+
+puts "#{rocket_name} says #{my_rocket.blastoff},  #{shuttle_name} says #{my_shuttle.main_engine_start}, and #{tardis_name} says #{my_tardis.vworpvworp}"
+
+puts my_rocket.inspect
+puts my_shuttle.inspect
+puts my_tardis.inspect

@@ -1,0 +1,9 @@
+def always_three(number)
+	(((number + 5) * 2 - 4) / 2 - number)
+end
+
+puts "Pick a number, any number..."
+
+first_number = gets.to_i
+puts "And again, Ruby brings it back to you as..." + always_three(first_number).to_s
+puts "Thanks Ruby!"

@@ -1,0 +1,90 @@
+class Blog
+
+# parent class defined first
+
+	@@all_blogs = []
+	@@blog_tally = 0
+	
+#put all blogs into an array,keep tally
+
+	def self.all
+		@@all_blogs
+	end
+
+def self.add(stuff)
+		@@all_blogs << stuff
+	#the << means stuff in blog to be hashed
+		@@blog_tally += 1
+	end
+	
+def self.publish
+	@@all_blogs.each do |post|
+		puts "Title:\n #{post.title}"
+		puts "Body:\n #{post.content}"
+		puts "Publish Date:\n #{post.created_at}"
+	end
+   end
+
+end
+
+# now we make the child classes
+
+class BlogPost < Blog
+
+	def self.create
+		post = new
+		puts "Title your blog, please:"
+		post.title = gets.chomp
+		# chomps off the carriage return of user input
+		puts "Your blog post stuff:"
+		post.content = gets.chomp
+		post.created_at = Time.now
+		#built in time method
+		post.save
+		puts "Do you want to create another post? [Y/N]"
+		create if gets.chomp.downcase == 'y'
+	#returns if not 'y' and stops the rest of the script from running. otherwise continues to run 'create' method
+	end
+	
+	def title
+		@title
+	end
+	
+	def title=(title)
+	# a setter method always takes an argument
+		@title = title
+	end
+	
+	def created_at
+		@created_at
+	end
+	
+	def created_at=(created_at)
+		@created_at = created_at
+	end
+	
+	def content
+		@content
+	end
+	
+	def content=(content)
+		@content = content
+	end
+	
+	def save
+		BlogPost.add(self)
+	end
+
+end
+
+BlogPost.create
+all_blogs = BlogPost.all
+puts all_blogs.inspect
+BlogPost.publish
+
+		
+	
+	
+	
+
+	

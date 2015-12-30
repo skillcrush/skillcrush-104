@@ -1,0 +1,7 @@
+for love_you in 0..5
+	if love_you > 2 then
+	break
+	end
+	puts "I love you #{love_you}"
+	
+	end

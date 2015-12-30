@@ -1,0 +1,16 @@
+.advice h1 {
+	color:green;
+}
+
+.kents-advice {
+	font-weight: bold;
+	font-family: Times, sans-serif;
+	font-size: 16px;
+}
+footer {
+	font-size: 12px;
+}
+
+.kents-advice {
+    box-shadow: 10px 100px 500px #888888;
+}

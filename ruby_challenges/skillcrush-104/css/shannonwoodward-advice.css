@@ -1,0 +1,32 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+	margin: 10px 150px 20px 150px;
+	color: #5e5e5e;
+}
+
+a {
+	color: #f16059;
+	text-decoration: none;
+}
+
+a:hover {
+	font-weight: bold;
+}
+
+h1 {
+	padding-bottom: 20px;
+	font-family: 'Shadows Into Light Two', cursive;
+	text-align: center;
+	font-size: 40px;
+	color: #f16059;
+}
+
+h4 {
+	font-weight: bold;
+}
+
+footer {
+	padding-top: 10px;
+	font-size: 14px;
+}
