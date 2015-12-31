@@ -1,1 +1,0 @@
-puts "Hello there. This is a big world"
