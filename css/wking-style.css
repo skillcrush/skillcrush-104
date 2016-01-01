@@ -3,6 +3,8 @@
 
 body {
   background: #F5F5F5;
+  padding: 0;
+  margin: 0;
 }
 
 h1 {
@@ -17,7 +19,13 @@ h1 {
 }
 
 hr {
-  margin-bottom: 0 0 15% 0;
+  margin: 10% auto;
+  width: 15%;
+  background-color: #2196F3;
+  color: #2196F3;
+  height: 2px;
+  border: none;
+  border-radius: 1px;
 }
 
 h1 em {
@@ -47,6 +55,7 @@ p a {
   font-family: 'Rokkitt', serif;
   color: #2196F3;
   font-weight: 700;
+  letter-spacing: 1.15;
 }
 
 p a:hover {
@@ -83,13 +92,14 @@ section {
   font-size: 14px;
   font-weight: 500;
   letter-spacing: 0.01em;
-  transition: all .5s ease-out;
+  transition: all .3s ease-out;
   -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
 
   position: fixed;
   top: 2em;
   left: 2em;
+  z-index: 9999;
 }
 
 .btn-back:hover {
@@ -112,9 +122,11 @@ section {
 }
 
 footer {
-  position: fixed;
+  position: relative;
+  float: left;
   background: #2196F3;
-  padding: 2em 1em;
+  padding: 1.5em 1em;
+  margin: 0;
   width: 100vw;
   left: 0;
   bottom: 0;
@@ -127,4 +139,43 @@ footer p {
   font-weight: 500;
   font-size: 14px;
   margin: 0 0 0 20px;
+}
+
+@media (max-width: 500px) {
+
+  .william-advice, section {
+    width: 80%;
+  }
+
+  section {
+    margin-bottom: 7em;
+  }
+
+  .btn-back {
+    color: #fff;
+    background-color: #2196F3;
+    position: fixed;
+    bottom: 0;
+    padding: 0 16px 0 0;
+    left: 0;
+    top: auto;
+    width: 100vw;
+    height: 48px;
+    border: none;
+    border-radius: 0;
+    outline: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: Roboto, sans-serif;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0.01em;
+    transition: all .3s ease-out;
+  }
+
+  footer {
+    margin-bottom: 48px;
+    background-color: #1E88E5;
+  }
 }
