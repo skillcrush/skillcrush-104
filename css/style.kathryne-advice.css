@@ -1,0 +1,11 @@
+/** Styling for Kathryne's Advice **/
+
+.kathryne-advice .advice h4 {
+	border-bottom: 1px solid #DDDDDD;
+	padding-bottom: 5px;
+	font-family: helvetica;
+}
+.kathryne-advice .advice p {
+	font-family: helvetica;
+	color: darkslategray;
+}

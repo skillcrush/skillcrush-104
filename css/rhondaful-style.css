@@ -1,0 +1,142 @@
+/* Cross Browser Compatability CSS */
+/**
+ * html5doctor.com Reset Stylesheet (Eric Meyer's Reset Reloaded + HTML5 baseline)
+ * v1.6.1 2010-09-17 | Authors: Eric Meyer & Richard Clark
+ * html5doctor.com/html-5-reset-stylesheet/
+ */
+
+html{
+    background:url('http://cl.ly/image/0G1u2n2h3q0X/DeathtoStock_Creative%20Community7.jpg') repeat fixed center center / cover  rgba(0, 0, 0, 0);
+}
+
+#header {
+    color: black;
+    font-family: 'Poiret One', cursive;
+    font-variant: small-caps;
+    text-align:center;
+}
+
+.h2 {
+    font-size: 18px;
+}
+
+#intro {
+    color: black;
+    background: rgba(255, 255, 255, 0.5);
+    font-family: 'Poiret One', cursive;
+    font-size: 18px;
+    text-align:left;
+    border: white 4px solid;
+    border-radius: 3px;
+    padding: 10px;
+}
+
+#samples {
+    color: black;
+    background: rgba(255, 255, 255, 0.5);
+    font-family: 'Poiret One', cursive;
+    font-size: 18px;
+    text-align:left;
+    border: white 4px solid;
+    border-radius: 3px;
+    padding: 10px;
+    float: left;
+}
+
+
+#follow {
+    position: relative;
+}
+
+#follow li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    position: absolute;
+    top: 0;
+}
+
+#follow li, #follow a {
+    height: 30px;
+    display: block;
+}
+
+#instagram {
+    left: 0px;
+    width: 33px;
+    background: url('http://cl.ly/image/0r3L3J0M3h3T/social.png') 0 0;
+}
+
+#twitter {
+    left: 30px;
+    width: 35px;
+    background: url('http://cl.ly/image/0r3L3J0M3h3T/social.png') -30px 0px;
+}
+
+#blog {
+    left: 67px;
+    width: 30px;
+    background: url('http://cl.ly/image/0r3L3J0M3h3T/social.png') -66px 0px;
+}
+
+#instagram a:hover {
+    background: url('http://cl.ly/image/0r3L3J0M3h3T/social.png') 0 -33px;
+}
+
+#twitter a:hover {
+    background: url('http://cl.ly/image/0r3L3J0M3h3T/social.png') -30px -33px;
+}
+
+#blog a:hover {
+    background: url('http://cl.ly/image/0r3L3J0M3h3T/social.png') -67px -30px;
+}
+
+.form-group {
+    font-family: 'Poiret One', cursive;
+    font-size: 18px;
+    text-align:left;
+    float:right;
+    padding: 10px;
+    width: 300px;
+    
+    .subscribe-overlay .form-control {
+        display: inline-block;
+        margin-left: auto;
+        margin-top: auto;
+        max-width: 400px;
+        text-align: center;
+    }
+    .form-control {
+        background-color: white;
+        background-image: none;
+        border: 1px solid #cccccc;
+        border-radius: 4px;
+        box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+        color: #555555;
+        display: block;
+        font-size: 14px;
+        height: 34px;
+        line-height: 1.42857;
+        padding: 6px 12px;
+        transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+        width: 100%;
+    }
+    input, button, select, textarea {
+        font-family: inherit;
+        font-size: inherit;
+        line-height: inherit;
+    }
+    input {
+        line-height: normal;
+    }
+    button, input, optgroup, select, textarea {
+        color: inherit;
+        font: inherit;
+        margin: 0;
+    }
+    * {
+        box-sizing: border-box;
+    }
+    .form-control::-moz-placeholder {
+        color: #999999;
+        opacity: 1;
