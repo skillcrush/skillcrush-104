@@ -6,7 +6,7 @@
 	background:navy;
 	font-align: center;
 }
-	
+
 .shiloa-advice h1 {
 	color: purple;
 	font-size: 36px;
@@ -26,7 +26,7 @@
 /* Melissa Manousos advice styling **/
 .melissam-advice h1 {
 	color: blue;
-	size: 15pt; 
+	size: 15pt;
 }
 .melissam-advice h4 {
 	color: #FF69B4;
@@ -2418,3 +2418,25 @@ footer.brandi-advice {
  }
 
  /**end Tricia Isham advice end**/
+
+/** Start Harrie Wilson advice style**/
+
+.harriewilson-advice {
+	background-color: #9999aa;
+}
+.harriewilson-advice h1{
+	color: #2f325e;
+	font-family: 'Calibri';
+}
+
+.harriewilson-advice h4{
+	color: #2f325e;
+	text-decoration: underline;
+	font-size: 20px;
+}
+
+.harriewilson-advice p {
+	font-family: 'Calibri';
+	text-align: justify;
+	padding: 0 20px 0 20px;
+}
