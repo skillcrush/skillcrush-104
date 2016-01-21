@@ -1,33 +1,12 @@
 /** Add a comment at the beginning of your CSS styles with your name **/
 
-/**Erica advice styling**/
-.ericabry-advice	{
-	font-family: Helvetica;
-	background:#ffffff;
-	font-align: center;
-}
-	
-.ericabry-advice h1 {
-	color: #00ace6;
-	font-size: 36px;
-}
-
-.ericabry-advice h4 {
-	color: #5c5c8a;
-	font-size: 24px;
-}
-
-.ericabry-advice p {
-	color: #1f1f2e;
-}
-
 /**Shiloa advice styling**/
 .shiloa-advice	{
 	font-family: Helvetica;
 	background:navy;
 	font-align: center;
 }
-
+	
 .shiloa-advice h1 {
 	color: purple;
 	font-size: 36px;
@@ -47,7 +26,7 @@
 /* Melissa Manousos advice styling **/
 .melissam-advice h1 {
 	color: blue;
-	size: 15pt;
+	size: 15pt; 
 }
 .melissam-advice h4 {
 	color: #FF69B4;
@@ -2439,25 +2418,3 @@ footer.brandi-advice {
  }
 
  /**end Tricia Isham advice end**/
-
-/** Start Harrie Wilson advice style**/
-
-.harriewilson-advice {
-	background-color: #9999aa;
-}
-.harriewilson-advice h1{
-	color: #2f325e;
-	font-family: 'Calibri';
-}
-
-.harriewilson-advice h4{
-	color: #2f325e;
-	text-decoration: underline;
-	font-size: 20px;
-}
-
-.harriewilson-advice p {
-	font-family: 'Calibri';
-	text-align: justify;
-	padding: 0 20px 0 20px;
-}
