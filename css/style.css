@@ -2440,3 +2440,26 @@ footer.brandi-advice {
 	text-align: justify;
 	padding: 0 20px 0 20px;
 }
+
+/* Shavonn's css */
+
+.shavonn-advice {
+	color: #22282B;
+}
+.shavonn-advice header , .shavonn-advice section, .shavonn-advice footer{
+	width: 80%;
+	margin: 0 auto;
+	font-family: 'Montserrat', sans-serif;
+}
+.shavonn-advice a, .shavonn-advice a:link, .shavonn-advice a:visited, .shavonn-advice a:active {
+	color: #E76565;
+	padding: 4px;
+	text-decoration: none;
+}
+.shavonn-advice a:focus, .shavonn-advice a:hover {
+	background-color: #E76565;
+	color: #fff;
+}
+.shavonn-advice h4 {
+	color: #167277;
+}
