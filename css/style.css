@@ -2440,3 +2440,25 @@ footer.brandi-advice {
 	text-align: justify;
 	padding: 0 20px 0 20px;
 }
+
+/**Start Krystle Scott advice style**/
+
+.krystlescott-advice {
+	text-align: justify;
+	font-family: Helvetica;
+	background: teal;
+}
+
+.krystlescott-advice footer {
+	text-align: center;
+}
+
+.krystlescott-advice h4 {
+	color: darkblue;
+}
+
+.krystlescott-advice h1 {
+	color: darkblue;
+}
+
+/**End Krystle Scott advice style**/
