@@ -1,5 +1,36 @@
 /** Add a comment at the beginning of your CSS styles with your name **/
 
+/* KimB advice styling  */
+.kim-advice body{
+	background-color: #99FFCC;
+	font-align:left;
+}
+.kimb-advice h1{
+	color: #6600CC;
+	font-size: 36px;
+	font-family: 'Shadows Into Light Two', cursive;
+		font-align:left;
+
+}
+
+.kimb-advice h4 {
+	color: #330066;
+	font-size: 22px;
+	font-family: 'Roboto', sans-serif;
+}
+
+.kimb-advice p{
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+	padding: 0px 80px 0px 80px;
+
+}
+
+#Kim-foot {
+	font-family: Helvetica;
+	font-size: 10px;
+}
+
 /**Shiloa advice styling**/
 .shiloa-advice	{
 	font-family: Helvetica;
