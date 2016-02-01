@@ -2459,6 +2459,7 @@ footer.brandi-advice {
 	padding: 0 20px 0 20px;
 }
 
+<<<<<<< HEAD
 /* Shavonn's css */
 
 .shavonn-advice {
@@ -2481,3 +2482,26 @@ footer.brandi-advice {
 .shavonn-advice h4 {
 	color: #167277;
 }
+=======
+/**Start Krystle Scott advice style**/
+
+.krystlescott-advice {
+	text-align: justify;
+	font-family: Helvetica;
+	background: teal;
+}
+
+.krystlescott-advice footer {
+	text-align: center;
+}
+
+.krystlescott-advice h4 {
+	color: darkblue;
+}
+
+.krystlescott-advice h1 {
+	color: darkblue;
+}
+
+/**End Krystle Scott advice style**/
+>>>>>>> 0c6aac614e1ef2f86797a1c4d808b7cb1c2fa247
