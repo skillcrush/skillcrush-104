@@ -1,1 +1,1 @@
-puts "Hello SkillCrush Team!!"
+puts "Hello SkillCrush Team!!\n"
