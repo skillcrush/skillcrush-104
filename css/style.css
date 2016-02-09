@@ -1,5 +1,48 @@
 /** Add a comment at the beginning of your CSS styles with your name **/
 
+/**Evelin advice styling**/
+.evelin-advice {
+color: #003399;
+background: #e66b00 url("http://www.transparenttextures.com/patterns/asfalt-dark.png");
+font-family: "open sans", sans-serif;
+line-height: 2;
+text-align: justify;
+}
+
+.evelin-advice div {
+	width: 40%;
+	margin: auto;
+	padding: 20px 100px;
+}
+
+.evelin-advice ol {
+	padding-left: 0px;
+}
+
+.evelin-advice h2 {
+	margin: 0;
+}
+.evelin-advice span {
+	text-decoration: line-through;
+}
+
+.evelin-advice ol li div {
+	background-color: black;
+	color: yellow;
+	border: none;
+	padding: 5px;
+	display: inline;
+}
+
+.evelin-advice p {
+	text-align: right;
+	font-size: 12px;
+}
+
+/**End Evelin advice styling**/
+
+
+
 /**Alesa advice styling**/
 .alesa-advice {
 background: url("https://images.unsplash.com/photo-1434472007488-8d47f604f644?crop=entropy&dpr=2&fit=crop&fm=jpg&h=700&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1300");
