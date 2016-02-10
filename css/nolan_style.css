@@ -1,0 +1,43 @@
+.wrapper {
+}
+
+.navbar {
+  background-color: rgba(0, 0, 0, 0.1);
+  border: none;
+}
+
+body {
+  margin-top: 70px;
+  background-image: url('http://nofrazie.github.io/images/motivation.jpg');
+  background-size: cover;
+}
+
+.jumbotron {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.footer {
+  background-color: rgba(0, 0, 0, 0.3);
+  position:absolute;
+  top: 673px;
+  color: #eee;
+  width: 100%;
+  height: 41px;
+}
+
+.footer p {
+  padding: 5px;
+  margin: 3px;
+}
+
+.navbar-default .navbar-brand {
+  color: #333;
+  background-color: rgba(100, 100, 100, 0.2);
+  transition: 0.5s;
+}
+
+.navbar-default .navbar-brand:hover {
+  background-color: rgba(100, 100, 100, 0.3);
+  color: #eee;
+  transition: .5s;
+}
