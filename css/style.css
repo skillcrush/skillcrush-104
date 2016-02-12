@@ -18,6 +18,20 @@ padding: 15px;
 
 /**End Alesa advice styling**/
 
+/**Anna advice styling **/
+
+.anna-advice {
+font-size: 0.8em;
+color: #000d6b;
+font-family: Cambria;
+border: solid 1px gray;
+padding: 10px;
+
+}
+
+
+/**end Anna advice styling **/
+
 /**Shiloa advice styling**/
 .shiloa-advice	{
 	font-family: Helvetica;
