@@ -2501,5 +2501,26 @@ footer.brandi-advice {
 .krystlescott-advice h1 {
 	color: darkblue;
 }
-
 /**End Krystle Scott advice style**/
+
+/** start kumarp34 advice style **/
+.kumarp34-advice h1 {
+   font-family: 'Arial', sans-serif;
+   font-size: 25px;
+   font-weight: bold;
+   color: blue;
+ }
+
+ .kumarp34-advice h4 {
+   font-family: 'Arial', sans-serif;
+   font-size: 20;
+   font-weight: bold;
+   color: green;
+ }
+
+ .kumarp34-advice p {
+   font-family: 'Arial', sans-serif;
+   font-size: 18px;
+   color: red;
+ }
+/** End kumarp34 advice style**/
