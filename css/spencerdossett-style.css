@@ -2,18 +2,17 @@
 
 /**spencerdossett-advice styles**/
 
-.spencerdossett-advice body {
+.spencerdossett-advice header {
 	background-color: tomato;
 	font-family: "Times New Roman", Times, serif;
 	color: white;
 	font-size: 20px;
 
 }
-/*.sandyhogan-advice h4 {
-	font-family: "Julius Sans One", sans-serif;
-	font-size: 26px;
-	color: midnightblue;
-}*/
+.spencerdossett-advice a {
+	font-family: "Times New Roman",Times, serif;
+	color: Gainsboro;
+}
 .spencerdossett-advice p {
 	/*font-family: "Julius Sans One", sans-serif;*/
 	/*color: white;*/
@@ -22,12 +21,13 @@
 	text-align: justify;
 }
 .spencerdossett-advice div {
+	background-color: tomato;
 	box-shadow: 0.1em 0.1em 0.5em #2f3632;
 	padding: 32px;
 	width: 70%;
 	margin-left: auto;
 	margin-right: auto;
-	color: #89cff0l;
+	color: yellow;
 }
 
 /** end spencerdossett-advice styles**/
