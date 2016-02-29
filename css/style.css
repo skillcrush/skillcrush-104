@@ -2650,3 +2650,26 @@ footer.brandi-advice {
    color: red;
  }
 /** End kumarp34 advice style**/
+ 
+/* start Heather's advice style */
+.heatherh-advice h1 {
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    color: blue;
+	text-align: center;
+  }
+
+.heatherh-advice h4 {
+    font-family: sans-serif;
+    font-size: 20;
+    font-weight: bold;
+    color: purple;
+  }
+
+.heatherh-advice p {
+    font-family: sans-serif;
+    font-size: 18px;
+    color: black;
+  }
+/* End Heather's advice style */
