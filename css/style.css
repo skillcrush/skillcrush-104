@@ -1,4 +1,11 @@
 /** Add a comment at the beginning of your CSS styles with your name **/
+/**EstherNg advice styling**/
+.estherng-advice {
+    color: #b94141;
+    font-family: "Avant Garde", sans-serif;
+    border: dotted 1px #8cb63d;
+}
+/**End EstherNg advice styling**/
 
 /**Evelin advice styling**/
 .evelin-advice {
