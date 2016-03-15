@@ -7,6 +7,34 @@
 }
 /**End EstherNg advice styling**/
 
+/* JessieC advice styling  */
+.jessiecollins-advice body{
+	font-align:center;
+}
+.jessiecollins-advice h1{
+	color: #E9662C;
+	font-size: 36px;
+	font-family: Cambria;
+	font-align:left;
+
+}
+
+.jessiecollins-advice h4 {
+	color: #FBAF3C;
+	font-size: 22px;
+	font-family: Cambria, sans-serif;
+}
+
+.jessiecollins-advice p{
+	color: #00AC65;	
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	padding: 0px 80px 0px 80px;
+
+}
+
+/**End Jessie C **/
+
 /**Evelin advice styling**/
 .evelin-advice {
 color: #003399;
