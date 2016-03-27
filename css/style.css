@@ -15,6 +15,7 @@
 	color: #E9662C;
 	font-size: 36px;
 	font-family: Cambria;
+	
 	font-align:left;
 
 }
@@ -2708,3 +2709,40 @@ footer.brandi-advice {
     color: black;
   }
 /* End Heather's advice style */
+
+
+/* Marie Allpress's advice styling **/
+.mariea-advice .advice p {
+	background-color: #0099FF;
+    border-radius: 5px;
+    margin: 10px 200px;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.mariea-advice h1{
+    font-family: garamond;
+    font-size: 35px;
+	font-weight: bold;
+  	color: black;
+   }
+  
+ .mariea-advice h4{
+    font-family: garamond;
+    font-size: 25px;
+	font-weight: bold;
+  	color: green;
+   }
+   
+.mariea-advice p {
+	font-family: garamond;
+    font-size: 20px;
+  	color: blue;
+}  
+.mariea-advice footer p {
+	font-size: 16px;
+	font-weight: bold;
+    color: black;
+	}
+
+/* End Marie's advice style */
