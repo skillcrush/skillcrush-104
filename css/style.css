@@ -15,7 +15,7 @@
 	color: #E9662C;
 	font-size: 36px;
 	font-family: Cambria;
-	
+
 	font-align:left;
 
 }
@@ -27,7 +27,7 @@
 }
 
 .jessiecollins-advice p{
-	color: #00AC65;	
+	color: #00AC65;
 	font-family: 'Roboto', sans-serif;
 	font-size: 14px;
 	padding: 0px 80px 0px 80px;
@@ -2686,7 +2686,7 @@ footer.brandi-advice {
    color: red;
  }
 /** End kumarp34 advice style**/
- 
+
 /* start Heather's advice style */
 .heatherh-advice h1 {
     font-family: sans-serif;
@@ -2726,19 +2726,19 @@ footer.brandi-advice {
 	font-weight: bold;
   	color: black;
    }
-  
+
  .mariea-advice h4{
     font-family: garamond;
     font-size: 25px;
 	font-weight: bold;
   	color: green;
    }
-   
+
 .mariea-advice p {
 	font-family: garamond;
     font-size: 20px;
   	color: blue;
-}  
+}
 .mariea-advice footer p {
 	font-size: 16px;
 	font-weight: bold;
@@ -2746,3 +2746,28 @@ footer.brandi-advice {
 	}
 
 /* End Marie's advice style */
+
+/* Sarah Gag advice style*/
+
+.sarahgag-advice {
+  background: light grey;
+}
+.sarahgag-advice header {
+  background:grey;
+  font-family: sans-serif;
+  font-size: 20px;
+}
+.sarahgag-advice body{
+  background: grey;
+}
+.sarahgag-advice h1 {
+  font-style: italic;
+  color: white;
+  font-family: sans-serif;;
+}
+.sarahgag-advice p {
+  font-style: normal;
+  font-family: sans-serif;
+  color: white;
+}
+/* End Sarah Gag advice style */
