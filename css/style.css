@@ -1,4 +1,13 @@
 /** Add a comment at the beginning of your CSS styles with your name **/
+
+/**Todd advice styling**/
+.todd-advice {
+  color:#ffffff
+  font-family:sans-serif;
+  border: 1px;
+}
+/**End of Todd**/
+
 /**EstherNg advice styling**/
 .estherng-advice {
     color: #b94141;
@@ -15,7 +24,7 @@
 	color: #E9662C;
 	font-size: 36px;
 	font-family: Cambria;
-	
+
 	font-align:left;
 
 }
@@ -27,7 +36,7 @@
 }
 
 .jessiecollins-advice p{
-	color: #00AC65;	
+	color: #00AC65;
 	font-family: 'Roboto', sans-serif;
 	font-size: 14px;
 	padding: 0px 80px 0px 80px;
@@ -2686,7 +2695,7 @@ footer.brandi-advice {
    color: red;
  }
 /** End kumarp34 advice style**/
- 
+
 /* start Heather's advice style */
 .heatherh-advice h1 {
     font-family: sans-serif;
@@ -2726,19 +2735,19 @@ footer.brandi-advice {
 	font-weight: bold;
   	color: black;
    }
-  
+
  .mariea-advice h4{
     font-family: garamond;
     font-size: 25px;
 	font-weight: bold;
   	color: green;
    }
-   
+
 .mariea-advice p {
 	font-family: garamond;
     font-size: 20px;
   	color: blue;
-}  
+}
 .mariea-advice footer p {
 	font-size: 16px;
 	font-weight: bold;
