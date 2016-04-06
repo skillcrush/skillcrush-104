@@ -1,0 +1,3 @@
+
+puts "Vultures are scavengers."
+
