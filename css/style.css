@@ -2755,3 +2755,59 @@ footer.brandi-advice {
 	}
 
 /* End Marie's advice style */
+
+
+
+/*************************
+**************************
+Wesley Nimmo's advice
+**************************
+**************************/
+.wesnimmo-advice h1, .wesnimmo-advice h2 {
+	text-align: center;
+	font-family: 'Anton', sans-serif;
+}
+
+.wesnimmo-advice section {
+	background: rgb(220,220,220);
+	width: 60%;
+	margin: 0 auto;
+	font-size: 1.05em;
+	font-family: 'Anton', sans-serif;
+}
+
+.wesnimmo-advice h4 {
+	text-align: left;
+	padding: 1% 5% 0 5%;
+}
+
+
+.wesnimmo-advice p {
+	padding: 0 5% 1% 5%;
+}
+/*****************************
+******************************
+ END of Welsey Nimmo's advice
+ *****************************
+*****************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
