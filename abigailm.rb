@@ -1,3 +1,0 @@
-
-puts "Vultures are scavengers."
-
