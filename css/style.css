@@ -2754,4 +2754,96 @@ footer.brandi-advice {
     color: black;
 	}
 
+.abigailmabeza-advice body {
+	background-color #A9D0F5";
+	font-family: ', fantasy', sans-serif;
+	padding: 20px 0 20px 15px;
+	font-weight: 700px;
+	text-align: left;
+}
+
+.abigailmabeza-advice p {
+	margin-left: 40px;
+	font-family: 'fantasy', sans-serif;
+	font-size: 14px;
+	text-align: left;
+	font-color: black;
+	padding: 25px;
+	;
+}
+
+.abigailmabeza-advice h3 {
+	font-color: black;
+	font-size: 18px;
+	font-family: impact;
+	font-weight: 700px;
+	margin-left: 40px
+	padding: 10px;
+
+}
+.abigailmabeza-advice h1 {
+	font-family: 'impact', sans-serif;
+	font-color: black;
+	text-align: left;
+	padding: 20px;
+}
+}
+
+
 /* End Marie's advice style */
+
+
+
+/*************************
+**************************
+Wesley Nimmo's advice
+**************************
+**************************/
+.wesnimmo-advice h1, .wesnimmo-advice h2 {
+	text-align: center;
+	font-family: 'Anton', sans-serif;
+}
+
+.wesnimmo-advice section {
+	background: rgb(220,220,220);
+	width: 60%;
+	margin: 0 auto;
+	font-size: 1.05em;
+	font-family: 'Anton', sans-serif;
+}
+
+.wesnimmo-advice h4 {
+	text-align: left;
+	padding: 1% 5% 0 5%;
+}
+
+
+.wesnimmo-advice p {
+	padding: 0 5% 1% 5%;
+}
+/*****************************
+******************************
+ END of Welsey Nimmo's advice
+ *****************************
+*****************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
