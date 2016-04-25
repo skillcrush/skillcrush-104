@@ -1,0 +1,10 @@
+.anninator-advice {
+  text-align: center;
+}
+.anninator-advice section {
+  background-color: lemonchiffon;
+  padding: 1em;
+  width: 50%;
+  margin: 0 auto;
+  border: 3px solid grey;
+}
