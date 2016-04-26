@@ -2755,7 +2755,7 @@ footer.brandi-advice {
 	}
 
 .abigailmabeza-advice body {
-	background-color #A9D0F5";
+	background-color #A9D0F5;
 	font-family: ', fantasy', sans-serif;
 	padding: 20px 0 20px 15px;
 	font-weight: 700px;
@@ -2777,7 +2777,7 @@ footer.brandi-advice {
 	font-size: 18px;
 	font-family: impact;
 	font-weight: 700px;
-	margin-left: 40px
+	margin-left: 40px;
 	padding: 10px;
 
 }
@@ -2787,12 +2787,8 @@ footer.brandi-advice {
 	text-align: left;
 	padding: 20px;
 }
-}
-
 
 /* End Marie's advice style */
-
-
 
 /*************************
 **************************
@@ -2827,23 +2823,27 @@ Wesley Nimmo's advice
  *****************************
 *****************************/
 
+/* Sarah Gag advice style*/
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.sarahgag-advice {
+  background: light grey;
+}
+.sarahgag-advice header {
+  background:grey;
+  font-family: sans-serif;
+  font-size: 20px;
+}
+.sarahgag-advice body{
+  background: grey;
+}
+.sarahgag-advice h1 {
+  font-style: italic;
+  color: white;
+  font-family: sans-serif;;
+}
+.sarahgag-advice p {
+  font-style: normal;
+  font-family: sans-serif;
+  color: white;
+}
+/* End Sarah Gag advice style */
