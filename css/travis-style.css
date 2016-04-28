@@ -1,0 +1,89 @@
+.navbar {
+  border-bottom: 1px solid;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 50px;
+  background-color: green;
+  z-index: 1;
+}
+
+.navbar a {
+  position: absolute;
+  height:100%;
+  margin-left: 4.5px;
+  padding-right: 55px;
+  border-right: 1px solid;
+}
+
+.navbar img {
+  position: absolute;
+  top: 30%;
+  left: 30%;
+}
+
+.navbar b {
+  position: absolute;
+  top: 30%;
+  margin-left: 35%;
+  margin-right: 30%;
+  bottom: 50%;
+  color: white;
+}
+
+
+header {
+  padding-top: 50px;
+}
+
+.skillcrush-advice {
+  font-family: Arial;
+  }
+  
+header h1 {
+  position: absolute;
+  left: 20%;
+  top: 60px;
+  margin-right: 10%;
+}
+  
+.authorblurb {
+  position: absolute;
+  top: 2%;
+  left: -150px;
+  border-right: 1px solid;
+  padding-right: 12px;
+}
+
+
+.authorblurb p {
+  position: relative;
+  right: -18px;
+  font-size: 10px;
+}
+  
+.authorblurb img {
+
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+
+}
+  
+.advice {
+  position: relative;
+  margin-right: 44%;
+  left: 25%;
+  top: 110px;
+}
+
+footer {
+ border-top: 1px solid;
+ position: relative;
+ top: 160px;
+ font-size: 10px;
+ padding-left: 30px;
+ padding-right: 30px;
+}

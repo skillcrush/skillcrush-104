@@ -1,0 +1,89 @@
+body{
+	background-color:#abab9a;
+	font-family:;
+	cursor:crosshair;
+}
+
+.table{
+	position:relative;
+	padding:10px;
+	margin-bottom:5px;
+	text-align:center;
+}
+
+i{
+	font-size:25px;
+	color:#b20000;
+}
+
+h1{
+	margin-bottom: 0px;
+}
+
+h2{
+	font-size:20px;
+	margin:0;
+}
+
+ul{
+	margin:0;
+	padding:0;
+	width:100%;
+	display:table;
+}
+li{
+	display:table-cell;
+	font-height: 24px;
+	text-align:center;
+}
+
+
+a:active, a:link, a:visited{
+	font-family:'Century Gothic';
+	text-decoration: none;
+	color:#000;
+	margin:0;
+}
+
+a:hover
+{
+	font-style: italic;
+	width:100%;
+}
+
+#header{
+	text-shadow:1px 1px #fff;
+}
+
+#advice_one{
+	border: 1px solid #FFF;
+	width:25%;
+	background-color:#1e95c1;
+	box-shadow: 5px 5px 2px #000;
+	margin-bottom: 25px;
+}
+
+#advice_two{
+	border: 1px solid #fff;
+	width:50%;
+	left:50%;
+	margin-bottom: 25px;
+	background-color:#1e95c1;
+	transform:translate(-50%);
+	box-shadow: 5px 5px 2px #000;
+}
+
+#advice_three{
+	margin-right:5%;
+	border: 1px solid #FFF;
+	width:25%;
+	left:70%;
+	background-color:#1e95c1;
+	box-shadow: 5px 5px 2px #000;
+}
+
+#footer{
+	top:90%;
+	text-align:center;
+	margin:0;
+}

@@ -1,0 +1,28 @@
+/** Tyler's Styles **/
+
+.tylersherkin-advice footer {
+	
+	font-weight: bold;
+	font-size: 130%;
+	
+}
+
+body.tylersherkin-advice h4{
+
+	font-style: italic;
+	font-size: 120%;
+		
+}
+
+section.wrapper p {
+	
+	color: blue;
+	
+}
+
+section.wrapper2 p {
+	
+	color: red;
+	font-weight: bold;
+	
+}
