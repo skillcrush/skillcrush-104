@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+  color: DimGray;
+}
+
+h1 {
+  font-family: serif;
+  font-weight: bold;
+  color: DeepPink;
+  font-variant: small-caps;
+}
+
+h4{
+  color: DarkViolet;
+}
