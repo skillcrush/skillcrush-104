@@ -1,5 +1,22 @@
 /** Add a comment at the beginning of your CSS styles with your name **/
 
+/*****Melanie advice styling*****/
+.melanie-advice h1{
+  color: #3399ff;
+  font-size: 32px;
+  font-family: "Verdana", sans-serif;
+}
+
+.melanie-advice h4{
+  color:#ff0066;
+  font-family: "Verdana", sans-serif;
+}
+.melanie-advice p {
+  color: #313131;
+  font-family: "Georgia", serif;
+  font-size: 18px;
+}
+
 /**Todd advice styling**/
 .todd-advice {
   color:#ffffff
