@@ -1,0 +1,16 @@
+/*
+	Comment
+*/
+
+a { /* Comment */ color: /* Comment */ Red; }
+
+.TestClass {
+	color: blue;
+	background-color: white;
+	text-align: left;
+}
+
+p {
+	text-align: center;
+	font-family: "Times New Roman";
+}
