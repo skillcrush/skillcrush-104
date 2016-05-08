@@ -1,0 +1,41 @@
+.lucym-advice h1 {
+	font-family: 'Vollkorn', serif;
+	font-size: 42px;
+	color:#3B5998;
+}
+
+.lucym-advice h4 {
+	font-family: 'Vollkorn', serif;
+	font-size: 28px;
+	color: #DD4B39;
+}
+
+.lucym-advice p, ul, a {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	color:#7A8B8B;
+}
+
+#heading {
+	width: 450px;
+	height:2000px;
+	float:left;
+	margin-left: 10px;
+	margin-top: 30px;
+	text-align: right;
+	padding-right: 40px;
+}
+
+#main-text {
+	width: 700px;
+	height: auto;
+	float:left;
+	margin-left: 20px;
+	margin-top: 30px;
+}
+
+footer {
+	width:700px;
+	float:left;
+	clear:all;
+}

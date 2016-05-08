@@ -1,5 +1,202 @@
 /** Add a comment at the beginning of your CSS styles with your name **/
 
+/**Todd advice styling**/
+.todd-advice {
+  color:#ffffff
+  font-family:sans-serif;
+  border: 1px;
+}
+/**End of Todd**/
+
+/** roxann advice styling**/
+.roxann-advice{
+	color: #008000
+	font-family: serif;
+	font-size: 36px;
+}
+/**End roxann-advice**/
+
+/**EstherNg advice styling**/
+.estherng-advice {
+    color: #b94141;
+    font-family: "Avant Garde", sans-serif;
+    border: dotted 1px #8cb63d;
+}
+/**End EstherNg advice styling**/
+
+/* JessieC advice styling  */
+.jessiecollins-advice body{
+	font-align:center;
+}
+.jessiecollins-advice h1{
+	color: #E9662C;
+	font-size: 36px;
+	font-family: Cambria;
+
+	font-align:left;
+
+}
+
+.jessiecollins-advice h4 {
+	color: #FBAF3C;
+	font-size: 22px;
+	font-family: Cambria, sans-serif;
+}
+
+.jessiecollins-advice p{
+	color: #00AC65;
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	padding: 0px 80px 0px 80px;
+
+}
+
+/**End Jessie C **/
+
+/**Evelin advice styling**/
+.evelin-advice {
+color: #003399;
+background: #e66b00 url("http://www.transparenttextures.com/patterns/asfalt-dark.png");
+font-family: "open sans", sans-serif;
+line-height: 2;
+text-align: justify;
+}
+
+.evelin-advice div {
+	width: 40%;
+	margin: auto;
+	padding: 20px 100px;
+}
+
+.evelin-advice ol {
+	padding-left: 0px;
+}
+
+.evelin-advice h2 {
+	margin: 0;
+}
+.evelin-advice span {
+	text-decoration: line-through;
+}
+
+.evelin-advice ol li div {
+	background-color: black;
+	color: yellow;
+	border: none;
+	padding: 5px;
+	display: inline;
+}
+
+.evelin-advice p {
+	text-align: right;
+	font-size: 12px;
+}
+
+/**End Evelin advice styling**/
+
+
+
+/**Alesa advice styling**/
+.alesa-advice {
+background: url("https://images.unsplash.com/photo-1434472007488-8d47f604f644?crop=entropy&dpr=2&fit=crop&fm=jpg&h=700&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1300");
+background-position: center;
+background-size: cover;
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+font: #585858;
+}
+
+.alesa-advice text-box {
+border-radius: 5px;
+width: 450px;
+background: rgba(255, 255, 255, 0.8);
+padding: 15px;
+}
+
+/**End Alesa advice styling**/
+
+/**Anna advice styling **/
+
+.anna-advice {
+font-size: 0.8em;
+color: #000d6b;
+font-family: Cambria;
+border: solid 1px gray;
+padding: 10px;
+
+}
+
+
+/**end Anna advice styling **/
+
+/**sandyhogan-advice styles**/
+
+.sandyhogan-advice body {
+	background-color: lightblue;
+	font-family: "Julius Sans One", sans-serif;
+	color: midnightblue;
+	font-size: 16px;
+
+}
+.sandyhogan-advice main-page {
+	background-color: yellow;
+}
+.sandyhogan-advice h1, h4 {
+    color: midnightblue;
+}
+.sandyhogan-advice h4 {
+	font-family: "Julius Sans One", sans-serif;
+	font-size: 26px;
+	color: midnightblue;
+}
+.sandyhogan-advice p {
+	font-family: "Julius Sans One", sans-serif;
+	color: midnightblue;
+	font-weight: 200;
+	font-size: 20px;
+	text-align: justify;
+}
+.sandyhogan-advice div {
+	box-shadow: 0.1em 0.1em 0.5em #2f3632;
+	padding: 32px;
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+	color: #89cff0l;
+}
+
+/** end sandyhogan-advice styles**/
+
+/* KimB advice styling  */
+.kim-advice body{
+	background-color: #99FFCC;
+	font-align:left;
+}
+.kimb-advice h1{
+	color: #6600CC;
+	font-size: 36px;
+	font-family: 'Shadows Into Light Two', cursive;
+		font-align:left;
+
+}
+
+.kimb-advice h4 {
+	color: #330066;
+	font-size: 22px;
+	font-family: 'Roboto', sans-serif;
+}
+
+.kimb-advice p{
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+	padding: 0px 80px 0px 80px;
+
+}
+
+#Kim-foot {
+	font-family: Helvetica;
+	font-size: 10px;
+}
+
 /**Shiloa advice styling**/
 .shiloa-advice	{
 	font-family: Helvetica;
@@ -2440,3 +2637,221 @@ footer.brandi-advice {
 	text-align: justify;
 	padding: 0 20px 0 20px;
 }
+
+/* Shavonn's css */
+
+.shavonn-advice {
+	color: #22282B;
+}
+.shavonn-advice header , .shavonn-advice section, .shavonn-advice footer{
+	width: 80%;
+	margin: 0 auto;
+	font-family: 'Montserrat', sans-serif;
+}
+.shavonn-advice a, .shavonn-advice a:link, .shavonn-advice a:visited, .shavonn-advice a:active {
+	color: #E76565;
+	padding: 4px;
+	text-decoration: none;
+}
+.shavonn-advice a:focus, .shavonn-advice a:hover {
+	background-color: #E76565;
+	color: #fff;
+}
+.shavonn-advice h4 {
+	color: #167277;
+}
+
+/**Start Krystle Scott advice style**/
+
+.krystlescott-advice {
+	text-align: justify;
+	font-family: Helvetica;
+	background: teal;
+}
+
+.krystlescott-advice footer {
+	text-align: center;
+}
+
+.krystlescott-advice h4 {
+	color: darkblue;
+}
+
+.krystlescott-advice h1 {
+	color: darkblue;
+}
+/**End Krystle Scott advice style**/
+
+/** start kumarp34 advice style **/
+.kumarp34-advice h1 {
+   font-family: 'Arial', sans-serif;
+   font-size: 25px;
+   font-weight: bold;
+   color: blue;
+ }
+
+ .kumarp34-advice h4 {
+   font-family: 'Arial', sans-serif;
+   font-size: 20;
+   font-weight: bold;
+   color: green;
+ }
+
+ .kumarp34-advice p {
+   font-family: 'Arial', sans-serif;
+   font-size: 18px;
+   color: red;
+ }
+/** End kumarp34 advice style**/
+
+/* start Heather's advice style */
+.heatherh-advice h1 {
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    color: blue;
+	text-align: center;
+  }
+
+.heatherh-advice h4 {
+    font-family: sans-serif;
+    font-size: 20;
+    font-weight: bold;
+    color: purple;
+  }
+
+.heatherh-advice p {
+    font-family: sans-serif;
+    font-size: 18px;
+    color: black;
+  }
+/* End Heather's advice style */
+
+
+/* Marie Allpress's advice styling **/
+.mariea-advice .advice p {
+	background-color: #0099FF;
+    border-radius: 5px;
+    margin: 10px 200px;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.mariea-advice h1{
+    font-family: garamond;
+    font-size: 35px;
+	font-weight: bold;
+  	color: black;
+   }
+
+ .mariea-advice h4{
+    font-family: garamond;
+    font-size: 25px;
+	font-weight: bold;
+  	color: green;
+   }
+
+.mariea-advice p {
+	font-family: garamond;
+    font-size: 20px;
+  	color: blue;
+}
+.mariea-advice footer p {
+	font-size: 16px;
+	font-weight: bold;
+    color: black;
+	}
+
+.abigailmabeza-advice body {
+	background-color #A9D0F5;
+	font-family: ', fantasy', sans-serif;
+	padding: 20px 0 20px 15px;
+	font-weight: 700px;
+	text-align: left;
+}
+
+.abigailmabeza-advice p {
+	margin-left: 40px;
+	font-family: 'fantasy', sans-serif;
+	font-size: 14px;
+	text-align: left;
+	font-color: black;
+	padding: 25px;
+	;
+}
+
+.abigailmabeza-advice h3 {
+	font-color: black;
+	font-size: 18px;
+	font-family: impact;
+	font-weight: 700px;
+	margin-left: 40px;
+	padding: 10px;
+
+}
+.abigailmabeza-advice h1 {
+	font-family: 'impact', sans-serif;
+	font-color: black;
+	text-align: left;
+	padding: 20px;
+}
+
+/* End Marie's advice style */
+
+/*************************
+**************************
+Wesley Nimmo's advice
+**************************
+**************************/
+.wesnimmo-advice h1, .wesnimmo-advice h2 {
+	text-align: center;
+	font-family: 'Anton', sans-serif;
+}
+
+.wesnimmo-advice section {
+	background: rgb(220,220,220);
+	width: 60%;
+	margin: 0 auto;
+	font-size: 1.05em;
+	font-family: 'Anton', sans-serif;
+}
+
+.wesnimmo-advice h4 {
+	text-align: left;
+	padding: 1% 5% 0 5%;
+}
+
+
+.wesnimmo-advice p {
+	padding: 0 5% 1% 5%;
+}
+/*****************************
+******************************
+ END of Welsey Nimmo's advice
+ *****************************
+*****************************/
+
+/* Sarah Gag advice style*/
+
+.sarahgag-advice {
+  background: light grey;
+}
+.sarahgag-advice header {
+  background:grey;
+  font-family: sans-serif;
+  font-size: 20px;
+}
+.sarahgag-advice body{
+  background: grey;
+}
+.sarahgag-advice h1 {
+  font-style: italic;
+  color: white;
+  font-family: sans-serif;;
+}
+.sarahgag-advice p {
+  font-style: normal;
+  font-family: sans-serif;
+  color: white;
+}
+/* End Sarah Gag advice style */
