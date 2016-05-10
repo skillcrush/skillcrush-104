@@ -1,5 +1,27 @@
 /** Add a comment at the beginning of your CSS styles with your name **/
 
+/**JRaddi advice style**/
+.jraddi-advice{
+	font-family: 'Oxygen', sans-serif;
+	color: #cc66cc;
+}
+
+.jraddi-advice h4{
+	font-family: 'Oxygen', sans-serif;
+	color: #4d194d;
+}
+
+.jraddi-advice .advice{
+	margin: 0px 10px 0px 10px;
+}
+
+.jraddi-advice footer{
+	color: #4d194d;
+}
+
+/**End JRaddi Style**/
+
+
 /**Todd advice styling**/
 .todd-advice {
   color:#ffffff
