@@ -1,4 +1,11 @@
 /** Add a comment at the beginning of your CSS styles with your name **/
+/**Becky advice styling**/
+.advice-becky {
+  color:#028482;
+  font-family:sans-serif;
+  border: 1px;
+}
+/**End of Becky**/
 
 /**Todd advice styling**/
 .todd-advice {
