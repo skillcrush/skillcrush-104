@@ -1,0 +1,54 @@
+/* General Styles */
+
+html, body {
+  background-image: url('http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/green_dust_scratch.png');
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+body {
+  padding-top: 70px;
+  color: #fff;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  padding: 0;
+  margin: 0;
+}
+
+#wrapper {
+  min-height: 100%;
+  position: relative;
+}
+
+.page-header {
+  text-align: center;
+}
+
+.well {
+  position: relative;
+  
+}
+
+/* Navigation */
+
+.navbar {
+  background-color: rgba(0, 0, 0, 0.5);
+  border: none;
+}
+
+.navbar-default .navbar-brand {
+  font-family: 'Poiret One', cursive;
+  color: #fff;
+}
+
+
+
+/* Main Content */
+
+.well {
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
