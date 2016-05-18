@@ -1,0 +1,44 @@
+html, body {
+    height: 100%;
+    font-family: 'Montserrat', Helvetica, Tahoma, Arial, sans-serif;
+    padding: 0 80px;
+    color: #212121;
+}
+
+h1 {
+    font-family: 'League Script', Georgia, "Times New Roman", serif;
+    text-align: center;
+    font-size: 40px;
+    color: #342A21;
+}
+
+h2, h3, h4, h5, h6 {
+    font-family: 'Cutive Mono', Georgia, "Times New Roman", serif;
+    text-align: center;
+    color: #71816D; 
+}
+
+h3 {
+    font-size: 1.5em;
+    margin-top: -25px;
+}
+
+h4 {
+    border: 1px solid #C9B79C;
+    padding: 20px;
+    font-size: 1.15em;
+    background: #F1E0C5;
+}
+
+a {
+    color: #DA667B;
+}
+
+footer {
+    color: #71816D;
+    text-align: left;
+    border-top: 1px solid #C9B79C;
+    margin-top: 55px;
+    padding: 5px 0 7px;
+    font-size: 12px;
+}
