@@ -1,0 +1,16 @@
+.nbarclay-advice p, h1, h4 {
+	color: tomato;
+	background-color: lightblue;
+	font-size: 25px;
+	margin-left: 5px;
+	
+}
+
+
+.skillcrush-advice .advice h4 {
+    border-bottom: 1px solid #dddddd;
+    padding-bottom: 5px;
+    color: tomato;
+    background-color: lightblue;
+    
+}
