@@ -1,1 +1,0 @@
-puts "My first forked repository."

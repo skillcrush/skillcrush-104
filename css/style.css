@@ -2803,6 +2803,7 @@ footer.brandi-advice {
 	font-weight: 700px;
 	text-align: left;
 }
+<<<<<<< HEAD
 
 .abigailmabeza-advice p {
 	margin-left: 40px;
@@ -2830,6 +2831,35 @@ footer.brandi-advice {
 	padding: 20px;
 }
 
+=======
+
+.abigailmabeza-advice p {
+	margin-left: 40px;
+	font-family: 'fantasy', sans-serif;
+	font-size: 14px;
+	text-align: left;
+	font-color: black;
+	padding: 25px;
+	;
+}
+
+.abigailmabeza-advice h3 {
+	font-color: black;
+	font-size: 18px;
+	font-family: impact;
+	font-weight: 700px;
+	margin-left: 40px;
+	padding: 10px;
+
+}
+.abigailmabeza-advice h1 {
+	font-family: 'impact', sans-serif;
+	font-color: black;
+	text-align: left;
+	padding: 20px;
+}
+
+>>>>>>> f79527c51f91f71293e2d10fc9e8e7c35a860e41
 /* End Marie's advice style */
 
 /*************************
@@ -2889,6 +2919,8 @@ Wesley Nimmo's advice
   color: white;
 }
 /* End Sarah Gag advice style */
+<<<<<<< HEAD
+=======
 
 /* start SaraBohannon's advice style */
 
@@ -2923,3 +2955,4 @@ Wesley Nimmo's advice
   }
   
 /* End SaraBohannon's advice style */
+>>>>>>> f79527c51f91f71293e2d10fc9e8e7c35a860e41

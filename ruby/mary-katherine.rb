@@ -1,1 +1,0 @@
-puts 'hello! My name is Mary-Katherine and I was a skillcrush student in the March 2015 Web Dev Blueprint!'

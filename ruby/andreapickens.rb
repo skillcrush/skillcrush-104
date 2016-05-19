@@ -1,1 +1,0 @@
-puts "I forked then cloned the Skillcrush 104 repository. Yay!"

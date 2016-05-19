@@ -1,1 +1,0 @@
-puts "It's kennedy!"

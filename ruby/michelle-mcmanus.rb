@@ -1,1 +1,0 @@
-puts "Let's go outside! Please!"

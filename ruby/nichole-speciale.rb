@@ -1,1 +1,0 @@
-puts "1 mississippi, 2 mississippi, 3 mississippi"

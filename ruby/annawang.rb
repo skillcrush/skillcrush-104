@@ -1,1 +1,0 @@
-puts "I'm still a bit confused about git..I hope I'll get this soon!"

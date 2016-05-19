@@ -1,1 +1,0 @@
-puts "Hi everyone! It's Sarah (svmelton) from Skillcrush 104!"

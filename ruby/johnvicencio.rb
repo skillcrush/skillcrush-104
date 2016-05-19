@@ -1,1 +1,0 @@
-puts "Hello John Vicencio"
