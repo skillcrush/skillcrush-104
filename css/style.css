@@ -1,5 +1,23 @@
 /** Add a comment at the beginning of your CSS styles with your name **/
 
+/*Emily Pecot advice styling*/
+.emilypecot-advice h1 {
+	color: #663d58;
+	font-family: "Century Gothic", sans-serif;
+	font-size: 36px;
+}
+.emilypecot-advice h4 {
+	color: black;
+	font-family: "Century Gothic", sans-serif;
+	font-size: 24px;
+	font-weight: none;
+}
+.emilypecot-advice p {
+	font-size: 18px;
+	margin-left: 2em;
+	margin-right: 2em;
+}
+
 /**Todd advice styling**/
 .todd-advice {
   color:#ffffff
