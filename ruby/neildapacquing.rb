@@ -1,1 +1,0 @@
-puts "Mission full stack developer is in the works. This is my forked repository."

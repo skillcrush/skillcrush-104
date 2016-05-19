@@ -1,1 +1,0 @@
-puts "Hello world! This is Al Whitehouse!"

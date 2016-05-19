@@ -1,1 +1,0 @@
-puts "You guys, I'm still working on Skillcrush 104 weeks after it ended."

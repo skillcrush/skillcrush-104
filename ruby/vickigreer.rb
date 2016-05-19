@@ -1,1 +1,0 @@
-puts "This is Vicki with a file in my forked project."

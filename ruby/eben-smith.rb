@@ -1,1 +1,0 @@
-puts 'I love this class so much! Thank you thank you thank you!'
