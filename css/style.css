@@ -2923,3 +2923,34 @@ Wesley Nimmo's advice
   }
   
 /* End SaraBohannon's advice style */
+
+/*************************
+CarmenG's advice
+*************************/
+.carmeng-advice h1, .carmeng-advice h2 {
+	text-align: center;
+	font-family: 'Anton', sans-serif;
+}
+
+.carmeng.advice section {
+	background: rgb(220,220,220);
+	width: 60%;
+	margin: 0 auto;
+	font-size: 1.05em;
+	font-family: 'Garamond', sans-serif;
+}
+
+.carmeng-advice h4 {
+	text-align: left;
+	padding: 1% 5% 0 5%;
+}
+
+
+.carmeng-advice p {
+	padding: 0 5% 1% 5%;
+}
+/*****************************
+******************************
+ END of CarmenG's advice
+ *****************************
+*****************************/
