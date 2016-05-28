@@ -1,0 +1,32 @@
+body {
+background: url("http://i1308.photobucket.com/albums/s602/lysautumn/photo-1442595481287-848a497a678a_zpsccl3xfal.jpg") repeat fixed center center / cover;
+}
+.advice {
+  background-color: rgba(204, 204, 217, 0.5);
+  padding: 25px;
+  margin: 50px;
+}
+h1, h2 {
+  font-family: 'Just Another Hand', cursive;
+  text-align: center;
+}
+h1 {
+  margin-top: 10px;
+  font-size: 70px;
+  color: #ff5050;
+}
+h2 {
+  font-size: 40px;
+}
+p {
+  font-family: 'Montserrat', sans-serif;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  font-weight: 900;
+}
