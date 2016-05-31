@@ -1,4 +1,38 @@
-/** Add a comment at the beginning of your CSS styles with your name **/
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/** Becky000 advice styling **/
+.becky000-advice p {
+	font: 16px 'Roboto Condensed', sans-serif;
+	color: #3b3b3b;
+	font-weight: normal;
+	width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+.becky000-advice h1 {
+	font: 600 36px 'Roboto Condensed', sans-serif;
+	color: #3b3b3b;
+	font-weight: normal;
+	padding-top: 30px;
+}
+.becky000-advice h2 {
+	font: 400 28px 'Roboto Condensed', sans-serif;
+	color: #3b3b3b;	
+	display: block;
+	width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+.becky000-advice a {
+	font: 16px 'Roboto Condensed', sans-serif;
+	text-decoration: none;
+	color: #3b3b3b;
+	padding: 20px;
+}
+.becky000-advice a:hover{
+	text-decoration: underline;
+}
+/** end becky000 styling **/
 
 /* SaraC advice styling  */
 .sarac-advice2 {
@@ -2894,3 +2928,37 @@ Wesley Nimmo's advice
   color: white;
 }
 /* End Sarah Gag advice style */
+
+/* start SaraBohannon's advice style */
+
+.sarabohannon-advice {
+	 background:#f9eede;
+}
+.sarabohannon-advice header {
+  background:#B0BF4C;
+  font-family: sans-serif;
+  font-size: 20px;
+}
+.sarabohannon-advice h1 {
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    color: #f9eede;
+	text-align: center;
+  }
+
+.sarabohannon-advice h4 {
+    font-family: sans-serif;
+    font-size: 20;
+    font-weight: bold;
+    color: #402802;
+	text-align: left;
+  }
+
+.sarabohannon-advice p {
+    font-family: sans-serif;
+    font-size: 14px;
+    color: #402802;
+  }
+  
+/* End SaraBohannon's advice style */
