@@ -34,6 +34,43 @@
 }
 /** end becky000 styling **/
 
+/* SaraC advice styling  */
+.sarac-advice2 {
+	border-style: solid;
+	border-width: 4px;
+	margin: 30px;
+	border-color: red;
+}
+
+.sarac-advice body{
+	font-align:center;
+	
+}
+.sarac-advice h1{
+	color: black;
+	font-size: 36px;
+	font-family: 'Open Sans', sans-serif;
+
+	font-align:left;
+
+}
+
+.sarac-advice h4 {
+	color: black;
+	font-size: 22px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.sarac-advice p{
+	color: black;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	padding: 0px 80px 0px 80px;
+
+}
+
+/**End Sara C **/
+
 /**Todd advice styling**/
 .todd-advice {
   color:#ffffff
@@ -86,6 +123,8 @@
 }
 
 /**End Jessie C **/
+
+
 
 /**Evelin advice styling**/
 .evelin-advice {
