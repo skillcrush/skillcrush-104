@@ -1,4 +1,30 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+/** Malene Allen advice styling **/
+.maleneallen-advice p {
+	font: 16px 'Slabo 27px', serif;
+	color: #535454;
+	font-weight: normal;
+	width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+.maleneallen-advice h1 {
+	font: 600 36px 'Slabo 27px', serif;
+	color: #f94d8c;
+	font-weight: normal;
+	padding-top: 30px;
+}
+.maleneallen-advice h4 {
+	font: 400 28px 'Slabo 27px', serif;
+	color: #0fa942;
+	display: block;
+	width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+.maleneallen-advice footer{
+	text-align: center;
+}
 
 /** Becky000 advice styling **/
 .becky000-advice p {
@@ -17,7 +43,7 @@
 }
 .becky000-advice h2 {
 	font: 400 28px 'Roboto Condensed', sans-serif;
-	color: #3b3b3b;	
+	color: #3b3b3b;
 	display: block;
 	width: 800px;
 	margin: 0 auto;
@@ -2921,5 +2947,5 @@ Wesley Nimmo's advice
     font-size: 14px;
     color: #402802;
   }
-  
+
 /* End SaraBohannon's advice style */
