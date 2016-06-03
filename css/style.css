@@ -1,5 +1,32 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/** Age advice styling **/
+
+.ages-advice {
+	background-color:#FFDAB9;
+}
+
+.ages-advice h1 {
+	font-family: 'Raleway', sans-serif;
+	color:#ff5050;
+	border-style:solid;
+	border-color:#ffffff;
+	padding:20px;
+}
+
+.ages-advice h4 {
+	font-family: 'Raleway', sans-serif;
+	color:#ff6600;
+	text-align: left;
+	padding-left:20px;
+}
+
+.ages-advice p {
+	color:#666666;
+	padding-left:20px;
+	padding-right:20px;
+	text-align:justify;
+}
 /** Becky000 advice styling **/
 .becky000-advice p {
 	font: 16px 'Roboto Condensed', sans-serif;
@@ -17,7 +44,7 @@
 }
 .becky000-advice h2 {
 	font: 400 28px 'Roboto Condensed', sans-serif;
-	color: #3b3b3b;	
+	color: #3b3b3b;
 	display: block;
 	width: 800px;
 	margin: 0 auto;
@@ -44,7 +71,7 @@
 
 .sarac-advice body{
 	font-align:center;
-	
+
 }
 .sarac-advice h1{
 	color: black;
@@ -2960,5 +2987,5 @@ Wesley Nimmo's advice
     font-size: 14px;
     color: #402802;
   }
-  
+
 /* End SaraBohannon's advice style */
