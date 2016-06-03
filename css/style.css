@@ -2962,3 +2962,22 @@ Wesley Nimmo's advice
   }
   
 /* End SaraBohannon's advice style */
+
+/* Start ParisMarron's advice style */
+body.parismarron-advice{
+	background-color:#ff0099;
+}
+.parismarron-advice h1, .parismarron-advice h4 {
+	font-family: "Franklin Gothic Medium","Franklin Gothic","ITC Franklin Gothic",Arial,sans-serif;
+	color:#fff;
+}
+.parismarron-advice h4 {
+	font-size:40px;
+	text-decoration: underline;
+}
+.parismarron-advice .advice {
+	width:60%;
+	min-width:300px;
+	margin:10px auto;
+	line-height:1.5;
+}
