@@ -60,6 +60,16 @@
 }
 /** end becky000 styling **/
 
+/**Bluelanugo advice styling**/
+.bluelanugo_advice {
+color: #003399;
+background: #e66b00 url("http://www.transparenttextures.com/patterns/asfalt-dark.png");
+font-family: "open sans", sans-serif;
+line-height: 2;
+text-align: justify;
+}
+
+
 /* SaraC advice styling  */
 .sarac-advice2 {
 	border-style: solid;
