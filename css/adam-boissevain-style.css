@@ -1,0 +1,66 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/** Adam Boissevain advice styling **/
+
+.adam-boissevain-advice {
+	margin: 0;
+}
+
+.adam-boissevain-advice p {
+	font: 16px 'Open Sans', sans-serif;
+	color: #333333;
+	font-weight: normal;
+	margin: 0 30px;
+	padding: 20px;
+}
+.adam-boissevain-advice h1 {
+	font: 600 36px 'Open Sans', sans-serif;
+	color: #333333;
+	font-weight: normal;
+	padding-top: 30px;
+}
+.adam-boissevain-advice h2 {
+	font: 400 28px 'Open Sans', sans-serif;
+	color: #333333;	
+	display: block;
+	width: 800px;
+	margin: 0 auto;
+	padding: 30px;
+}
+.adam-boissevain-advice a {
+	font: 16px 'Open Sans', sans-serif;
+	text-decoration: none;
+	border: 4px solid #ffffff;
+	padding: 15px;
+	border-radius: 10px;
+	color: #fff;
+	text-transform: uppercase;
+	margin: 0 auto;
+	width: 170px;
+	display: block;
+	text-align: center;
+}
+
+.adam-boissevain-advice a:hover{
+	background: #ffffff;
+	color: #333333;
+}
+
+.adam-boissevain-advice header {
+	background: #428BCA;
+	color: #ffffff;
+	display: block;
+	padding: 30px;
+}
+
+.adam-boissevain-advice h1 {
+	color: #fff;
+	text-align: center;
+}
+
+.adam-boissevain-advice h4 {
+	color: #428BCA;
+	text-align: center;
+	font-size: 22px;
+}
+/** end Adam Boissevain styling **/
