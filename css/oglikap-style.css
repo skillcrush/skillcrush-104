@@ -1,0 +1,14 @@
+
+.oglis-advice {
+  font-family: 'Lato', sans-serif;
+  display: flex;
+  flex-direction: column;
+  max-width: 960px;
+  margin: 0 auto;
+  background-color: #f9ffff;
+}
+.oglis-advice h1,
+.oglis-advice h4 {
+  font-weight: 100;
+  text-shadow: 0 0 0.1px;
+}
