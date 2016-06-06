@@ -1,0 +1,14 @@
+body { background: rgb(30, 79, 109);
+			font-family: 'Open Sans';
+			padding: 30px;
+		}
+h1 {color: white;}
+h4 {color: rgb(0, 192, 255);}
+a {color: white;}
+.advice {font-size: 15px;
+   color: rgb(149, 221, 255);
+	 margin: 30px;
+	 margin-right: 100px;
+	 font-family: 'Open Sans';
+	 text-align: justify;}
+footer {color: white;}

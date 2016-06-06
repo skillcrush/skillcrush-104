@@ -1,0 +1,31 @@
+/** Cynthia Clinton Styles **/
+.cynthiaclinton-advice{
+width: 1200px;
+height: auto;
+padding: 20px;
+font-size: 14px;
+background-color: #white;
+color: #0F104A;
+opacity:.8
+}
+
+.advice{
+background: #D1D1F0;
+padding: 5px;
+}
+
+.cynthiaclinton-advice h4{
+color: #292AA3;
+padding: 20px;
+text-shadow: 1px 2px 2px gray;
+text-transform:uppercase;
+}
+
+.cynthiaclinton-advice h1{
+text-align: center;
+text-shadow: 1px 2px 3px #666;
+}
+/*End of Cynthia Clinton's Advice*/
+
+
+ 
