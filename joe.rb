@@ -1,0 +1,1 @@
+puts "Hi! GitHub is awesome!"
