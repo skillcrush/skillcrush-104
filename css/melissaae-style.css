@@ -1,0 +1,37 @@
+/* Melissa's styles */
+
+body {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+
+.melissaae-advice div {
+	width: 80%;
+	background-color: #DDE5FF;
+	margin: 20px auto 20px auto;
+	border: solid 1px #666666;
+	padding: 10px;
+}
+
+.melissaae-advice h1 {
+	color: #7700CA;
+	text-align: center;
+	font-size: 72pt;
+	margin: 10px;
+}
+
+.melissaae-advice h2 {
+	text-align: center;
+	color: #000000;
+	font-size: 18pt;
+	margin: 10px;
+}
+
+.melissaae-advice h4 {
+	color:#7700CA;
+	margin: 5px 0px 5px 0px;
+	font-size: larger;
+}
+
+/* End Melissa's styles */
+
+

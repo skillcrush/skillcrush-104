@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+
+	<!-- replace Skillcrush with your name here -->
+	<title>David's Advice For Newbies</title>
+</head>
+
+<!-- replace skillcrush with your name here -->
+<body class="Davids-advice">
+	<header>
+		<h1>Hi my name is David and I have some advice for you!</h1>
+	</header>
+
+	<section>
+		<div class="advice">
+			<h4>If I can do this, so can you!</h4>
+			<p>There is nothing more challenging then learning a new language. Take your time and accept your mistakes. This will help decrease your anxiety and take each step in stride. This is a natural part of any learning process.</p>
+			<h4>If you are confused then you are doing something right</h4>
+			<p>If you are questioning something and find yourself thinking about a process or a line of code then you are doing something right. It means you are accessing parts of your brain looking for answers. Some of us go on in life never tapping into our inner most potential because we never have to use our brains the way that you need to in order to code. This is a good thing. Consider yourself officially disconnected from the matrix.</p>
+		</div>
+    </section>
+
+	<footer>
+		<!-- replace Skillcrush with your name here -->
+		<p>&copy; Copyright David 2015.
+	</footer>
+</body>
+</html>

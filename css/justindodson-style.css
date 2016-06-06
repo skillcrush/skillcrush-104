@@ -1,0 +1,78 @@
+.justindodson-advice {	
+	background-color: #11C4D8;
+
+}
+
+header a {
+	position: relative;
+	margin-left: 10px;
+	margin-top: 10px;
+	background: transparent;
+	border: 5px solid #1C427A;
+	color: #1C427A;
+	border-radius: 5px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 20px;
+	padding: 15px 32px;
+	transition-duration: 0.5s;
+	font-family: 'Carrois Gothic SC', sans-serif;
+}
+
+header a:hover {
+	border: 5px solid #1C427A;
+	background: #1C427A;
+	color: white;
+}
+
+
+header h1 {
+	font-size: 50px;
+	text-align: center;
+	color: white;
+	background-color: #11C4D8;
+	border-radius: 5px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.advice h3 {
+	background-color: #1C427A;
+	color: white;
+	text-align: center;
+	border: 2px solid black;
+	border-radius: 20px;
+	margin-right: 50px;
+	margin-left: 50px;
+	padding: 10px 15px 10px 15px;
+	font-size: 30px;
+}
+
+.advice p {
+	border: 2px solid #1C427A;
+	border-radius: 20px;
+	background-color: #ABD3C2;
+	color: #00004F;
+	font-size: 20px;
+	padding: 20px 50px 20px 50px;
+	margin-top: -35px;
+}
+
+footer {
+	border: 2px solid #1C427A;
+	text-align: right;
+	padding-right: 30px;
+	background-color: #1C427A;
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+

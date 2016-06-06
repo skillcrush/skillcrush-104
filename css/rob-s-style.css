@@ -1,0 +1,38 @@
+body {
+  background-color: #3399FF;
+  padding: 0px;
+  margin: 0px;
+}
+
+#container {
+  background-color: #FFFFFF;
+  width: 800px;
+  padding: 10px;
+  margin: 0px auto;
+
+}
+
+header {
+  padding: 0px;
+}
+
+nav {
+  height: 30px;
+  line-height: 30px;
+  padding: 3px;
+  text-align: right;
+}
+
+a, a:visited {
+  text-decoration: none;
+  color: #3399FF;
+}
+
+a:hover {
+  color: #000000;
+}
+
+footer {
+  padding-top: 10px;
+}
+

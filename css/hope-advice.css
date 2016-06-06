@@ -1,0 +1,39 @@
+
+body {
+  background-color: #AFDCEC;
+  font-family: sans-serif;
+  color: #2C3539;
+}
+
+h1{
+  text-align: center;
+  font-size: 25px;
+  color: #8C001A;
+
+}
+h2{
+  text-align: center;
+  font-size: 19px;
+  color: #E77471;
+}
+h4{
+  color: #E77471;
+  text-align: center;
+}
+
+p{
+
+}
+footer{
+  float: bottom;
+
+}
+.hope-advice {
+  width: 600px;
+  height: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 100px, 150px, 100px, 150px;
+
+
+}

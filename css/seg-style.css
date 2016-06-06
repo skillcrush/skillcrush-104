@@ -1,0 +1,52 @@
+/* Greetings & best wishes to you, intrepid traveller */
+/* seg-advice.html has some bootstrap action too */
+
+body {
+margin: 30px;
+background-color:#FFCF00;
+background-size:100px 100px;
+}
+
+h1 {
+color:white;
+text-transform: uppercase;
+text-shadow: 1px 1px 2px rgba(93, 93, 93, 1);
+}
+
+.first {
+background: white;
+padding: 20px;
+}
+
+.first p {
+color: rgba(149, 149, 149, 1);
+font-size: 30px;
+}
+
+.second {
+background: none repeat scroll 0% 0% rgba(146, 46, 100, 1);
+padding: 40px;
+}
+
+.advice {
+padding: 15px;
+}
+
+.first h4 {
+color: gray;
+font-size:66px;
+}
+
+.second p {
+color: white;
+font-size:24px;
+}
+
+.second h4 {
+    color: #FFCF00;
+    font-size: 40px;
+    font-weight: bold;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    font-family: georgia;
+}

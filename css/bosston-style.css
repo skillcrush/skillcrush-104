@@ -1,0 +1,56 @@
+body {
+	width: 90%;
+	margin: auto;
+	box-sizing: border-box;
+	text-align: center;
+	font-family: "Roboto", sans-serif;
+	background: #fafafa url("http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/wall4.png") repeat center;
+	color: #0c0c0c;
+}
+
+h1 {
+	color: #00a0ff;
+	margin-bottom: 15px;
+	margin-top: 20px;
+}
+
+h4 {
+	color: #00a0ff;
+	font-size: 1.4em;
+	margin-bottom: -5px;
+}
+
+p {
+	line-height: 1.2;
+	font-size: 1.5em;
+}
+
+.left, .right {
+	width: 48%;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+.advice::after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+a {
+	position: absolute;
+	left: 15px;
+	top: 5px;
+	color: #0c0c0c;
+}
+
+footer {
+	margin-top: -1px;
+	color: #0090ff;
+}
