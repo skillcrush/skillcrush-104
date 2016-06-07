@@ -1,1 +1,0 @@
-puts "This is my contribution to the skillcrush repo"

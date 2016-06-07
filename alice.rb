@@ -1,1 +1,0 @@
-puts "Hi everyone! My name is Alice, and GitHub is AWESOME!"

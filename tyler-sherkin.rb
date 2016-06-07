@@ -1,1 +1,0 @@
-puts "This is Tyler Sherkin's Ruby file for Skillcrush 104!"

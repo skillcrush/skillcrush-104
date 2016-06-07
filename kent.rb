@@ -1,1 +1,0 @@
-puts "Hello, I'm Kent"

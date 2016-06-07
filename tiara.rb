@@ -1,1 +1,0 @@
-puts "hello, it's tiara"

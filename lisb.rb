@@ -1,1 +1,0 @@
-puts "Hello Skillcrush 104 from Lis B!"
