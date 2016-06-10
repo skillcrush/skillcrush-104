@@ -3006,3 +3006,40 @@ body.parismarron-advice{
 	margin:10px auto;
 	line-height:1.5;
 }
+
+/*Ashley Brown Advice Style*/
+.ashleybrown-advice h1, h2 {
+    font-family: 'Josefin Slab', serif;
+    text-align: center;
+}
+
+.ashleybrown-advice p {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.5em;
+}
+
+.ashleybrown-advice div{
+    width: 65%;
+    margin: auto;
+    background: #e0ebeb;
+    padding: 2%;
+    margin-top: 4%;
+}
+
+.ashleybrown-advice header{
+    width: 65%;
+    margin: auto;
+    padding: 2%;
+    border: solid 2px;
+    background: #ffffff;
+}
+
+.ashleybrown-advice a{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.ashleybrown-advice{
+    background: #85adad;
+}
+
+/*End Ashley Brown Advice Style*/
