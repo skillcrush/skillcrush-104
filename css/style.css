@@ -3006,3 +3006,27 @@ body.parismarron-advice{
 	margin:10px auto;
 	line-height:1.5;
 }
+
+/*Begin Dawncat's advice style */ 
+.dawncat-advice {
+	margin: 10%;
+	font-family: "Book Antiqua", serif;
+	font-size: 110%; 
+	background-color: #cccccc;
+}
+
+.dawncat-advice h1 {
+	font-family: Charcoal, sans-serif;
+}
+.dawncat-advice h4 {
+	font-family: Charcoal, sans-serif;
+	color: #330066;
+}
+
+.dawncat-advice a {
+	text-decoration: none;
+}
+.dawncat-advice footer {
+	font-size: 75%;
+}
+/*end Dawncat's advice style*/
