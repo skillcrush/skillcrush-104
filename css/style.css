@@ -3071,3 +3071,39 @@ body.parismarron-advice{
 }
 
 /*End Ashley Brown Advice Style*/
+
+/*Start shannonc's advice styles */
+.shannon-advice {
+	font-family: Arial,Helvetica,sans-serif ;
+	color: #3b3b3b;
+	max-width: 900px;
+	margin: 10px 20px;
+}
+
+.shannon-advice h1,.shannon-advice h2,.shannon-advice p,.shannon-advice a {
+	text-align:left !important;
+	font-family: Arial,Helvetica,sans-serif !important;
+}
+
+.shannon-advice h1 {
+	font-size: 50px;
+		color: #45ac9d;
+
+}
+
+.shannon-advice p,.shannon-advice a {
+	font-size: 18px;
+	line-height: 130%;
+}
+
+.shannon-advice a,.shannon-advice a:visited {
+	text-decoration: none;
+	border-bottom: 1px solid #45ac9d;
+	color: #3b3b3b;
+}
+
+.shannon-advice .small {
+	font-size: 12px;
+}
+
+/*End shannonc's advice styles */
