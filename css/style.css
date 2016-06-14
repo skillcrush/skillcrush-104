@@ -70,7 +70,7 @@
 
 .sarac-advice body{
 	font-align:center;
-	
+
 }
 .sarac-advice h1{
 	color: black;
@@ -3071,3 +3071,44 @@ body.parismarron-advice{
 }
 
 /*End Ashley Brown Advice Style*/
+
+/** Kim J Martin advice styling **/
+
+.kimjmartin-advice {
+		font-family:'Handlee';
+
+}
+
+.kimjmartin-advice h1 {
+		color:#00b8e6;
+		font-size:32px;
+
+}
+
+.kimjmartin-advice h3 {
+		font-family:'Handlee';
+		color:#006680;
+		font-size:26px;
+
+}
+
+.kimjmartin-advice p {
+		font-size:18px;
+		color:#002933;
+
+}
+
+.kimjmartin-advice .bold {
+		font-weight:bold;
+
+}
+
+.kimjmartin-advice .advice {
+		text-align:center;
+
+}
+
+.kimjmartin-advice footer {
+		text-align:center;
+
+}
