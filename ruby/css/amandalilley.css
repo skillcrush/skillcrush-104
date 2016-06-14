@@ -1,0 +1,27 @@
+/**Amanda Lilley's Style Page**/
+
+body {
+  background-color: #4d18cf;
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  color: #fff;
+}
+
+h4 {
+  color:#11e2a0;
+  text-decoration: underline;
+}
+
+blockquote {
+  font-style: oblique;
+  font-size: 24px;
+}
+
+.column1of4, .column2of4, .column3of4, .column4of4 {
+  width: 300px;
+  float: left;
+  margin: 10px;
+}
