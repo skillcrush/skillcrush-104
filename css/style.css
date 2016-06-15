@@ -1,4 +1,32 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+
+/***Lara's styling**/
+.lp-advice h1 {
+	color: #b30059;
+	font-family: 'Jaldi', sans-serif;
+	font-size: 40px;
+	font-weight: normal;
+}
+
+.lp-advice h4 {
+	color: #9A12B3;
+	font-family: 'Jaldi', sans-serif;
+	font-size: 32px;
+}
+
+.lp-advice p {
+	color: #674172;
+	font-family: 'Lato', sans-serif;
+	font-size: 20px;
+	text-align: center;
+}
+
+.lp-advice .footer {
+	padding-top: 20px;
+	text-align: center;
+	text-size: 12px;
+}
+
 /** Malene Allen advice styling **/
 .maleneallen-advice p {
 	font: 16px 'Slabo 27px', serif;
