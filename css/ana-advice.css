@@ -1,0 +1,50 @@
+body {
+  background-color: #E0F2E9;
+}
+
+footer {
+  background-color: #5B7B7A;
+  bottom: 0;
+  color: #fff;
+  clear: both;
+  font-size: 18px;
+  text-align: center;
+  padding: 5px;
+  margin: -8px;
+  position: fixed;
+  width: 100%;
+}
+
+h1, h2, h4 {
+  color: #333;
+  text-shadow: 3px 3px 3px #999;
+}
+
+a:link, a:visited, a:hover, a:active {
+  text-decoration: none;
+  color: #333;
+  text-shadow: 3px 3px 3px #999;
+}
+
+a:hover {
+  font-size: 20px;
+}
+
+p {
+  padding-left: 15px;
+}
+
+.advice {
+  border: black solid 2px;
+  border-radius: 24px;
+  background-color: #e9ded8;
+  padding: 20px;
+  font-size: 18px;
+}
+
+.advice2 {
+  border: black solid 2px;
+  border-radius: 24px;
+  background-color: #3C887E;
+  margin-top: 22px;
+}
