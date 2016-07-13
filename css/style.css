@@ -3200,3 +3200,62 @@ body.parismarron-advice{
 }
 
 /*End shannonc's advice styles */
+
+/* patti g's advice styles */
+.pg-advice {
+	padding:3em;
+	background-color:#541538
+	}
+	.pg-advice header {
+		background-color:#8b3b60;
+		padding:2em;
+	}
+.pg-advice a {
+	color:#f5913b;
+	background-color:#323140;
+	padding:10px;
+	text-decoration:none;
+	border-radius:3px;
+	float:right;
+	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	}
+.pg-advice h1 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif ;
+    font-weight:400;
+    letter-spacing:0.02em;
+    margin:0 0 20px;
+	font-size: 50px;
+	text-align:left;
+	width:80%;
+	clear:both;
+	margin-top:20px;
+	text-shadow: 2px 2px #5A3249;
+	color:#fff;
+}
+
+.pg-advice h4 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif ;
+    font-weight:400;
+    letter-spacing:0.02em;
+    margin:0 0 20px;
+	color: #3a3c4;
+	font-size: 32px;
+	text-align:left;
+	padding-top: 20px;
+}
+
+.pg-advice p {
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size:18px;
+    line-height:24px;
+    font-weight:300;
+    margin-bottom:20px;
+	color:#fff;
+}
+
+.pg-advice footer {
+	padding: 20px;
+	text-align: center;
+	text-size: 12px;
+	background-color:#f5913b;
+}
