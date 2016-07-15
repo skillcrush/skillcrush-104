@@ -3200,3 +3200,38 @@ body.parismarron-advice{
 }
 
 /*End shannonc's advice styles */
+
+/* Start Sara's advice styles */
+
+.sara-advice {
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 50px;
+}
+
+.sara-advice h1 {
+	font-size: 24px;
+	color: #900c3f;
+	padding: 5px;
+}
+
+.sara-advice h4 {
+	font-size: 18px;
+	color: #707070;
+}
+
+.sara-advice p {
+	font-size: 14px;
+	line-height: 150%;
+}
+
+.sara-advice a {
+	color: #581845;
+	font-size: 12px;
+	text-decoration: none;
+}
+
+.sara-advice section {
+	margin: 100px;
+}
+
+/* End Sara's advice styles */
