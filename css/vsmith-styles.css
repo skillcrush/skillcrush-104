@@ -1,0 +1,47 @@
+
+
+body {
+    width: 50%;
+    margin: auto;
+    color: #fff;
+    font-family: sans-serif;
+    
+    background-color: cadetblue;
+    
+}
+
+h1, h4 {
+    font-family: kotta-one, cursive;
+}
+
+h1 {
+    text-align: center;
+}
+h4 {
+    font-size: 1.25rem;
+}
+
+/* unvisited link */
+a:link {
+    color: Indigo;
+}
+
+/* visited link */
+a:visited {
+    color: lightseagreen;
+}
+
+/* mouse over link */
+a:hover {
+    text-decoration: underline;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+p {
+    text-align: justify;
+    font-size: 1.15rem;
+}
