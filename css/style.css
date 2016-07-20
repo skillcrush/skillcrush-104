@@ -3141,11 +3141,11 @@ body.parismarron-advice{
 
 }
 
-/*Begin Dawncat's advice style */ 
+/*Begin Dawncat's advice style */
 .dawncat-advice {
 	margin: 10%;
 	font-family: "Book Antiqua", serif;
-	font-size: 110%; 
+	font-size: 110%;
 	background-color: #cccccc;
 }
 
@@ -3200,3 +3200,43 @@ body.parismarron-advice{
 }
 
 /*End shannonc's advice styles */
+
+
+/*Start Sara Suzanne's Styles*/
+.sarasuzanne-advice {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 16px;
+  background-color: #f2f2f2;
+}
+
+.sarasuzanne-advice a {
+  text-decoration: none;
+
+}
+
+.sarasuzanne-advice h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.sarasuzanne-advice h4 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+  margin-top: 0px;
+  color: #008ae6;
+}
+
+.sarasuzanne-advice div {
+  text-align: justify;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.sarasuzanne-advice footer {
+  text-align: center;
+  margin-top: 200px;
+  font-size: 14px;
+}
+/*End Sara Suzanne's Styles*/
