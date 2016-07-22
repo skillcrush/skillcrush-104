@@ -3235,3 +3235,15 @@ body.parismarron-advice{
 }
 
 /* End Sara's advice styles */
+
+/* Joel advice styling */
+ .joelsantos-advice h4{
+	 color : darkblue;
+	 font-family : Georgia;
+	 font-size : 20px;
+ }
+ .joelsantos-advice {
+	 padding : 100px 200px 200px 200px;
+	 border : 20px solid darkblue;
+
+/* End Joel advice styling  */
