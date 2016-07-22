@@ -3201,17 +3201,17 @@ body.parismarron-advice{
 
 /*End shannonc's advice styles */
 
-/*Simphiwe's advise begining*/
-
-.simphiwe h1 {
-	font-family: 'Lora';
-	font-size: 21px;
-
-}
-
-.simphiwe p {
-	line-height: 28%;
-	color: #545659;
+/***Begin Simphiwe's advice***/
+.simphiwe-advice h1, h4 {
+    font-family: 'cursive', sans-serif;
+    text-align: center;
+    font-size: 25px;
 
 }
-/* End of Simphiwe's advise */
+
+.simphiwe-advice p{
+    font-stretch: semi-condensed;
+    font-size: 15px;
+    font-weight: 500;
+}
+
