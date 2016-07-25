@@ -3200,3 +3200,39 @@ body.parismarron-advice{
 }
 
 /*End shannonc's advice styles */
+
+/*Start mhiggins0228's advice styles */
+.mhiggins0228-advice {
+	font-family: Arial,Helvetica,sans-serif ;
+	color: #3b3b3b;
+	max-width: 900px;
+	margin: 10px 20px;
+}
+
+.mhiggins0228-advice h1,.mhiggins0228--advice h2,.mhiggins0228--advice p,.mhiggins0228--advice a {
+	text-align:left !important;
+	font-family: Arial,Helvetica,sans-serif !important;
+}
+
+.mhiggins0228-advice h1 {
+	font-size: 50px;
+		color: #45ac9d;
+
+}
+
+.mhiggins0228-advice p,.mhiggins0228-advice a {
+	font-size: 18px;
+	line-height: 130%;
+}
+
+.mhiggins0228-advice a,.mhiggins0228 a:visited {
+	text-decoration: none;
+	border-bottom: 1px solid #45ac9d;
+	color: #3b3b3b;
+}
+
+.mhiggins0228--advice .small {
+	font-size: 12px;
+}
+
+/*End mhiggins0228 advice styles */
