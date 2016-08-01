@@ -27,8 +27,8 @@
 	text-size: 12px;
 }
 
-/** Malene Allen advice styling **/
-.maleneallen-advice p {
+/** Emily Davis advice styling **/
+.emilydavis-advice p {
 	font: 16px 'Slabo 27px', serif;
 	color: #535454;
 	font-weight: normal;
@@ -36,13 +36,13 @@
 	margin: 0 auto;
 	padding: 20px;
 }
-.maleneallen-advice h1 {
+.emilydavis-advice h1 {
 	font: 600 36px 'Slabo 27px', serif;
 	color: #f94d8c;
 	font-weight: normal;
 	padding-top: 30px;
 }
-.maleneallen-advice h4 {
+.emilydavis-advice h4 {
 	font: 400 28px 'Slabo 27px', serif;
 	color: #0fa942;
 	display: block;
@@ -50,7 +50,7 @@
 	margin: 0 auto;
 	padding: 20px;
 }
-.maleneallen-advice footer{
+.emilydavis-advice footer{
 	text-align: center;
 }
 
@@ -3141,11 +3141,11 @@ body.parismarron-advice{
 
 }
 
-/*Begin Dawncat's advice style */ 
+/*Begin Dawncat's advice style */
 .dawncat-advice {
 	margin: 10%;
 	font-family: "Book Antiqua", serif;
-	font-size: 110%; 
+	font-size: 110%;
 	background-color: #cccccc;
 }
 
@@ -3200,3 +3200,89 @@ body.parismarron-advice{
 }
 
 /*End shannonc's advice styles */
+
+/* Start Sara's advice styles */
+
+.sara-advice {
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 50px;
+}
+
+.sara-advice h1 {
+	font-size: 24px;
+	color: #900c3f;
+	padding: 5px;
+}
+
+.sara-advice h4 {
+	font-size: 18px;
+	color: #707070;
+}
+
+.sara-advice p {
+	font-size: 14px;
+	line-height: 150%;
+}
+
+.sara-advice a {
+	color: #581845;
+	font-size: 12px;
+	text-decoration: none;
+}
+
+.sara-advice section {
+	margin: 100px;
+}
+
+/* End Sara's advice styles */
+
+/* Joel advice styling */
+ .joelsantos-advice h4{
+	 color : darkblue;
+	 font-family : Georgia;
+	 font-size : 20px;
+ }
+ .joelsantos-advice {
+	 padding : 100px 200px 200px 200px;
+	 border : 20px solid darkblue;
+
+/* End Joel advice styling  */
+
+/*Start Sara Suzanne's Styles*/
+.sarasuzanne-advice {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 16px;
+  background-color: #f2f2f2;
+}
+
+.sarasuzanne-advice a {
+  text-decoration: none;
+
+}
+
+.sarasuzanne-advice h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.sarasuzanne-advice h4 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+  margin-top: 0px;
+  color: #008ae6;
+}
+
+.sarasuzanne-advice div {
+  text-align: justify;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.sarasuzanne-advice footer {
+  text-align: center;
+  margin-top: 200px;
+  font-size: 14px;
+}
+/*End Sara Suzanne's Styles*/
