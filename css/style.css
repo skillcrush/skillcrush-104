@@ -27,8 +27,8 @@
 	text-size: 12px;
 }
 
-/** Malene Allen advice styling **/
-.maleneallen-advice p {
+/** Emily Davis advice styling **/
+.emilydavis-advice p {
 	font: 16px 'Slabo 27px', serif;
 	color: #535454;
 	font-weight: normal;
@@ -36,13 +36,13 @@
 	margin: 0 auto;
 	padding: 20px;
 }
-.maleneallen-advice h1 {
+.emilydavis-advice h1 {
 	font: 600 36px 'Slabo 27px', serif;
 	color: #f94d8c;
 	font-weight: normal;
 	padding-top: 30px;
 }
-.maleneallen-advice h4 {
+.emilydavis-advice h4 {
 	font: 400 28px 'Slabo 27px', serif;
 	color: #0fa942;
 	display: block;
@@ -50,7 +50,7 @@
 	margin: 0 auto;
 	padding: 20px;
 }
-.maleneallen-advice footer{
+.emilydavis-advice footer{
 	text-align: center;
 }
 
