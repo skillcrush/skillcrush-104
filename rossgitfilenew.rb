@@ -1,1 +1,0 @@
-puts "hey kid I'm a computer"
