@@ -1,5 +1,45 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/* === Susannah's Styles === */
+
+.susannahfisher-advice {
+	background-color: #eeeeee;
+	color: #222222;
+	font-family: sans-serif;
+	font-size: 16px;
+	line-height: 1.2em;
+}
+
+.susannahfisher-advice h1 {
+	font-family: cursive;
+	font-size: 3em;
+	font-weight: bold;
+	text-align: center;
+}
+
+.susannahfisher-advice h2 {
+	color: #333333;
+	font-size: 1.5em;
+	text-align: center;
+}
+
+.susannahfisher-advice h4 {
+	color: #333333;
+	font-size: 1.2em;
+}
+
+.susannahfisher-advice p {
+	font-size: 1.2em;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.susannahfisher-advice ul li {
+	color: skyblue;
+	font-size: 2em;
+	text-shadow: 2% 2% 4%;
+}
+
 /***Lara's styling**/
 .lp-advice h1 {
 	color: #b30059;
