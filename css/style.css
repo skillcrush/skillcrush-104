@@ -1,5 +1,32 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/** Eloise's Styles **/
+
+.eloisebarrow-advice {
+    margin: 0 auto;
+    background-color: #C75E6F;
+    font-family: monospace;
+}
+
+.eloisebarrow-advice h1 {
+    font-size: 3em;
+    font-style: underline;
+}
+
+.eloisebarrow-advice h5 {
+    font-size: 2em;
+    text-align: center;
+}
+
+.eloisebarrow-advice p {
+    font-size: 1.5em;
+    padding: 0.5em 4em;
+}
+
+.eloisebarrow-advice footer {
+    text-align: center;
+}
+
 /* === Susannah's Styles === */
 
 .susannahfisher-advice {
