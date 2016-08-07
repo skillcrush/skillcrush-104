@@ -1,5 +1,23 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/* === Maile's Styles === */
+
+.maile-advice {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 400;
+	font-size: 1em;
+	background-color: #669999;
+	color: #4d4d4d;
+}
+.maile-advice h1 span{
+	color: #993300;
+	font-style: italic;
+}
+.maile-advice h4 {
+	font-size: 1.5em;
+	color: #993300;
+}
+
 /* === Susannah's Styles === */
 
 .susannahfisher-advice {
