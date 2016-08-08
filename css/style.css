@@ -14,9 +14,8 @@
 }
 
 .kga-advice h4 {
-	text-transform:uppercase;
-	color: #FF5733
-
+	color: #0fa942;
+	display: block;
 }
 
 .kga-advice p {
@@ -27,6 +26,8 @@
 .kga-advice footer {
 	text-align: center;
 	text-transform: uppercase;
+	font-family: Helvetica;
+	font-size: 10px;
 }
 
 /* === Susannah's Styles === */
