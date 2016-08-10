@@ -1,5 +1,53 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/** Caro L Styles **/
+
+body {
+	background: url("http://www.youwall.com/wallpapers/201210/sunny-forest-path-wallpaper.jpg")
+}
+
+.advice {
+	background-color: rgba(0, 0, 0, 0.7)
+	padding: 25px;
+	margin: 50px;
+}
+
+h1, h2 {
+	font-family: 'Satisfy', cursive;
+	text-align: center;
+}
+
+h1 {
+	color: #fff;
+	font-size: 36px;
+}
+
+h2 {
+	color: #fff;
+	font-size: 26px;
+}
+
+p {
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
+	color: #d1d1d1;
+}
+
+a {
+	font-family: 'Raleway', sans-serif;
+	text-decoration: none;
+	color: #d1d1d1;
+}
+
+a:hover {
+	color: #fff;
+}
+
+footer {
+	font-family:Times New Roman, Times, serif;
+	color: #d1d1d1;
+}
+
 /* === Susannah's Styles === */
 
 .susannahfisher-advice {
