@@ -1,0 +1,24 @@
+.medmonson-advice {
+	font-family: sans-serif;
+	font-weight: normal;
+	font-style: normal;
+	color: gray;
+	padding: 0 100px 0 100px;
+}
+
+.medmonson-advice header {
+	font-weight: bold;
+}
+
+.medmonson-advice h1, h4 {
+	text-align: center;
+}
+
+.medmonson-advice .advice {
+	padding-top: 20px;
+}
+
+.medmonson-advice footer {
+	padding-top: 100px;
+	text-align: center;
+}
