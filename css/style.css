@@ -1,5 +1,35 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/* ===KGA Styles === */
+.kga-advice {
+	font-family: sans-serif;
+
+}
+
+.kga-advice h1 {
+	text-align: center;
+	text-decoration: underline;
+	font-family: sans-serif;
+	color: #cc0066
+}
+
+.kga-advice h4 {
+	color: #0fa942;
+	display: block;
+}
+
+.kga-advice p {
+	text-align: center;
+	color: 800000
+}
+
+.kga-advice footer {
+	text-align: center;
+	text-transform: uppercase;
+	font-family: Helvetica;
+	font-size: 10px;
+}
+
 /* === Susannah's Styles === */
 
 .susannahfisher-advice {
