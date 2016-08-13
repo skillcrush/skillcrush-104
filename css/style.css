@@ -58,6 +58,58 @@
 	text-shadow: 2% 2% 4%;
 }
 
+/*** Eliza Kocken styling***/
+body.elizak-advice {
+	font-size: 16px;
+	font-family: "Noto Sans";
+	max-width: 1200px;
+	height: 100%;
+	margin: auto;
+	background: #ddd;
+}
+
+.elizak-advice header {
+	width: 100%;
+}
+
+.elizak-advice a {
+	font-size: 0.8em;
+	font-weight:bold;
+	text-decoration: none;
+	color: #000;
+}
+
+.elizak-advice a:hover {
+	color: #b21e49;
+}
+
+.elizak-advice .advice {
+	width:95%;
+	margin: auto;
+}
+
+.elizak-advice h1 {
+	width:90%;
+	margin: auto;
+	margin-top: 20px;
+	font-family: "Salsa";
+	background: black;
+	color: white;
+	border-radius: 10px;
+	padding: 3px 0;
+}
+
+.elizak-advice h4 {
+	color: #b21e49;
+	font-size: 2em;
+}
+
+.elizak-advice footer {
+	margin-top: 50px;
+}
+
+/**end of eliza's styling**/
+
 /***Lara's styling**/
 .lp-advice h1 {
 	color: #b30059;
