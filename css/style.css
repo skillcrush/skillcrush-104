@@ -18,6 +18,33 @@
 	color: #993300;
 }
 
+/** Eloise's Styles **/
+
+.eloisebarrow-advice {
+    margin: 0 auto;
+    background-color: #C75E6F;
+    font-family: monospace;
+}
+
+.eloisebarrow-advice h1 {
+    font-size: 3em;
+    font-style: underline;
+}
+
+.eloisebarrow-advice h5 {
+    font-size: 2em;
+    text-align: center;
+}
+
+.eloisebarrow-advice p {
+    font-size: 1.5em;
+    padding: 0.5em 4em;
+}
+
+.eloisebarrow-advice footer {
+    text-align: center;
+}
+
 /* === Susannah's Styles === */
 
 .susannahfisher-advice {
@@ -57,6 +84,58 @@
 	font-size: 2em;
 	text-shadow: 2% 2% 4%;
 }
+
+/*** Eliza Kocken styling***/
+body.elizak-advice {
+	font-size: 16px;
+	font-family: "Noto Sans";
+	max-width: 1200px;
+	height: 100%;
+	margin: auto;
+	background: #ddd;
+}
+
+.elizak-advice header {
+	width: 100%;
+}
+
+.elizak-advice a {
+	font-size: 0.8em;
+	font-weight:bold;
+	text-decoration: none;
+	color: #000;
+}
+
+.elizak-advice a:hover {
+	color: #b21e49;
+}
+
+.elizak-advice .advice {
+	width:95%;
+	margin: auto;
+}
+
+.elizak-advice h1 {
+	width:90%;
+	margin: auto;
+	margin-top: 20px;
+	font-family: "Salsa";
+	background: black;
+	color: white;
+	border-radius: 10px;
+	padding: 3px 0;
+}
+
+.elizak-advice h4 {
+	color: #b21e49;
+	font-size: 2em;
+}
+
+.elizak-advice footer {
+	margin-top: 50px;
+}
+
+/**end of eliza's styling**/
 
 /***Lara's styling**/
 .lp-advice h1 {
@@ -3346,21 +3425,50 @@ body.parismarron-advice{
 /*End Sara Suzanne's Styles*/
 
 
-/*Kelly Von's Styles*/
-.kellyvon-advice {
-	background:  #ffffe6
-	font-family: sans-serif;
-	font-size: 16px;
+
+/* Genevieve's Styles */
+.genevieve-advice h1 {
+	font-family: Arial, sans-serif;
+	font-size: 40px;
+	color: orange;
+}
+/*End Genevieve's Styles */
+
+/*Start Marquis Brown's Styles*/
+marquisbrown-advice {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 16px;
+  background-color: #f2f2f2;
 }
 
-.kellyvon-advice h1 {
-	font-family:  'Montesserat', sans-serif;
-	font-size: 30px;
-	color: #ff3399;
+.marquisbrown-advice a {
+  text-decoration: none;
+
 }
 
-.kellyvon-advice h4{
-	color: #00b3b3;
-	font-size: 24px;
-	font-weight: bold;
+.marquisbrown-advice h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 36px;
+  font-weight: bold;
 }
+
+.marquisbrown-advice h4 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+  margin-top: 0px;
+  color: #008ae6;
+}
+
+.marquisbrown-advice div {
+  text-align: justify;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.marquisbrown-advice footer {
+  text-align: center;
+  margin-top: 200px;
+  font-size: 14px;
+}
+/*End Marquis Brown's Styles*/
