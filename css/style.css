@@ -3344,3 +3344,23 @@ body.parismarron-advice{
   font-size: 14px;
 }
 /*End Sara Suzanne's Styles*/
+
+
+/*Kelly Von's Styles*/
+.kellyvon-advice {
+	background:  #ffffe6
+	font-family: sans-serif;
+	font-size: 16px;
+}
+
+.kellyvon-advice h1 {
+	font-family:  'Montesserat', sans-serif;
+	font-size: 30px;
+	color: #ff3399;
+}
+
+.kellyvon-advice h4{
+	color: #00b3b3;
+	font-size: 24px;
+	font-weight: bold;
+}
