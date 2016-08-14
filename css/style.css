@@ -1,5 +1,69 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/*Heidi's Styles*/
+
+.heidilowry-advice a {
+	color: #424242;
+	font-family: "Source Sans Pro", sans-serif;
+	font-size: 16px;
+}
+.heidilowry-advice h1 {
+	font-family: "Slabo 27px", serif;
+	font-size: 50px;
+	color: #424242;
+	line-height: 70px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.heidilowry-advice h4 {
+	font-family: "Slabo 27px", serif;
+	font-size: 32px;
+	color: #424242;
+	margin: 0 auto;
+	padding-top: 20px;
+}
+
+.heidilowry-advice .fa-heart {
+	color: tomato;
+}
+
+.heidilowry-advice .fa-magic {
+	color: rebeccapurple;
+}
+
+.heidilowry-advice p {
+	font-family: "Source Sans Pro", sans-serif;
+	color: #424242;
+	font-size: 24px;
+}
+
+.heidilowry-advice section {
+	width: 1050px;
+	margin: 0 auto;
+	padding: 50px 0 50px 0;
+}
+
+.heidilowry-advice .how {
+	background-color: #FBEEE6;
+	padding: 20px;
+}
+
+.heidilowry-advice .language {
+	background-color: #D6EAF8;
+	padding: 20px;
+}
+
+.heidilowry-advice .everything {
+	background-color: #D4EFDF;
+	padding: 20px;
+}
+
+.heidilowry-advice span {
+	font-family: "Pacifico", cursive;
+}
+ /*End Heidi's Styles*/
+
 /* === Maile's Styles === */
 
 .maile-advice {
@@ -3470,4 +3534,9 @@ marquisbrown-advice {
   font-size: 14px;
 }
 /*End Marquis Brown's Styles*/
+
+
+
+
+
 >>>>>>> 87fbbd69bf7eff60cba61ec8c15327035a21c85c
