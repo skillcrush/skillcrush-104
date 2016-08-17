@@ -3470,3 +3470,34 @@ marquisbrown-advice {
   font-size: 14px;
 }
 /*End Marquis Brown's Styles*/
+
+
+/** Schram Styles **/
+
+.meganschrag-advice h1 {
+	font-family: 'Abril Fatface', cursive;
+	text-align:left;
+	font-size: 50px;
+}
+
+.meganschrag-advice h4 {
+	font-family: 'Roboto Slab', serif;
+	font-size: 20px;
+	text-align: right;
+	color: #DC6163;
+}
+
+.meganschrag-advice p {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 18px;
+	color: darkgrey;
+}
+
+.meganschrag-advice p span {
+	font-family: 'Lobster', cursive;
+	font-size: 18px;
+	text-align: center;
+	color: #DC6163;
+}
+
+/** END Schram Styles **/
