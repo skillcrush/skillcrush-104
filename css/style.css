@@ -3470,3 +3470,27 @@ marquisbrown-advice {
   font-size: 14px;
 }
 /*End Marquis Brown's Styles*/
+
+
+/* Start Jeanne's Styles */
+
+.jeanne-advice {
+	font-size: 16px;
+	background-color: #29a3a3;
+}
+
+.jeanne-advice h1 {
+	text-align: center;
+	font-size: 24px;
+}
+
+.jeanne-advice h4 {
+	font-size: 20px;
+}
+
+.jeanne-advice p {
+	font-family: serif;
+}
+
+/* End Jeanne's Styles */
+
