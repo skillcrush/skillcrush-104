@@ -1,7 +1,6 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
 /* === Maile's Styles === */
-
 .maile-advice {
 	font-family: 'Source Sans Pro', sans-serif;
 	font-weight: 400;
@@ -3382,6 +3381,7 @@ body.parismarron-advice{
  .joelsantos-advice {
 	 padding : 100px 200px 200px 200px;
 	 border : 20px solid darkblue;
+    }
 
 /* End Joel advice styling  */
 
