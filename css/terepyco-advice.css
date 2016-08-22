@@ -1,0 +1,14 @@
+.terepyco-advice {
+	font-family: 'Lato', sans-serif;
+	font-size: 1em;
+	background-color: #9be1e5;
+	color: ##f9f3ea;
+}
+.terepyco-advice h1 span{
+	color: #fdfdb1;
+	font-style: italic;
+}
+.terepyco-advice h4 {
+	font-size: 1.5em;
+	color: #edfdfd;
+}
