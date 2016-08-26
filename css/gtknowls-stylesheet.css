@@ -1,0 +1,148 @@
+
+    /*GTKnowls 8-8-16*/
+
+    html, body {
+    	width: 100%;
+    	height: 100%;
+    	margin: 0;
+    	padding: 0;
+        font-size: 16px;
+    }
+
+    div {
+    	display: block;
+        width: auto;
+        height: auto;
+        margin: 0px 3px 0px 3px;
+        padding: 3%;
+    }
+
+    .huge {
+        font-family: 'anton';
+            color: ##1717CF;
+        text-transform: uppercase;
+            font-size: 55px;
+        font-weight: bolder;
+
+    }
+
+    .big {
+    	font-family: 'amatic sc'serif;
+    	color:#CF17CF;
+    	text-transform: capitalize;
+    	font-style: normal;
+        font-size: 45px;
+    }
+
+    .medium {
+        display: block;
+        float: left;
+       	color: #CF1773;
+        font-family: 'tinos', serif;
+        font-size: 45px;
+        line-height: 65px;
+        font-weight: bolder;
+
+    }
+
+
+    .fun-quote1 {
+        font-family:'architects daughter', cursive;
+        font-size: 28px;
+        letter-spacing: 2px;
+        color: #1773CF;
+
+
+    }
+
+    .fun-quote2 {
+        font-family: 'handlee', cursive;
+        font-size: 32px;
+        letter-spacing: 1.5px;
+        color: #7171EF;
+
+    }
+
+    .fun-quote3 {
+        font-family: 'montserrat', sans-serif;
+        font-size: 30px;
+        line-height: 20px;
+        color: #17CFCF;
+
+    }
+
+    .fun-quote4 {
+        font-family: 'poiret one', italic;
+        font-size: 30px;
+        text-align: center;
+        color: #CF7317;
+
+    }
+
+    .fun-quote5 {
+        font-family: 'oxygen', normal;
+        color: #17CF73;
+        font-size: 30px;
+
+    }
+    .fun-quote6 {
+        font-family: 'signika', serif;
+        color: #CFCF17;
+        font-size: 32px;
+    }
+
+    .fun-quote7 {
+        font-family: 'oxygen', bold;
+        font-size: 32px;
+        font-style: italic;
+        color: #DF81DF;
+    }
+
+
+
+    #favorite-quote {
+        color: #CF17CF;
+        font-family: helvecta, serif;
+        font-size: 65px;
+        line-height: 65px;
+        text-transform: uppercase;
+        font-weight: bolder;
+
+    }
+
+    h1 {
+        font-family: arial, serif;
+        font-size: 50px;
+        text-transform: uppercase;
+        font-weight: 900;
+        color: #2F2FB6;
+        text-align: center;
+    }
+
+    p {
+    	float:right;
+    	overflow: auto;
+        font-family: 'amatic sc', serif;
+        font-size: 34px;
+        font-weight: 500;
+        color: #2F73B6;
+        text-align: center;
+
+    }
+
+    iframe {
+    	overflow: auto;
+    }
+    #credits {
+        color: #737373;
+        font-family: helvecta, serif;
+        font-size: 1em;
+        line-height: auto;
+        font-weight: normal;
+
+    }
+    footer {
+        display: block;
+        clear: both;
+        text-align: center;
+    }
