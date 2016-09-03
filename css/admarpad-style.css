@@ -1,0 +1,36 @@
+/** This stylesheet has been modified by Adrianne "Adriculous" Padua. Better recognize. **/
+
+header {
+     text-decoration: none;
+     font-weight: bold;
+     font-family: 'Mirza', sans-serif;
+     font-size: 14px;
+}
+
+h1 {
+	color: #7d26ab;
+	font-family: 'Yellowtail', cursive;
+	font-size: 40px;
+	font-weight: normal;
+    text-align: center;
+}
+
+h4 {
+	color: #2f44a8;
+	font-family: 'Arima Madurai', cursive;
+	font-size: 32px;
+}
+
+p {
+	color: #674172;
+	font-family: 'Mirza', sans-serif;
+	font-size: 20px;
+    padding-top: 10px;
+}
+
+footer {
+	padding-top: 20px;
+	text-align: center;
+    font-family: 'Mirza', sans-serif;
+	font-size: 10px;
+}
