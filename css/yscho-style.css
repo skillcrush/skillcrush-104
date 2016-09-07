@@ -1,0 +1,16 @@
+/** Skillcrush styles **/
+
+.yscho-advice h1 {
+	font-family: 'Josefin Sans', sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+
+
+.yscho-advice .advice h4 {
+	font-family: 'Josefin Sans', sans-serif;
+    font-size: 32px;
+    text-align: center;
+	border-bottom: 1px solid #DDDDDD;
+	padding-bottom: 5px;
+}

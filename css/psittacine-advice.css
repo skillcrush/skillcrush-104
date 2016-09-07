@@ -1,0 +1,210 @@
+/*
+ html5doctor.com Reset Stylesheet
+ v1.6.1
+ Last Updated: 2010-09-17
+ Author: Richard Clark - http://richclarkdesign.com
+ Twitter: @rich_clark
+ */
+
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+body {
+    line-height: 1;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+nav ul {
+    list-style: none;
+}
+
+blockquote, q {
+    quotes: none;
+}
+
+blockquote:before, blockquote:after, q:before, q:after {
+    content: '';
+    content: none;
+}
+
+a {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+/* change colours to suit your needs */
+ins {
+    background-color: #ff9;
+    color: #000;
+    text-decoration: none;
+}
+
+/* change colours to suit your needs */
+mark {
+    background-color: #ff9;
+    color: #000;
+    font-style: italic;
+    font-weight: bold;
+}
+
+del {
+    text-decoration: line-through;
+}
+
+abbr[title], dfn[title] {
+    border-bottom: 1px dotted;
+    cursor: help;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+/* change border colour to suit your needs */
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #cccccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+input, select {
+    vertical-align: middle;
+}
+
+/* ************************************ */
+/* ***** START .psittacine-advice ***** */
+/* ************************************ */
+
+body {
+    background: #000000;
+    font-size: 100%;
+    font-family: 'Roboto', sans-serif;
+}
+
+#body-div {
+    max-width: 960px;
+    margin: 20px auto;
+    border: 2px dotted #808080;
+    border-radius: 25px 25px 25px 25px;
+    background: #000000;
+}
+
+header {
+    border-radius: 25px 25px 0px 0px;
+    padding: 20px 25px 55px 20px;
+    /* Overlays gradient on bg img - top transparent to bottom opaque */
+    background: -webkit-linear-gradient(rgba(119,119,119,0) 65%, rgba(18,18,18,1) 95%), url('https://i.imgur.com/hHBnPez.jpg') no-repeat; /*Safari 5.1-6*/
+    background: -o-linear-gradient(rgba(119,119,119,0) 65%, rgba(18,18,18,1) 95%), url('https://i.imgur.com/hHBnPez.jpg') no-repeat; /*Opera 11.1-12*/
+    background: -moz-linear-gradient(rgba(119,119,119,0) 65%, rgba(18,18,18,1) 95%), url('https://i.imgur.com/hHBnPez.jpg') no-repeat; /*Fx 3.6-15*/
+    background: linear-gradient(rgba(119,119,119,0) 65%, rgba(18,18,18,1) 95%), url('https://i.imgur.com/hHBnPez.jpg') no-repeat; /*Standard*/
+    overflow: auto;
+}
+
+footer {
+    border-radius: 0px 0px 25px 25px;
+    padding: 40px 20px 10px 15px;
+    /* Overlays gradient on bg img - top opaque to bottom transparent */
+    background: -webkit-linear-gradient(0deg, rgba(119,119,119,0) 65%, rgba(18,18,18,1) 95%), url('https://i.imgur.com/Niqz79K.jpg') no-repeat; /*Safari 5.1-6*/
+    background: -o-linear-gradient(0deg, rgba(119,119,119,0) 65%, rgba(18,18,18,1) 95%), url('https://i.imgur.com/Niqz79K.jpg') no-repeat; /*Opera 11.1-12*/
+    background: -moz-linear-gradient(0deg, rgba(119,119,119,0) 65%, rgba(18,18,18,1) 95%), url('https://i.imgur.com/Niqz79K.jpg') no-repeat; /*Fx 3.6-15*/
+    background: linear-gradient(0deg, rgba(119,119,119,0) 65%, rgba(18,18,18,1) 95%), url('https://i.imgur.com/Niqz79K.jpg') no-repeat; /*Standard*/
+}
+
+.copyright {
+    font-size: small;
+    text-shadow: 3px 3px 5px #000000, -3px -3px 5px #000000, -3px 3px 5px #000000, 3px -3px 5px #000000;
+}
+
+.main-content {
+    background: #121212;
+    padding: 20px;
+}
+
+.page-title {
+    text-align: center;
+    font-family: 'Codystar', cursive;
+    font-weight: 900;
+}
+
+nav {
+    float: right;
+}
+
+figure {
+    max-width: 200px;
+    margin: auto;
+    padding-top: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+p, ol, ul {
+    color: #00CBFF;
+    font-size: 1em;
+    line-height: 1.25;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #FF0066;
+}
+
+h1 {
+    font-size: 2.3em;
+    line-height: 1.25;
+    font-family: 'Source Serif Pro', serif;
+}
+
+h4 {
+    font-size: 1.3em;
+    line-height: 1.25;
+    font-family: 'Source Serif Pro', serif;
+    font-style: italic;
+    margin: 2rem 0rem 1rem 0rem;
+}
+
+p {
+    margin: 1rem;
+}
+
+a {
+    color: #D9D1E8;
+    font-size: 1em;
+    line-height: 1.25;
+    text-decoration: none;
+}
+
+a:link {
+    color: #F9CC81;
+}
+
+a:visited {
+    color: #D9D1E8;
+}
+
+a:hover {
+    color: #80E425;
+}
+
+a:active {
+    color: #FFFFFF;
+}

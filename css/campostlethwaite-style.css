@@ -1,0 +1,49 @@
+.campostlethwaite-advice {
+	background: rgb(200, 200, 200);
+}
+
+.campostlethwaite-advice h1 {
+	font-size: 28px;
+	font-weight: 500;
+	letter-spacing: .5px;
+	line-height: 44px;
+	padding: 50px 0 50px 0;
+	width: 100%;
+	text-align: center;
+	text-transform: uppercase;
+	background-color: #293f50;
+	color: #fff;
+}
+
+.campostlethwaite-advice h4 {
+	border-bottom: 2px solid #293f50;
+	padding-bottom: 10px;
+	margin: 20px 20px;
+	font: 20px 'Roboto', sans-serif;
+	color: white;
+	font-weight: 500;
+	text-transform: uppercase;
+	text-shadow: 1px 1px 0px black;
+}
+.campostlethwaite-advice p {
+	font: 16px 'Helvetica', sans-serif;
+	line-height: 20px;
+	width: 75%;
+	margin: 25px 10px 10px 80px;
+}
+
+.footer{
+	text-align: center;
+}
+
+a:link {
+	color: white;
+	text-decoration: none;
+}
+a:hover {
+	text-shadow: 1px 1px 0px black;
+}
+
+a:visited {
+	color: white;
+}

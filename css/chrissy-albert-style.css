@@ -1,0 +1,21 @@
+.chrissy-albert-advice {
+    background-color: #FFFCCC;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #AECC8F;
+}
+
+h1, h4 {
+    font-family: 'Chelsea Market', cursive;
+    color: #2315FF;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+    color: #4663CC;
+    padding-left: 5%;
+	padding-right: 5%;
+}

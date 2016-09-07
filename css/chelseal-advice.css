@@ -1,0 +1,50 @@
+body.chelseal-advice {
+	background-color: #C0C0C0;
+	font-family: Helvetica;
+}
+
+body.chelseal-advice a {
+	color: #CD5C5C;
+	text-decoration: none;
+}
+
+body.chelseal-advice a:hover {
+	color: #008080;
+	text-decoration: none;
+}
+
+body.chelseal-advice h1 {
+	font-size: 40px;
+	color: white;
+	text-align: center;
+	margin-top: 80px;
+}
+
+body.chelseal-advice h4 {
+	font-size: 26px;
+	color: #008080;
+}
+
+body.chelseal-advice p {
+	font-size: 18px;
+	color: #40E0D0;
+}
+
+body.chelseal-advice p#copyright {
+	font-size: 18px;
+	color: #CD5C5C;
+}
+
+body.chelseal-advice div.advice {
+	margin: 0 auto;
+	width: 80%;
+	padding: 10px;
+}
+
+body.chelseal-advice div.paragraph {
+	width: 80%;
+	border-radius: 5px;
+	background-color: white;
+	padding: 15px;
+	margin: 50px;
+}

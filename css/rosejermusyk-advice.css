@@ -1,0 +1,28 @@
+/** RoseJermusyk Advice Styling **/
+.rosejermusyk-advice h1{
+	color: #f59e1a
+	font-family: 'Voltaire', sans-serif;
+	font-size: 40px;
+}
+
+.rosejermusyk-advice h4 {
+	color: #f59e1a
+	font-family: 'Cookie', script;
+	font-size: 32px;
+}
+
+.rosejermusyk-advice p {
+	color: #362306
+	font-family: 'Arbutus Slab', slab serif;
+	font-size: 25.6px;
+}
+
+.rosejermusyk-advice footer {
+	color: #362306
+	font-family: 'Didot', serif;
+	font-size: 20.48px
+}
+
+.rosejermusyk-advice a {
+	color: #005fa8;
+}
