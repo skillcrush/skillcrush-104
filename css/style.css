@@ -1,5 +1,23 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+/*arcy's styles*/
+.arcyflores-advice h1{
+	color: purple;
+	font-family: Georgia;
 
+}
+.arcyflores-advice h3 {
+	color:teal;
+	font-family: serif;
+	text-align: center;
+}
+.arcyflores-advice p {
+	margin-right: 20%;
+	margin-left: 20%;
+}
+.arcyflores-advice img {
+	
+}
+/*end Arcy's styles*/
 /*Heidi's Styles*/
 
 .heidilowry-advice a {
