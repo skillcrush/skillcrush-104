@@ -1,0 +1,50 @@
+/*Start Aurelie's Styles*/
+
+.aurelie-advice {
+	font-family: Verdana;
+	font-size: 1em;
+	background-color: #F5F5F5;
+	text-align: left;
+	color: #555;
+}
+
+.aurelie-advice a {
+	text-decoration: none;
+	text-align: left;
+	color: #555;
+}
+
+.aurelie-advice a:hover {
+	color: #FF7F50;
+}
+.aurelie-advice h1 {
+	font-family: Futura;
+	font-weight: bold;
+	font-size: 2em;
+	text-align: center;
+	border-top: 1px solid #555;
+	padding-top: 20px;
+}
+
+.aurelie-advice h4 {
+	font-family: Futura;
+	font-weight: bold;
+	font-size: 1.2em;
+	text-transform: uppercase;
+	margin: 0;
+	color: #FF7F50;
+}
+
+.aurelie-advice p {
+	padding: 0px;
+	margin-bottom: 40px;
+}
+
+.aurelie-advice footer {
+	width: 100%;
+	text-align: left;
+	text-transform: uppercase;
+	border-top: 1px solid #555;
+}
+
+/*End Aurelie's Styles*/

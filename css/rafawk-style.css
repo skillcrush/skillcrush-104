@@ -1,0 +1,34 @@
+.rafawk-advice {
+	background-color: aquamarine;
+	color: teal;
+	text-decoration: none;
+	font-family:'Open Sans', sans-serif;
+}
+
+.rafawk-advice a {
+	font-size: 10px;
+	text-decoration: none;
+	color: teal;
+	font-family:'Open Sans', sans-serif;
+	}
+
+.rafawk-advice p {
+	font-size: 10px;
+	}
+
+.drafawk-advice h1 {
+	font-size: 15.5px;
+	}
+
+.rafawk-advice h4 {
+	font-size: 22px;
+	color: teal;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin: 30px 20px 30px 70px;
+	}
+
+.rafawk-advice p {
+	font-size: 14px;
+	text-align: justify;
+	}

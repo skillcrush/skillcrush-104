@@ -1,0 +1,36 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+.ef-advice {
+        font-family: Arial,Helvetica,sans-serif ;
+        color: #3b3b3b;
+        max-width: 900px;
+        margin: 10px 20px;
+}
+
+.ef-advice h1,.ef-advice h2,.ef-advice p,.ef-advice a {
+        text-align:left !important;
+        font-family: Arial,Helvetica,sans-serif !important;
+}
+
+.ef-advice h1 {
+        font-size: 50px;
+                color: #45ac9d;
+
+}
+
+.ef-advice p,.ef-advice a {
+        font-size: 18px;
+        line-height: 130%;
+}
+
+.ef-advice a,.ef-advice a:hover {
+	text-decoration: underline;
+}
+
+.ef-advice a,.ef-advice a:visited {
+        text-decoration: none;
+        border-bottom: 1px solid #45ac9d;
+        color: #3b3b3b;
+}
+
+

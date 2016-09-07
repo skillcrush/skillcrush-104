@@ -1,0 +1,26 @@
+body	{
+	margin: 0;
+	padding: 0;
+	font-size: 14px;
+}
+
+
+header h1 span	{
+	color: blue;
+	
+}
+header h1	{
+	display:flex;
+	justify-content: center;
+	align-items: center;
+}
+header h4	{
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 2em;
+}
+header p	{
+	padding-left: 2%
+	;
+}

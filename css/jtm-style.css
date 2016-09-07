@@ -1,0 +1,56 @@
+/** Add a comment at the beginning of your CSS styles with your name **/
+
+
+
+.jtm-advice body {
+	padding: 10px;
+	font-family: Andale Mono, monospace;
+}
+
+img {
+    vertical-align: text-top;
+	margin: 20px 150px 20px 150px;
+}
+
+.jtm-advice h1 {
+	text-align: center;
+	padding: 20px;
+	font-size: 40px;
+} 
+
+.jtm-advice h2 {
+	text-align: center;
+	padding: 20px;
+	font-size: 30px;
+	color: gray;
+}
+
+.jtm-advice h3 {
+	margin: 10px 100px 10px 100px;
+	padding: 20px;
+}
+
+.jtm-advice p {
+	margin: 10px 100px 10px 100px;
+	border-radius: 10px;
+	padding: 20px;
+	font-size: 1.5em;
+}
+
+.jtm-advice a:hover {
+	background-color: purple;
+}
+
+.jtm-advice a:link {
+	color: green;
+}
+
+.jtm-advice a:visited {
+	color: cyan;
+}
+
+.jtm-advice footer {
+	padding: 0px;
+}
+
+>>>>>>> 5b03083a3ed2a89254f3a7e3813bf3ddc13bb234
