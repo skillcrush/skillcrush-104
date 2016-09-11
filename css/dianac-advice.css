@@ -1,0 +1,38 @@
+.adubs-advice {
+  color: white;
+  font-family: 'Georgia', serif;
+  margin: 20px;
+  padding:20px 40px;
+  background: rgb(49, 142, 173);
+}
+
+.adubs-advice a {
+  color:white;
+}
+
+.adubs-advice h1 {
+	font-size: 30px;
+}
+
+.adubs-advice h4 {
+	font-size: 20px;
+	color: rgb(49, 142, 173);
+  text-transform: uppercase;
+}
+
+.adubs-advice p {
+  margin-bottom:40px;
+  font-style:italic;
+  font-family: 'Georgia', sans-serif;
+  color: black;
+}
+
+.adubs-advice section {
+	background: white;
+	padding: 10px;
+}
+
+.adubs-advice footer p{
+	color: white;
+	text-align: right;
+}
