@@ -1,0 +1,22 @@
+html, body {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 16px;
+	color: #222;
+	background-color: #eee;
+}
+
+.color {color: #FF8091;}
+.advice-stephybot {
+	padding: 2%;
+}
+
+a {
+	text-decoration: none;
+	font-weight: bold;
+	color: #44B25B;
+}
+
+footer {
+	text-align: center;
+	color: #FF3752;
+}
