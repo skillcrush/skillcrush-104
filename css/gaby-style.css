@@ -1,0 +1,30 @@
+/*gaby styles*/
+.gaby-advice {
+	font-size: 18px;
+	font-family: sans-serif;
+}
+
+.gaby-advice a{
+		font-size: 14px;
+}
+
+.gaby-advice h1 {
+	font-size: 30px;
+	text-align: center;
+}
+
+.gaby-advice h4 {
+	color: Orange;
+	text-align: center;
+	font-size: 20px;
+}
+
+.gaby-advice p {
+	margin: 30px 100px;
+}
+
+.gaby-advice footer {
+	text-align: center;
+	font-size: 14px;
+}
+/*END gaby styles*/

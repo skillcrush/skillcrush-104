@@ -1,5 +1,134 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/*Alicia's Styles*/
+
+.alicia-advice a {
+	color: #E80C7A;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.alicia-advice h1 {
+	color: #8A0748;
+}
+
+.alicia-advice h4 {
+	color: #EE0748;
+	text-transform: uppercase;
+}
+
+.alicia-advice span {
+	color: #E80C7A;
+}
+
+/*Heidi's Styles*/
+
+.heidilowry-advice a {
+	color: #424242;
+	font-family: "Source Sans Pro", sans-serif;
+	font-size: 16px;
+}
+.heidilowry-advice h1 {
+	font-family: "Slabo 27px", serif;
+	font-size: 50px;
+	color: #424242;
+	line-height: 70px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.heidilowry-advice h4 {
+	font-family: "Slabo 27px", serif;
+	font-size: 32px;
+	color: #424242;
+	margin: 0 auto;
+	padding-top: 20px;
+}
+
+.heidilowry-advice .fa-heart {
+	color: tomato;
+}
+
+.heidilowry-advice .fa-magic {
+	color: purple;
+}
+
+.heidilowry-advice p {
+	font-family: "Source Sans Pro", sans-serif;
+	color: #424242;
+	font-size: 24px;
+}
+
+.heidilowry-advice section {
+	width: 1050px;
+	margin: 0 auto;
+	padding: 50px 0 50px 0;
+}
+
+.heidilowry-advice .how {
+	background-color: #FBEEE6;
+	padding: 20px;
+}
+
+.heidilowry-advice .language {
+	background-color: #D6EAF8;
+	padding: 20px;
+}
+
+.heidilowry-advice .everything {
+	background-color: #D4EFDF;
+	padding: 20px;
+}
+
+.heidilowry-advice span {
+	font-family: "Pacifico", cursive;
+}
+ /*End Heidi's Styles*/
+
+/* === Maile's Styles === */
+.maile-advice {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 400;
+	font-size: 1em;
+	background-color: #669999;
+	color: #4d4d4d;
+}
+.maile-advice h1 span{
+	color: #993300;
+	font-style: italic;
+}
+.maile-advice h4 {
+	font-size: 1.5em;
+	color: #993300;
+}
+
+/** Eloise's Styles **/
+
+.eloisebarrow-advice {
+    margin: 0 auto;
+    background-color: #C75E6F;
+    font-family: monospace;
+}
+
+.eloisebarrow-advice h1 {
+    font-size: 3em;
+    font-style: underline;
+}
+
+.eloisebarrow-advice h5 {
+    font-size: 2em;
+    text-align: center;
+}
+
+.eloisebarrow-advice p {
+    font-size: 1.5em;
+    padding: 0.5em 4em;
+}
+
+.eloisebarrow-advice footer {
+    text-align: center;
+}
+
 /* === Susannah's Styles === */
 
 .susannahfisher-advice {
@@ -39,6 +168,58 @@
 	font-size: 2em;
 	text-shadow: 2% 2% 4%;
 }
+
+/*** Eliza Kocken styling***/
+body.elizak-advice {
+	font-size: 16px;
+	font-family: "Noto Sans";
+	max-width: 1200px;
+	height: 100%;
+	margin: auto;
+	background: #ddd;
+}
+
+.elizak-advice header {
+	width: 100%;
+}
+
+.elizak-advice a {
+	font-size: 0.8em;
+	font-weight:bold;
+	text-decoration: none;
+	color: #000;
+}
+
+.elizak-advice a:hover {
+	color: #b21e49;
+}
+
+.elizak-advice .advice {
+	width:95%;
+	margin: auto;
+}
+
+.elizak-advice h1 {
+	width:90%;
+	margin: auto;
+	margin-top: 20px;
+	font-family: "Salsa";
+	background: black;
+	color: white;
+	border-radius: 10px;
+	padding: 3px 0;
+}
+
+.elizak-advice h4 {
+	color: #b21e49;
+	font-size: 2em;
+}
+
+.elizak-advice footer {
+	margin-top: 50px;
+}
+
+/**end of eliza's styling**/
 
 /***Lara's styling**/
 .lp-advice h1 {
@@ -3285,6 +3466,7 @@ body.parismarron-advice{
  .joelsantos-advice {
 	 padding : 100px 200px 200px 200px;
 	 border : 20px solid darkblue;
+    }
 
 /* End Joel advice styling  */
 
@@ -3327,6 +3509,7 @@ body.parismarron-advice{
 }
 /*End Sara Suzanne's Styles*/
 
+<<<<<<< HEAD
 /** Daphnie Donnell's style**/
 .daphniedonnell-advice{
 	color: #800080
@@ -3334,3 +3517,140 @@ body.parismarron-advice{
 	font-size: 24px;
 }
 /**End Daphnie Donnell **/
+=======
+/* Genevieve's Styles */
+.genevieve-advice h1 {
+	font-family: Arial, sans-serif;
+	font-size: 40px;
+	color: orange;
+}
+/*End Genevieve's Styles */
+
+/*Start Marquis Brown's Styles*/
+marquisbrown-advice {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 16px;
+  background-color: #f2f2f2;
+}
+
+.marquisbrown-advice a {
+  text-decoration: none;
+}
+
+.marquisbrown-advice h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.marquisbrown-advice h4 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+  margin-top: 0px;
+  color: #008ae6;
+}
+
+.marquisbrown-advice div {
+  text-align: justify;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.marquisbrown-advice footer {
+  text-align: center;
+  margin-top: 200px;
+  font-size: 14px;
+}
+/*End Marquis Brown's Styles*/
+
+/** Janel advice styling **/
+.janel-advice {
+	font-family: 'Montserrat', sans-serif;
+	background-color: #5BAEDF;
+}
+
+.janel-advice a {
+  text-decoration: none;
+}
+
+.janel-advice h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.janel-advice h4 {
+  font-family: 'montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+  margin-top: 0px;
+  color: #008ae6;
+}
+
+.janel-advice div {
+  text-align: justify;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.janel-advice footer {
+  text-align: center;
+  margin-top: 200px;
+  font-size: 14px;
+}
+
+/** end Janel stying **/
+
+/** Schram Styles **/
+
+.meganschrag-advice h1 {
+	font-family: 'Abril Fatface', cursive;
+	text-align:left;
+	font-size: 50px;
+}
+
+.meganschrag-advice h4 {
+	font-family: 'Roboto Slab', serif;
+	font-size: 20px;
+	text-align: right;
+	color: #DC6163;
+}
+
+.meganschrag-advice p {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 18px;
+	color: darkgrey;
+}
+
+.meganschrag-advice p span {
+	font-family: 'Lobster', cursive;
+	font-size: 18px;
+	text-align: center;
+	color: #DC6163;
+}
+
+/** END Schram Styles **/
+
+/* Start Jeanne's Styles */
+
+.jeanne-advice {
+	font-size: 16px;
+	background-color: #29a3a3;
+}
+
+.jeanne-advice h1 {
+	text-align: center;
+	font-size: 24px;
+}
+
+.jeanne-advice h4 {
+	font-size: 20px;
+}
+
+.jeanne-advice p {
+	font-family: serif;
+}
+
+/* End Jeanne's Styles */
+>>>>>>> master
