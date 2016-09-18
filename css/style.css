@@ -3644,3 +3644,44 @@ marquisbrown-advice {
 }
 
 /* End Jeanne's Styles */
+
+/*Sherri's Styles*/
+.sherriattili-advice {
+		font-family: "Arima Madurai",sans-serif;
+
+}
+.sherriattili-advice h1 {
+		color: #6C42CF;
+		font-size: 40px;
+		padding-bottom: 5px;
+}
+.sherriattili-advice section {
+	width: 850px;
+	margin: 0	auto;
+}
+
+.sherriattili-advice .advice {
+	padding: 10px;
+	border: 1px solid gray;
+	border-radius: 8px;
+	background: #ccb3b0;
+	text-align: center;
+	margin: 20px 0px;
+}
+
+.sherriattili-advice .advice h3 {
+	font-family: "Arima Madurai",sans-serif;
+	color: #547F6A;
+	font-size: 30px;
+	margin: 25px 0px 20px 0px;
+}
+
+.sherriattili-advice .advice p {
+	font-size: 19px;
+}
+
+.sherriattili-advice .advice ul li {
+	font-size: 17px;
+	list-style-type: none;
+}
+/*End of Sherri's Style*/
