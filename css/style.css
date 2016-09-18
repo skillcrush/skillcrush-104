@@ -3644,3 +3644,25 @@ marquisbrown-advice {
 }
 
 /* End Jeanne's Styles */
+
+/* Melanie's Styles */
+
+.melaniegraber-advice {
+	font-family: 'Raleway', sans-serif;
+}
+
+.melaniegraber-advice h1 {
+	font-size: 42px;
+	color: #ffbb00;
+}
+
+.melaniegraber-advice h4 {
+	font-size: 24px;
+	color: #000299;
+}
+
+.melaniegraber-advice h1, h4 {
+	font-family: 'Lora', serif;
+}
+
+/* End Melanie's Styles */
