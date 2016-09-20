@@ -3646,3 +3646,30 @@ marquisbrown-advice {
 }
 
 /* End Jeanne's Styles */
+
+/* Start cotterpinx Styles */
+
+.cotterpinx-advice {
+	font-size: 16px;
+	background-color: #4bf485;
+	color: #092AC3;
+}
+
+.cotterpinx-advice h1 {
+	color: black;
+	text-align: center;
+	font-size: 24px;
+}
+
+.cotterpinx-advice h4 {
+	text-align: left;
+	color: #038BB8;
+	font-size: 20px;
+}
+
+.cotterpinx-advice p {
+	text-align: left;
+	font-family: serif;
+}
+
+/* End cotterpinx Styles */
