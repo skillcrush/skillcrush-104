@@ -3646,3 +3646,30 @@ marquisbrown-advice {
 }
 
 /* End Jeanne's Styles */
+
+/* Start Kristy Osborne's styles */
+
+.kristyosborne-advice {
+	font-family: Arial;
+}
+
+.kristyosborne-advice h1 {
+	text-align: center;
+	text-transform: uppercase;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.kristyosborne-advice h4 {
+	text-transform: uppercase;
+	color: #de85b1;
+}
+
+.kristyosborne-advice p {
+	font-family: Lato, sans-serif;
+}
+
+.kristyosborne-advice footer {
+	text-align: center;
+	text-transform: uppercase;
+
+/* End Kristy Osborne's styles */
