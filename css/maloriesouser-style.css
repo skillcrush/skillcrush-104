@@ -1,0 +1,62 @@
+/*Start Malorie's Styles*/
+
+.malorie-advice {
+	background: #fff;
+}
+.malorie-advice body {
+	margin-right: -30px;
+}
+.malorie-advice header {
+	padding: 30px;
+	width: 100%;
+}
+.malorie-advice header a {
+	font-family: "Lucida Console", Monaco, monospace;
+	color: #000;
+}
+.malorie-advice header a:hover {
+	font-family: "Lucida Console", Monaco, monospace;
+	color: #C8036B;
+}
+.malorie-advice header h1 {
+	color: #000;
+	font-size: 3em;
+	font-family: 'Clicker Script', cursive;
+	padding: 0 10%;
+	border-top: 8px dotted #000;
+	border-bottom: 8px dotted #000;
+	border-width: 100%;
+}
+.malorie-advice .advice {
+	border-radius: 25px;
+	background-color: #C8036B;
+	opacity: 0.9;
+	padding: 30px;
+	width: 50%;
+	margin: 0 20%;
+}
+.malorie-advice .advice {
+	color: #fff;
+
+}
+.malorie-advice h4 {
+	font-size: 1.8em;
+	font-family: 'Clicker Script', cursive;
+}
+.malorie-advice p {
+	font-family: "Lucida Console", Monaco, monospace;
+}
+.malorie-advice .sign {
+	text-align: right;
+	padding-right: 20px;
+	font-family: 'Clicker Script', cursive;
+	font-size: 2em;
+}
+.malorie-advice footer {
+	color: #000;
+	font-family: "Lucida Console", Monaco, monospace;
+	float: right;
+}
+
+
+/* End Malorie's Styles */
