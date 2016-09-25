@@ -1,0 +1,78 @@
+/** Cat's CSS Styles **/
+
+.catbaker-advice body {
+	background: url ('img/concrete_seamless.png');
+	margin: 30px;
+	font-family: 'Baloo Bhai', cursive;
+}
+
+/** Header **/
+header a, a:visited, a:link {
+	font-family: 'Baloo Bhai', cursive;
+	color: #283018;
+	border: 1px #283018 solid;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding: 6px;
+	margin-top: 65px;
+}
+
+.catbaker-advice h1 {
+	font-family: 'Baloo Bhai', cursive;
+  color: #729f98;
+	font-size: 48px;
+	text-align: center;
+	background-color: #283018;
+	padding-top: 40px;
+	padding-bottom: 30px;
+	border: 3px #283018;
+	margin-left: 6px;
+}
+
+/** Advice **/
+.col-1 {
+	float: left;
+	width: 33%;
+}
+
+.col-2 {
+	display: inline-block;
+	width: 33%;
+	border-right: 2px solid #283018;
+	border-left: 2px solid #283018;
+}
+
+.col-3 {
+	float: right;
+	width: 33%;
+}
+
+.catbaker-advice h4 {
+	font-family: 'Baloo Bhai', cursive;
+	font-size: 30px;
+	color: #729f98;
+	text-align: center;
+	text-transform: uppercase;
+	line-height: 25px;
+}
+
+.catbaker-advice p {
+	font-family: 'Philosopher', sans-serif;
+	font-size: 20px;
+  color: #283018;
+	margin: 10px;
+	font-weight: bold;
+	line-height: 25px;
+}
+
+/** Footer **/
+.catbaker-advice .footer {
+	margin-top: 45px;
+	text-align: center;
+	color: #729f98;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	font-family: 'Baloo Bhai', cursive;
+	font-size: 18px;
+	background-color: #283018;
+}
