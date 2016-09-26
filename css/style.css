@@ -3609,7 +3609,6 @@ marquisbrown-advice {
 	text-align: right;
 	color: #DC6163;
 }
-
 .meganschrag-advice p {
 	font-family: 'Open Sans Condensed', sans-serif;
 	font-size: 18px;
@@ -3646,3 +3645,39 @@ marquisbrown-advice {
 }
 
 /* End Jeanne's Styles */
+
+/*****************************/
+/***JosieK Styles Begin....***/
+/*****************************/
+
+.josiek-advice {
+	background-color: #b3ffff
+}
+.josiek-advice h1{
+	text-decoration: underline;
+}
+
+.josiek-advice p{
+	text-align: center;
+	font-size: 1.25em;
+
+}
+.josiek-advice h4{
+	margin-bottom:0;
+
+}
+
+.josiek-advice h4, .push{
+	font-weight: bold;
+	text-transform: uppercase;
+
+}
+.josiek-advice footer p{
+	margin-top: 25px;
+	border-top: 2px solid gray;
+	padding-top: 30px;
+}
+
+/*****************************/
+/***JosieK Styles Begin....***/
+/*****************************/
