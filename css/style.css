@@ -3646,3 +3646,46 @@ marquisbrown-advice {
 }
 
 /* End Jeanne's Styles */
+
+/* ===== LILY'S STYLES ===== */
+.lilyk-advice {
+	background-color: #E9E9E9;
+}
+.lilyk-advice .body-lining {
+	max-width: 1000px;
+	margin: auto;
+}
+.lilyk-advice .box {
+	border-radius: 20px;
+	width: 95%;
+	margin: 0 auto;
+	padding: 5px 2.5%;
+	margin-top: 20px;
+}
+.lilyk-advice .btn {
+	border-radius: 5px;
+	background-color: #424242;
+	padding: 5px 10px;
+}
+.lilyk-advice #p1 {
+	background-color: #FF9900;
+}
+.lilyk-advice #p2 {
+	background-color: #3299BB;
+}
+.lilyk-advice h1 {
+	color: #424242;
+	margin: 2em 0 1.2em 0;
+}
+.lilyk-advice h4 {
+	color: #424242;
+	margin: 30px 0;
+}
+.lilyk-advice p {
+	color: #424242;
+}
+.lilyk-advice a {
+	text-decoration: none;
+	color: #bcbcbc;
+}
+/* ===== END LILY'S STYLES ===== */
