@@ -3646,3 +3646,47 @@ marquisbrown-advice {
 }
 
 /* End Jeanne's Styles */
+
+/* Kristin's Styles */
+.kristinantosz-advice {
+	font-size: 1em;
+	font-family: 'Lora', serif;
+	background-color: #fff;
+}
+
+.kristinantosz-advice h1 {
+	font-family: 'Lora', serif;
+	font-size: 1.88em;
+	color: #df80ff;
+}
+
+.kristinantosz-advice h4 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 1.25em;
+	color: #8080ff;
+}
+
+.kristinantosz-advice p {
+
+}
+
+.kristinantosz-advice a {
+	font-family: 'Raleway', sans-serif;
+	color: #c2c2d6;
+}
+
+.kristinantosz-advice a: visited {
+	color: #c2c2d6;
+}
+
+.kristinantosz-advice a:hover {
+	color: #b300b3;
+}
+
+.kristinantosz-advice footer {
+	text-align: center;
+	padding-top: 50px;
+	color: #c2c2d6;
+	font-size: 0.75em;
+}
+/* end Kristin's Styles */
