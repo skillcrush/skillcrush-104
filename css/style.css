@@ -1,5 +1,26 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/*Alicia's Styles*/
+
+.alicia-advice a {
+	color: #E80C7A;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.alicia-advice h1 {
+	color: #8A0748;
+}
+
+.alicia-advice h4 {
+	color: #EE0748;
+	text-transform: uppercase;
+}
+
+.alicia-advice span {
+	color: #E80C7A;
+}
+
 /*Heidi's Styles*/
 
 .heidilowry-advice a {
@@ -3487,6 +3508,8 @@ body.parismarron-advice{
   font-size: 14px;
 }
 /*End Sara Suzanne's Styles*/
+
+
 
 /* Genevieve's Styles */
 .genevieve-advice h1 {
