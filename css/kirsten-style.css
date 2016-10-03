@@ -1,0 +1,63 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/** Kirsten advice styling **/
+
+.kirsten-advice {
+	margin: 0;
+}
+
+.kirsten-advice a {
+  border: 4px solid #aaf0d1;
+	border-radius: 10px;
+	color: #fff;
+	font: 16px 'Oswald', sans-serif;
+	font-variant: small-caps;
+	margin: 0 auto;
+	padding: 15px;
+	text-align: left;
+	text-decoration: none;
+	width: 170px;
+
+}
+
+.kirsten-advice a:hover{
+	background: #9c51b6;
+	color: #d0c1f0;
+}
+
+.kirsten-advice header {
+	background: #9c51b6;
+	color: #fff;
+	padding: 30px;
+}
+
+.kirsten-advice h1 {
+	color:#efeafa;
+	font: 600 36px 'Oswald', sans-serif;
+	font-weight: bold;
+	padding-top: 20px;
+	text-align: left;
+}
+.kirsten-advice h2 {
+  background-color:  #d0c1f0;
+	color: #733380;
+	font: 400 28px 'Oswald', sans-serif;
+	font-variant: small-caps;
+	margin: 5px auto;
+	padding: 20px;
+	text-align: left;
+}
+
+.emphasis-1 {
+	font-style: italic;
+	font-weight: bold;
+}
+
+.kirsten-advice p {
+	color: black;
+	font: 24px 'Roboto Slab', serif;
+	padding: 20px;
+}
+
+}
+/** end Kirsten advice styling **/

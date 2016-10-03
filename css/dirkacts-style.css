@@ -1,0 +1,99 @@
+/* Type Selectors */
+
+body {	
+	margin: 0;
+}
+
+h1 {
+	font-size: 2em;
+	}
+
+
+h2 {
+	width: 95%;
+	padding-left: 20px;
+	text-align: center;
+	border-bottom: 1px solid #000;
+	line-height: 0.1em;
+	margin: 10px 10px 20px 10px;
+}
+
+h2 span {
+	background:#fff;
+	padding: 0 10px;
+}
+
+p   {
+	font-size: 1em;
+}
+
+/* ID Selectors */
+
+#main-footer {
+	padding-left: 10px;
+	padding-top: 60px;
+	padding-bottom: 60px;
+	border-bottom: solid 10px #A6799A;
+}
+
+/* Class Selectors */
+
+.dirkacts-advice {
+	font-family: 'Fira Sans', sans-serif;
+}
+
+.main-header {
+	margin: 0;
+	padding: 20px;
+	text-align: center;
+	background-color: #A6799A;
+}
+
+.advice {
+
+}
+
+.adv-head {
+	padding-top: 20px;
+	
+	
+}
+
+.adv-text {
+	margin: 5px;
+	padding-left: 15px;
+}
+
+
+/* Pseudo Classes */
+
+a:link {
+	color: #A69B79;
+}
+
+a:visited {
+	color: #A6799F;
+}
+
+a:hover {
+	color: #A69D99;
+}
+
+a:active {
+	color: #A79E99;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

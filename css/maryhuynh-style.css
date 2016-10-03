@@ -1,0 +1,49 @@
+#mainPage{
+	font-family: "Patrick Hand";
+	font-size: 18px;
+	text-decoration: none;
+	color: white;
+	margin: 410px;
+}
+
+h1 {
+	font-family: "Architects Daughter";
+	color: white;
+	margin-left: 90px;
+}
+
+h2 {
+	font-family: "Architects Daughter";
+	color: white;
+}
+
+#conclusion {
+	font-family: "Architects Daughter";
+	color: white;
+	margin-left: 270px;
+}
+
+p{
+	font-family: "Short Stack";
+	font-size: 18px;
+	color: white;
+}
+
+.advice{
+	margin-top: 40px;
+	margin-left: 80px;
+	margin-right: 80px;
+	border: 4px groove white;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+body{
+	background: dodgerblue;
+}
+
+#copyright{
+	margin-left: 400px;
+}

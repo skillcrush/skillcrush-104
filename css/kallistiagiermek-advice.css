@@ -1,0 +1,24 @@
+/** Kallistia Giermek  **/
+
+/** Skillcrush styles **/
+.kallistiagiermek-advice {
+	color: white;
+  background: cornflowerblue;
+  font-family:georgia;
+}
+.kallistiagiermek-advice .advice1 {
+	border: 4px solid Aquamarine;
+	padding: 10px;
+  margin: 40px;
+  text: center;
+}
+
+.kallistiagiermek-advice img{
+  height:300px;
+}
+
+.kallistiagiermek-advice .advice2 {
+	border: 4px solid Aquamarine;
+	padding: 10px;
+  margin: 40px;
+}

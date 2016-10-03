@@ -1,0 +1,72 @@
+html, body{
+font-family: 'amaranth';
+font-size: 16px;
+}
+
+.meghana-advice a{
+color: #F0F3BD;
+}
+
+.meghana-advice{
+  background-color:#028090;
+}
+.meghana-advice h1{
+  font-family:'capriola';
+  font-size:2em;
+  color:#FFFFCC;
+
+  }
+
+.ms-advice{
+  font-family: 'amaranth';
+  background-color: #f0f0f0;
+}
+.col-sm-4 h3{
+  font-family:'capriola';
+  font-size:1.5em;
+}
+
+span{
+  font-family: 'acme';
+  font-weight:bold;
+  text-decoration: uppercase;
+  word-spacing: 1px;
+  letter-spacing: 1px;
+  }
+
+  .row{
+    width:100%;
+    border-top:1px solid grey;
+    border-bottom:1px solid grey;
+    background-color:#F0F3BD;
+  }
+
+.col-sm-4{
+  padding:2%;
+  padding-left: 2%;
+  margin:auto;
+  color:midnightblue;
+  display:block;
+  }
+
+.col-sm-8{
+padding:2%;
+float:left;
+color:midnightblue;
+display:inline;
+text-align: justify;
+background-color: #d1eeaa;
+width:100%;
+}
+
+.col-med-12{
+  clear:both;
+  background-color:#05668D;
+  padding:2%;
+  margin:auto;
+  color:#F0F3BD;
+}
+
+footer{
+color:#FFFFCC;
+}
