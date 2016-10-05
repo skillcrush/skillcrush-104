@@ -48,6 +48,23 @@
 }
 
 
+/*Caroline's Styles*/
+
+.caroline-advice {
+	color: blue;
+	font-family: sans-serif;
+}
+
+.caroline-advice h4 {
+	color: red;
+	font-size: 1.5em;
+}
+
+.caroline-advice p {
+	font-size: 1.2em;
+	padding: 0 20px;
+}
+
 /*Heidi's Styles*/
 
 .heidilowry-advice a {
