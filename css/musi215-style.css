@@ -1,0 +1,17 @@
+/**musi215's Styles**/
+.musi215-advice body{
+	padding: 20px;
+	border: 3px solid #f08080;
+	background-color: #006666;
+	color: #ffffff;
+	font-family: serif;
+}
+
+.musi215-advice h4{
+	font-size: 45px;
+}
+
+.musi215-advice p{
+	font-size: 28px;
+}
+/**End of musi215 Styles**/

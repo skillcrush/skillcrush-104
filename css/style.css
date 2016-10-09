@@ -100,7 +100,7 @@
 
 .tekla-advice h1 {
     font-size: 2em;
-   
+
 }
 
 .tekla-advice h4 {
@@ -3826,3 +3826,20 @@ marquisbrown-advice {
 	width: 75%;
 	margin: auto;
 }
+
+/**musi215's Styles**/
+.musi215-advice {
+	font-family: sans-serif;
+	background-color: #ffffcc;
+}
+
+.musi215-advice h4 {
+	font-size: 45px;
+	color: #5c00e6;
+}
+
+.musi215-advice p {
+	font-size: 28px;
+	color: #006600;
+}
+/**End of musi215 Styles**/
