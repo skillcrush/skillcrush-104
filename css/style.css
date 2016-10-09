@@ -124,6 +124,69 @@
 
 /*End Tekla's Styles*/
 
+/* Kasey's Styles*/
+
+.advice-kaseyfahey a {
+	color: #424242;
+	font-family: "Source Sans Pro", sans-serif;
+	font-size: 16px;
+}
+.advice-kaseyfahey h1 {
+	font-family: "Slabo 27px", serif;
+	font-size: 50px;
+	color: #424242;
+	line-height: 70px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.advice-kaseyfahey h4 {
+	font-family: "Slabo 27px", serif;
+	font-size: 32px;
+	color: #424242;
+	margin: 0 auto;
+	padding-top: 20px;
+}
+
+.advice-kaseyfahey .fa-heart {
+	color: tomato;
+}
+
+.advice-kaseyfahey .fa-magic {
+	color: purple;
+}
+
+.advice-kaseyfahey p {
+	font-family: "Source Sans Pro", sans-serif;
+	color: #424242;
+	font-size: 24px;
+}
+
+.advice-kaseyfahey section {
+	width: 1050px;
+	margin: 0 auto;
+	padding: 50px 0 50px 0;
+}
+
+.advice-kaseyfahey .how {
+	background-color: #FBEEE6;
+	padding: 20px;
+}
+
+.advice-kaseyfahey .language {
+	background-color: #D6EAF8;
+	padding: 20px;
+}
+
+.advice-kaseyfahey .everything {
+	background-color: #D4EFDF;
+	padding: 20px;
+}
+
+.advice-kaseyfahey span {
+	font-family: "Pacifico", cursive;
+
+/* End Kasey's Styles*/
 
 /*Heidi's Styles*/
 
