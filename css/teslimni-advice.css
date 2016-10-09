@@ -1,0 +1,25 @@
+.teslimni-advice {
+	width: 800px;
+    margin: 156px auto 0;
+    background: khaki;
+}
+
+.teslimni-advice a {
+	text-align: center;
+    display: block;
+    text-decoration: none;
+    color: red;
+}
+
+.teslimni-advice h4 {
+	font-size: 1.5rem;
+}
+
+.teslimni-advice p {
+	font-size: 1.2rem;
+}
+
+.teslimni-advice footer {
+	margin-top: 50px;
+	text-align: center;
+}

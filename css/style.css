@@ -1,4 +1,29 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+/** Susanna Wise's Styles **/
+.susannawise-advice {
+	background-color: #33cccc;
+}
+.susannawise-advice a {
+	color:black;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.susannawise-advice h1 {
+	color: #e60000;
+}
+
+.susannawise-advice h4 {
+	color: #2d5986;
+}
+
+.susannawise-advice {
+	color: white;
+}
+
+.susannawise-advice footer p {
+	color: #2d5986;
+}
 
 /* Adam R's Styles */
 .adam-r-advice {
@@ -70,6 +95,41 @@
 	font-size: 1.2em;
 	padding: 0 20px;
 }
+/*Tekla's Styles*/
+
+.tekla-advice {
+    margin: 0 auto;
+   font-family: sans-serif;
+   background-color: #E0E0E0;
+
+}
+
+.tekla-advice h1 {
+    font-size: 2em;
+   
+}
+
+.tekla-advice h4 {
+    font-size: 1.5em;
+    text-align: center;
+    color: #ad208e;
+}
+
+.tekla-advice p {
+    font-size: 1.2em;
+    padding: 0.5em 4em;
+
+}
+
+.tekla-advice footer {
+    text-align: center;
+
+}
+
+
+
+/*End Tekla's Styles*/
+
 
 /*Heidi's Styles*/
 
@@ -3740,3 +3800,35 @@ marquisbrown-advice {
 }
 
 /* end of Joanne's styles */
+
+/*Start Sarah Elle's Styles */
+.sarahloftus-advice {
+	font-family: 'Times New Roman', 'serif';
+	font-size: 18px;
+	background-color: #2F2640;
+}
+
+.sarahloftus-advice h1 {
+	text-align: center;
+	color: #AA89E5;
+}
+
+.sarahloftus-advice h4 {
+	text-transform: uppercase;
+	color: #AA89E5;
+}
+
+.sarahloftus-advice section {
+	width: 75%;
+	margin: auto;
+}
+
+.sarahloftus-advice p {
+	font-family: 'Calibri', 'Arial', 'sans-serif';
+	color: #D1BDFF;
+}
+
+.sarahloftus-advice footer {
+	width: 75%;
+	margin: auto;
+}
