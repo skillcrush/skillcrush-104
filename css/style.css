@@ -25,6 +25,35 @@
 	color: #2d5986;
 }
 
+/*LuisP Styles*/
+.lgpatruyo-advice header h1{
+	color: red;
+}
+
+.lgpatruyo-advice .advice{
+	background-color: lightblue; 
+}
+
+.lgpatruyo-advice .advice h4{
+	color: darkgrey;
+	font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*Alicia's Styles*/
 
 .alicia-advice a {
@@ -100,7 +129,7 @@
 
 .tekla-advice h1 {
     font-size: 2em;
-   
+
 }
 
 .tekla-advice h4 {
