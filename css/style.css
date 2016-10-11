@@ -1,4 +1,29 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+/** Susanna Wise's Styles **/
+.susannawise-advice {
+	background-color: #33cccc;
+}
+.susannawise-advice a {
+	color:black;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.susannawise-advice h1 {
+	color: #e60000;
+}
+
+.susannawise-advice h4 {
+	color: #2d5986;
+}
+
+.susannawise-advice {
+	color: white;
+}
+
+.susannawise-advice footer p {
+	color: #2d5986;
+}
 
 /*Alicia's Styles*/
 
@@ -64,6 +89,41 @@
 	font-size: 1.2em;
 	padding: 0 20px;
 }
+/*Tekla's Styles*/
+
+.tekla-advice {
+    margin: 0 auto;
+   font-family: sans-serif;
+   background-color: #E0E0E0;
+
+}
+
+.tekla-advice h1 {
+    font-size: 2em;
+
+}
+
+.tekla-advice h4 {
+    font-size: 1.5em;
+    text-align: center;
+    color: #ad208e;
+}
+
+.tekla-advice p {
+    font-size: 1.2em;
+    padding: 0.5em 4em;
+
+}
+
+.tekla-advice footer {
+    text-align: center;
+
+}
+
+
+
+/*End Tekla's Styles*/
+
 
 /*Heidi's Styles*/
 
@@ -3741,7 +3801,7 @@ marquisbrown-advice {
 	background-color: #ccb3ff;
 }
 
-.thebeeletter a, h1, h4, p {
+.thebeeletter a, h1, p {
 	font-family: 'Josefin Sans', sans-serif;
 }
 
@@ -3759,6 +3819,7 @@ marquisbrown-advice {
 }
 
 .thebeeletter h4 {
+	font-family: 'Josefin Sans', sans-serif;
 	color: #4d004d;
 	padding-top: 15px;
 	padding-bottom: 15px;
@@ -3786,3 +3847,57 @@ marquisbrown-advice {
 	text-align: center;
 }
 /* End of The Bee Letter's styles */
+
+/*Start Sarah Elle's Styles */
+.sarahloftus-advice {
+	font-family: 'Times New Roman', 'serif';
+	font-size: 18px;
+	background-color: #2F2640;
+}
+
+.sarahloftus-advice h1 {
+	text-align: center;
+	color: #AA89E5;
+}
+
+.sarahloftus-advice h4 {
+	text-transform: uppercase;
+	color: #AA89E5;
+}
+
+.sarahloftus-advice section {
+	width: 75%;
+	margin: auto;
+}
+
+.sarahloftus-advice p {
+	font-family: 'Calibri', 'Arial', 'sans-serif';
+	color: #D1BDFF;
+}
+
+.sarahloftus-advice footer {
+	width: 75%;
+	margin: auto;
+}
+
+/* Melanie's Styles */
+
+.melaniegraber-advice {
+	font-family: 'Raleway', sans-serif;
+}
+
+.melaniegraber-advice h1 {
+	font-size: 42px;
+	color: #ffbb00;
+}
+
+.melaniegraber-advice h4 {
+	font-size: 24px;
+	color: #000299;
+}
+
+.melaniegraber-advice h1, h4 {
+	font-family: 'Lora', serif;
+}
+
+/* End Melanie's Styles */
