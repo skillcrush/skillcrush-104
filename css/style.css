@@ -1,4 +1,14 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+/**Tatjana Cuhnova Styles**/
+.tatjana-advice {
+	background-color: pink;
+}
+.tatjana-advice p {
+	color: black;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
 /** Susanna Wise's Styles **/
 .susannawise-advice {
 	background-color: #33cccc;
