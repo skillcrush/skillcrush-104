@@ -3901,3 +3901,93 @@ marquisbrown-advice {
 }
 
 /* End Melanie's Styles */
+
+/* Start cotterpinx Styles */
+
+.cotterpinx-advice {
+	font-size: 16px;
+	background-color: #4bf485;
+	color: #092AC3;
+}
+
+.cotterpinx-advice h1 {
+	color: black;
+	text-align: center;
+	font-size: 24px;
+}
+
+.cotterpinx-advice h4 {
+	text-align: left;
+	color: #038BB8;
+	font-size: 20px;
+}
+
+.cotterpinx-advice p {
+	text-align: left;
+	font-family: serif;
+}
+
+/* End cotterpinx Styles */
+
+/* mbrown's styles */
+.mbrown-advice a {
+	text-decoration: none;
+	color: #FF8200;
+	border: 1px solid #FF8200;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+.mbrown-advice a:hover {
+	text-decoration: none;
+	color: #58595B;
+}
+
+.mbrown-advice h1 {
+	color: #58595B;
+}
+
+.mbrown-advice h4 {
+	color: #FF8200;
+}
+
+.mbrown-advice span {
+	font-weight: bold;
+}
+
+.mbrown-advice .advice {
+	padding: 0px 50px 0px 50px;
+
+}
+
+.mbrown-advice ul li {
+	list-style: none;
+	padding-bottom: 20px;
+}
+
+.mbrown-advice footer {
+	font-size: 12px;
+	border-top: 1px solid #58595B;
+}
+
+/* Start Biskitcrumb's Styles */
+
+.biskitcrumbs-advice {
+	font-size: 14px;
+	background-color: #ff6699;
+}
+
+.biskitcrumbs-advice h1 {
+	text-align: center;
+	font-size: 16px;
+}
+
+.biskitcrumbs-advice h4 {
+	font size: 14px;
+}
+
+.biskitcrumbs-advice p {
+	font-family: sans-serif;
+}
+
+/* End Biskitcrumb's Styles */
