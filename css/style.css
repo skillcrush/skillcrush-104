@@ -1,4 +1,29 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+/** Susanna Wise's Styles **/
+.susannawise-advice {
+	background-color: #33cccc;
+}
+.susannawise-advice a {
+	color:black;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.susannawise-advice h1 {
+	color: #e60000;
+}
+
+.susannawise-advice h4 {
+	color: #2d5986;
+}
+
+.susannawise-advice {
+	color: white;
+}
+
+.susannawise-advice footer p {
+	color: #2d5986;
+}
 
 /*Alicia's Styles*/
 
@@ -20,6 +45,85 @@
 .alicia-advice span {
 	color: #E80C7A;
 }
+
+/****Nadine's Advice Styles****/
+.nadine-advice {
+	background-color: #e699ff;
+	text-align: justify;
+	font-family: verdana;
+	font-size: 18px;
+	}
+
+.nadine-advice h1 {
+	color: #990033;
+}
+
+.nadine-advice h3 {
+	color: #54454a;
+	text-align: center;
+}
+
+#nadine {
+	border-style:dotted;
+	border-color:purple:
+}
+
+.nadinenadine {
+	text-align: center;
+}
+
+
+/*Caroline's Styles*/
+
+.caroline-advice {
+	color: blue;
+	font-family: sans-serif;
+}
+
+.caroline-advice h4 {
+	color: red;
+	font-size: 1.5em;
+}
+
+.caroline-advice p {
+	font-size: 1.2em;
+	padding: 0 20px;
+}
+/*Tekla's Styles*/
+
+.tekla-advice {
+    margin: 0 auto;
+   font-family: sans-serif;
+   background-color: #E0E0E0;
+
+}
+
+.tekla-advice h1 {
+    font-size: 2em;
+   
+}
+
+.tekla-advice h4 {
+    font-size: 1.5em;
+    text-align: center;
+    color: #ad208e;
+}
+
+.tekla-advice p {
+    font-size: 1.2em;
+    padding: 0.5em 4em;
+
+}
+
+.tekla-advice footer {
+    text-align: center;
+
+}
+
+
+
+/*End Tekla's Styles*/
+
 
 /*Heidi's Styles*/
 
@@ -3646,3 +3750,191 @@ marquisbrown-advice {
 }
 
 /* End Jeanne's Styles */
+
+/* Joanne's styles */
+
+.joannesullivan-advice body, html {
+	background-color: #e6e6ff;
+	padding: 50px;
+}
+
+.joannesullivan-advice header a {
+	text-decoration: none;
+	font-family: 'Poppins', sans-serif;
+	font-weight: bolder;
+	color: #006600;
+
+}
+
+.joannesullivan-advice h1, h2, h4 {
+	font-family: 'Amiri', serif;
+	margin: 0 0;
+}
+
+.joannesullivan-advice h1 {
+	font-size: 60px;
+	line-height: 65px;
+}
+
+.joannesullivan-advice h2 {
+	font-size: 40px;
+	line-height: 45px;
+	color: #000000;
+}
+
+.joannesullivan-advice h4 {
+	font-size: 32px;
+	text-align: left;
+	color: #400080;
+	padding-top: 20px;
+}
+
+.joannesullivan-advice p {
+	font-family: 'Poppins', sans-serif;
+}
+
+/* end of Joanne's styles */
+
+/*Start Sarah Elle's Styles */
+.sarahloftus-advice {
+	font-family: 'Times New Roman', 'serif';
+	font-size: 18px;
+	background-color: #2F2640;
+}
+
+.sarahloftus-advice h1 {
+	text-align: center;
+	color: #AA89E5;
+}
+
+.sarahloftus-advice h4 {
+	text-transform: uppercase;
+	color: #AA89E5;
+}
+
+.sarahloftus-advice section {
+	width: 75%;
+	margin: auto;
+}
+
+.sarahloftus-advice p {
+	font-family: 'Calibri', 'Arial', 'sans-serif';
+	color: #D1BDFF;
+}
+
+.sarahloftus-advice footer {
+	width: 75%;
+	margin: auto;
+}
+
+/* Melanie's Styles */
+
+.melaniegraber-advice {
+	font-family: 'Raleway', sans-serif;
+}
+
+.melaniegraber-advice h1 {
+	font-size: 42px;
+	color: #ffbb00;
+}
+
+.melaniegraber-advice h4 {
+	font-size: 24px;
+	color: #000299;
+}
+
+.melaniegraber-advice h1, h4 {
+	font-family: 'Lora', serif;
+}
+
+/* End Melanie's Styles */
+
+/* Start cotterpinx Styles */
+
+.cotterpinx-advice {
+	font-size: 16px;
+	background-color: #4bf485;
+	color: #092AC3;
+}
+
+.cotterpinx-advice h1 {
+	color: black;
+	text-align: center;
+	font-size: 24px;
+}
+
+.cotterpinx-advice h4 {
+	text-align: left;
+	color: #038BB8;
+	font-size: 20px;
+}
+
+.cotterpinx-advice p {
+	text-align: left;
+	font-family: serif;
+}
+
+/* End cotterpinx Styles */
+
+/* mbrown's styles */
+.mbrown-advice a {
+	text-decoration: none;
+	color: #FF8200;
+	border: 1px solid #FF8200;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+.mbrown-advice a:hover {
+	text-decoration: none;
+	color: #58595B;
+}
+
+.mbrown-advice h1 {
+	color: #58595B;
+}
+
+.mbrown-advice h4 {
+	color: #FF8200;
+}
+
+.mbrown-advice span {
+	font-weight: bold;
+}
+
+.mbrown-advice .advice {
+	padding: 0px 50px 0px 50px;
+
+}
+
+.mbrown-advice ul li {
+	list-style: none;
+	padding-bottom: 20px;
+}
+
+.mbrown-advice footer {
+	font-size: 12px;
+	border-top: 1px solid #58595B;
+}
+
+/* Start Biskitcrumb's Styles */
+
+.biskitcrumbs-advice {
+	font-size: 14px;
+	background-color: #ff6699;
+}
+
+.biskitcrumbs-advice h1 {
+	text-align: center;
+	font-size: 16px;
+}
+
+.biskitcrumbs-advice h4 {
+	font size: 14px;
+}
+
+.biskitcrumbs-advice p {
+	font-family: sans-serif;
+}
+
+/* End Biskitcrumb's Styles */
