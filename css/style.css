@@ -33,20 +33,16 @@
   
 }
 
-.maggiewiseman-advice h1,
+.maggiewiseman-advice h1 {
+  color: #750D37;
+  
+}
 .maggiewiseman-advice p, 
 .maggiewiseman-advice h4 {
   color: #210124;
 }
 
-.maggiewiseman-advice h1,
-.maggiewiseman-advice h4 {
-  font-family: 'Eczar', serif;
-  font-weight: 400;
-}
-
-.maggiewiseman-advice a,
-.maggiewiseman-advice h4{
+.maggiewiseman-advice a{
   color: #FEFFFE;
 }
 
@@ -55,12 +51,12 @@
 }
 
 .maggiewiseman-advice h4 {
-  background-color: #210124;
+  background-color: #B3DEC1;
   border: 2px solid #210124;
   border-radius: 2px;
+ 
   font-size: 1.5em;
-  text-align: left;
-  padding: 0.6em;
+  
 }
 
 .maggiewiseman-advice a{
@@ -71,6 +67,7 @@
 
 .maggiewiseman-advice span {
   color: #750D37;
+  font-size: 1.7em;
   
 }
 /** Susanna Wise's Styles **/
