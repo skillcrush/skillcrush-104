@@ -14,31 +14,53 @@
   }
 
 .maggiewiseman-advice {
-  background-color: #750D37;
+  background-color: #E5FCF5;
   font-family: "upright-italic";
   margin: 0;
   padding: 0;
-  
+}
+
+.maggiewiseman-advice header,
+.maggiewiseman-advice section, 
+.maggiewiseman-advice footer{
+  width: 80%;
+  margin: 0 auto;
 }
 
 .maggiewiseman-advice nav {
   background-color: #210124;
-  padding: 10px 20px;
+  padding: 1.5em;
   
 }
 
 .maggiewiseman-advice h1,
-.maggiewiseman-advice h4,
-.maggiewiseman-advice p,
-.maggiewiseman-advice a {
+.maggiewiseman-advice p, 
+.maggiewiseman-advice h4 {
+  color: #210124;
+}
+
+.maggiewiseman-advice h1,
+.maggiewiseman-advice h4 {
+  font-family: 'Eczar', serif;
+  font-weight: 400;
+}
+
+.maggiewiseman-advice a,
+.maggiewiseman-advice h4{
   color: #FEFFFE;
 }
 
+.maggiewiseman-advice p {
+  font-size: 1.2em;
+}
+
 .maggiewiseman-advice h4 {
-  background-color: #B3DEC1;
-  color: 
+  background-color: #210124;
+  border: 2px solid #210124;
+  border-radius: 2px;
   font-size: 1.5em;
-  
+  text-align: left;
+  padding: 0.6em;
 }
 
 .maggiewiseman-advice a{
@@ -47,6 +69,10 @@
   font-family: Univers, Calibri, “Liberation Sans”, “Nimbus Sans L”, Tahoma, Geneva, “Helvetica Neue”, Helvetica, Arial, sans-serif;
 }
 
+.maggiewiseman-advice span {
+  color: #750D37;
+  
+}
 /** Susanna Wise's Styles **/
 .susannawise-advice {
 	background-color: #33cccc;
