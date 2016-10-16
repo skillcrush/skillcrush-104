@@ -13,6 +13,11 @@
         src: url('../fonts/upright-italic/cmunui.woff') format('woff');
   }
 
+@font-face {
+      font-family: "upright-italic";
+        src: url('../fonts/upright-italic/cmunui.ttf') format('opentype');
+      }
+
 .maggiewiseman-advice {
   background-color: #E5FCF5;
   font-family: "upright-italic";
