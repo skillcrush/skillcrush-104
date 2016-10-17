@@ -4071,3 +4071,27 @@ marquisbrown-advice {
 	font-size:1em;
 	color: #800000;
 }
+
+/* Start Aaron Dan's Styles */
+
+.aarondan-advice h1 {
+	font-size: 36px;
+	font-family: Arial;
+	color: #468f96;
+	text-align: center;
+}
+
+.aarondan-advice h4 {
+	font-size: 18px;
+	font-family: Garamond, serif;
+	color: #0a4c1f;
+	text-align: left;
+}
+
+.aarondan-advice p {
+	font-size: 14px;
+	font-family: Garamond, serif;
+	text-align: left;
+}
+
+/* End Aaron Dan's Styles */
