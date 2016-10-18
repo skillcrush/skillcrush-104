@@ -1,0 +1,4 @@
+puts "Pick a number, any number..."
+first_number = gets.to_i
+puts 'Still gonna come back as...' + (((first_number + 5) * 2 - 4) / 2 - first_number).to_s
+

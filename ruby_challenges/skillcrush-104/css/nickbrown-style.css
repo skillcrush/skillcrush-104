@@ -1,0 +1,73 @@
+
+/** Nick Brown's styles **/
+
+.nickbrown-advice h1 {
+	font-family: 'Allan' ;
+	color: rgb(47, 65, 114);
+	text-align: center;
+	font-size: 60px;
+}
+
+.nickbrown-advice .nickbrownmore-advice h4 {
+	font-family: 'Cardo';
+	color: rgb(47, 65, 114);
+	text-align: center;
+	font-size: 30px;
+	padding-top: 10px;
+	
+}
+
+.nickbrown-advice .nickbrownmore-advice h3 {
+	font-family: 'Allan';
+	color: rgb(47, 65, 114);
+	text-align: center;
+	font-size: 30px;
+	padding-top: 10px;
+}
+.nickbrown-advice .nickbrownmore-advice p {
+	font-family: 'Allerta', sans-serif;
+	text-align: center;
+	font-size: 20px;
+	padding-left: 150px;
+	padding-right: 150px;
+	line-height: 30px;
+}
+
+.nickbrown-advice a {
+	font-family: 'Cardo', sans-serif;
+	color: rgb(47, 65, 114);
+	text-align: center;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+.nickbrown-advice p {
+	font-family: 'Allerta', sans-serif;
+	color: rgb(143, 153, 180);
+	text-align: center;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+.nickbrownmore-advice div p {
+	padding: 40px;
+	border-bottom-left-radius: 20px;
+	border-top-right-radius: 20px;
+	background-color: rgb(47, 65, 114);
+	margin: 0px, 150px, 0px, 150px;
+}
+
+.nickbrown-advice {
+	background-color: rgb(240, 240, 240);
+	padding: 50px;
+	margin: 0px, 150px, 0px, 150px;
+	margin-top: -50px;
+}
+
+.nickbrown-advice .footer p{
+	font-size: 12px;
+}
+/** End of Nick Brown's styles **/
+
+
+

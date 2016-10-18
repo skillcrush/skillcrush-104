@@ -1,0 +1,20 @@
+/** Add a comment at the beginning of your CSS styles with your name **/
+
+/** Glenda Lewis Styles **/
+.glenda-advice {
+	background-color: rgb(102, 255, 255);
+	color: rgb(127, 0, 255);
+	font-family:'Helvetica', sans-serif;
+}
+.glenda-advice h1{
+	font-style:bold;
+	text-align:center;	
+}
+
+.glenda-advice a {
+	font-size: 10px;
+	text-decoration: underline;
+	color: inherit;
+	font-family:'Helvetica', sans-serif;
+	margin-left: 350px;
+	}

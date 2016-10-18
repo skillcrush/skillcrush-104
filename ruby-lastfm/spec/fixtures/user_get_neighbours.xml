@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<lfm status="ok">
+  <neighbours user="RJ">
+    <user>
+      <name>willywongi</name>
+      <realname>Pongi</realname>
+      <url>http://www.last.fm/user/willywongi</url>
+      <image size="small">http://userserve-ak.last.fm/serve/34/11889165.png</image>
+      <image size="medium">http://userserve-ak.last.fm/serve/64/11889165.png</image>
+      <image size="large">http://userserve-ak.last.fm/serve/126/11889165.png</image>
+      <image size="extralarge">http://userserve-ak.last.fm/serve/252/11889165.png</image>
+      <match>0.99741923809052</match>
+    </user>
+    <user>
+      <name>Auron55</name>
+      <realname>Yoshi Tacke</realname>
+      <url>http://www.last.fm/user/Auron55</url>
+      <image size="small">http://userserve-ak.last.fm/serve/34/1390737.jpg</image>
+      <image size="medium">http://userserve-ak.last.fm/serve/64/1390737.jpg</image>
+      <image size="large">http://userserve-ak.last.fm/serve/126/1390737.jpg</image>
+      <image size="extralarge">http://userserve-ak.last.fm/serve/252/1390737.jpg</image>
+      <match>0.99741286039352</match>
+    </user>
+    <user>
+      <name>Dead_Man_Rollin</name>
+      <realname>Ishtiaque</realname>
+      <url>http://www.last.fm/user/Dead_Man_Rollin</url>
+      <image size="small">http://userserve-ak.last.fm/serve/34/22128011.jpg</image>
+      <image size="medium">http://userserve-ak.last.fm/serve/64/22128011.jpg</image>
+      <image size="large">http://userserve-ak.last.fm/serve/126/22128011.jpg</image>
+      <image size="extralarge">http://userserve-ak.last.fm/serve/252/22128011.jpg</image>
+      <match>0.99728548526764</match>
+    </user>
+    <user>
+      <name>elbryanlos</name>
+      <realname>Fabiano</realname>
+      <url>http://www.last.fm/user/elbryanlos</url>
+      <image size="small">http://userserve-ak.last.fm/serve/34/6331893.jpg</image>
+      <image size="medium">http://userserve-ak.last.fm/serve/64/6331893.jpg</image>
+      <image size="large">http://userserve-ak.last.fm/serve/126/6331893.jpg</image>
+      <image size="extralarge">http://userserve-ak.last.fm/serve/252/6331893.jpg</image>
+      <match>0.99721282720566</match>
+    </user>
+    <user>
+      <name>SoundOfMyLife</name>
+      <realname>Katharina</realname>
+      <url>http://www.last.fm/user/SoundOfMyLife</url>
+      <image size="small">http://userserve-ak.last.fm/serve/34/38937397.jpg</image>
+      <image size="medium">http://userserve-ak.last.fm/serve/64/38937397.jpg</image>
+      <image size="large">http://userserve-ak.last.fm/serve/126/38937397.jpg</image>
+      <image size="extralarge">http://userserve-ak.last.fm/serve/252/38937397.jpg</image>
+      <match>0.99704891443253</match>
+    </user>
+  </neighbours>
+</lfm>

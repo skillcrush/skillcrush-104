@@ -1,0 +1,14 @@
+shield_agent = 0
+while shield_agent < 101
+	if shield_agent % 3 == 0 && shield_agent % 5 == 0
+		puts "FitzSimmons!"
+	elsif shield_agent % 3 == 0
+		puts "Fitz"
+	elsif shield_agent % 5 == 0
+		puts "Simmons"
+	else
+		puts shield_agent
+	end
+	
+	shield_agent+=1
+end
