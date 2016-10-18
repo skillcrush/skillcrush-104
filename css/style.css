@@ -1,4 +1,80 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+/** Maggie Wiseamn's Styles **/
+
+  /* ========= Colors ==========
+    wine: #750D37
+    plum: #210124
+    sea-foam: #B3DEC1
+    mint: #E5FCF5
+    white: #FEFFFE
+    ============================ */
+ @font-face {
+      font-family: "upright-italic";
+        src: url('../fonts/upright-italic/cmunui.woff') format('woff');
+  }
+
+@font-face {
+      font-family: "upright-italic";
+        src: url('../fonts/upright-italic/cmunui.ttf') format('opentype');
+      }
+
+.maggiewiseman-advice {
+  background-color: #E5FCF5;
+  font-family: "upright-italic";
+  margin: 0;
+  padding: 0;
+}
+
+.maggiewiseman-advice header,
+.maggiewiseman-advice section, 
+.maggiewiseman-advice footer{
+  width: 80%;
+  margin: 0 auto;
+}
+
+.maggiewiseman-advice nav {
+  background-color: #210124;
+  padding: 1.5em;
+  
+}
+
+.maggiewiseman-advice h1 {
+  color: #750D37;
+  
+}
+.maggiewiseman-advice p, 
+.maggiewiseman-advice h4 {
+  color: #210124;
+}
+
+.maggiewiseman-advice a{
+  color: #FEFFFE;
+}
+
+.maggiewiseman-advice p {
+  font-size: 1.2em;
+}
+
+.maggiewiseman-advice h4 {
+  background-color: #B3DEC1;
+  border: 2px solid #210124;
+  border-radius: 2px;
+ 
+  font-size: 1.5em;
+  
+}
+
+.maggiewiseman-advice a{
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: Univers, Calibri, “Liberation Sans”, “Nimbus Sans L”, Tahoma, Geneva, “Helvetica Neue”, Helvetica, Arial, sans-serif;
+}
+
+.maggiewiseman-advice span {
+  color: #750D37;
+  font-size: 1.7em;
+  
+}
 /** Susanna Wise's Styles **/
 .susannawise-advice {
 	background-color: #33cccc;
