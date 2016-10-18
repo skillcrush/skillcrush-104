@@ -4164,3 +4164,34 @@ marquisbrown-advice {
 	list-style-type: none;
 }
 /*End of Sherri's Style*/
+
+/*Erika's Styles*/
+
+.erocks-advice h1 {
+	color: blue;
+	font-size: 35px;
+	padding-bottom: 4px;
+}
+
+.erocks-advice h4 {
+	padding-top: 10px;
+	
+} 
+
+.erocks-advice p {
+	color: red;
+	font-size: 15px;
+	padding: 10px;
+}
+	
+.erocks-advice .advice {
+	background-color: white;
+	border-radius: 10px;
+	margin: 20px;
+
+}	
+	
+
+
+
+/* End Erika's Styles */
