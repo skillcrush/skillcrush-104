@@ -156,7 +156,7 @@
 
 .tekla-advice h1 {
     font-size: 2em;
-   
+
 }
 
 .tekla-advice h4 {
@@ -4192,3 +4192,21 @@ marquisbrown-advice {
 	list-style-type: none;
 }
 /*End of Sherri's Style*/
+
+/*Start CodeNeophyte's Styles */
+
+.codeneophyte-advice body, html {
+	font-family: 'Times New Roman', 'serif';
+	font-size: 18px;
+	background-color: #989898;
+}
+
+.codeneophyte-advice h1 {
+	text-align: center;
+	color: #000;
+}
+
+.codeneophyte-advice h2 {
+	text-align: center;
+	color: #000;
+}
