@@ -1,0 +1,31 @@
+/*Shanice's Advice */
+
+.shanice-advice {
+	background-color: #3333ff;
+}
+
+.shanice-advice h1 {
+font-family: cursive, times, arial, serif;
+font-size: 48px;
+font-weight: bolder;
+color: #ffffff;
+text-align: center;
+}
+
+
+.shanice-advice h4{
+font-family: cursive, times, arial, serif;
+font-size: 30px;
+font-weight:bolder; ;
+color: #66b3ff;
+text-align: center;
+}
+
+.shanice-advice p{
+font-family: cursive, times, arial, serif;
+font-size: 20px;
+font-weight: ;
+text-align: justify;
+}
+
+/*End Shanice's Advice*/
