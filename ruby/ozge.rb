@@ -1,0 +1,1 @@
+puts "In Iceland, they say Always Go Happy!"
