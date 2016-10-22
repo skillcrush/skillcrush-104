@@ -4349,3 +4349,20 @@ Chrizzit's Advice Styles
   margin-top: 200px;
   font-size: 14px;
 }
+
+/**musi215's Styles**/
+.musi215-advice {
+	font-family: sans-serif;
+	background-color: #ffffcc;
+}
+
+.musi215-advice h4 {
+	font-size: 45px;
+	color: #5c00e6;
+}
+
+.musi215-advice p {
+	font-size: 28px;
+	color: #006600;
+}
+/**End of musi215 Styles**/
