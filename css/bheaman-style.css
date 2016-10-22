@@ -1,0 +1,45 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/* Becky's styles */
+
+.bheaman-advice body, html {
+	background-color: #591C3F;
+	padding: 50px;
+}
+
+.bheaman-advice header a {
+	font-family: 'Amatic SC', cursive;
+	color: #EFEAED;
+
+}
+
+.bheaman-advice h1, h2, h4 {
+	font-family: 'Oswald', sans-serif;
+	margin: 0 0;
+}
+
+.bheaman-advice h1 {
+	font-size: 60px;
+	line-height: 65px;
+	color: #1A1A22;
+}
+
+.bheaman-advice h2 {
+	font-size: 40px;
+	line-height: 45px;
+	color: #DFEBA1;
+}
+
+.bheaman-advice h4 {
+	font-size: 32px;
+	text-align: left;
+	color: #F8DEF7;
+	padding-top: 20px;
+}
+
+.bheaman-advice p {
+	font-family: 'Lora', serif;
+	color: #FFE3BE;
+}
+
+/* end of Becky's styles */
