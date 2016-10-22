@@ -4251,3 +4251,38 @@ marquisbrown-advice {
 	text-align: center;
 	color: #000;
 }
+
+/* =========================
+Chrizzit's Advice Styles
+========================== */
+
+.cvalenciano-advice {
+	font-family: Helvetica, sans-serif;
+	background-color: lightsalmon;
+}
+
+.cvalenciano-advice h1 {
+  font-family: Helvetica, sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.cvalenciano-advice h4 {
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+  margin-top: 0px;
+  color: indianred;
+}
+
+.cvalenciano-advice div {
+  text-align: justify;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.cvalenciano-advice footer {
+  text-align: center;
+  margin-top: 200px;
+  font-size: 14px;
+}
