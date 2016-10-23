@@ -56,6 +56,34 @@
 
 /* -- End Abbey's Styles */
 
+/** Helen Hoefele's Styles **/
+.advice-hhoefele {
+	background-color: #cc6699;
+}
+.advice-hhoefele a {
+	color:black;
+	text-decoration: none;
+	font-weight: bold;
+}
+.advice-hhoefele h2 {
+	color: black;
+	background-color: white;	
+}
+header h1{
+	color: white
+	background-color: #862d59;
+}
+.advice-hhoefele p{
+	color: black;
+}
+.advice-hhoefele li{
+	font-size: 18px;
+}
+footer {
+	background-color: #862d59;
+	color: white;
+}
+
 /** Susanna Wise's Styles **/
 .susannawise-advice {
 	background-color: #33cccc;
