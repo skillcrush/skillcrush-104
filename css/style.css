@@ -170,6 +170,20 @@ footer {
 	background-color: #000000;
 }
 
+/*LuisP Styles*/
+.lgpatruyo-advice header h1{
+	color: red;
+}
+
+.lgpatruyo-advice .advice{
+	background-color: lightblue; 
+}
+
+.lgpatruyo-advice .advice h4{
+	color: darkgrey;
+	font-weight: bold;
+}
+
 /*Alicia's Styles*/
 
 .alicia-advice a {
