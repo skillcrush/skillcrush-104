@@ -1,0 +1,33 @@
+.victoriaelazigue-advice{
+  background: #C6C7CB;
+}
+
+.victoriaelazigue-advice section{
+  border: 5px solid #fff;
+  border-radius: 5px;
+}
+
+.victoriaelazigue-advice h1{
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  text-align: left;
+}
+
+.victoriaelazigue-advice h4{
+  font-family: 'Mr De Haviland', cursive;
+  font-size: 40px;
+  text-decoration: underline;
+  text-align: center;
+
+}
+
+.victoriaelazigue-advice p{
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+
+.victoriaelazigue-advice footer p{
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+}
