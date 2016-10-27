@@ -3644,3 +3644,18 @@ marquisbrown-advice {
 }
 
 /* End Jeanne's Styles */
+
+/* Start Melanie's Styles */
+
+.melanieg-advice {
+	font-size: 18px;
+	background-color: #efefef;
+}
+
+.melanieg-advice h1, h4 {
+	font-family: 'Trirong', serif;
+}
+
+.melanieg-advice p {
+	font-family: 'Raleway', sans-serif;
+}
