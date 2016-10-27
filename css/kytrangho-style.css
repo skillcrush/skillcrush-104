@@ -1,0 +1,50 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/**Ky Trang Ho's Styles*/
+
+.kytrangho-advice a {
+	color: white ;
+	font-family: "Source Sans Pro", sans-serif;
+	font-size: 16px;
+	background-color: #8FC33A;
+	margin: 20px;
+	padding: 10px;
+	border-radius: 10px;
+}
+.kytrangho-advice h1 {
+	font-family: "Slabo 27px", serif;
+	font-size: 50px;
+	color: white;
+	line-height: 70px;
+	text-align: center;
+	margin: 20px;
+	background-color: #fe6587;
+}
+
+.kytrangho-advice p {
+	color: white;
+	font-family: "Slabo 27px", serif;
+	font-size: 18px;
+	background-color: #62EDD6;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+.kytrangho-advice h4 {
+	background: #E9C904;
+	color: white;
+	font-family: "Slabo 27px", serif;
+	font-size: 24px;
+	padding: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.kytrangho-advice footer {
+	background: #E9C904;
+	color: white;
+	font-family: "Slabo 27px", serif;
+	font-size: 14px;
+	margin: 0px;
+	padding: 0px;
+}

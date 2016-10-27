@@ -1,5 +1,199 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/** Ozge's Styles **/
+.ozge-advice {
+    width: 100%;
+    background-color: ghostwhite;
+    font-family: sans-serif;
+    margin: 0 auto;
+
+}
+.ozge-advice a {
+    text-decoration: none;
+    color: #0066ff;
+    font-weight: bold;
+}
+.ozge-advice h1 {
+    color: #00008B;
+    font-weight: bold;
+    text-align: left;
+}
+.ozge-advice h4 {
+    font-family: sans-serif;
+    font-size: 22px;
+    text-align: left;
+    color: #ff6600;
+}
+.ozge-advice p {
+    color:#00008B;
+    text-align: left;
+}
+.ozge-advice footer {
+    color: #00008B;
+    text-align: center;
+    font-size: 13px;
+    font-style: italic;
+}
+
+
+/* Abbey's Styles */
+
+.abbey-advice {
+	background-color: rgba(60,60,60,.8);
+	padding: 30px;
+	color: rgb(200,200,200);
+	border-radius: 8px;
+}
+
+.abbey-advice a {
+	text-decoration: none;
+	color: inherit;
+}
+
+.abbey-advice a:hover {
+		color: rgb(210,100,100);
+}
+
+/* -- End Abbey's Styles */
+
+/** Helen Hoefele's Styles **/
+.advice-hhoefele {
+	background-color: #cc6699;
+}
+.advice-hhoefele a {
+	color:black;
+	text-decoration: none;
+	font-weight: bold;
+}
+.advice-hhoefele h2 {
+	color: black;
+	background-color: white;
+}
+header h1{
+	color: white
+	background-color: #862d59;
+}
+.advice-hhoefele p{
+	color: black;
+}
+.advice-hhoefele li{
+	font-size: 18px;
+}
+footer {
+	background-color: #862d59;
+	color: white;
+}
+
+/**Tatjana Cuhnova Styles**/
+.tatjana-advice {
+	background-color: pink;
+}
+.tatjana-advice p {
+	color: black;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+/** Susanna Wise's Styles **/
+.susannawise-advice {
+	background-color: #33cccc;
+}
+.susannawise-advice a {
+	color:black;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.susannawise-advice h1 {
+	color: #e60000;
+}
+
+.susannawise-advice h4 {
+	color: #2d5986;
+}
+
+.susannawise-advice {
+	color: white;
+}
+
+.susannawise-advice footer p {
+	color: #2d5986;
+}
+
+/* HCosteira advice styling **/
+.hrc-advice h1 {
+	color: blue;
+	size: 15pt;
+}
+.hrc-advice h4 {
+	color: #FF69B4;
+	size: 13px;
+	margin: 10px;
+}
+
+.hrc-advice p {
+	color: #FF69B4;
+	size: 11px;
+	margin: 10px;
+}
+
+.hrc-advice {
+	background-color: black;
+}
+
+.hrc-advice a {
+	text-decoration: none;
+	color: blue;
+}
+
+/** end HCosteira advice styling **/
+
+/*Jeff's Styles*/
+
+.jeff-advice {
+	font-family: 'Times New Roman', sans-serif;
+	font-weight: 400;
+	font-size: 1em;
+	background-color: #FF1493;
+	color: #FF4500;
+}
+.maile-advice h1 span{
+	color: #FF4500;
+	font-style: italic;
+}
+.maile-advice h4 {
+	font-size: 1.5em;
+	color: #FF4500;
+}
+
+/*End Jeff's Styles*/
+
+
+/* Rachel's Styles */
+
+.rachelcab-advice h4 {
+	color: #695d94;
+	font-weight: bold;
+
+/* Adam R's Styles */
+.adam-r-advice {
+	background-color: #000000;
+}
+
+/*LuisP Styles*/
+.lgpatruyo-advice header h1{
+	color: red;
+}
+
+.lgpatruyo-advice .advice{
+	background-color: lightblue;
+}
+
+.lgpatruyo-advice .advice h4{
+	color: darkgrey;
+	font-weight: bold;
+}
+
 /*Alicia's Styles*/
 
 .alicia-advice a {
@@ -20,6 +214,148 @@
 .alicia-advice span {
 	color: #E80C7A;
 }
+
+/****Nadine's Advice Styles****/
+.nadine-advice {
+	background-color: #e699ff;
+	text-align: justify;
+	font-family: verdana;
+	font-size: 18px;
+	}
+
+.nadine-advice h1 {
+	color: #990033;
+}
+
+.nadine-advice h3 {
+	color: #54454a;
+	text-align: center;
+}
+
+#nadine {
+	border-style:dotted;
+	border-color:purple:
+}
+
+.nadinenadine {
+	text-align: center;
+}
+
+
+/*Caroline's Styles*/
+
+.caroline-advice {
+	color: blue;
+	font-family: sans-serif;
+}
+
+.caroline-advice h4 {
+	color: red;
+	font-size: 1.5em;
+}
+
+.caroline-advice p {
+	font-size: 1.2em;
+	padding: 0 20px;
+}
+/*Tekla's Styles*/
+
+.tekla-advice {
+    margin: 0 auto;
+   font-family: sans-serif;
+   background-color: #E0E0E0;
+
+}
+
+.tekla-advice h1 {
+    font-size: 2em;
+
+}
+
+.tekla-advice h4 {
+    font-size: 1.5em;
+    text-align: center;
+    color: #ad208e;
+}
+
+.tekla-advice p {
+    font-size: 1.2em;
+    padding: 0.5em 4em;
+
+}
+
+.tekla-advice footer {
+    text-align: center;
+
+}
+
+
+
+/*End Tekla's Styles*/
+
+/* Kasey's Styles*/
+
+.advice-kaseyfahey a {
+	color: #424242;
+	font-family: "Source Sans Pro", sans-serif;
+	font-size: 16px;
+}
+.advice-kaseyfahey h1 {
+	font-family: "Slabo 27px", serif;
+	font-size: 50px;
+	color: #424242;
+	line-height: 70px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.advice-kaseyfahey h4 {
+	font-family: "Slabo 27px", serif;
+	font-size: 32px;
+	color: #424242;
+	margin: 0 auto;
+	padding-top: 20px;
+}
+
+.advice-kaseyfahey .fa-heart {
+	color: tomato;
+}
+
+.advice-kaseyfahey .fa-magic {
+	color: purple;
+}
+
+.advice-kaseyfahey p {
+	font-family: "Source Sans Pro", sans-serif;
+	color: #424242;
+	font-size: 24px;
+}
+
+.advice-kaseyfahey section {
+	width: 1050px;
+	margin: 0 auto;
+	padding: 50px 0 50px 0;
+}
+
+.advice-kaseyfahey .how {
+	background-color: #FBEEE6;
+	padding: 20px;
+}
+
+.advice-kaseyfahey .language {
+	background-color: #D6EAF8;
+	padding: 20px;
+}
+
+.advice-kaseyfahey .everything {
+	background-color: #D4EFDF;
+	padding: 20px;
+}
+
+.advice-kaseyfahey span {
+	font-family: "Pacifico", cursive;
+
+/* End Kasey's Styles*/
 
 /*Heidi's Styles*/
 
@@ -3509,6 +3845,8 @@ body.parismarron-advice{
 }
 /*End Sara Suzanne's Styles*/
 
+
+
 /* Genevieve's Styles */
 .genevieve-advice h1 {
 	font-family: Arial, sans-serif;
@@ -3645,6 +3983,7 @@ marquisbrown-advice {
 
 /* End Jeanne's Styles */
 
+
 /* Start Melanie's Styles */
 
 .melanieg-advice {
@@ -3661,3 +4000,459 @@ marquisbrown-advice {
 }
 
 /* End Melanie's Styles */
+
+/* Joanne's styles */
+
+.joannesullivan-advice body, html {
+	background-color: #e6e6ff;
+	padding: 50px;
+}
+
+.joannesullivan-advice header a {
+	text-decoration: none;
+	font-family: 'Poppins', sans-serif;
+	font-weight: bolder;
+	color: #006600;
+
+}
+
+.joannesullivan-advice h1, h2, h4 {
+	font-family: 'Amiri', serif;
+	margin: 0 0;
+}
+
+.joannesullivan-advice h1 {
+	font-size: 60px;
+	line-height: 65px;
+}
+
+.joannesullivan-advice h2 {
+	font-size: 40px;
+	line-height: 45px;
+	color: #000000;
+}
+
+.joannesullivan-advice h4 {
+	font-size: 32px;
+	text-align: left;
+	color: #400080;
+	padding-top: 20px;
+}
+
+.joannesullivan-advice p {
+	font-family: 'Poppins', sans-serif;
+}
+
+/* end of Joanne's styles */
+
+/*Start Sarah Elle's Styles */
+.sarahloftus-advice {
+	font-family: 'Times New Roman', 'serif';
+	font-size: 18px;
+	background-color: #2F2640;
+}
+
+.sarahloftus-advice h1 {
+	text-align: center;
+	color: #AA89E5;
+}
+
+.sarahloftus-advice h4 {
+	text-transform: uppercase;
+	color: #AA89E5;
+}
+
+.sarahloftus-advice section {
+	width: 75%;
+	margin: auto;
+}
+
+.sarahloftus-advice p {
+	font-family: 'Calibri', 'Arial', 'sans-serif';
+	color: #D1BDFF;
+}
+
+.sarahloftus-advice footer {
+	width: 75%;
+	margin: auto;
+}
+
+/* Melanie's Styles */
+
+.melaniegraber-advice {
+	font-family: 'Raleway', sans-serif;
+}
+
+.melaniegraber-advice h1 {
+	font-size: 42px;
+	color: #ffbb00;
+}
+
+.melaniegraber-advice h4 {
+	font-size: 24px;
+	color: #000299;
+}
+
+.melaniegraber-advice h1, h4 {
+	font-family: 'Lora', serif;
+}
+
+/* End Melanie's Styles */
+
+/* Start cotterpinx Styles */
+
+.cotterpinx-advice {
+	font-size: 16px;
+	background-color: #4bf485;
+	color: #092AC3;
+}
+
+.cotterpinx-advice h1 {
+	color: black;
+	text-align: center;
+	font-size: 24px;
+}
+
+.cotterpinx-advice h4 {
+	text-align: left;
+	color: #038BB8;
+	font-size: 20px;
+}
+
+.cotterpinx-advice p {
+	text-align: left;
+	font-family: serif;
+}
+
+/* End cotterpinx Styles */
+
+/* mbrown's styles */
+.mbrown-advice a {
+	text-decoration: none;
+	color: #FF8200;
+	border: 1px solid #FF8200;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+.mbrown-advice a:hover {
+	text-decoration: none;
+	color: #58595B;
+}
+
+.mbrown-advice h1 {
+	color: #58595B;
+}
+
+.mbrown-advice h4 {
+	color: #FF8200;
+}
+
+.mbrown-advice span {
+	font-weight: bold;
+}
+
+.mbrown-advice .advice {
+	padding: 0px 50px 0px 50px;
+
+}
+
+.mbrown-advice ul li {
+	list-style: none;
+	padding-bottom: 20px;
+}
+
+.mbrown-advice footer {
+	font-size: 12px;
+	border-top: 1px solid #58595B;
+}
+
+/* Start Biskitcrumb's Styles */
+
+.biskitcrumbs-advice {
+	font-size: 14px;
+	background-color: #ff6699;
+}
+
+.biskitcrumbs-advice h1 {
+	text-align: center;
+	font-size: 16px;
+}
+
+.biskitcrumbs-advice h4 {
+	font size: 14px;
+}
+
+.biskitcrumbs-advice p {
+	font-family: sans-serif;
+}
+
+/* End Biskitcrumb's Styles */
+
+/* Start Katie Hart's styles */
+.katiehart-advice {
+	background-color: #FFE186;
+}
+
+.katiehart-advice h1 {
+	color: #AB60B2;
+}
+
+.katiehart-advice h4 {
+	color: #5CB29D;
+	text-transform: uppercase;
+}
+
+/* End Katie Hart's styles */
+
+/* ===== LILY'S STYLES ===== */
+.lilyk-advice {
+	background-color: #E9E9E9;
+}
+.lilyk-advice .body-lining {
+	max-width: 1000px;
+	margin: auto;
+}
+.lilyk-advice .box {
+	border-radius: 20px;
+	width: 95%;
+	margin: 0 auto;
+	padding: 5px 2.5%;
+	margin-top: 20px;
+}
+.lilyk-advice .btn {
+	border-radius: 5px;
+	background-color: #424242;
+	padding: 5px 10px;
+}
+.lilyk-advice #p1 {
+	background-color: #FF9900;
+}
+.lilyk-advice #p2 {
+	background-color: #3299BB;
+}
+.lilyk-advice h1 {
+	color: #424242;
+	margin: 2em 0 1.2em 0;
+}
+.lilyk-advice h4 {
+	color: #424242;
+	margin: 30px 0;
+}
+.lilyk-advice p {
+	color: #424242;
+}
+.lilyk-advice a {
+	text-decoration: none;
+	color: #bcbcbc;
+}
+/* ===== END LILY'S STYLES ===== */
+
+/* Kristin's Styles */
+.kristinantosz-advice {
+	font-size: 1em;
+	font-family: 'Lora', serif;
+	background-color: #fff;
+}
+
+.kristinantosz-advice h1 {
+	font-family: 'Lora', serif;
+	font-size: 1.88em;
+	color: #df80ff;
+}
+
+.kristinantosz-advice h4 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 1.25em;
+	color: #8080ff;
+}
+
+.kristinantosz-advice p {
+
+}
+
+.kristinantosz-advice a {
+	font-family: 'Raleway', sans-serif;
+	color: #c2c2d6;
+}
+
+.kristinantosz-advice a: visited {
+	color: #c2c2d6;
+}
+
+.kristinantosz-advice a:hover {
+	color: #b300b3;
+}
+
+.kristinantosz-advice footer {
+	text-align: center;
+	padding-top: 50px;
+	color: #c2c2d6;
+	font-size: 0.75em;
+}
+/* end Kristin's Styles */
+
+/*********BriHayley's Styles**********/
+.brihayley-advice {
+	font-family: 'Pacifico', cursive;
+	font-size:16px;
+	background:#ffe8cc;
+	border:3px solid #ff981a;
+	border-radius:8px;
+	padding:7px;
+}
+
+.brihayley-advice h1 {
+	font-size:2em;
+	color: #b3b3ff;
+	text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+.brihayley-advice h4 {
+	font-family: 'Pacifico', cursive;
+	font-size: 1.4em;
+	color:#bf80ff;
+	text-shadow: 1px 1px 2px #4d0099;
+	letter-spacing: 2px;
+}
+
+.brihayley-advice p {
+	font-family: 'Archivo Narrow', sans-serif;
+	font-size:1em;
+	color: #800000;
+}
+
+/* Start Aaron Dan's Styles */
+
+.aarondan-advice h1 {
+	font-size: 36px;
+	font-family: Arial;
+	color: #468f96;
+	text-align: center;
+}
+
+.aarondan-advice h4 {
+	font-size: 18px;
+	font-family: Garamond, serif;
+	color: #0a4c1f;
+	text-align: left;
+}
+
+.aarondan-advice p {
+	font-size: 14px;
+	font-family: Garamond, serif;
+	text-align: left;
+}
+
+/* End Aaron Dan's Styles */
+
+/*Sherri's Styles*/
+.sherriattili-advice {
+		font-family: "Arima Madurai",sans-serif;
+
+}
+.sherriattili-advice h1 {
+		color: #6C42CF;
+		font-size: 40px;
+		padding-bottom: 5px;
+}
+.sherriattili-advice section {
+	width: 850px;
+	margin: 0	auto;
+}
+
+.sherriattili-advice .advice {
+	padding: 10px;
+	border: 1px solid gray;
+	border-radius: 8px;
+	background: #ccb3b0;
+	text-align: center;
+	margin: 20px 0px;
+}
+
+.sherriattili-advice .advice h3 {
+	font-family: "Arima Madurai",sans-serif;
+	color: #547F6A;
+	font-size: 30px;
+	margin: 25px 0px 20px 0px;
+}
+
+.sherriattili-advice .advice p {
+	font-size: 19px;
+}
+
+.sherriattili-advice .advice ul li {
+	font-size: 17px;
+	list-style-type: none;
+}
+/*End of Sherri's Style*/
+
+/*Start CodeNeophyte's Styles */
+
+.codeneophyte-advice body, html {
+	font-family: 'Times New Roman', 'serif';
+	font-size: 18px;
+	background-color: #989898;
+}
+
+.codeneophyte-advice h1 {
+	text-align: center;
+	color: #000;
+}
+
+.codeneophyte-advice h2 {
+	text-align: center;
+	color: #000;
+}
+
+/* =========================
+Chrizzit's Advice Styles
+========================== */
+
+.cvalenciano-advice {
+	font-family: Helvetica, sans-serif;
+	background-color: lightsalmon;
+}
+
+.cvalenciano-advice h1 {
+  font-family: Helvetica, sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.cvalenciano-advice h4 {
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+  margin-top: 0px;
+  color: indianred;
+}
+
+.cvalenciano-advice div {
+  text-align: justify;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.cvalenciano-advice footer {
+  text-align: center;
+  margin-top: 200px;
+  font-size: 14px;
+}
+
+/**musi215's Styles**/
+.musi215-advice {
+	font-family: sans-serif;
+	background-color: #ffffcc;
+}
+
+.musi215-advice h4 {
+	font-size: 45px;
+	color: #5c00e6;
+}
+
+.musi215-advice p {
+	font-size: 28px;
+	color: #006600;
+}
+/**End of musi215 Styles**/
