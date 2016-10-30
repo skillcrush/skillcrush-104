@@ -1,0 +1,47 @@
+h1 {
+    font-style: italic;
+    color: #f0595a;
+    text-align: center;
+}
+
+h2 {
+    font-family: montserrat, sans-serif;
+    text-align: center;
+}
+
+div.skillcrush {
+    margin-left: 5vw;
+    margin-right: 5vw;
+}
+
+div.all-advice-links {
+    margin: auto;
+}
+
+a {
+    color: white;
+    background-color: #f0595a;
+    display: inline-block;
+    padding: 10px;
+    margin: 5px;
+    text-overflow: ellipsis;
+    font-family: "open sans", sans-serif;
+    text-decoration: none;
+    vertical-align: middle;
+    text-align: center;
+    height: 100px;
+    width: 100px;
+}
+
+a:hover {
+    transition: background-color .5s ease-out,
+                border-radius .5s ease-out;
+    border-radius: 25%;
+    background-color: #F0599C;
+
+}
+
+a:visited {
+    border-radius: 25%;
+    background-color: #f05a00;
+}
