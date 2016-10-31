@@ -4438,3 +4438,23 @@ Chrizzit's Advice Styles
 	color: #006600;
 }
 /**End of musi215 Styles**/
+
+/* Janessa's Styles */
+
+.janessa-advice {
+	background-color: rgba(60,60,60,.8);
+	padding: 40px;
+	color: rgb(120,200,60);
+	border-radius: 10px;
+}
+
+.janessa-advice h1 {
+	
+	color: orange;
+}
+
+.janessa-advice a:hover {
+		color: orange;
+}
+
+/* -- End Janessa's Styles */
