@@ -1,0 +1,26 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/*==Rachael's Styes ===*/
+.rachael-forster-advice{
+		background-color:#7FFFD4;
+		font-family: sans-serif;
+}
+.rachael-forster-advice h1{
+	font-size: 32px;
+	color: white;
+	font-weight: bold;
+	font-family:cursive;
+}
+.advice h4{
+	font-size:24px;
+}
+
+.advice p{
+	font-size: 16px;
+
+}
+
+
+
+
+

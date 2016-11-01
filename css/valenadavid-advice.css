@@ -1,0 +1,40 @@
+/*** Valena's Styles ***/
+
+
+.valenadavid-advice a {
+    text-decoration: none;
+    color: #917ceb;
+    border-bottom: 3px solid #6495ed;
+    padding: 5px 10px;
+}
+.valenadavid-advice h1 {
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 24px;
+    line-height: 40px;
+    color: #ff7f68;
+    margin-top: 60px;
+}
+
+.valenadavid-advice h4 {
+    color:#6495ed;
+    font-size: 19px;
+    text-align: center;
+}
+.valenadavid-advice p {
+    font-family: "Georgia", serif;
+    padding: 0 50px;
+    letter-spacing: 8px;
+    word-spacing: 2px;
+    line-height: 25px;
+    text-align: center;
+    margin-bottom: 35px;
+    color: #917ceb;
+}
+
+footer p {
+    font-size: 10px;
+    text-align: center;
+    
+}

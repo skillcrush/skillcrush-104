@@ -1,0 +1,39 @@
+
+/** Steve Hemmer advice styling **/
+
+body {
+	background-image: url("http://i.imgur.com/B6ReRDZ.jpg?1");
+	color: #111;
+}
+
+h1 {
+	margin: 60px 80px;
+}
+a {
+	text-decoration: none;
+	color: #000;
+}
+
+li {
+	font-size: 24px;
+}
+
+.advice {
+	margin: 40px 80px;
+	line-height: 1.416em;
+	font-size: 24px;
+
+}
+
+#copy {
+	text-align: center;
+	font-size: 18px;
+}
+
+#background {
+	padding: 20px;
+	background-color: rgba(200,200,200,0.7);
+	border-radius: 15px;
+	margin: 40px 20px;
+}
+
