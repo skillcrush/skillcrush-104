@@ -4447,8 +4447,7 @@ Chrizzit's Advice Styles
 
 .ddp-advice div {
 text-align: right;
-margin: 50px 50px 50px 50px
-
+margin: 50px
 }
 
 .ddp-advice h1 h4 {
@@ -4457,6 +4456,5 @@ font-family: Lobster, cursive;
 
 .ddp-advice footer{
   font-size: 14px;
-  background-color: 203, 203, 203, .80;
 }
 /** end ddp advice **/
