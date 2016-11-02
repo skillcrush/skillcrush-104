@@ -1,4 +1,29 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+/* Judith's Styles */
+.judith-advice{
+    width: 100%;
+    background-color: blue;
+    font-family:fantasy;
+    margin: 0 auto;
+}
+.judith-advice p{
+    color: white;
+}
+.judith-advice h1{
+    color: white;
+}
+.judith-advice h4{
+    color: yellow;
+    font-size: 24px;
+}
+.judith-advice footer{
+    background-color: aquamarine;
+}
+.judith-advice footer p{
+    color: blue;
+    font-size: 20px;
+    text-align: center;
+}
 
 /** Ozge's Styles **/
 .ozge-advice {
