@@ -2,11 +2,11 @@
 
 /** Nate's Style **/
 .nate-advice {
-	width: 200px; 
+	width: 200px !important; 
 	margin: 0 auto;
 	border: 1px solid grey;
 	border-radius: 10px;
-	background: peach;
+	background: #999999;
 }
 
 /** Ozge's Styles **/
