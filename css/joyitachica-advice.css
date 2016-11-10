@@ -4438,35 +4438,3 @@ Chrizzit's Advice Styles
 	color: #006600;
 }
 /**End of musi215 Styles**/
-
-/** juliesofo style **/
-
-.juliesofo-advice {
-	border: 2px solid #FF34B3;
-	border-radius: 20px;
-	background-color: #B62084;
-	color: #4F2F4F;
-	margin: 20px;
-	padding:20px 40px;
-}
-
-.juliesofo-advice h1 {
-	padding: 20px;
-	font-size: 2em;
-}
-
-.juliesofo-advice h4 {
-	padding: 10px;
-	font-size: 1.5em;
-}
-
-.juliesofo-advice p {
-	margin: 10px 150px 10px 150px;
-	border-radius: 20px;
-	background-color: white;
-	color: #FF007F;
-	padding: 25px;
-	font-size: 1em;
-}
-
-/** end of juliesofo's style **/
