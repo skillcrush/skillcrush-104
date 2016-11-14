@@ -1,0 +1,28 @@
+#main {
+	width: 75%;
+	margin: auto;
+	background-color: ghostwhite;
+}
+
+header, footer {
+	background-color: lightslategray;
+	padding: 5px;
+	border: 2px dashed black;
+}
+
+footer p {
+	color: ghostwhite;
+	text-align: center;
+}
+
+#headliner {
+	color: ghostwhite;
+	font-family: georgia;
+	font-weight: bold;
+	font-size: 2em;
+	text-align: center;
+}
+
+h3 {
+	color: indianred;
+}
