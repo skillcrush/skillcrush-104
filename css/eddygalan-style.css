@@ -1,0 +1,20 @@
+/*eddy's Styles*/
+
+.eddy-advice a {
+	color: #E80C7A;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.eddy-advice h1 {
+	color: #8A0748;
+}
+
+.eddy-advice h4 {
+	color: #EE0748;
+	text-transform: uppercase;
+}
+
+.eddy-advice span {
+	color: #E80C7A;
+}

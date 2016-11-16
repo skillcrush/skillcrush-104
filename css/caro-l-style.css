@@ -1,0 +1,49 @@
+/** Caro L Styles **/
+
+body {
+	background: url("http://www.youwall.com/wallpapers/201210/sunny-forest-path-wallpaper.jpg")
+}
+
+.advice {
+	background-color: rgba(0, 0, 0, 0.7);
+	padding: 25px;
+	margin: 50px;
+}
+
+h1, h2 {
+	font-family: 'Satisfy', cursive;
+	text-align: center;
+}
+
+h1 {
+	color: #D90626;
+	font-size: 42px;
+}
+
+h2 {
+	color: #fff;
+	font-size: 26px;
+}
+
+p {
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
+	color: #d1d1d1;
+	text-align: center;
+}
+
+a {
+	font-family: 'Raleway', sans-serif;
+	text-decoration: none;
+	color: #d1d1d1;
+}
+
+a:hover {
+	color: #fff;
+}
+
+footer p{
+	font-family:Times New Roman, Times, serif;
+	color: #d1d1d1;
+	text-align: left;
+}

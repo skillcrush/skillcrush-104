@@ -1,0 +1,1 @@
+puts "Summer is finally here!"

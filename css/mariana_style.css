@@ -1,0 +1,47 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+/** Malene Allen advice styling **/
+
+.marianas_two_cents {
+	background-color: LightSalmon;
+	margin: 20px;
+	padding: 20px 40px;
+	text-align: center;
+}
+
+
+.marianas_two_cents h1 {
+	font: 600 36px 'Slabo 27px', serif;
+	color: DarkRed;
+	font-weight: normal;
+	padding: 30px 0px 30px 0px;
+	background-color: LightCoral;
+	border-top: 2px solid DarkRed;
+	border-bottom: 2px solid DarkRed;
+	
+}
+	
+.marianas_two_cents p {
+	font: 16px 'Slabo 27px', serif;
+	color: FireBrick;
+	font-weight: normal;
+	font-size: 20px;
+	width: 800px;
+	margin: 0 auto;
+	padding: 20px;	
+}
+
+.marianas_two_cents h4 {
+	font: 400 28px 'Slabo 27px', serif;
+	color: DarkRed;
+	display: block;
+	width: 800px;
+	margin: 0 auto;
+	padding: 10px;
+	border: 2px solid Crimson;
+	text-transform: uppercase;
+	background-color: DarkSalmon;
+}
+.marianas_two_cents footer{
+	text-align: center;
+}
+

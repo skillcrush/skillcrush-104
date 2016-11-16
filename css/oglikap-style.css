@@ -1,0 +1,40 @@
+p {
+  padding: 0 64px;
+}
+
+.oglis-advice {
+  font-family: 'Lato', sans-serif;
+  display: flex;
+  flex-direction: column;
+  max-width: 960px;
+  margin: 0 auto;
+  background-color: #f9ffff;
+  margin-top: 32px;
+  justify-content: center;
+  text-align: justify;
+}
+.oglis-advice h1,
+.oglis-advice h4 {
+  font-weight: 100;
+  text-shadow: 0 0 1px grey;
+}
+
+.oglis-advice .button {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  background-image: url(http://www.rutgerkroon.nl/css/tss.jpg);
+  background-size: contain;
+  border: 1px dotted lightgrey;
+  font-family: 'Dancing Script', cursive;
+  color: orange;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 24px;
+  font-stretch: 1px 1px 3px white;
+}
+
+footer p {
+  font-size: 12px;
+  font-weight: 100;
+}

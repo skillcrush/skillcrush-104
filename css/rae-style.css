@@ -1,0 +1,34 @@
+/*Rae's Styles*/
+.rae-advice {
+	color: #c9cb26;
+	background-color: #cb26c9;
+	text-align: center;
+	font-family: 'Lalezar', cursive;
+}
+
+.rae-advice h1 {
+	color: #26cb28;
+	text-shadow: 2px 2px 1px #000000;
+}
+
+.rae-advice span {
+	color: #ff284d;
+}
+
+.rae-advice h4 {
+	color: #26c9cb;
+	font-size: 2em;
+	background-color: #cb2826;
+	border-radius: 50px;
+	text-shadow: 2px 2px 1px #000000;
+}
+
+.rae-advice p {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1.3em;
+}
+
+.rae-advice footer p {
+	font-size: 0.8em;
+    text-align: right;
+}
