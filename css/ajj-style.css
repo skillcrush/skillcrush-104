@@ -2,24 +2,15 @@
 /** AJJ's Styles **/
 
 body {
-    font-family: 'Source Sans Pro', sans-serif;
-    font-size: 16px;
-    color: #cc5200;
-    font-weight: 600;
+    font: 600 16px 'Source Sans Pro', sans-serif;
     background: red; /* For browsers that do not support gradients */
     background: -webkit-linear-gradient(darksalmon, #ffff99); /* For Safari 5.1 to 6.0 */
     background: -o-linear-gradient(darksalmon, #ffff99); /* For Opera 11.1 to 12.0 */
     background: -moz-linear-gradient(darksalmon, #ffff99); /* For Firefox 3.6 to 15 */
     background: linear-gradient(darksalmon, #ffff99); /* Standard syntax */
-};
-}
-
-
-.ajj-advice {
     width: 100%;
     margin: 0 auto;
     padding: 5%;
-    background-color:
 }
 
 section {
@@ -39,18 +30,13 @@ header a {
     padding: 10px 20px;
 }
 h1 {
-    font-family: 'Shrikhand', cursive;
+    font: normal 1.65em/1.6 'Shrikhand', cursive;
     color: #803300;
-    font-weight: normal;
     text-align: center;
-    font-size: 1.65em;
-    line-height: 1.6;
     margin: 7% 0;
 }
 h3 {
-    font-family: Arial, sans-serif;
-    font-weight: bold;
-    font-size: 1.2em;
+    font: bold 1.2em Arial, sans-serif;
     text-align: center;
     color: #993d00;
 }
