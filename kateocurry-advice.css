@@ -1,0 +1,32 @@
+@@font-face {font-family: 'ansichtkaart DEMO';
+src: url(http://www.1001fonts.com/ansichtkaart-demo-font.oft);
+
+}
+.kateocurry-advice {
+          font-family: ansichtkaart DEMO;
+          font-size: 40px;
+          font-color: blue;
+          text-align: center;
+          line-height: 90%;
+          background-color: http://colorzilla.com/gradient-editor/#b3dced+0,29b8e5+50,bce0ee+100;Blue+Pipe */
+background: #b3dced; /* Old browsers */
+background: -moz-linear-gradient(top, #b3dced 0%, #29b8e5 50%, #bce0ee 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #b3dced 0%,#29b8e5 50%,#bce0ee 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #b3dced 0%,#29b8e5 50%,#bce0ee 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3dced', endColorstr='#bce0ee',GradientType=0 );
+}
+
+.advice {
+        font-size: 30px;
+        font-weight: normal;;
+}
+
+h1, h4 {
+      font-size: 38px;
+      font-weight: bolder;
+      font-style: italic;
+
+}
+footer {
+      font-size: 25px;
+}
