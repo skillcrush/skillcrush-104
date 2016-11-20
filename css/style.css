@@ -966,3 +966,21 @@ border-radius:0 5px 5px 0;}
 .nelson-advice h4{
     color: black;
 }
+/** stephanie brown's styles **/
+.stephaniebrown-advice {
+	background-color: #CCCCff;
+	font-family: 'Ubuntu Condensed', sans-serif;
+	color: purple;
+	margin: 50px;
+	padding: 20px;
+}
+.stephaniebrown-advice h4 {
+	font-size: 24px;
+	font-weight: bold;
+}
+.stephaniebrown-advice p {
+	font-size: 20px;
+	font-weight: lighter;
+	padding: 0 20px 0 20px;
+}
+/** end of stephanie brown's styles **/
