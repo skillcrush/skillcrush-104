@@ -1,4 +1,28 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+/** Tylar Pierson's Styles **/
+.tylarpierson-advice{
+	background-color:#2b2b2b;
+}
+.tylarpierson-advice a{
+	color:black;
+	text-decoration:none;
+	font-weight:bold;
+}
+.tylarpierson-advice h1{
+	color:purple;
+	font-weight:bold;
+}
+.tylarpierson-advice h4{
+	color:black;
+	font-size:16px;
+}
+.tylarpierson-advice p{
+	color:black;
+	font-size:14px;
+}
+.tylarpierson-advice footer p{
+	color:#8b8b8b;
+}
 /** Susanna Wise's Styles **/
 .susannawise-advice {
 	background-color: #33cccc;
