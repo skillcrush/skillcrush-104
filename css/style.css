@@ -4438,3 +4438,23 @@ Chrizzit's Advice Styles
 	color: #006600;
 }
 /**End of musi215 Styles**/
+	
+/* Terri's styles */
+	.terripierce-advice {
+		background-color: #8edce1;
+	}
+	.terripierce-advice header a {
+		color: #858585;
+	}
+	.terripierce-advice .advice {
+		border: 2px;
+		border-color: #3e93cc;
+	}
+	.terripierce-advice .advice h4 {
+		font-size: 16px;
+		font-color: #6a6a6a;
+	}
+	.terripierce-advice .advice p {
+		font-size: 12px;
+	}
+/* End of Terri styles */
