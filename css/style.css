@@ -1,5 +1,27 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+
+/***** Ed Short Styles****/
+
+.edshort-advice {
+    background-color: bisque;
+    font-family: sans-serif;
+}
+
+.edshort-advice h1 {
+    color:darkseagreen;
+}
+.edshort-advice h4 {
+    color: chocolate;
+    }
+
+.edshort-advice p {
+    color: cadetblue;
+}
+
+
+
+
 /** Ozge's Styles **/
 .ozge-advice {
     width: 100%;
