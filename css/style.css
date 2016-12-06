@@ -1,12 +1,65 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/** Rachel's Styles **/
+.rachel-advice {
+  width: 90%;
+  background-color:   #deeaee;
+  padding: 10px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.rachel-advice a{
+  text-decoration: none;
+  color: black;
+}
+
+.rachel-advice header h1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.rachel-advice section {
+  display: flex;
+  justify-content: space-around;
+  align-content: center;
+}
+
+.rachel-advice .advice {
+  display: flex;
+  flex-flow: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  width: 45%;
+  background-color: #b1cbbb;
+  padding: 10px;
+  font-size: 1.3rem;
+  color: white;
+}
+
+.rachel-advice .advice h4 {
+  text-transform: uppercase;
+}
+
+.rachel-advice footer {
+  background-color: #eea29a;
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  width: 100%;
+}
+
+
+
+
 /** Ozge's Styles **/
 .ozge-advice {
     width: 100%;
     background-color: ghostwhite;
     font-family: sans-serif;
     margin: 0 auto;
-    
+
 }
 .ozge-advice a {
     text-decoration: none;
@@ -29,7 +82,7 @@
     text-align: left;
 }
 .ozge-advice footer {
-    color: #00008B; 
+    color: #00008B;
     text-align: center;
     font-size: 13px;
     font-style: italic;
@@ -67,7 +120,7 @@
 }
 .advice-hhoefele h2 {
 	color: black;
-	background-color: white;	
+	background-color: white;
 }
 header h1{
 	color: white
@@ -164,7 +217,7 @@ footer {
 .maile-advice h4 {
 	font-size: 1.5em;
 	color: #FF4500;
-} 
+}
 
 /*End Jeff's Styles*/
 
@@ -174,7 +227,7 @@ footer {
 .rachelcab-advice h4 {
 	color: #695d94;
 	font-weight: bold;
-  
+
 /* Adam R's Styles */
 .adam-r-advice {
 	background-color: #000000;
@@ -186,7 +239,7 @@ footer {
 }
 
 .lgpatruyo-advice .advice{
-	background-color: lightblue; 
+	background-color: lightblue;
 }
 
 .lgpatruyo-advice .advice h4{
