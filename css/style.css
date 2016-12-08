@@ -1,4 +1,99 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+
+/** Ozge's Styles **/
+.ozge-advice {
+    width: 100%;
+    background-color: ghostwhite;
+    font-family: sans-serif;
+    margin: 0 auto;
+    
+}
+.ozge-advice a {
+    text-decoration: none;
+    color: #0066ff;
+    font-weight: bold;
+}
+.ozge-advice h1 {
+    color: #00008B;
+    font-weight: bold;
+    text-align: left;
+}
+.ozge-advice h4 {
+    font-family: sans-serif;
+    font-size: 22px;
+    text-align: left;
+    color: #ff6600;
+}
+.ozge-advice p {
+    color:#00008B;
+    text-align: left;
+}
+.ozge-advice footer {
+    color: #00008B; 
+    text-align: center;
+    font-size: 13px;
+    font-style: italic;
+}
+
+
+/* Abbey's Styles */
+
+.abbey-advice {
+	background-color: rgba(60,60,60,.8);
+	padding: 30px;
+	color: rgb(200,200,200);
+	border-radius: 8px;
+}
+
+.abbey-advice a {
+	text-decoration: none;
+	color: inherit;
+}
+
+.abbey-advice a:hover {
+		color: rgb(210,100,100);
+}
+
+/* -- End Abbey's Styles */
+
+/** Helen Hoefele's Styles **/
+.advice-hhoefele {
+	background-color: #cc6699;
+}
+.advice-hhoefele a {
+	color:black;
+	text-decoration: none;
+	font-weight: bold;
+}
+.advice-hhoefele h2 {
+	color: black;
+	background-color: white;	
+}
+header h1{
+	color: white
+	background-color: #862d59;
+}
+.advice-hhoefele p{
+	color: black;
+}
+.advice-hhoefele li{
+	font-size: 18px;
+}
+footer {
+	background-color: #862d59;
+	color: white;
+}
+
+/**Tatjana Cuhnova Styles**/
+.tatjana-advice {
+	background-color: pink;
+}
+.tatjana-advice p {
+	color: black;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
 /** Susanna Wise's Styles **/
 .susannawise-advice {
 	background-color: #33cccc;
@@ -52,6 +147,52 @@
 }
 
 /** end HCosteira advice styling **/
+
+/*Jeff's Styles*/
+
+.jeff-advice {
+	font-family: 'Times New Roman', sans-serif;
+	font-weight: 400;
+	font-size: 1em;
+	background-color: #FF1493;
+	color: #FF4500;
+}
+.maile-advice h1 span{
+	color: #FF4500;
+	font-style: italic;
+}
+.maile-advice h4 {
+	font-size: 1.5em;
+	color: #FF4500;
+} 
+
+/*End Jeff's Styles*/
+
+
+/* Rachel's Styles */
+
+.rachelcab-advice h4 {
+	color: #695d94;
+	font-weight: bold;
+  
+/* Adam R's Styles */
+.adam-r-advice {
+	background-color: #000000;
+}
+
+/*LuisP Styles*/
+.lgpatruyo-advice header h1{
+	color: red;
+}
+
+.lgpatruyo-advice .advice{
+	background-color: lightblue; 
+}
+
+.lgpatruyo-advice .advice h4{
+	color: darkgrey;
+	font-weight: bold;
+}
 
 /*Alicia's Styles*/
 
@@ -128,7 +269,7 @@
 
 .tekla-advice h1 {
     font-size: 2em;
-   
+
 }
 
 .tekla-advice h4 {
@@ -152,6 +293,69 @@
 
 /*End Tekla's Styles*/
 
+/* Kasey's Styles*/
+
+.advice-kaseyfahey a {
+	color: #424242;
+	font-family: "Source Sans Pro", sans-serif;
+	font-size: 16px;
+}
+.advice-kaseyfahey h1 {
+	font-family: "Slabo 27px", serif;
+	font-size: 50px;
+	color: #424242;
+	line-height: 70px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.advice-kaseyfahey h4 {
+	font-family: "Slabo 27px", serif;
+	font-size: 32px;
+	color: #424242;
+	margin: 0 auto;
+	padding-top: 20px;
+}
+
+.advice-kaseyfahey .fa-heart {
+	color: tomato;
+}
+
+.advice-kaseyfahey .fa-magic {
+	color: purple;
+}
+
+.advice-kaseyfahey p {
+	font-family: "Source Sans Pro", sans-serif;
+	color: #424242;
+	font-size: 24px;
+}
+
+.advice-kaseyfahey section {
+	width: 1050px;
+	margin: 0 auto;
+	padding: 50px 0 50px 0;
+}
+
+.advice-kaseyfahey .how {
+	background-color: #FBEEE6;
+	padding: 20px;
+}
+
+.advice-kaseyfahey .language {
+	background-color: #D6EAF8;
+	padding: 20px;
+}
+
+.advice-kaseyfahey .everything {
+	background-color: #D4EFDF;
+	padding: 20px;
+}
+
+.advice-kaseyfahey span {
+	font-family: "Pacifico", cursive;
+
+/* End Kasey's Styles*/
 
 /*Heidi's Styles*/
 
@@ -4164,3 +4368,73 @@ marquisbrown-advice {
 	list-style-type: none;
 }
 /*End of Sherri's Style*/
+
+/*Start CodeNeophyte's Styles */
+
+.codeneophyte-advice body, html {
+	font-family: 'Times New Roman', 'serif';
+	font-size: 18px;
+	background-color: #989898;
+}
+
+.codeneophyte-advice h1 {
+	text-align: center;
+	color: #000;
+}
+
+.codeneophyte-advice h2 {
+	text-align: center;
+	color: #000;
+}
+
+/* =========================
+Chrizzit's Advice Styles
+========================== */
+
+.cvalenciano-advice {
+	font-family: Helvetica, sans-serif;
+	background-color: lightsalmon;
+}
+
+.cvalenciano-advice h1 {
+  font-family: Helvetica, sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.cvalenciano-advice h4 {
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+  margin-top: 0px;
+  color: indianred;
+}
+
+.cvalenciano-advice div {
+  text-align: justify;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.cvalenciano-advice footer {
+  text-align: center;
+  margin-top: 200px;
+  font-size: 14px;
+}
+
+/**musi215's Styles**/
+.musi215-advice {
+	font-family: sans-serif;
+	background-color: #ffffcc;
+}
+
+.musi215-advice h4 {
+	font-size: 45px;
+	color: #5c00e6;
+}
+
+.musi215-advice p {
+	font-size: 28px;
+	color: #006600;
+}
+/**End of musi215 Styles**/
