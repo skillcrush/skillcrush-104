@@ -4443,40 +4443,4 @@ Chrizzit's Advice Styles
 
 
 
-/* Arina's Styles */
 
-.arina-advice {
-	background-color: rgba(60,60,60,.8);
-	padding: 30px;
-	color: rgb(200,200,200);
-	border-radius: 8px;
-}
-
-.arina-advice a {
-	text-decoration: none;
-	color: inherit;
-}
-
-.arina-advice a:hover {
-		color: rgb(210,100,100);
-}
-
-.arina-advice section div.advice {
-    border: 2px solid blue;
-    padding: 0 1.5em;
-    border-radius: 10px;
-    width: 300px;
-    margin: 0 auto;
-}
-
-.arina-advice section div.advice h4 {
-    color: #8c00d2;
-    font-family: courier;
-}
-
-.arina-advice footer {
-	background-color: inherit;
-    color: #b6b6b6;
-}
-
-/* End of Arina's Styles */
