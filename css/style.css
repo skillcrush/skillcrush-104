@@ -4438,3 +4438,54 @@ Chrizzit's Advice Styles
 	color: #006600;
 }
 /**End of musi215 Styles**/
+
+
+/** Amanda D's Styles **/
+
+.asd-advice {
+    width: 100%;
+    background-color: #f0ffff;
+    font-family: sans-serif;
+}
+
+.asd-advice a {
+    text-decoration: none;
+    color: #ff7f50;
+}
+
+.asd header {
+	height: 500px;
+    background: url('https://s18.postimg.org/l21ofjimx/header_img.png');
+    background-size: cover;
+}
+
+.asd-advice h1 {
+    color: #ff7f50;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: left;
+}
+
+.asd-advice h4 {
+    font-size: 22px;
+    text-align: left;
+    text-transform: uppercase;
+    color: #ff7f50;
+}
+
+.asd-advice p {
+    color:#404040
+    text-align: left;
+    line-height: 1em;
+}
+
+.asd-advice footer {
+    color: #1E90FF; 
+    text-align: center;
+    font-size: 13px;
+    font-style: italic;
+    width: 100%;
+    height: 200px;
+}
+
+/** END Amanda D's Styles **/
