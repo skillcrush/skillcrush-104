@@ -4440,13 +4440,10 @@ Chrizzit's Advice Styles
 /**End of musi215 Styles**/
 
 /** Valerie Valentine's Style **/
-.valentine-advice body{
+.valentine-advice{
   font-family: sans-serif;
 }
-.valentine-advice div{
-  font-family: sans-serif;
-}
-.valentine h1{
+.valentine-advice h1{
   color: salmon;
   font-style: italic;
 }
@@ -4457,8 +4454,4 @@ Chrizzit's Advice Styles
   font-variant: small-caps;
   color: salmon;
 }
-/** footer
-.valentine-advice footer {
-}
-**/
 /** End of Valerie Valentine's Style **/
