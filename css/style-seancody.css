@@ -1,13 +1,12 @@
 html, body {
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
 	color: #222;
-	background-color: #eee;
+	background-color: #ccc;
 }
 
 .seancody-advice {
-	font-family: 'Roboto', sans-serif;
-	background-color: #ccc;
+	
 }
 
 .seancody-advice header{
