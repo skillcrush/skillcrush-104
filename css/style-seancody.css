@@ -1,0 +1,25 @@
+html, body {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 16px;
+	color: #222;
+	background-color: #eee;
+}
+
+.seancody-advice {
+	font-family: 'Roboto', sans-serif;
+	background-color: #ccc;
+}
+
+.seancody-advice header{
+
+}
+
+.seancody-advice a{
+	float: left;
+	width: 30%;
+}
+
+.seancody-advice h1{
+	float: left;
+	width: 60%;	
+}
