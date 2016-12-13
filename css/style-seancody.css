@@ -9,17 +9,3 @@ html, body {
 	font-family: 'Roboto', sans-serif;
 	background-color: #ccc;
 }
-
-.seancody-advice header{
-
-}
-
-.seancody-advice a{
-	float: left;
-	width: 30%;
-}
-
-.seancody-advice h1{
-	float: left;
-	width: 60%;	
-}
