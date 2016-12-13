@@ -4187,6 +4187,8 @@ marquisbrown-advice {
 
 /* End Katie Hart's styles */
 
+
+
 /* ===== LILY'S STYLES ===== */
 .lilyk-advice {
 	background-color: #E9E9E9;
@@ -4230,49 +4232,49 @@ marquisbrown-advice {
 }
 /* ===== END LILY'S STYLES ===== */
 
-/* Kristin's Styles */
-.kristinantosz-advice {
+/* Sara's Styles */
+.sbt-advice {
 	font-size: 1em;
 	font-family: 'Lora', serif;
 	background-color: #fff;
 }
 
-.kristinantosz-advice h1 {
+.sbt-advice h1 {
 	font-family: 'Lora', serif;
 	font-size: 1.88em;
 	color: #df80ff;
 }
 
-.kristinantosz-advice h4 {
+.sbt-advice h4 {
 	font-family: 'Raleway', sans-serif;
 	font-size: 1.25em;
 	color: #8080ff;
 }
 
-.kristinantosz-advice p {
+.sbt-advice p {
 
 }
 
-.kristinantosz-advice a {
+.sbt-advice a {
 	font-family: 'Raleway', sans-serif;
 	color: #c2c2d6;
 }
 
-.kristinantosz-advice a: visited {
+.sbt-advice a: visited {
 	color: #c2c2d6;
 }
 
-.kristinantosz-advice a:hover {
+.sbt-advice a:hover {
 	color: #b300b3;
 }
 
-.kristinantosz-advice footer {
+.sbt-advice footer {
 	text-align: center;
 	padding-top: 50px;
 	color: #c2c2d6;
 	font-size: 0.75em;
 }
-/* end Kristin's Styles */
+/* end sara's Styles */
 
 /*********BriHayley's Styles**********/
 .brihayley-advice {
