@@ -1,4 +1,28 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+/*****STEVE M STYLE*****/
+
+.steve-advice{
+    background-color: black;
+    font-size:20px;
+    
+}
+.steve-advice h1{
+    color:lightblue;
+    text-transform: capitalize;
+}
+
+.steve-advice h4{
+    color:lightgrey;
+    font-size:2em;
+    text-transform: capitalize;
+}
+
+.steve-advice p{
+    color:darkgray;
+    
+}
+
+
 
 /** Ozge's Styles **/
 .ozge-advice {
