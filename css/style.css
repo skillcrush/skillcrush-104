@@ -1,5 +1,21 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/**Lee-Anne's Styles**/
+
+.leeanne-advice p {
+	color: lightslategray;
+}
+
+.leeanne-advice h1 {
+	color: lightskyblue;
+	text-align:center;
+}
+.leeanne-advice  h4 {
+	color: darkslateblue;
+}
+/*End of Lee-Anne's styles*/
+
+
 /** Ozge's Styles **/
 .ozge-advice {
     width: 100%;
