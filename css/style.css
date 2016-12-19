@@ -1,4 +1,40 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+/** YWLing's Styles **/
+.YWLing-advice {
+    width: 100%;
+    background-color: LightGoldenRodYellow;
+    font-family: sans-serif;
+    margin: 0 auto;
+
+}
+.YWLing-advice a {
+    text-decoration: none;
+    color: #0066ff;
+    font-weight: none;
+}
+.YWLing-advice h1 {
+    color: #008B8B;
+    font-weight: bold;
+    text-align: left;
+}
+.YWLing-advice h4 {
+    font-family: sans-serif;
+    font-size: 22px;
+    text-align: left;
+    color: #DC143C;
+}
+.YWLing-advice p {
+    color:#2F4F4F;
+    text-align: left;
+}
+.YWLing-advice footer {
+    color: #008B8B;
+    text-align: center;
+    font-size: 14px;
+    font-style: italic;
+}
+
+
 
 /** Ozge's Styles **/
 .ozge-advice {
@@ -6,7 +42,7 @@
     background-color: ghostwhite;
     font-family: sans-serif;
     margin: 0 auto;
-    
+
 }
 .ozge-advice a {
     text-decoration: none;
@@ -29,7 +65,7 @@
     text-align: left;
 }
 .ozge-advice footer {
-    color: #00008B; 
+    color: #00008B;
     text-align: center;
     font-size: 13px;
     font-style: italic;
@@ -67,7 +103,7 @@
 }
 .advice-hhoefele h2 {
 	color: black;
-	background-color: white;	
+	background-color: white;
 }
 header h1{
 	color: white
@@ -164,7 +200,7 @@ footer {
 .maile-advice h4 {
 	font-size: 1.5em;
 	color: #FF4500;
-} 
+}
 
 /*End Jeff's Styles*/
 
@@ -174,7 +210,7 @@ footer {
 .rachelcab-advice h4 {
 	color: #695d94;
 	font-weight: bold;
-  
+
 /* Adam R's Styles */
 .adam-r-advice {
 	background-color: #000000;
@@ -186,7 +222,7 @@ footer {
 }
 
 .lgpatruyo-advice .advice{
-	background-color: lightblue; 
+	background-color: lightblue;
 }
 
 .lgpatruyo-advice .advice h4{
