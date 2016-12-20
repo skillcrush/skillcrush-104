@@ -4438,3 +4438,26 @@ Chrizzit's Advice Styles
 	color: #006600;
 }
 /**End of musi215 Styles**/
+
+
+
+/* ========================
+		Magali's Styles 
+   ======================== */
+
+.magali-advice {
+	font-family: sans-serif;
+	background-color: grey;
+}
+
+.magali-advice h4 {
+	font-size: 32px;
+	font-style: italic;
+	text-align: center;
+	color: #0033cc;
+	padding-bottom: 15px; 
+}
+
+.magali-advice p {
+	font-size: 24px;
+}
