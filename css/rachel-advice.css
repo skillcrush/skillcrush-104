@@ -1,0 +1,30 @@
+body {
+  background-color: #7e4444;
+}
+
+h1 {
+  font-family: Helvetica, sans-serif;
+  color: #aaaaaa;
+  text-shadow: 1px 1px #ffffff;
+}
+
+h2 {
+  font-family: Arial, serif;
+  color: #cccccc;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: #f9f9f9;
+}
+
+p {
+  color: #aaaaaa;
+}
+
+.advice {
+  border: 1px solid #ffffff;
+  margin: 50px;
+  padding: 30px;
+}

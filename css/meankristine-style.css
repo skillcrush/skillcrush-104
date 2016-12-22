@@ -1,0 +1,30 @@
+/* Kristine's Styles */
+
+.meankristine-advice {
+	font-size: 1em;
+	background-color: whitesmoke;
+	color: #315659;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.meankristine-advice h1 {
+	text-align: center;
+	font-size: 2em;
+	color: #377771;
+	font-family: 'Lobster', cursive;
+}
+
+.meankristine-advice h4 {
+	font-size: 2em;
+	color: #ed6a5e;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.meankristine-advice .advice {
+	padding: 2em;
+	
+}
+
+
+
+

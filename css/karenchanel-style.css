@@ -1,0 +1,24 @@
+/** Add a comment at the beginning of your CSS styles with your name **/
+
+/**** BEG KAREN CHANEL ADVICE STYLING ****/
+.karenchanel-advice {
+	font-family: Helvetica;
+	background: #ee7fc3;
+}
+
+.karenchanel-advice h1 {
+	color: #fff;
+	text-transform: uppercase;
+}
+
+.karenchanel-advice h4 {
+	color: grey;
+	text-transform: uppercase;
+}
+
+.karenchanel-advice footer {
+	text-align: center;
+}
+
+/**** END KAREN CHANEL ADVICE STYLNG ****/
+

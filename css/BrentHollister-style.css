@@ -1,0 +1,38 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+/* BrentH advice styling  */
+.BrentHollister-advice {
+	border-style: solid;
+	border-width: 4px;
+	margin: 30px;
+	border-color: red;
+}
+
+.BrentHollister-advice body{
+	font-align:center;
+
+}
+.BrentHollister-advice h1{
+	color: black;
+	font-size: 36px;
+	font-family: 'Open Sans', sans-serif;
+
+	font-align:left;
+
+}
+
+.BrentHollister-advice h4 {
+	color: black;
+	font-size: 22px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.BrentHollister-advice p{
+	color: black;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	padding: 0px 80px 0px 80px;
+
+}
+
+/**End Brent H **/
+
