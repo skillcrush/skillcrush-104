@@ -174,7 +174,7 @@ footer {
 .rachelcab-advice h4 {
 	color: #695d94;
 	font-weight: bold;
-  
+}
 /* Adam R's Styles */
 .adam-r-advice {
 	background-color: #000000;
@@ -354,7 +354,7 @@ footer {
 
 .advice-kaseyfahey span {
 	font-family: "Pacifico", cursive;
-
+}
 /* End Kasey's Styles*/
 
 /*Heidi's Styles*/
@@ -873,7 +873,7 @@ padding: 10px;
 	width: 70%;
 	margin-left: auto;
 	margin-right: auto;
-	color: #89cff0l;
+	color: #89cff0;
 }
 
 /** end sandyhogan-advice styles**/
@@ -4438,3 +4438,20 @@ Chrizzit's Advice Styles
 	color: #006600;
 }
 /**End of musi215 Styles**/
+
+/** James Smith Styles **/
+.james-advice h1 {
+}
+.james-advice h4 {
+        font-family: fantasy;
+}
+.james-advice h4 {
+    color: #225500;
+    font-size: 35px;
+    text-transform: lowercase;
+    letter-spacing: 0.1em;
+}
+
+.james-advice p {
+    font-family: 'Georgia';
+}
