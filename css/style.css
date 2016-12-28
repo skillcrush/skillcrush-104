@@ -517,6 +517,7 @@ body.elizak-advice {
 
 .elizak-advice header {
 	width: 100%;
+
 }
 
 .elizak-advice a {
@@ -3681,6 +3682,7 @@ body.parismarron-advice{
 		font-size:18px;
 		color:#002933;
 
+
 }
 
 .kimjmartin-advice .bold {
@@ -4438,3 +4440,35 @@ Chrizzit's Advice Styles
 	color: #006600;
 }
 /**End of musi215 Styles**/
+
+/**Jennifer W's Styles**/
+
+.puppyburp-advice {
+	font-family: sans-serif;
+	background-color: #EAF4F7;
+	color: #666666;	
+	width: 960px;
+	margin: auto;
+}
+
+.puppyburp-h1 {
+	font-size: 40px;
+	color: #00055C;
+	text-transform: uppercase;
+}
+
+.puppyburp-div {
+	font-family: sans-serif;
+}
+
+.puppyburp-h4 {
+	font-size: 30px;
+	color: #00055C;
+	}
+	
+.puppyburp-footer {
+	font-size: 12px;
+	color: #A7A7A7
+}
+
+/**End Jennifer W's Styles**/
