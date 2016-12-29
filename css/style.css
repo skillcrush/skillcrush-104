@@ -1,5 +1,12 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+
+/** Trevs styles */
+	.trevs-advice {
+		text-align: center;
+		color: blue;
+	}
+
 /** Ozge's Styles **/
 .ozge-advice {
     width: 100%;
