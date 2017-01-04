@@ -1,6 +1,60 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
-/** Ozge's Styles **/
+
+/**StacyM Styles**/
+
+
+.stacym-advice {
+    width:80%;
+	margin:3em auto;
+    background-color:#eee;
+    font-family:sans-serif;
+	text-align:center;
+	color:#444;
+	}
+
+.stacym-advice a {
+    text-decoration:none;
+    color:#aaa;
+	}
+
+.stacym-advice a:hover {
+    color:green;
+	}
+
+.stacym-advice h1 {
+    font-weight:bold;
+    text-align:center;
+	margin-top:2em;
+	}
+
+.stacym-advice h4 {
+    font-size:6em;
+	margin-bottom:.4em;
+	margin-top:1em;
+	}
+
+.stacym-advice h4, .stacym-advice p {
+    text-align:left;
+	}
+
+.stacym-advice footer {
+    background-color:#444;
+	color:#eee; 
+    font-size: 13px;
+	letter-spacing:.2em;
+	margin-top:3em;
+	}	
+
+.stacym-advice footer p{
+	text-align:center;
+	padding:.5em;
+	}
+
+	
+	
+	
+	/** Ozge's Styles **/
 .ozge-advice {
     width: 100%;
     background-color: ghostwhite;
