@@ -3079,6 +3079,42 @@ body.laurenr-advice {
 }
 /** Lauren R's Styles **/
 
+/** HMTarz's Styles **/
+.hmtarz-advice {
+    width: 100%;
+    background-color: AliceBlue;
+    font-family: serif;
+    margin: 0 auto;
+    
+}
+.hmtarz-advice a {
+    text-decoration: underline;
+    color: #80ccff;
+    font-weight: bold;
+}
+.hmtarz-advice h1 {
+    color: #00b300;
+    font-weight: bold;
+    text-align: left;
+}
+.hmtarz-advice h4 {
+    font-family: sans-serif;
+    font-size: 30px;
+    text-align: left;
+    color: #00cc99;
+}
+.hmtarz-advice p {
+    color:#000d1a;
+    text-align: left;
+}
+.hmtarz-advice footer {
+    color: #000d1a; 
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+}
+
+
 /** Emily Chapman's Styles **/
 
 body.emilychapman-advice {
