@@ -1,0 +1,36 @@
+/* Body Full Page */
+.stephangriesel-advice {
+	font-family:verdana;
+	padding:150px
+	}
+	
+/* Fonts */
+	
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: brown;
+}
+
+a:hover {
+    color: green;
+}
+
+a:active {
+    color: white;
+}
+
+h4 {
+	font-weight:strong;
+	font-size:200%;
+	}
+	
+
+/* Footer */
+footer {
+	background-color:#000000;
+	color:#FFFFFF;
+	}
+	
