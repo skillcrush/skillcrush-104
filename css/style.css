@@ -1,5 +1,37 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/** Jvillars's Styles **/
+.jvillars-advice {
+	max-width: 1000px;
+    width: 100%;
+    font-family: sans-serif;
+    text-align: center;
+    margin: 20px auto;
+    
+}
+.jvillars-advice a {
+    text-decoration: none;
+    color: #989898;
+    font-weight: bold;
+}
+.jvillars-advice h1 {
+    color: #000000;
+    font-weight: bold;
+}
+.jvillars-advice h4 {
+    font-family: sans-serif;
+    font-size: 22px;
+    color: #DC143C;
+}
+.jvillars-advice p {
+    color:#B0B0B0;
+}
+.jvillars-advice footer {
+    font-size: 13px;
+    font-style: italic;
+}
+/* -- End Jvillars's Styles */
+
 /** Ozge's Styles **/
 .ozge-advice {
     width: 100%;
@@ -79,7 +111,7 @@ header h1{
 .advice-hhoefele li{
 	font-size: 18px;
 }
-footer {
+.advice-hhoefele footer {
 	background-color: #862d59;
 	color: white;
 }
