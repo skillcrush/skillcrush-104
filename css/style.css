@@ -3286,3 +3286,32 @@ body.parismarron-advice{
   font-size: 14px;
 }
 /*End Sara Suzanne's Styles*/
+
+/* LCWorthy advice styling  */
+.lcworthy-advice body{
+	background-color: #B0F7E8;
+}
+.lcworthy-advice h1{
+	color: #E9662C;
+	font-size: 28px;
+	font-family: "Times New Roman", Georgia, Serif;
+    text-align: center;
+}
+
+.good-advice  h4{
+	color: #350CE8;
+	font-size: 22px;
+	font-family: "Times New Roman", Georgia, Serif;
+}
+
+.good-advice p{
+	color: #267A06;
+	font-family: "Times New Roman", Georgia, Serif;
+	font-size: 14px;
+	border-width: 10px;
+	border-style: solid;
+	
+}
+
+/**End Lynn W **/
+
