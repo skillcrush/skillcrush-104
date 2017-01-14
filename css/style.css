@@ -4438,3 +4438,39 @@ Chrizzit's Advice Styles
 	color: #006600;
 }
 /**End of musi215 Styles**/
+
+/** danrainey's Styles **/
+.danrainey-advice {
+    width: 100%;
+    background-color: ghostwhite;
+    font-family: sans-serif;
+    margin: 0 auto;
+    
+}
+.danrainey-advice a {
+    text-decoration: none;
+    color: #0066ff;
+    font-weight: bold;
+}
+.danrainey-advice h1 {
+    color: #00008B;
+    font-weight: bold;
+    text-align: left;
+}
+.danrainey-adviceh4 {
+    font-family: sans-serif;
+    font-size: 22px;
+    text-align: left;
+    color: #ff6600;
+}
+.danrainey-advice p {
+    color:#00008B;
+    text-align: left;
+}
+.danrainey-advice footer {
+    color: #00008B; 
+    text-align: center;
+    font-size: 13px;
+    font-style: italic;
+}
+/**End of danrainey Styles**/
