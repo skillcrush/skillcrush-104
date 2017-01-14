@@ -1,0 +1,73 @@
+/* Patrick's styles */
+
+body {
+    
+}
+
+.patrick-advice {
+    width: 960px;
+    margin: 0 auto;
+    background-color: lightgrey;
+}
+
+header {
+    box-sizing: border-box;
+    padding: 0px 0px 50px 0px;
+    color: #6d3b54;
+    border-bottom: 1px solid #862d59;
+}
+
+header a {
+    text-decoration: none;
+    display: block;
+    background-color: #862d59;
+    color: white;
+    padding: 21px 5px 21px 5px;
+}
+header h1 {
+    text-align: center;
+    margin: 50px 0px 25px 0px;
+    color: #862d59;
+}
+
+section {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    
+}
+
+.advice {
+
+}
+
+.advice .box {
+    width: 66%;
+    background-color: #6d3b54;
+/*    box-shadow: 10px 10px 5px rgba(136,136,136,.6);*/
+    padding: 30px;
+    box-sizing: border-box;
+    color: white;
+    margin: 0 auto;
+}
+
+.advice h4 {
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+    font-size: 25px;
+}
+
+.advice .line {
+    border-left: 2px solid gray;
+    border-right: 2px solid gray;
+    margin: 0 auto;
+    height: 100px;
+    width: 0px;
+}
+
+footer {
+    margin-top: 100px;
+    padding: 5px;
+}
+
+
