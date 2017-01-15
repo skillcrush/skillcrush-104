@@ -1,0 +1,17 @@
+/**Jaime's Styles**/
+.jaime-advice{
+  background-color: gray;
+  font-family:georgia;
+  text-align: center;
+}
+
+.jaime-advice h1 {
+  color: yellow;
+  font-weight: 600;
+
+}
+.jaime-advice h2{
+  color: yellow;
+  font-variant: small-caps;
+  text-decoration: underline;
+}
