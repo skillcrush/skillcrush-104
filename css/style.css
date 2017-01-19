@@ -1,5 +1,19 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/** Jeremy Mwangelwa's Styles START**/
+
+.jeremy-mwangelwa-advice {
+	background-color:#ffff66;
+	font-family: Georgia;
+}
+
+.jeremy-mwangelwa-advice .scripture {
+	color: red;
+	font-size: 30px;
+}
+
+/** Jeremy Mwangelwa's Styles END  **/
+
 /** Ozge's Styles **/
 .ozge-advice {
     width: 100%;
