@@ -1,5 +1,42 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/*start of Ace's styles*/
+
+.ace-advice {
+	padding: 30px; 
+}
+
+.ace-advice a {
+	color: white;  
+	background-color: green;
+	padding: 10px 20px; 
+	border-radius: 50%;
+}
+
+.ace-advice h1 {
+	text-align: center; 
+}
+
+.ace-advice h4 {
+	color: green;
+}
+
+.ace-advice p{
+	text-indent: -20px; 
+	padding-left: 20px; 
+}
+
+.ace-advice footer {
+	text-align: center;
+	max-width: 50%; 
+	margin: 0 auto; 
+	padding: 20px; 
+	background-color: green;
+	border-radius: 100%; 
+}
+
+/*End of Ace's styles*/
+
 /** Ozge's Styles **/
 .ozge-advice {
     width: 100%;
@@ -4438,3 +4475,15 @@ Chrizzit's Advice Styles
 	color: #006600;
 }
 /**End of musi215 Styles**/
+
+
+/*start of Ace's styles*/
+
+.ace-advice p {
+	color: red;
+}
+.ace-advice footer {
+	padding: 20px; 
+}
+
+/*End of Ace's styles*/
