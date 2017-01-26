@@ -1,0 +1,82 @@
+
+@charset "UTF-8";
+
+#sarah-intro {
+	height: 450px;
+	width: 100%
+}
+
+.nav {
+	background-color: #f9c402;
+	height: 100px;
+}
+
+.back-btn {
+	height: 100px;
+	width: 180px;
+	z-index: 20;
+	text-align: center;
+}
+
+header .nav .back-btn a {
+	color: black;
+	font-family: 'Source Sans Pro', sans-serif;
+	text-decoration: none;
+	text-transform: uppercase;
+	margin-left: 10px;
+	font-size: 16px;
+	line-height: 100px;
+}
+
+header a:hover {
+	background-color: #efefef;
+}
+
+h1 {
+	display: block;
+	font-family: 'Knewave', cursive;
+	font-size: 70px;
+	color: #65edb7;
+	margin-bottom: 0;
+	margin-top: 100px;
+	text-align: center;
+}
+
+h2 {
+	font-family: 'Knewave', cursive;
+	font-size: 40px;
+	color: #65edb7;
+	margin-top: 0;
+	text-align: center;
+}
+
+section {
+	background-color: white;
+	padding-right: 20%;
+	padding-left: 20%;
+}
+
+h4 {
+	font-family: 'Knewave', cursive;
+	font-size: 30px;
+	color: #efcff7;
+	margin-top: 40px;
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+p {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 18px;
+}
+
+footer {
+	height: 100px;
+	width: 100%;
+	background-color: #f9c402;
+	margin-top: 80px;
+	text-indent: 40px;
+	padding-top: 20px;
+}
+
+
