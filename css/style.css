@@ -1,5 +1,48 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/** Suzi's Styles **/
+
+
+.suzis-advice {
+	width: 100%; 
+	background-color: #c990b7; 
+	font-family: 'Raleway', sans-serif;
+	color: #fff; 
+	}
+
+   
+.suzis-advice h1 {   
+    font-family: 'Lobster Two', cursive;
+  	text-align: center; 
+  	font-size: 2.25em; 
+  	color: #8d3971; 
+  	}  
+  	
+.suzis-advice ul {
+	list-style: none; 
+	text-align: center;
+	line-height: 2em; 
+	font-size: 1.5em;  
+	}  	
+	
+.suzis-advice a {
+	color: #e2c0d7; 
+	text-decoration: none; 
+	}	
+	
+.suzis-advice a:hover, .suzis a:active {
+	font-weight: 700; 
+	color: #fff; 
+	}	
+  
+.suzis-advice footer {
+	text-align: center; 
+	margin-top: 200px;   
+	background-color: #ac6294; 
+	height: 200px;
+	padding-top: 10px;  
+
+
 /** Ozge's Styles **/
 .ozge-advice {
     width: 100%;
