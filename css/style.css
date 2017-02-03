@@ -1,5 +1,40 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+
+/** Ashley Rudy's Styles **/
+
+.ashleys-advice {
+	width: 96%;
+	padding: 2 0;
+	margin: 0 auto;
+	font-family: sans-serif;
+	background-color: #e3e3e3;
+}
+
+.ashleys-advice a {
+	color: #b3c4ba;
+}
+.ashleys-advice h1 {
+	text-transform: uppercase;
+	text-align: center;
+	color: #a765aa;
+}
+
+.ashleys-advice h4 {
+	color: #e7869e;
+}
+
+.ashleys-advice .advice {
+	border: 5px solid #efc297;
+	padding: 25px;
+}
+
+.ashleys-advice footer {
+	background-color: #f0d8d6;
+	color: #b3c4ba;
+}
+
+
 /** Ozge's Styles **/
 .ozge-advice {
     width: 100%;
