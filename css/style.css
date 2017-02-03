@@ -1,12 +1,26 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
-
+/** Suzanne's Styles **/
+.smartsuzy-advice {
+  font-family: fantasy;
+  background-color: salmon;
+  color: blue;
+}
+.smartsuzy-advice  p {
+  font-family: sans-serif;
+  color: green;
+  text-align: justify;
+}
+.smartsuzy-advice footer {
+  background-color: blue;
+  color: white;
+}
 /** Ozge's Styles **/
 .ozge-advice {
     width: 100%;
     background-color: ghostwhite;
     font-family: sans-serif;
     margin: 0 auto;
-    
+
 }
 .ozge-advice a {
     text-decoration: none;
@@ -29,7 +43,7 @@
     text-align: left;
 }
 .ozge-advice footer {
-    color: #00008B; 
+    color: #00008B;
     text-align: center;
     font-size: 13px;
     font-style: italic;
@@ -67,7 +81,7 @@
 }
 .advice-hhoefele h2 {
 	color: black;
-	background-color: white;	
+	background-color: white;
 }
 header h1{
 	color: white
@@ -164,7 +178,7 @@ footer {
 .maile-advice h4 {
 	font-size: 1.5em;
 	color: #FF4500;
-} 
+}
 
 /*End Jeff's Styles*/
 
@@ -174,7 +188,7 @@ footer {
 .rachelcab-advice h4 {
 	color: #695d94;
 	font-weight: bold;
-  
+
 /* Adam R's Styles */
 .adam-r-advice {
 	background-color: #000000;
@@ -186,7 +200,7 @@ footer {
 }
 
 .lgpatruyo-advice .advice{
-	background-color: lightblue; 
+	background-color: lightblue;
 }
 
 .lgpatruyo-advice .advice h4{
