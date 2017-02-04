@@ -1135,3 +1135,25 @@ border-radius:0 5px 5px 0;}
 	font-family: Arial, sans-serif;
 }
 /** end of Vicki's styles **/
+
+.vgreer-advice {
+	color: darkgreen;
+	background-color: gold;
+	font-family: 'Source Sans Pro', sans-serif;
+	border: 1px solid darkgreen;
+	padding: 2%;
+}
+
+.vgreer-advice h4 {
+	color: #003300;
+	font-size: 1.5em;
+}
+
+.vgreer-advice h1 {
+	font-family: 'Lora', cursive;
+}
+
+.vgreer-advice p {
+	font-size: 1.25em;
+	line-height: 1.25em;
+}
