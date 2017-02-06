@@ -1,5 +1,20 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/** Noelle's Styles **/
+.noelles-advice{
+	background-color:#f9dfa9;
+	max-width: 100%;
+	font-family:sans-serif;
+}
+
+.noelles-advice h1,h4{
+	color:#291949;
+}
+
+.noelles-advice footer{
+	background-color: #194923;
+}
+
 /** Ozge's Styles **/
 .ozge-advice {
     width: 100%;
