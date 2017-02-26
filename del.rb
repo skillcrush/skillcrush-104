@@ -1,0 +1,1 @@
+puts"Im going to fuck this computer up in a sec..."
