@@ -1,0 +1,85 @@
+html {
+	background: url(../img/gq-image.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	height:100%;
+	}
+
+body, html{
+	  font-family: 'Source Sans Pro', sans-serif;
+	  font-size: 16px;
+	  color: #000;
+	}
+
+header, section{
+
+	width:90%;
+	margin:auto;
+	background:rgba(239,239,239,0.5);
+}
+
+/**** Back to main page button ****/
+.btn {
+  background-color: #f98218;
+  border:none;
+  color:#fff;
+  font-weight: bold;
+  text-transform: uppercase;
+	text-align: center;
+  line-height: 1.6em;
+  box-shadow: 2px 2px 0px #DADADA;
+  height:2.5em;
+	width: 25%;
+  display: block;
+}
+
+.btn:hover{
+  background-color:#f95318;
+}
+
+
+/**** header ****/
+
+h1{
+	font-size: 2.5em;
+	padding: 4px;
+}
+		.me{
+			font-family: 'Sacramento', cursive;
+      font-size: 2em;
+		}
+
+/**** Advice div ****/
+section{
+	padding: 20% 0;
+	border: 2px solid #cfcacb;
+	}
+
+	.advice{
+		width:70%;
+		margin:auto;
+	}
+
+		h4{
+			font-size: 2em;
+		}
+
+ 		p{
+			font-size: 1em;
+
+		}
+
+ /**** footer ****/
+
+footer {
+	width:100%;
+	font-size: 2em;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: .5px;
+  background-color: #efefef;
+  }
