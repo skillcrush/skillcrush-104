@@ -1,5 +1,5 @@
 html {
-	background: url(../img/gq-image.jpg) no-repeat center center fixed;
+	background: url(../img/gq-img.jpg) no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -20,7 +20,7 @@ header, section{
 	background:rgba(239,239,239,0.5);
 }
 
-/**** Back to main page button ****/
+/**** Back to main page button on header ****/
 .btn {
   background-color: #f98218;
   border:none;
