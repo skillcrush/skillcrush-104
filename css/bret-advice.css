@@ -4,7 +4,9 @@ body h1 h2 h3 h4 p {
     color: #9585a3;
 }
 
-
+.gone{
+    display:none;
+}
 
 .main-container{
     margin: 50;
@@ -113,6 +115,7 @@ h1 span#name{
     border-bottom: 2px solid #f4ed6e;
     padding-top: 40px ;
     padding-bottom: 40px;
+    margin-bottom: 20%;
 }
 .advice-box h4{
     text-align: center;
