@@ -37,6 +37,9 @@
     font-size: 13px;
     font-style: italic;
 }
+.trav-advice footer p {
+  color: white;
+}
 
 /** Ozge's Styles **/
 .ozge-advice {
