@@ -4,12 +4,18 @@ body h1 h2 h3 h4 p {
     color: #9585a3;
 }
 
-.gone{
+.hide{
     display:none;
+}
+
+.show{
+    display:block;
 }
 
 .main-container{
     margin: 50;
+    color: #9585a3;
+;
 }
 
 header {
@@ -19,6 +25,7 @@ header {
     
 }
 
+/**********HEADER STYLES ***************/
 
 header a {
    font: 16px 'Open Sans', sans-serif;
@@ -58,6 +65,9 @@ h1 span#name{
     text-align: center;
     margin:auto;
 }
+
+/**********HEADER STYLES ***************/
+
 
 .advice-container{
     margin:auto;
@@ -109,6 +119,14 @@ h1 span#name{
 .advice-getter{
     margin: auto;
     width: 80%;
+   
+}
+
+span.ego{
+    font-weight: bold;
+    background: #f4ed6e;
+ed;
+
 }
 .advice-box {
     border-top: 2px solid #f4ed6e;
