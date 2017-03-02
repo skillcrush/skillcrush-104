@@ -16,7 +16,7 @@
       <a href="../index.html">Back to Main Page</a>
         
        <div class="title-container">    
-		<h1>Hi my name is Bret and I have some advice for you!</h1>
+		<h1>If you <span id="name">need advice</span> you've struck gold. Welcome.</h1>
         </div> 
 	</header>
 
@@ -24,9 +24,27 @@
 		<div class="advice-container">
             <div class="advice-picker">
             <h2>I need advice about:</h2>
-                <button class="button-dropdown">Choose</button>
+                <div class="advice-dropdown">
+                    <select name="topics">
+                        <option value="pick">Click to Pick</option>option>
+
+                    <option value="general">General</option>
+                    <option value="javascript">Javascript</option>
+                    <option value="html">Html</option>
+                    <option value="css">Css</option>
+                    <option value="women">Women</option>
+                    <option value="men">Men</option>
+                    <option value="olivia">Olivia</option>
+                    <option value="life">Meaning of Life</option>
+                    <option value="food">Food</option>
+                    <option value="trump">Trump</option>
+                    <option value="music">Music</option>
+                    <option value="pokemon">Pokemon</option>
+                                </select>
+                    </div>
+               <!-- <button class="button-dropdown">Choose</button> -->
             </div>
-            
+            <div class="advice-getter">
             <div class="advice-box advice-box advice-general">
 			<h4>Opnions are like Angles</h4>
 			<p>Here's the thing: advice is only as good as dame giving it. Ask yourself: Does she seem legit? Does she have shifty eyes? Do I feel lucky, punk? (Well, do ya?)</p>
@@ -46,9 +64,15 @@
 			<h4>Confusion is your friend!</h4>
 			<p>When you start programming your first web app you are doing something that you have never done before. It's a new challenge, a new opportunity, and in the case of software development, something so specific that it's probably never been done before.</p>
             </div>
+                
+            <div class="advice-box two-cents advice-olivia">
+			<h4>Good News/Bad News</h4>
+			<p>Well, Olivia is taken. BUT, a look like hers can be found from time to time.</p>
+            </div>
+        
         
 
-			
+			</div>
 		</div>
     </section>
 
@@ -59,5 +83,6 @@
     </div>
     <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc=" crossorigin="anonymous"></script>
     <script type="tex/javascript" src=" https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script async type="text/javascript" src="../js/bret-advice-js.js"></script>
 </body>
 </html>
