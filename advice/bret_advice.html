@@ -13,10 +13,10 @@
 <body class="advice">
 <div class="main-container">
 	<header>
-      <a href="../index.html">Back to Main Page</a>
-        
+        <h2 style="color: #e06171; margin: auto;" id="warning">Javascript isn't working.</h2>
+        <a href="../index.html">Back to Main Page</a>
        <div class="title-container">    
-		<h1>If you <span id="name">need advice</span> you've struck gold. You're Welcome.</h1>
+		<h1>If you <span id="name">need advice</span> you've struck gold. You're welcome.</h1>
         </div> 
 	</header>
 
@@ -25,38 +25,89 @@
             <div class="advice-picker">
             <h2>I need advice about:</h2>
                 <div class="advice-dropdown">
-                    <select name="topics" id="advice-pick">
-                        <option value="pick">Click here to Pick</option>option>
-
-                    <option value="general">General</option>
-                    <option value="javascript">Javascript</option>
-                    <option value="html">Html</option>
-                    <option value="css">Css</option>
-                    <option value="women">Women</option>
-                    <option value="men">Men</option>
-                    <option value="olivia">Olivia</option>
-                    <option value="life">Meaning of Life</option>
-                    <option value="food">Food</option>
-                    <option value="trump">Trump</option>
-                    <option value="music">Music</option>
-                    <option value="pokemon">Pokemon</option>
-                                </select>
+          <select name="topics" id="advice-pick">
+                    <option value="pick">Click here to Pick</option>option>
+                    <option value="1">HTML</option>
+                    <option value="2">CSS</option>
+                    <option value="3">JAVASCRIPT</option>
+                    <option value="4">Wordpress</option>
+                    <option value="5">Women</option>
+                    <option value="6">Men</option>
+                    <option value="7">Olivia</option>
+                    <option value="8">Meaning of Life</option>
+                    <option value="9">Food</option>
+                    <option value="10">Music</option>
+                    <option value="11">Politics</option>
+                                </select>  
+      <!--      <ul class="menu">
+                    <li class="advice-item">PICK ADVICE</li>
+                    <li class="advice-item">HTML</li>
+                    <li class="advice-item">JAVASCRIPT</li>
+                    </ul>  --> 
                     </div>
             <!--   <button class="test">Click</button> -->
             </div>
-         <div class="advice-getter">
-            <div class="advice-box advice-box advice-general" id="instructions">
+      <div class="advice-getter">
+            <div class="advice-box advice-general" id="instructions">
 			<h4>Advice On Demand</h4>
 			<p><span class="ego">I'm a wealth of good advice, and you're an empty vessel waiting to be filled.</span> Just pick your topic in the advice picker above, and I'll tell you what I think. So what will it be?</p>
             </div>
-         <div class="advice-box hide" id="advice-javascript">
-			<h4>It's not you. It's me.</h4>
-			<p>Learning Javascript feels like you're trapped in Taylor Swift's song "Blank Space." It's a rose garden filled with thorns. It's a nightmare dressed like a day dream. It's like a But when your website isn't working, the problem isn't the code. It's you, dummy. </p>
+        
+            <div class="advice-box hide" id="html">
+			<h4>Not so fast, hombre.</h4>
+			<p>I know how awesome it feels to code up a page with HTML. But don't let it go to your head: it's a <em>markup</em> languge, remember. It's not real code. Not, like. for <em>real.</em></p>
             </div>
-        <div class="advice-fill" id="advice-target">
-             <h4></h4>
-            <p></p>
-             </div>
+        
+            <div class="advice-box hide" id="css">
+			<h4>Brute Force</h4>
+			<p>Sometimes styles override each other. Okay, this used to happen to me, like, all of the time. And then I learned the rat-fink cheat for CSS in the history thereof: "!important." You just shimmy that little number into your styles and watch everything just do exactly what it's s'posed to do. </p>
+            </div>
+        
+            <div class="advice-box hide" id="javascript">
+			<h4>It's not you. It's me.</h4>
+			<p>Learning Javascript feels like you're trapped in Taylor Swift's song "Blank Space." It's a rose garden filled with thorns. It's a nightmare dressed like a day dream.  But when your website isn't working, it's not javascript's fault. It's you, dummy. </p>
+            </div>
+        
+            <div class="advice-box hide" id="wordpress">
+			<h4>Move along, Sparky</h4>
+			<p>So you may have noticed that sites like Fiverr are flooded with Wordpress gurus from Pakistan offering to customize plugins for just $5. Now think: are the kind of clients that show for work on Fiverr looking to pay slave-wages for tech work the kind of client that <em>you</em> are eager to work for? Didn't think so.</p>
+            </div>
+        
+            <div class="advice-box hide" id="women">
+			<h4>Don't Make This Difficult</h4>
+			<p>Love 'em or leave 'em, fellas. On second thought, just love them; only a deadbeat leaves his woman.</p>
+            </div>
+        
+            <div class="advice-box hide" id="men">
+			<h4>Multitasking</h4>
+			<p>Ladies, if you're with a guy who is fine with you learning tech skills, just so long as you learn them barefoot in the kitchen, you might be with the wrong guy. Just sayin'</p>
+            </div>
+             
+             <div class="advice-box hide" id="olivia">
+			<h4>Good News/Bad News</h4>
+			<p>Well, Olivia is taken. BUT, a look like hers can be found from time to time.</p>
+            </div>
+        
+            <div class="advice-box hide" id="meaning">
+			<h4>Good reads.</h4>
+			<p>Read the Bible one time, cover to cover, as fast as you can. It will probably take 2 or 3 months. But it's worth it.</p>
+            </div>
+        
+            <div class="advice-box hide" id="food">
+			<h4>Rules and Exceptions</h4>
+			<p>I think eveyone should try foods from as many cultures as possible. I <em>used</em> to belive that every culture had a brilliant dish, just waiting to be experienced. Then I had Ethiopian food, which was a lot of stewed dishes that you eat with your hands. So, if you're new to exotic cuisine, don't start with Ethiopian. Start with Thai. Thai food is <em>really</em> good. </p>
+            </div>
+        
+            <div class="advice-box hide" id="olivia">
+			<h4>Tape it like its 1984</h4>
+			<p>I hate to be a fan-boy, but Apple Music over Spotify. They just get me, you know?</p>
+            </div>
+        
+            <div class="advice-box hide" id="olivia">
+			<h4>You're Fired</h4>
+			<p>I've given this some thought, but I think I'd vote for Arnold Schwarzenegger for POTUS. I know he's ineligible, but these days it seems like the notion of eligibility is particularly fungible. Plus, we already know what the campaign slogan for his re-election would be. You can't unsee it. </p>
+            </div>
+    
             </div>
 			</div>
 		
