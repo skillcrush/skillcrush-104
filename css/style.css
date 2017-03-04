@@ -4438,3 +4438,24 @@ Chrizzit's Advice Styles
 	color: #006600;
 }
 /**End of musi215 Styles**/
+
+/** emilyrussell's styles ***/
+
+.emilyrussell-advice {
+	font-family: sans-serif;
+	font-size: 16px;
+	color:  #808080;
+	background-color: #e6f2ff;
+}
+
+.emilyrussell-advice h1 {
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+.emilyrussell-advice footer {
+	text-transform: uppercase;
+	text-align: center;
+}
+
+/*** end of emilyrussell's styles ***/
