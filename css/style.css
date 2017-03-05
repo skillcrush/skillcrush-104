@@ -1,5 +1,33 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/**Abbyh advice styling**/
+
+.abbyh-advice {
+	background-color: #ff4367;
+	width: 100%
+	margin: 0 auto;
+}
+.abbyh-advice h1{
+	font-size: 2em;
+	font-family: 'Lora', sans-serif;
+	text-align: center;
+}
+.abbyh-advice h4 {
+	font-size: 1.2em;
+	text-align: center;
+}
+
+.abbyh-advice p {
+	font-size: 1em;
+
+}
+
+footer {
+	text-align: center;
+}
+
+/**Abbyh advice styling END **/
+
 /** Ozge's Styles **/
 .ozge-advice {
     width: 100%;
@@ -805,9 +833,25 @@ text-align: justify;
 }
 
 /**End Evelin advice styling**/
+/**Abbyh advice styling**/
+
+.abbyh-advice {
+	background-color: #ff4367;
+}
+.abbyh-advice h1{
+	font-size: 2em;
+	font-family: 'Sans Source Pro', sans-serif;
+}
+.abbyh-advice h4 {
+	font-size: 1.2em;
+}
+
+.abbyh-advice p {
+	font-size: 1em;
+}
 
 
-
+/**Abbyh advice styling END **/
 /**Alesa advice styling**/
 .alesa-advice {
 background: url("https://images.unsplash.com/photo-1434472007488-8d47f604f644?crop=entropy&dpr=2&fit=crop&fm=jpg&h=700&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1300");
