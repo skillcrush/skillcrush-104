@@ -4389,3 +4389,89 @@ Chrizzit's Advice Styles
 	color: #006600;
 }
 /**End of musi215 Styles**/
+
+
+
+
+/*Tronson's Styles*/
+
+
+body.tronson-advice{
+	
+	
+	padding: 6em;
+	
+	
+	
+}
+
+.tronson-advice p, h1, h2, h4, html{
+	
+	
+	font-family: 'Crimson Text', sans-serif;
+	color: #666;
+	
+			
+}
+
+
+.tronson-advice h4{
+	
+	
+	
+	font-size: 2em;
+	font-style: italic;
+}
+
+
+.tronson-advice header h1{
+	
+	color: #000;
+	font-weight: 400;
+	
+}
+
+
+
+.tronson-advice header h1 {
+    color: #666;
+    background-color: #fff;
+	font-size: 4em;
+	line-height: 1em;
+	text-align: left;
+	border-bottom: 1px #666 solid;
+	padding-bottom: .5em;
+	
+	
+}
+
+.tronson-advice section p{
+	
+	
+	font-size: 1.25em;
+	
+	
+}
+
+
+
+.tronson-advice body, html {
+    font-family: 'Times New Roman', 'serif';
+    font-size: 18px;
+    background-color: #fff;
+}
+
+.tronson-advice footer{
+	
+	
+	background-color: #fff;
+	text-align: center;
+	
+	
+}
+
+
+
+/*End Tronson's Styles*/
+
+
