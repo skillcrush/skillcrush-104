@@ -1,0 +1,53 @@
+h1 {
+	color: black;
+	font-family: Helvetica;
+	font-size: 37px;
+	margin-top: 50px;
+	margin-left: 50px;
+	margin-right: 50px;
+	}
+
+ul {
+	color: white;
+    	font-family: Garamond;
+	margin-left: 100px;
+	margin-top: 50px;
+	margin-left: 50px;
+	margin-right: 50px;
+	}
+
+ol {
+	color: white;
+    	font-family: Garamond;
+    	margin-top: 50px;
+	margin-left: 50px;
+	margin-right: 50px;
+	}
+
+body {
+	background-image: url("http://minimalissimo.com/wp-content/uploads/2015/03/81.jpg");
+    margin-top: 50px;
+	margin-left: 50px;
+	margin-right: 50px;
+	font-family: Garamond;
+    		}
+
+#advice {
+	border-radius: 5px;
+	padding: 10px 10px 10px 10px; 
+	background: rgba(153, 50, 204, 0.6);
+	color: white;
+	font-family:Garamond;
+	margin-top: 50px;
+	margin-left: 50px;
+	margin-right: 50px;
+	}
+
+#credits {
+	color: white;
+    	font-family:Garamond;
+	text-align: center;
+	margin-top: 50px;
+	margin-left: 50px;
+	margin-right: 50px;
+	}
