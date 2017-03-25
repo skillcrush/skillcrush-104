@@ -6,7 +6,7 @@
     background-color: ghostwhite;
     font-family: sans-serif;
     margin: 0 auto;
-    
+
 }
 .ozge-advice a {
     text-decoration: none;
@@ -29,7 +29,7 @@
     text-align: left;
 }
 .ozge-advice footer {
-    color: #00008B; 
+    color: #00008B;
     text-align: center;
     font-size: 13px;
     font-style: italic;
@@ -67,7 +67,7 @@
 }
 .advice-hhoefele h2 {
 	color: black;
-	background-color: white;	
+	background-color: white;
 }
 header h1{
 	color: white;
@@ -164,7 +164,7 @@ footer {
 .maile-advice h4 {
 	font-size: 1.5em;
 	color: #FF4500;
-} 
+}
 
 /*End Jeff's Styles*/
 
@@ -175,7 +175,7 @@ footer {
 	color: #695d94;
 	font-weight: bold;
 }
-  
+
 /* Adam R's Styles */
 .adam-r-advice {
 	background-color: #000000;
@@ -187,7 +187,7 @@ footer {
 }
 
 .lgpatruyo-advice .advice{
-	background-color: lightblue; 
+	background-color: lightblue;
 }
 
 .lgpatruyo-advice .advice h4{
@@ -4226,8 +4226,8 @@ body.parismarron-advice{
 }
 /* end Kristin's Styles */
 
-/*********BriHayley's Styles**********/
-.brihayley-advice {
+/*********Elaine's Styles**********/
+.elainec-advice {
 	font-family: 'Pacifico', cursive;
 	font-size:16px;
 	background:#ffe8cc;
@@ -4236,13 +4236,13 @@ body.parismarron-advice{
 	padding:7px;
 }
 
-.brihayley-advice h1 {
+.elainec-advice h1 {
 	font-size:2em;
 	color: #b3b3ff;
 	text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
 }
 
-.brihayley-advice h4 {
+.elainec-advice h4 {
 	font-family: 'Pacifico', cursive;
 	font-size: 1.4em;
 	color:#bf80ff;
@@ -4250,7 +4250,7 @@ body.parismarron-advice{
 	letter-spacing: 2px;
 }
 
-.brihayley-advice p {
+.elainec-advice p {
 	font-family: 'Archivo Narrow', sans-serif;
 	font-size:1em;
 	color: #800000;
