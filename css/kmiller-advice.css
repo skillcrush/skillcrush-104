@@ -1,0 +1,28 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+
+/**  Kim Miller styles **/
+.kmiller-advice .advice h4 {
+	border-bottom: 1px solid #5F9EA0;
+	padding-bottom: 5px;
+}
+
+.kmiller-advice body{
+    background-color: lightblue;
+}
+
+.kmiller-advice h1{
+	color: CCFFFF;
+}
+
+.kmiller-advice #wrap{
+	width: 600px;
+	margin: auto;
+	font-family: Impact, Charcoal, sans-serif;
+}
+.kmiller-advice p{
+	font-weight: lighter;
+	color: 2F4F4A;
+}
+/**End styles for Kim Miller**/
+
