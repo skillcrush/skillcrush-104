@@ -4389,3 +4389,28 @@ Chrizzit's Advice Styles
 	color: #006600;
 }
 /**End of musi215 Styles**/
+
+/* Start Rhea Marie's Styles */
+
+.rheamarie-advice h1 {
+	font-size: 36px;
+	font-family: Helvetica;
+	color: #e67300;
+	text-align: center;
+}
+
+.rheamarie-advice h4 {
+	font-size: 14px;
+	font-family: Helvetica;
+	color:  #ffa64d;
+	text-align: center;
+}
+
+.rhemarie-advice p {
+	font-size: 14px;
+	font-family: Helvetica;
+	color:  #ffa64d;
+	text-align: center;
+}
+
+/* End Rhea Marie's Styles */
