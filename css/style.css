@@ -1,12 +1,33 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/*-----Aimee's styles ----*/
+.aimeehall-advice {
+  width: 100%;
+  background-color: gainsboro;
+  font-family: sans-serif;
+  border-radius: 8px;
+  padding: 10px;
+}
+
+.aimeehall-advice h4 {
+  color: indigo;
+  font-size: 1.5em;
+}
+
+.aimeehall-advice p{
+  text-align: left;
+  padding: 10px;
+}
+
+
+
 /** Ozge's Styles **/
 .ozge-advice {
     width: 100%;
     background-color: ghostwhite;
     font-family: sans-serif;
     margin: 0 auto;
-    
+
 }
 .ozge-advice a {
     text-decoration: none;
@@ -29,7 +50,7 @@
     text-align: left;
 }
 .ozge-advice footer {
-    color: #00008B; 
+    color: #00008B;
     text-align: center;
     font-size: 13px;
     font-style: italic;
@@ -67,7 +88,7 @@
 }
 .advice-hhoefele h2 {
 	color: black;
-	background-color: white;	
+	background-color: white;
 }
 header h1{
 	color: white;
@@ -164,7 +185,7 @@ footer {
 .maile-advice h4 {
 	font-size: 1.5em;
 	color: #FF4500;
-} 
+}
 
 /*End Jeff's Styles*/
 
@@ -175,7 +196,7 @@ footer {
 	color: #695d94;
 	font-weight: bold;
 }
-  
+
 /* Adam R's Styles */
 .adam-r-advice {
 	background-color: #000000;
@@ -187,7 +208,7 @@ footer {
 }
 
 .lgpatruyo-advice .advice{
-	background-color: lightblue; 
+	background-color: lightblue;
 }
 
 .lgpatruyo-advice .advice h4{
