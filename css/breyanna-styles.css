@@ -1,0 +1,35 @@
+.breyanna-advice .advice h4{
+  border-bottom: 1px solid #DDDDDD;
+  padding-bottom: 5px;
+}
+
+body{
+  background: -webkit-linear-gradient(90deg,#3399ff 10%, #ff99cc 90%);
+  background: -moz-linear-gradient(90deg,#3399ff 10%, #ff99cc 90%);
+  background: -ms-linear-gradient(90deg,#3399ff 10%, #ff99cc 90%);
+  background: -o-linear-gradient(90deg,#3399ff 10%, #ff99cc 90%);
+  background:   linear-gradient(90deg,#3399ff 10%, #ff99cc 90%);
+}
+
+h4{
+    color: dodgerblue;
+    text-align: center;
+}
+.container{
+  background-color: white;
+  padding: 5px 5px 10px 5px;
+}
+
+header{
+  font-size: 20px;
+  font-weight: 100;
+}
+
+header a{
+  text-decoration: underline;
+  color: #DC143C;
+}
+
+footer{
+  text-align: center;
+}
