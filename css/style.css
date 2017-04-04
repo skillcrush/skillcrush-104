@@ -4389,3 +4389,25 @@ Chrizzit's Advice Styles
 	color: #006600;
 }
 /**End of musi215 Styles**/
+
+/*BEGINNING of Lea's Styles*/
+body.leacamara-advice {
+	color: #1c2642;
+	font-family: 'Book Antiqua', 'Palatino Linotype', serif;
+}
+
+.leacamara-advice h1 {
+	color: #d1e8f1;
+	background-color: #1c2642;
+	padding: 1%;
+}
+
+.leacamara-advice h4 {
+	text-align: left;
+	color: #d1e8f1;
+}
+
+.leacamara-advice footer {
+	background: #1c2642;
+}
+/*END of Lea's Styles*/
