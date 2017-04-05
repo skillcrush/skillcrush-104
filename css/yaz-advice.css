@@ -1,5 +1,7 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+
+
 /*Yaz's Styles*/
 
 .yaz-advice {
@@ -11,6 +13,7 @@
 }
 .yaz-advice h1 span{
 	color: #FF4500;
+	font-style: italic;
 }
 .yaz-advice h4 {
 	font-size: 1.5em;
@@ -18,6 +21,7 @@
 }
 
 /*End Yaz's Styles*/
+
 
 /** Ozge's Styles **/
 .ozge-advice {
