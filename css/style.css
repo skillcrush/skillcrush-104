@@ -4389,3 +4389,32 @@ Chrizzit's Advice Styles
 	color: #006600;
 }
 /**End of musi215 Styles**/
+
+
+/**Sarahz's Styles**/
+
+.sarahz-advice{
+  background: #dbf0ec;
+  padding: 20px;
+}
+.sarahz-advice h1{
+  background:none;
+  color:	#da5e0b;
+  font-family: 'Proza Libre', sans-serif;
+  font-size: 45pt;
+  text-shadow: #222 2px 2px 6px;
+  border-bottom: dotted 1px #491f04;
+}
+
+.sarahz-advice h4{
+  font-family: 'Proza Libre', sans-serif;
+  color: #f47825;
+  text-shadow: #222 .5px .5px 1px;
+}
+.sarahz-advice p{
+  text-align: center;
+}
+.sarahz-advice footer{
+  background: #da5e0b;
+}
+/**End Sarahz Styles**/
