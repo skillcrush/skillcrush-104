@@ -15,6 +15,7 @@
 
 .emilylockwood-advice h1 {
     color: #231f20;
+    background-color: #EFE6DD;
     font-size: 3rem;
     font-family: cursive;
     font-weight: bold;
@@ -31,7 +32,7 @@
 }
 
 .emilylockwood-advice footer {
-    background: 75bdc2;
+    background-color: #7EBDC2;
     color: #231f20;
     text-align: center;
     font-size: 1em;
