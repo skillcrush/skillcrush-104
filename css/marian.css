@@ -1,0 +1,13 @@
+.marianl-advice {
+  background-color: skyblue;
+  background-image: url("https://pixabay.com/static/uploads/photo/2015/12/01/20/28/road-1072823_640.jpg");
+  background-size: cover;
+}
+
+h1 {
+  color: hotpink;
+}
+
+h1, h4, h5 {
+  font-family: 'Lobster', cursive;
+}
