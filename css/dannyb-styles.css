@@ -1,0 +1,58 @@
+/*Dann's Styles*/
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container {
+    max-width: 1366px;
+    margin: 0 auto;
+}
+header {
+    height: 250px;
+    background: #444;
+    padding: 35px;
+    background-image: url("https://source.unsplash.com/QYFTkPFqzv4/1200x1000");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header a {
+    color: #fff;
+    text-decoration: none;
+    font-family: Helvetica, sans-serif;
+    font-variant: small-caps;
+}
+header h1 {
+    font-size: 2.4em;
+    line-height: 1em;
+    color: #fff;
+    font-family: Helvetica, sans-serif;
+    letter-spacing: 0.05em;
+    text-align: center;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.advice {
+    width: 80%;
+    padding: 50px;
+    margin: 0 auto;
+}
+.advice h4 {
+    font-size: 1.4em;
+    line-height: 1.5em;
+    font-family: Helvetica, sans-serif;
+    color: #08385F;
+}
+.advice p {
+    font-size: 1em;
+    line-height: 1.5em;
+    color: #555;
+    margin-top: 2em;
+}
+.copyright {
+    font-size: 0.8em;
+    color: #777;
+    text-align: center;
+}
