@@ -1,4 +1,44 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+/** Morgan's Styles **/
+.morganparker-advice {
+    width: 100%;
+    background-color: ghostwhite;
+    font-family: sans-serif;
+    margin: 0 auto;
+    padding-top:5%;
+    
+}
+.morganparker-advice a {
+    text-decoration: none;
+    color: pink;
+    font-weight: bold;
+    padding-left:5%;
+}
+.morganparker-advice h1 {
+    color: white;
+    font-weight: bold;
+    text-align: left;
+    padding-left:5%;
+}
+.morganparker-advice h4 {
+    font-family: sans-serif;
+    font-size: 22px;
+    text-align: left;
+    color: #ff6600;
+    padding-left:5%;
+}
+.morganparker-advice p {
+    color:#00008B;
+    text-align: left;
+    padding-left:5%;
+}
+.morganparker-advice footer p {
+    color:white; 
+    text-align: center;
+    font-size: 13px;
+    font-style: italic;
+}
+
 
 /** Ozge's Styles **/
 .ozge-advice {
