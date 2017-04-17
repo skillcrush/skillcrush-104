@@ -1,0 +1,18 @@
+/** Add a comment at the beginning of your CSS styles with your name **/
+h1 {
+	font-family: sans-serif;
+	font-size: 40px;
+}
+
+h4 {
+	font-size: 30px;
+}
+p {
+	line-height: 30px;
+	letter-spacing: 1px;
+}
+
+body {
+	width: 600px;
+	padding-left: 200px;
+}
