@@ -1,5 +1,24 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/** Clementine's Styles **/
+
+
+.clementine-advice {
+    background-color: coral;   
+    font-family: sans-serif;
+    margin: 0 auto;
+    padding: 100px:
+}
+
+.clementine-advice h4 {
+    color: white;
+    font-family:monospace;
+    font-size: 20px;
+}
+
+
+
+
 /** Ozge's Styles **/
 .ozge-advice {
     width: 100%;
