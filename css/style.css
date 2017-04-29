@@ -1,5 +1,47 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+
+
+
+
+
+/*--Claire's Styles--*/
+
+.clairekirby-advice {
+	 background: linear-gradient(135deg, #f4ac8b, #d8acef);
+	 font-family:'Dosis', sans-serif;
+	 font-size: 16px;
+	 width: 100%;
+}
+
+.clairekirby-advice a {
+	color: #cccccc;
+	font-size: 1em;
+}
+
+.clairekirby-advice h1 {
+	color: white;
+	font-size: 2.2em;
+	font-weight: 700;
+	text-align: left;
+	text-decoration: underline;
+}
+
+.clairekirby-advice p {
+	color: white;
+	font-weight: 1em;
+	text-align: left;
+	text-decoration: none;
+}
+
+.clairekirby-advice footer {
+	color: #cccccc;
+	font-size: 0.7em;
+}
+/*----END Claire's Styles-----*/
+
+
+
 /** Ozge's Styles **/
 .ozge-advice {
     width: 100%;
