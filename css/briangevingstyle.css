@@ -1,0 +1,14 @@
+.briangeving-advice body, html {
+	font-family: 'Times New Roman', 'serif';
+	font-size: 18px;
+	background-color: yellow;
+}
+.briangeving-advice h1 {
+	font-size: 24px;
+	color: red;
+	text-align: center;
+}
+.mywords {
+	font-size: 20px;
+	font-weight: bold;
+}
