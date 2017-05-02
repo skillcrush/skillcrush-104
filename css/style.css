@@ -6,7 +6,7 @@
     background-color: ghostwhite;
     font-family: sans-serif;
     margin: 0 auto;
-    
+
 }
 .ozge-advice a {
     text-decoration: none;
@@ -29,7 +29,7 @@
     text-align: left;
 }
 .ozge-advice footer {
-    color: #00008B; 
+    color: #00008B;
     text-align: center;
     font-size: 13px;
     font-style: italic;
@@ -67,7 +67,7 @@
 }
 .advice-hhoefele h2 {
 	color: black;
-	background-color: white;	
+	background-color: white;
 }
 header h1{
 	color: white;
@@ -164,7 +164,7 @@ footer {
 .maile-advice h4 {
 	font-size: 1.5em;
 	color: #FF4500;
-} 
+}
 
 /*End Jeff's Styles*/
 
@@ -175,7 +175,7 @@ footer {
 	color: #695d94;
 	font-weight: bold;
 }
-  
+
 /* Adam R's Styles */
 .adam-r-advice {
 	background-color: #000000;
@@ -187,7 +187,7 @@ footer {
 }
 
 .lgpatruyo-advice .advice{
-	background-color: lightblue; 
+	background-color: lightblue;
 }
 
 .lgpatruyo-advice .advice h4{
@@ -4322,7 +4322,7 @@ body.parismarron-advice{
 
 /*Start CodeNeophyte's Styles */
 
-.codeneophyte-advice body, html {
+.codeneophyte-advice body {
 	font-family: 'Times New Roman', 'serif';
 	font-size: 18px;
 	background-color: #989898;
@@ -4389,3 +4389,40 @@ Chrizzit's Advice Styles
 	color: #006600;
 }
 /**End of musi215 Styles**/
+
+/***** Tiffany Kantz's styles *****/
+
+.tiffanykantz-advice {
+    background-color: #e3e3e8;
+    padding: 10px;
+    border: 1px solid #330033;
+    border-radius: 10px;
+}
+
+.tiffanykantz-advice h1 {
+    font-family: 'Courgette', cursive;
+    color: #e6e6e6;
+    background-color: #660066;
+    border: 1px solid #660066;
+    border-radius: 5px;
+}
+
+.tiffanykantz-advice h4 {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #f1f1f4;
+    color: #330033;
+    border: 1px solid #330033;
+}
+
+.tiffanykantz-advice footer {
+    color: #e6e6e6;
+    padding: 5px;
+    background-color: #660066;
+    border: 1px solid #660066;
+    border-radius: 4px;
+}
+
+.tiffanykantz-advice footer p { margin: 0;}
+
+/***** End Tiffany Kantz's styles *****/
