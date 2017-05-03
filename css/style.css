@@ -1,12 +1,44 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/** Isabel's Styles **/
+
+.isabel-advice {
+  width: 100%;
+  background-color: #f0f0f5;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.isabel-advice h1 {
+  font-weight: 700;
+  color: #80b3ff;
+  background-color:#f0f0f5;
+}
+
+.isabel-advice h4 {
+  font-size: 24px;
+  font-weight: 700;
+  color: #e066ff;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.isabel-advice p{
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.isabel-advice footer {
+  background-color:#f0f0f5;
+  color:grey;
+}
+
 /** Ozge's Styles **/
 .ozge-advice {
     width: 100%;
     background-color: ghostwhite;
     font-family: sans-serif;
     margin: 0 auto;
-    
+
 }
 .ozge-advice a {
     text-decoration: none;
@@ -29,7 +61,7 @@
     text-align: left;
 }
 .ozge-advice footer {
-    color: #00008B; 
+    color: #00008B;
     text-align: center;
     font-size: 13px;
     font-style: italic;
@@ -67,7 +99,7 @@
 }
 .advice-hhoefele h2 {
 	color: black;
-	background-color: white;	
+	background-color: white;
 }
 header h1{
 	color: white;
@@ -164,7 +196,7 @@ footer {
 .maile-advice h4 {
 	font-size: 1.5em;
 	color: #FF4500;
-} 
+}
 
 /*End Jeff's Styles*/
 
@@ -175,7 +207,7 @@ footer {
 	color: #695d94;
 	font-weight: bold;
 }
-  
+
 /* Adam R's Styles */
 .adam-r-advice {
 	background-color: #000000;
@@ -187,7 +219,7 @@ footer {
 }
 
 .lgpatruyo-advice .advice{
-	background-color: lightblue; 
+	background-color: lightblue;
 }
 
 .lgpatruyo-advice .advice h4{
