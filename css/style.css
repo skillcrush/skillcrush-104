@@ -4111,6 +4111,8 @@ body.parismarron-advice{
 	text-align: left;
 	font-family: serif;
 }
+/* End cotterpinx Styles */
+
 /** Sakena Jwan Washington's Styles **/
 .sakenajwan-advice {
 	background-color: #FAFAF7;
@@ -4141,7 +4143,47 @@ body.parismarron-advice{
 	color: #ABABA7;
 }
 
-/* End cotterpinx Styles */
+/*Start Lisa's Styles*/
+.lisa-advice {
+	background-color: #ccffcc;
+	font-family: 'Helvetica', sans-serif;
+	font-weight: 400;
+	font-size: 1em;
+}
+
+.lisa-advice h4 {
+		color:  #009933; 
+}
+
+.lisa-advice p {
+		color: #000000;
+}
+
+.lisa-advice header {
+	background-color:#3366cc;
+	height: 120px;
+	padding-bottom: 20px;
+	color: #e6f7ff;	
+}
+
+.lisa-advice a {
+	color: #e6f7ff;	
+	padding: 5px;
+	text-align: center;
+}
+
+.lisa-advice .advice {
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.lisa-advice footer p {
+	text-align: center;
+	color: 	#ff4d4d;	
+	padding-bottom: 5px;
+}
+/* End Lisa's Styles */
 
 /* mbrown's styles */
 .mbrown-advice a {
@@ -4349,14 +4391,14 @@ body.parismarron-advice{
 
 .aarondan-advice h4 {
 	font-size: 18px;
-	font-family: Garamond, serif;
+	font-family: 'Garamond', serif;
 	color: #0a4c1f;
 	text-align: left;
 }
 
 .aarondan-advice p {
 	font-size: 14px;
-	font-family: Garamond, serif;
+	font-family: 'Garamond', serif;
 	text-align: left;
 }
 
