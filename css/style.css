@@ -857,7 +857,7 @@ border-radius:0 5px 5px 0;}
 
 /**** TIARA IS STYLISH maybe ****/
 
-.tiara-advice-ahoy {  
+.tiara-advice-ahoy {
 	border: 1px solid #B62084;
 	background-color:#CD96CD;
 	color:#B62084;
@@ -922,7 +922,7 @@ border-radius:0 5px 5px 0;}
 
 /** davida's style **/
 
-.davida-advice {  
+.davida-advice {
 	border: 1px solid #737CA1;
 	border-radius: 20px;
 	background-color: #F0F8FF;
@@ -965,4 +965,18 @@ border-radius:0 5px 5px 0;}
 
 .nelson-advice h4{
     color: black;
+}
+
+/* liz's styles */
+
+.liz-advice h4 {
+	color: lightseagreen;
+}
+
+.liz-advice h1 {
+	color: slategray;
+}
+
+.liz-advice {
+	font-family: cursive;
 }
