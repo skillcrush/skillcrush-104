@@ -4058,6 +4058,35 @@ body.parismarron-advice{
 	text-align: left;
 	font-family: serif;
 }
+/** Sakena Jwan Washington's Styles **/
+.sakenajwan-advice {
+	background-color: #FAFAF7;
+}
+.sakenajwan-advice a {
+	color: #ABABA7;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.sakenajwan-advice h1 {
+	color: #BD7DB5;
+	font-family: 'Abhaya Libre', serif;
+}
+
+.sakenajwan-advice h2 {
+	color: #2d5986;
+	font-family: 'Abhaya Libre', serif;
+}
+
+.sakenajwan-advice {
+	color: #6D7DA3;
+	font-family: 'Abhaya Libre', serif;
+	font-size: 20px
+}
+
+.sakenajwan-advice footer p {
+	color: #ABABA7;
+}
 
 /* End cotterpinx Styles */
 
