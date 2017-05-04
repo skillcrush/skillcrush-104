@@ -4549,3 +4549,41 @@ Chrizzit's Advice Styles
 	clear: both;
 	padding: 10px 0 0 150px;
 }
+
+/*Begin Lauren Togie's Styles */
+
+.laurentogie-advice body, html{
+	background: #D9F6FF;
+	width:60%;
+	padding-left: 20%;
+	font-family: 'Eczar', serif;
+}
+
+.laurentogie-advice h1 {
+	color: #000000;
+}
+
+.laurentogie-advice h4 {
+	color: #000000;
+	font-family: 'Eczar', serif;
+	font-size: 1.2em;
+}
+
+.laurentogie-advice p {
+	color: #00789D;
+}
+
+.laurentogie-advice a:link, a:visited {
+    background-color: #00789D;
+    color: white;
+    padding: 10px 21px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+
+.laurentogie-advice a:hover, a:active {
+    background-color: #00C3FF;
+}
+
+/* End Lauren Togie's Styles */
