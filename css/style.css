@@ -4587,3 +4587,23 @@ Chrizzit's Advice Styles
 }
 
 /* End Lauren Togie's Styles */
+
+/* Marina's Styles */
+
+.advice-marina-snyder p {
+	text-align: center;
+}
+.advice-marina-snyder p, a, h1, h4 {
+	font-family: sans-serif;
+}
+.advice-marina-snyder h1 {
+	font-size: 2em;
+}
+.advice-marina-snyder h4 {
+	font-size: 1.3em;
+}
+.advice-marina-snyder a {
+	text-decoration: none;
+}
+
+/* End of Marina's Styles */
