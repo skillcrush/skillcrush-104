@@ -1,0 +1,29 @@
+/* Nicolef's styles */
+.nicolef-advice body{
+	background-color: #F0F8FF;
+	padding: 50px;
+}
+
+.nicolef-advice div {
+	background-color: #FFB6C1;
+	margin: 5px;
+	padding: 10px;
+}
+
+.nicolef-advice h1{
+	font-size: 30px;
+	color: #C71585;
+	text-align: center;
+	padding-bottom: 10px;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.nicolef-advice h4{
+	font-size: 25px;
+	color: SlateBlue;
+font-family: 'Rokkitt', serif;
+}
+
+.nicolef-advice p{
+	font-family: 'Varela Round', sans-serif;
+}

@@ -1,0 +1,30 @@
+body {
+  background-color: #bf765e;
+}
+
+h1 {
+  font-family: Open Sans, sans-serif;
+  text-align: center;
+  color: #4f3938;
+  font-weight: bold;
+}
+
+h4 {
+  font-family: Open sans, sans-serif;
+  font-size: 24px;
+  text-align: center;
+  color: #4f3938;
+  }
+
+p {
+  font-family: Open Sans, sans-serif;
+  font-style: italics;
+  color: #82706f;
+  text-align: center;
+}
+
+.advice {
+  border: 1px solid #82706f;
+  margin: 50px;
+  padding: 30px;
+}
