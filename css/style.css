@@ -4301,6 +4301,7 @@ body.parismarron-advice{
 
 /* End Biskitcrumb's Styles */
 
+<<<<<<< HEAD
 /* Start Katie Hart's styles */
 .katiehart-advice {
 	background-color: #FFE186;
@@ -4689,3 +4690,46 @@ Chrizzit's Advice Styles
 }	
 	
 /* End Erika's Styles */
+
+/* Cara's Styles */
+
+
+.caraslavens-advice body {
+	
+}
+.caraslavens-advice body, html{
+	background: #ccffe6;
+	
+}
+
+.caraslavens-advice h1 {
+	color: rgba(255,255,255,.9)
+}
+
+
+.caraslavens-advice .frame {
+	background-color: #66ffb3;
+	padding: 20px;
+	max-width: 80%;
+	margin: 0 auto;
+	border-radius: 10px;
+}
+
+.caraslavens-advice h4 {
+	color: #00995c;
+	font-size: 1.3em;
+	text-align: left;
+	padding: 15px 10px 10px 0px;
+}
+
+.caraslavens-advice footer {
+	padding-top: 20px;
+	font-size: .7em;
+}
+
+.caraslavens-advice header, a {
+	color: #00995c;
+	size: .7em;
+}
+
+/* End Cara's Styles */
