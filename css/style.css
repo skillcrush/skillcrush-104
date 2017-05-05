@@ -1,4 +1,51 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+
+/* Kwags' Styles */
+
+
+.kwags-advice {
+  background-color: #494e6b;
+  color: white;
+  margin: 40px;
+}
+
+.kwags-advice h1{
+  font-family: 'Josefin Slab', serif;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  line-height: 1.25em;
+}
+
+.kwags-advice h4{
+  font-family: 'Raleway', sans-serif;
+  text-transform: uppercase;
+  font-weight: normal;
+  color: #8fd9ea;
+  font-size: 1.25em;
+  line-height: 2em;
+}
+
+.kwags-advice p{
+  font-family: 'Raleway', sans-serif;
+  color: white;
+}
+
+.kwags-advice span{
+  font-weight: 700;
+}
+
+.kwags-advice a{
+  font-size: .75em;
+  color: #98878f;
+  text-decoration: none;
+}
+
+.kwags-advice footer{
+  font-size: .75em;
+}
+
+
 /* Judith's Styles */
 .judith-advice{
     width: 100%;
@@ -60,7 +107,7 @@
     background-color: ghostwhite;
     font-family: sans-serif;
     margin: 0 auto;
-    
+
 }
 .ozge-advice a {
     text-decoration: none;
@@ -83,7 +130,7 @@
     text-align: left;
 }
 .ozge-advice footer {
-    color: #00008B; 
+    color: #00008B;
     text-align: center;
     font-size: 13px;
     font-style: italic;
@@ -121,9 +168,9 @@
 }
 .advice-hhoefele h2 {
 	color: black;
-	background-color: white;	
+	background-color: white;
 }
-header h1{
+.advice-hhoefele header h1{
 	color: white;
 	background-color: #862d59;
 }
@@ -133,7 +180,7 @@ header h1{
 .advice-hhoefele li{
 	font-size: 18px;
 }
-footer {
+.advice-hhoefele footer {
 	background-color: #862d59;
 	color: white;
 }
@@ -218,7 +265,7 @@ footer {
 .maile-advice h4 {
 	font-size: 1.5em;
 	color: #FF4500;
-} 
+}
 
 /*End Jeff's Styles*/
 
@@ -229,7 +276,7 @@ footer {
 	color: #695d94;
 	font-weight: bold;
 }
-  
+
 /* Adam R's Styles */
 .adam-r-advice {
 	background-color: #000000;
@@ -241,7 +288,7 @@ footer {
 }
 
 .lgpatruyo-advice .advice{
-	background-color: lightblue; 
+	background-color: lightblue;
 }
 
 .lgpatruyo-advice .advice h4{
@@ -287,7 +334,7 @@ footer {
 	text-align: center;
 }
 
-#nadine {
+.nadine-advice #nadine {
 	border-style: dotted;
 	border-color: purple;
 }
@@ -555,7 +602,7 @@ footer {
 }
 
 /*** Eliza Kocken styling***/
-body.elizak-advice {
+.elizak-advice body {
 	font-size: 16px;
 	font-family: "Noto Sans";
 	max-width: 1200px;
@@ -939,7 +986,7 @@ padding: 10px;
 	padding: 0px 80px 0px 80px;
 }
 
-#Kim-foot {
+.kimb-advice #Kim-foot {
 	font-family: Helvetica;
 	font-size: 10px;
 }
@@ -1041,7 +1088,7 @@ padding: 10px;
 /*end Clint Johnson's Styles*/
 
 /**Taiwei's style sheet**/
-html.taiwei-advice{
+.taiwei-advice{
     background: #333 url('https://images.unsplash.com/uploads/14125120591540eb48427/c1c4b1aa?q=80&fm=jpg&s=48e7fdc5e7f701d289b7134d55211768') center center no-repeat;
     background-size: cover;
     color:#532827;
@@ -3075,7 +3122,7 @@ div.alice-advice {
 }
 
 /** Lauren R's Styles **/
-body.laurenr-advice {
+.laurenr-advice body{
 	background-color: #33FFF8;
 	color: #A354D1;
 	font-family: trebuchet MS, sans-serif;
@@ -3992,7 +4039,7 @@ body.parismarron-advice{
 
 /* Joanne's styles */
 
-.joannesullivan-advice body, html {
+.joannesullivan-advice body {
 	background-color: #e6e6ff;
 	padding: 50px;
 }
@@ -4206,7 +4253,7 @@ body.parismarron-advice{
 }
 
 .lisa-advice h4 {
-		color:  #009933; 
+		color:  #009933;
 }
 
 .lisa-advice p {
@@ -4217,11 +4264,11 @@ body.parismarron-advice{
 	background-color:#3366cc;
 	height: 120px;
 	padding-bottom: 20px;
-	color: #e6f7ff;	
+	color: #e6f7ff;
 }
 
 .lisa-advice a {
-	color: #e6f7ff;	
+	color: #e6f7ff;
 	padding: 5px;
 	text-align: center;
 }
@@ -4234,7 +4281,7 @@ body.parismarron-advice{
 
 .lisa-advice footer p {
 	text-align: center;
-	color: 	#ff4d4d;	
+	color: 	#ff4d4d;
 	padding-bottom: 5px;
 }
 /* End Lisa's Styles */
@@ -4500,7 +4547,7 @@ body.parismarron-advice{
 
 /*Start CodeNeophyte's Styles */
 
-.codeneophyte-advice body, html {
+.codeneophyte-advice body {
 	font-family: 'Times New Roman', 'serif';
 	font-size: 18px;
 	background-color: #989898;
@@ -4606,7 +4653,7 @@ Chrizzit's Advice Styles
 
 /*Begin Lauren Togie's Styles */
 
-.laurentogie-advice body, html{
+.laurentogie-advice body{
 	background: #D9F6FF;
 	width:60%;
 	padding-left: 20%;
@@ -4627,11 +4674,11 @@ Chrizzit's Advice Styles
 	color: #00789D;
 }
 
-.laurentogie-advice a:link, a:visited {
+.laurentogie-advice a {
     background-color: #00789D;
     color: white;
     padding: 10px 21px;
-    text-align: center; 
+    text-align: center;
     text-decoration: none;
     display: inline-block;
 }
@@ -4672,20 +4719,20 @@ Chrizzit's Advice Styles
 
 .erocks-advice h4 {
 	padding-top: 10px;
-	
-} 
+
+}
 
 .erocks-advice p {
 	color: red;
 	font-size: 15px;
 	padding: 10px;
 }
-	
+
 .erocks-advice .advice {
 	background-color: white;
 	border-radius: 10px;
 	margin: 20px;
 
-}	
-	
+}
+
 /* End Erika's Styles */
