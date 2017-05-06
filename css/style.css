@@ -4777,3 +4777,14 @@ Chrizzit's Advice Styles
   color: #a5a5a5;
 }
   /**End of debsdavies-advice styles**/
+
+/*** M-valeri's styles ***/
+.mvaleri-advice {
+  text-align:center;
+}
+
+.mvaleri-advice h4 {
+  color:blue;
+}
+
+/*** End M-valeri's styles ***/
