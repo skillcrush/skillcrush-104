@@ -54,6 +54,40 @@
 	font-size: 0.75em;
 }
 
+/**Gladys B's Styles**/
+.gladysbarroga-advice  {
+	color: #484c51;
+	font-family: sans-serif;
+}
+
+.gladysbarroga-advice a {
+	text-decoration: none;
+}
+
+.gladysbarroga-advice #gladys {
+	color: #ff0099;
+}
+
+.gladysbarroga-advice h4 {
+	color: #ff0099;
+}
+
+.gladysbarroga-advice .quote {
+	font-style: italic;
+	margin-left: 20px;
+}
+
+.gladysbarroga-advice footer {
+	background-color: #edf2f9;
+	color: #ff0099;
+	height: 50px;
+	margin-top: 40px;
+	padding-top: 20px;
+	text-align: center;
+}
+/**End Gladys B's Styles**/
+
+
 /** Ozge's Styles **/
 .ozge-advice {
     width: 100%;
