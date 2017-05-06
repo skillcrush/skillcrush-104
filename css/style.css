@@ -228,8 +228,12 @@ footer {
 .rachelcab-advice h4 {
 	color: #695d94;
 	font-weight: bold;
+<<<<<<< HEAD
 }
   
+=======
+
+>>>>>>> 624b9d70bd4675b76946f2485bf2ea5b61abd765
 /* Adam R's Styles */
 .adam-r-advice {
 	background-color: #000000;
@@ -3151,7 +3155,7 @@ body.kristinclement-advice {
 
 /** Dayis Patterson's Styles **/
 body.dayispatterson-advice {
-	background-color: #C4C4C4;
+	z
 	font-family: Times New Roman;
 	text-align: justify;
 	margin-left: 25%;
@@ -4586,6 +4590,7 @@ Chrizzit's Advice Styles
 }
 /**End of musi215 Styles**/
 
+<<<<<<< HEAD
 /* Begin >> Amanda's Styles */
 
 .amandaluu-html {
@@ -4808,3 +4813,24 @@ Chrizzit's Advice Styles
 }
 
 /* -- End Janessa's Styles */
+=======
+/** ddp advice **/
+.ddp-advice body {
+  background: url(http://www.modzen.com/wp-content/uploads/2016/11/canoe.jpg);
+  font-family: Helvetica, sans-serif;
+}
+
+.ddp-advice div {
+text-align: right;
+margin: 50px
+}
+
+.ddp-advice h1 h4 {
+font-family: Lobster, cursive;
+}
+
+.ddp-advice footer{
+  font-size: 14px;
+}
+/** end ddp advice **/
+>>>>>>> 624b9d70bd4675b76946f2485bf2ea5b61abd765
