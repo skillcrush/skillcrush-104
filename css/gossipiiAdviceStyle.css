@@ -1,0 +1,10 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/** Gossipii's Styles **/
+body {
+	background-color: black;
+	color: teal;
+	margin: 20px;
+	font-family: Courier;
+	text-align: center;
+}
