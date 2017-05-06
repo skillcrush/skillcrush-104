@@ -4301,7 +4301,6 @@ body.parismarron-advice{
 
 /* End Biskitcrumb's Styles */
 
-<<<<<<< HEAD
 /* Start Katie Hart's styles */
 .katiehart-advice {
 	background-color: #FFE186;
@@ -4733,3 +4732,20 @@ Chrizzit's Advice Styles
 }
 
 /* End Cara's Styles */
+
+/**Evey's Styles**/
+.evey-advice {
+	font-family: sans-serif;
+	background-color: #ffffcc;
+}
+
+.evey-advice h4 {
+	font-size: 45px;
+	color: #5c00e6;
+}
+
+.evey-advice p {
+	font-size: 28px;
+	color: #006600;
+}
+/**End of evey Styles**/
