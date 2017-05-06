@@ -228,12 +228,8 @@ footer {
 .rachelcab-advice h4 {
 	color: #695d94;
 	font-weight: bold;
-<<<<<<< HEAD
 }
   
-=======
-
->>>>>>> 624b9d70bd4675b76946f2485bf2ea5b61abd765
 /* Adam R's Styles */
 .adam-r-advice {
 	background-color: #000000;
@@ -4590,7 +4586,6 @@ Chrizzit's Advice Styles
 }
 /**End of musi215 Styles**/
 
-<<<<<<< HEAD
 /* Begin >> Amanda's Styles */
 
 .amandaluu-html {
@@ -4813,7 +4808,7 @@ Chrizzit's Advice Styles
 }
 
 /* -- End Janessa's Styles */
-=======
+
 /** ddp advice **/
 .ddp-advice body {
   background: url(http://www.modzen.com/wp-content/uploads/2016/11/canoe.jpg);
@@ -4833,4 +4828,39 @@ font-family: Lobster, cursive;
   font-size: 14px;
 }
 /** end ddp advice **/
->>>>>>> 624b9d70bd4675b76946f2485bf2ea5b61abd765
+
+/*Margaret's Styles*/
+.margaretles-advice {
+		font-family: "Circular",sans-serif;
+
+}
+.margaretles-advice h1 {
+		color: #637AFA;
+		font-size: 45px;
+		padding-bottom: 5px;
+}
+.margaretles-advice section {
+	width: 850px;
+	margin: 0	auto;
+}
+
+.margaretles-advice .advice {
+	padding: 10px;
+	border: 1px solid blue;
+	border-radius: 8px;
+	background: #cccccf;
+	text-align: center;
+	margin: 20px 0px;
+}
+.margaretles-advice .advice h4 {
+	font-family: "Arima Madurai",sans-serif;
+	color: #0e0e0f;
+	font-size: 30px;
+	margin: 25px 0px 20px 0px;
+}
+
+.margaretles-advice .advice p {
+	font-size: 19px;
+}
+
+/*End of Margaret's Style*/
