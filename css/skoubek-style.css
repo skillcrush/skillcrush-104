@@ -4635,12 +4635,39 @@ Chrizzit's Advice Styles
 }	
 	
 /* End Erika's Styles */
-.skoubek-advice {
-	color: #cce6ff;
+/* Stephanie's Styles */
+.skoubek-advice a {
+	color: #424242;
+	font-family: "Source Sans Pro", sans-serif;
+	font-size: 16px;
+}
+.skoubek-advice h1 {
+	font-family: "Slabo 27px", serif;
+	font-size: 50px;
+	color: #424242;
+	line-height: 70px;
+	text-align: center;
+	margin: 0 auto;
 }
 
-.skoubek-advice p{
-	color: dark blue;
+.skoubek-advice h4 {
+	font-family: "Slabo 27px", serif;
+	font-size: 32px;
+	color: #424242;
+	margin: 0 auto;
+	padding-top: 20px;
 }
-.skoubek-advice h1{}
-.skoubek-advice h4{}
+
+
+
+.skoubek-advice p {
+	font-family: "Source Sans Pro", sans-serif;
+	color: #424242;
+	font-size: 24px;
+}
+
+.skoubek-advice section {
+	width: 1050px;
+	margin: 0 auto;
+	padding: 50px 0 50px 0;
+}
