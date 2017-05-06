@@ -60,7 +60,7 @@
     background-color: ghostwhite;
     font-family: sans-serif;
     margin: 0 auto;
-    
+
 }
 .ozge-advice a {
     text-decoration: none;
@@ -83,7 +83,7 @@
     text-align: left;
 }
 .ozge-advice footer {
-    color: #00008B; 
+    color: #00008B;
     text-align: center;
     font-size: 13px;
     font-style: italic;
@@ -121,7 +121,7 @@
 }
 .advice-hhoefele h2 {
 	color: black;
-	background-color: white;	
+	background-color: white;
 }
 header h1{
 	color: white;
@@ -218,7 +218,7 @@ footer {
 .maile-advice h4 {
 	font-size: 1.5em;
 	color: #FF4500;
-} 
+}
 
 /*End Jeff's Styles*/
 
@@ -241,7 +241,7 @@ footer {
 }
 
 .lgpatruyo-advice .advice{
-	background-color: lightblue; 
+	background-color: lightblue;
 }
 
 .lgpatruyo-advice .advice h4{
@@ -4749,3 +4749,13 @@ Chrizzit's Advice Styles
 	color: #006600;
 }
 /**End of evey Styles**/
+
+/**debsdavies-advice styles**/
+.debsdavies-advice{
+  font-size: 60px;
+  font-family: sans-serif;
+  background-color: #bdcc01;
+  text-align: center;
+  color: #a5a5a5;
+}
+  /**End of debsdavies-advice styles**/
