@@ -112,7 +112,40 @@
     font-size: 20px;
 }
 
+/** Nicole's Styles **/
+.nicole-advice {
+    width: 100%;
+    background-color: ghostwhite;
+    font-family: serif;
+    margin: 0 auto;
 
+}
+.nicole-advice a {
+    text-decoration: none;
+    color: #493267;
+    font-weight: bold;
+}
+.nicole-advice h1 {
+    color: #9e379f;
+    font-weight: bold;
+    text-align: left;
+}
+.nicole-advice h4 {
+    font-family: serif;
+    font-size: 48px;
+    text-align: left;
+    color: #e86af0;
+}
+.nicole-advice p {
+    color:#7bb3ff;
+    text-align: left;
+}
+.nicole-advice footer {
+    color: #00008B;
+    text-align: center;
+    font-size: 13px;
+    font-style: italic;
+}
 
 
 /** Ozge's Styles **/
