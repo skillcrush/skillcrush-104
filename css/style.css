@@ -5024,3 +5024,17 @@ font-family: Lobster, cursive;
     font-style: italic;
 }
 /**End of Omari's Styles**/
+
+/** Natalierose's Styles **/
+.natalierose-advice body, section{
+  font-family: Helvetica, sans-serif;
+	background-color: #66ffcc;
+  }
+
+  .natalierose-advice h1{
+  text-align: center;
+  font-size: 30px;
+  }
+
+
+/** End of Natalierose's Styles**/
