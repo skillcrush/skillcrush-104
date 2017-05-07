@@ -148,6 +148,16 @@
 }
 
 
+/* Cameron's styles */
+.cameronwebb-advice h1 {
+  color: gray;
+}
+
+.cameronwebb-advice h4 {
+  color: magenta;
+  text-transform: uppercase;
+}
+
 /** Ozge's Styles **/
 .ozge-advice {
     width: 100%;
