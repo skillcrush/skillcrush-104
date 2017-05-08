@@ -332,7 +332,6 @@
     font-style: italic;
 }
 
-
 /* Abbey's Styles */
 
 .abbey-advice {
@@ -520,7 +519,6 @@ footer {
 	color: #695d94;
 	font-weight: bold;
 }
-  
 /* Adam R's Styles */
 .adam-r-advice {
 	background-color: #000000;
@@ -4876,6 +4874,7 @@ Chrizzit's Advice Styles
 }
 /**End of musi215 Styles**/
 
+<<<<<<< HEAD
 /* Begin >> Amanda's Styles */
 
 .amandaluu-html {
@@ -5283,3 +5282,20 @@ Jess Wentworth Styles
 }
 
 /** END Amanda D's Styles **/
+
+/** Valerie Valentine's Style **/
+.valentine-advice{
+  font-family: sans-serif;
+}
+.valentine-advice h1{
+  color: salmon;
+  font-style: italic;
+}
+.valentine-advice p{
+  color: darkgray;
+}
+.valentine-advice h4 {
+  font-variant: small-caps;
+  color: salmon;
+}
+/** End of Valerie Valentine's Style **/
