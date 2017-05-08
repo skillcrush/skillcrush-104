@@ -1,5 +1,32 @@
 /** Add a comment at the beginning of your CSS styles with your name **/
 
+/*AlexandraAlex's Styles*/
+
+.alexandraalex.advice{
+	width: 100%;
+	background-color: white;
+	font-family: 'Yrsa', serif;
+	margin: 0 auto;
+}
+.alexandraalex-advice p{
+	color: white;
+}
+.alexandraalex-advice h1{
+	color: white;
+}
+.alexandraalex-advice h4{
+	color: purple;
+	font-size: 18px;
+}
+.alexandraalex-advice footer{
+	background-color: #ffffff;
+}
+.alexandraalex-advice footer p{
+	color: red;
+	font-size: 18px;
+	text-align: center;
+}
+
 /* Judith's Styles */
 .judith-advice{
     width: 100%;
