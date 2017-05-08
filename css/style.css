@@ -272,6 +272,30 @@
 
 /* -- End Abbey's Styles */
 
+/* Momtoast's Styles */
+.melissamatos-advice {
+    background-color: #FEF9E7;
+  }
+.melissamatos-advice p {
+    color: #4A235A;
+    font-family: serif;
+}
+.melissamatos-advice h4 {
+    color: #4A235A;
+    font-family: sans-serif;
+    font-style: bold;
+}
+.melissamatos-advice footer {
+    background-color: #FEF9E7;
+    color: #000000;
+    font-family: sans-serif;
+    font-style: italic;
+}
+.melissamatos-advice header {
+    color: #6C3483;
+    font-family: sans-serif;
+}
+
 /** Helen Hoefele's Styles **/
 .advice-hhoefele {
 	background-color: #cc6699;
