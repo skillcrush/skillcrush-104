@@ -1,4 +1,5 @@
-/** Add a comment at the beginning of your CSS styles with your name**/
+/** Add a comment at the beginning of your CSS styles with your name **/
+
 /* Judith's Styles */
 .judith-advice{
     width: 100%;
@@ -287,6 +288,30 @@ footer {
 	text-transform: uppercase;
 }
 
+/** Tylar Pierson's Styles **/
+.tylarpierson-advice{
+	background-color:#2b2b2b;
+}
+.tylarpierson-advice a{
+	color:black;
+	text-decoration:none;
+	font-weight:bold;
+}
+.tylarpierson-advice h1{
+	color:purple;
+	font-weight:bold;
+}
+.tylarpierson-advice h4{
+	color:black;
+	font-size:16px;
+}
+.tylarpierson-advice p{
+	color:black;
+	font-size:14px;
+}
+.tylarpierson-advice footer p{
+	color:#8b8b8b;
+}
 /** Susanna Wise's Styles **/
 .susannawise-advice {
 	background-color: #33cccc;
@@ -3290,7 +3315,6 @@ body.kristinclement-advice {
 
 /** Dayis Patterson's Styles **/
 body.dayispatterson-advice {
-	z
 	font-family: Times New Roman;
 	text-align: justify;
 	margin-left: 25%;
@@ -5014,7 +5038,7 @@ font-family: Lobster, cursive;
 	font-family: 'times', serif;
   font-style: italic;
 	font-size: 12px;
-	color:##00004d;
+	color: #00004d;
 }
 
 .mamie-advice p {
