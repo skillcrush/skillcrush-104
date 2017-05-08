@@ -104,7 +104,7 @@
     background-color: coral;   
     font-family: sans-serif;
     margin: 0 auto;
-    padding: 100px:
+    padding: 100px;
 }
 
 .clementine-advice h4 {
@@ -211,6 +211,59 @@
 
 .edshort-advice p {
     color: cadetblue;
+}
+
+
+
+
+/** Rachel's Styles **/
+.rachel-advice {
+  width: 90%;
+  background-color:   #deeaee;
+  padding: 10px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.rachel-advice a{
+  text-decoration: none;
+  color: black;
+}
+
+.rachel-advice header h1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.rachel-advice section {
+  display: flex;
+  justify-content: space-around;
+  align-content: center;
+}
+
+.rachel-advice .advice {
+  display: flex;
+  flex-flow: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  width: 45%;
+  background-color: #b1cbbb;
+  padding: 10px;
+  font-size: 1.3rem;
+  color: white;
+}
+
+.rachel-advice .advice h4 {
+  text-transform: uppercase;
+}
+
+.rachel-advice footer {
+  background-color: #eea29a;
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  width: 100%;
 }
 
 
