@@ -297,6 +297,46 @@
   width: 100%;
 }
 
+/**Lisa's Styles **/
+.ldodson-advice {
+	background-color: paleturquoise;
+	font-family: sans-serif;
+    margin-top: 10%;
+	margin-bottom: 10%;
+	margin-left: 20%;
+	margin-right: 20%;
+    border-width: 5px;
+    border-style: solid;
+    padding: 2%;
+}
+
+.ldodson-advice h1 {
+	color: black;
+	font-size: 18px; 
+    text-align: center;
+    
+}
+
+.ldodson-advice h4 {
+	color: red;
+	font-size: 14px;
+    text-decoration: underline;
+}
+
+.ldodson-advice footer {
+    color: blue;
+    font-size: 10px;
+}
+    
+.ldodson-advice header {
+    font-size: 10px;
+  
+}
+  
+ 
+/**End of Lisa's styles **/
+
+
 /** Ozge's Styles **/
 .ozge-advice {
     width: 100%;
