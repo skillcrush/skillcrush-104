@@ -421,6 +421,62 @@
 }
 
 
+
+/** Monika's styles **/
+.monika-advice {
+	width: 100%;
+	margin: 0;
+	font-family: Arial, Verdana, sans-serif;
+	line-height: 1.7em;
+	background-color: #fff;
+	color: #666;
+}
+.monika-advice a:link {
+	font-size: .8em;
+	font-weight: 600;
+	text-decoration: none;
+	color: #333;
+	margin-left: -2.8em;
+}
+.monika-advice a:hover {
+	color: tomato;
+	text-decoration: underline;
+}
+.monika-advice header, section {
+	margin: 0 3em;
+}
+.monika-advice h1, h2 {
+	background-color: #fff;
+	font-family: "Times New Roman", Times, serif;
+	font-weight: 700;
+}
+.monika-advice h1 {
+	padding: .55em 0 .65em 0;
+	color: tomato;
+}
+.monika-advice h2 {
+	color: #666;
+	padding: .25em 0 .3em 0;
+}
+.monika-advice p::first-letter { 
+	float: left; 
+	color: tomato;
+	font-weight: 900;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 3em;
+	padding: .2em .3em .5em 0;
+}
+.monika-advice footer {
+	background-color: tomato;
+	color: #fff;
+	font-family: "Times New Roman", Times, serif;
+	font-size: .85em;
+	font-style: italic;
+	padding: .3em 0 .3em 1em;
+}
+/** end Monika's styles **/
+
+
 /** Ozge's Styles **/
 .ozge-advice {
     width: 100%;
