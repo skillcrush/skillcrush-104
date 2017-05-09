@@ -700,10 +700,7 @@ footer {
 	color: #695d94;
 	font-weight: bold;
 }
-<<<<<<< HEAD
 
-=======
->>>>>>> dad58bcb2ebfda29d366cd52f9064a543f77717f
 /* Adam R's Styles */
 .adam-r-advice {
 	background-color: #000000;
@@ -5059,7 +5056,6 @@ Chrizzit's Advice Styles
 }
 /**End of musi215 Styles**/
 
-<<<<<<< HEAD
 /* Begin >> Amanda's Styles */
 
 .amandaluu-html {
@@ -5491,7 +5487,6 @@ Jess Wentworth Styles
 }
 /** End Oneika's Styles**/
 
-=======
 /** James Smith Styles **/
 .james-advice h1 {
 }
@@ -5508,4 +5503,20 @@ Jess Wentworth Styles
 .james-advice p {
     font-family: 'Georgia';
 }
->>>>>>> dad58bcb2ebfda29d366cd52f9064a543f77717f
+
+/** josephinehuynh's styles **/
+.josephinehuynh-advice header {
+  font-family: 'Josefin Sans';
+  font-weight: bold;
+  font-size: 16px;
+  color: #114d33
+}
+
+.josephinehuynh-advice div h4 {
+  font-family: 'Open Sans';
+  font-size: 28px;
+}
+
+.josephinehuynh-advice div p {
+  font-family: sans-serif;
+}
