@@ -396,6 +396,31 @@
     
 }
 
+/**Katie Gustafson Styles**/
+.katiegustafson-advice {
+	background-color: #D0CFBB;
+  color: black;
+  font-family: 'Lato', sans-serif;
+	font-size: 16px;
+  text-align: center;
+  margin: 10em;
+}
+
+.katiegustafson-advice header {
+  font-weight: none;
+}
+
+.katiegustafson-advice p {
+	text-transform: none;
+}
+
+.katiegustafson-advice footer {
+	text-transform: none;
+  background-color: #D0CFBB;
+  color: black;
+}
+
+
 /** Ozge's Styles **/
 .ozge-advice {
     width: 100%;
@@ -502,6 +527,7 @@ footer {
 	background-color: #862d59;
 	color: white;
 }
+
 
 /**Tatjana Cuhnova Styles**/
 .tatjana-advice {
