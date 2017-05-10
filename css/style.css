@@ -152,6 +152,7 @@
     font-family: sans-serif;
     margin: 0 auto;
 
+<<<<<<< HEAD
 }
 .YWLing-advice a {
     text-decoration: none;
@@ -181,6 +182,11 @@
 }
 
 
+/** Trevs styles */
+	.trevs-advice {
+		text-align: center;
+		color: blue;
+	}
 
 /** Sharvani's Styles **/
 .sharvani-advice {
