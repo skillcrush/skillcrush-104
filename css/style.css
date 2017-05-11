@@ -144,7 +144,6 @@
 .nicole-advice footer {
     color: #00008B;
 }
-/** Add a comment at the beginning of your CSS styles with your name**/
 /** YWLing's Styles **/
 .YWLing-advice {
     width: 100%;
@@ -178,6 +177,66 @@
     font-size: 14px;
     font-style: italic;
 }
+/** katie's  vanmeter Styles **/
+
+.katie-advice .btn{
+
+    text-decoration: none;
+    font-size: 16px;
+    width: 20%;
+    background-color: #21B8B0;
+    border: none;
+    color: white;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 2.5;
+    text-align: center;
+    box-shadow: 2px 2px 0px #CBD6D6;
+    height: 2.5em;
+    display: block;
+}
+.katie-advice .btn:hover{
+    background-color: #1EA8A1;
+}
+
+.katie-advice {
+    width: 100%;
+    background-color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #5e5e6b;
+    text-decoration: none;
+    margin: 3%;
+
+}
+
+.katie-advice h1 {
+    font-family: 'Droid Serif', serif;
+    font-weight: 400;
+    text-align: left;
+}
+
+.katie-advice h1 span{
+    font-family: 'Droid Serif', serif;
+    font-weight: 700;
+    font-style: italic;
+}
+.katie-advice h4 {
+    font-family: 'Droid Serif', serif;
+    font-size: 22px;
+    text-align: left;
+
+}
+.katie-advice p {
+    text-align: left;
+}
+.katie-advice footer {
+    background-color: #21B8B0;
+    color: white;
+    text-align: center;
+    font-size: 13px;
+    font-style: italic;
+}
+/** katie's Styles end **/
 
 
 /** Trevs styles */
@@ -451,17 +510,11 @@
 .katiegustafson-advice p {
 	text-transform: none;
 }
-.maile-advice h4 {
-	font-size: 1.5em;
-	color: #FF4500;
-}
 .katiegustafson-advice footer {
 	text-transform: none;
   background-color: #D0CFBB;
   color: black;
 }
-
-
 
 /** Monika's styles **/
 .monika-advice {
@@ -721,14 +774,6 @@ footer {
 	font-weight: 400;
 	font-size: 1em;
 	background-color: #FF1493;
-	color: #FF4500;
-}
-.maile-advice h1 span{
-	color: #FF4500;
-	font-style: italic;
-}
-.maile-advice h4 {
-	font-size: 1.5em;
 	color: #FF4500;
 }
 
