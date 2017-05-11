@@ -192,7 +192,7 @@
     background-color: ghostwhite;
     font-family: sans-serif;
     margin: 0 auto;
-    
+
 }
 .sharvani-advice a {
     text-decoration: none;
@@ -216,6 +216,9 @@
 }
 .sharvani-advice footer {
     color: #00008B; 
+}
+.ozge-advice footer {
+    color: #00008B;
     text-align: center;
     font-size: 13px;
     font-style: italic;
@@ -266,12 +269,43 @@
 } 
 
 
-
 /***** Ed Short Styles****/
 
 .edshort-advice {
     background-color: bisque;
     font-family: sans-serif;
+}
+
+/*TaVon's Styles*/
+.tavon-advice {
+  background-color: #FFFF00;
+}
+.tavon-advice a {
+  color: black;
+  font-weight: 700;
+}
+.tavon-advice h1 {
+  color: black;
+  text-align: left;
+}
+
+.tavon-advice p {
+  color: black;
+
+}
+
+/** Helen Hoefele's Styles **/
+.advice-hhoefele {
+	background-color: #cc6699;
+}
+.advice-hhoefele a {
+	color:black;
+	text-decoration: none;
+	font-weight: bold;
+}
+.advice-hhoefele h2 {
+	color: black;
+	background-color: white;
 }
 
 .edshort-advice h1 {
@@ -417,7 +451,10 @@
 .katiegustafson-advice p {
 	text-transform: none;
 }
-
+.maile-advice h4 {
+	font-size: 1.5em;
+	color: #FF4500;
+}
 .katiegustafson-advice footer {
 	text-transform: none;
   background-color: #D0CFBB;
