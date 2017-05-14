@@ -5904,3 +5904,14 @@ Jess Wentworth Styles
     font-size: 13px;
     font-style: italic;
 }
+
+/*gretchen's styles*/
+
+.gretchenc-advice p {
+	color: Red;
+}
+
+.gretchenc-advice h4 {
+	font-family: 'Papyrus';
+	text-align: center;
+}
