@@ -45,6 +45,20 @@
 
 /** Jeremy Mwangelwa's Styles END  **/
 
+/** Monica's Styles **/
+.monicaroy-advice {
+    width: 100%;
+    background-color: purple;
+    font-family: sans-serif;
+    margin: 0 auto;
+    
+}
+.monicaroy-advice a {
+    text-decoration: none;
+    color: #0066ff;
+    font-weight: bold;
+}
+
 /** Ozge's Styles **/
 .ozge-advice {
     width: 100%;
