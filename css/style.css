@@ -137,6 +137,35 @@
 }
 
 
+/** Angela's Styles **/
+.angelafoster-advice {
+    width: 100%;
+    background-color: #F1C40F;
+    font-family: sans-serif;
+    margin: 0 auto;
+}
+.angelafoster-advice h1 {
+    color: #512E5F;
+    font-weight: bold;
+    text-align: left;
+}
+.angelafoster-advice h4 {
+    color: #283747;
+    font-weight: bold;
+    text-align: left;
+    font-size: 22px;
+}
+.angelafoster-advice p {
+	font-color: #566573;
+	text-align: left;
+}
+.angelafoster-advice copyright {
+	font-size: 80%;
+	font-color: white;
+	margin-top: 50px;
+	text-align: center;
+}
+
 /** Ozge's Styles **/
 .ozge-advice {
     width: 100%;
