@@ -145,8 +145,8 @@ footer a {
 
 	.tit1 {
 		left: 60%;
-		padding-bottom: 35%;
-		width: 40%;
+		padding-bottom: 37%;
+		width: 41%;
 	}
 
 	.arrow-up {
@@ -187,6 +187,9 @@ footer a {
 		padding-top: 50px;
 	}
 }
+
+
+/* DESKTOP STYLES */
 
 @media all and (min-width: 1024px) {
 
