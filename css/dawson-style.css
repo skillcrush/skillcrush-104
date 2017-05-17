@@ -1,0 +1,54 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/** Dawson's Styles **/
+.dawson-advice {
+    width: 95%;
+    background-color: #000;
+    font-family: sans-serif;
+    margin: 0 auto;
+}
+.dawson-advice body {
+    font-size: 16px;
+}
+.dawson-advice h1, h4 {
+    text-align: center;
+ }
+.dawson-advice h1{
+    color: white;
+    background-color: #862d59;
+    font-size: 2.5em;
+}
+.dawson-advice h4 {
+    color: #FFA500;
+    text-transform: uppercase;
+    font-size: 1.5em;
+}
+.dawson-advice p {
+    color: gray;
+    font-family: serif;
+    font-size: 1.25em;
+}
+.dawson-advice a {
+    text-decoration: none;
+    color: #862d59;
+}
+.dawson-advice a:hover {
+    color: #fff;
+}
+.dawson-advice footer p{
+    background-color: #862d59;
+    color: #fff;
+}

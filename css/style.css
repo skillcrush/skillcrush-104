@@ -1,4 +1,46 @@
-/** Add a comment at the beginning of your CSS styles with your name **/
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/** Lorrie's Styles **/
+.lorriepearson-advice {
+    width: 100%;
+    background-color: #666699;
+    margin-left:10px;
+    margin-right:10px;
+    font-family: sans-serif;
+    color:#efeff5;
+    margin: 0 auto;
+    
+}
+.lorriepearson-advice a {
+    text-decoration: none;
+    color: #0066ff;
+    font-weight: bold;
+}
+.lorriepearson-advice h1 {
+    color:#660033;
+    font-weight: normal;
+    text-shadow: 2px 2px #1f2e2e;
+    text-align: left;
+}
+.lorriepearson-advice h4 {
+    font-family: sans-serif;
+    font-size: 22px;
+    text-align: center;
+    color:#b30059 ;
+    
+}
+.lorriepearson-advice p {
+    color:#efeff5;
+    text-align: left;
+    text-indent: 50px;
+    
+}
+.lorriepearson-advice footer {
+    color: #00008B; 
+    text-align: center;
+    font-size: 13px;
+    font-style: italic;
+}
 
 /* Judith's Styles */
 .judith-advice{
@@ -100,7 +142,7 @@
 	background-color: #ac6294; 
 	height: 200px;
 	padding-top: 10px;  
-
+}
 
 
 /** Ashley Rudy's Styles **/
@@ -202,6 +244,13 @@
 }
 
 
+/**Alessio Style **/
+
+.alessionovi-advice{
+	background-color: orange;
+	font-weight: bold;
+	text-align: center;
+}
 /** Ozge's Styles **/
 .ozge-advice {
     width: 100%;
@@ -235,7 +284,7 @@
     text-align: center;
     font-size: 13px;
     font-style: italic;
-
+}
 /** Taylor315's Styles **/
 .taylor315-advice h1 {
   font-family: sans-serif;
@@ -5951,6 +6000,7 @@ Jess Wentworth Styles
 	font-family: 'Papyrus';
 	text-align: center;
 }
+<<<<<<< HEAD
     
 /*Kali Rogers's Styles */
     
@@ -5958,3 +6008,265 @@ Jess Wentworth Styles
     background-color: purple;
     color: red;    
 }
+=======
+
+/** greenwarrior's Styles **/
+.greenwarrior-advice {
+    width: 100%;
+	background-color: #F5F5F5;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0 auto;
+}
+.greenwarrior-advice a {
+    text-decoration: none;
+    color: #6B8E23;
+    font-weight: bold;
+	
+}
+.greenwarrior-advice h1 {
+    color: #556B2F;
+    font-weight: bold;
+    text-align: left;
+	margin: 20px;
+}
+.greenwarrior-advice h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+    text-align: left;
+    color: #556B2F;
+    margin: 20px;
+}
+.greenwarrior-advice p {
+    color: black;
+    text-align: left;
+	margin: 50px;
+}
+
+.greenwarrior-div{
+	margin: 50px;
+	border: 2px;
+	border-style: dashed;
+	border-width: 5px;
+	border-color: #556B2F;
+	background-color: #88B04B;
+	padding: 10px 10px 10px 10px;
+    border-radius: 20px;
+}
+.greenwarrior-advice footer {
+    color: #6B8E23;
+    text-align: center;
+    font-size: 13px;
+    font-style: italic;
+	background-color: #88B04B;
+}
+/**  end greenwarrior's Styles **/ 
+
+/**Nikki's Styles**/
+
+.nikkiheyman-advice {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 16px;
+  background-color: #f2f2f2;
+}
+
+.nikkiheyman-advice a {
+  text-decoration: none;
+
+}
+
+.nikkiheyman-advice h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.nikkiheyman-advice h4 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+  margin-top: 0px;
+  color: #008ae6;
+}
+
+.nikkiheyman-advice div {
+  text-align: justify;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+/*end nikki's styles */
+
+/** ========== RBN's CSS =========== **/
+.rbn-advice {
+    background-color: #ebebeb;
+    margin: 0;
+    padding: 5px;
+}
+/** ========== End of RBN's CSS =========== **/
+
+/** Flora's Styles **/
+.flora-advice {
+	font-family: verdana;
+	background: skyblue;
+	color: white;
+}
+
+.flora-advice h1, h4 {
+	background-color: navy;
+	color: white;
+}
+
+.flora-advice h4 {
+	font-family: verdana;
+	font-weight: bold;
+}
+
+.flora-advice p {
+	padding: 0 50px 10px 50px;
+}
+
+.flora-advice a {
+	color: navy;
+}
+
+.flora-advice footer {
+	text-align: center;
+	vertical-align: middle;
+	background-color: navy;
+}
+
+/* Start Rhea Marie's Styles */
+.rheamarie-advice h1 {
+	font-size: 36px;
+	font-family: Helvetica;
+	color: #e67300;
+	text-align: center;
+}
+
+.rheamarie-advice h4 {
+	font-size: 14px;
+	font-family: Helvetica;
+	color:  #ffa64d;
+	text-align: center;
+}
+
+.rhemarie-advice p {
+	font-size: 14px;
+	font-family: Helvetica;
+	color:  #ffa64d;
+	text-align: center;
+}
+/* End Rhea Marie's Styles */
+
+/**Rocky Jaeger's Styles**/
+.rockyjaeger-advice {
+font-family: 'Raleway', sans-serif;
+	font-size:16px;
+	border-radius:20px;
+	padding:20px;
+    background-color: #8cd9b8;
+}
+
+.rockyjaeger-advice h1 {
+	font-size:2em;
+	color: #ccc;
+}
+
+.rockyjaeger-advice h4 {
+font-family: 'Roboto Condensed', sans-serif;
+	font-size: 1.5em;
+	color:#fff;
+	letter-spacing: 2px;
+}
+
+.rockyjaeger-advice p {
+	font-family: 'Raleway', sans-serif;
+	font-size:1em;
+	color: #424242;
+}
+
+/**stephschre's Styles**/
+.stephschre-advice h4{
+	color: black;
+	font-size: 45px;
+
+}
+.stephschre-advice {
+	font-family: Helvetica, sans-serif;
+	background-color: lightblue;
+}
+
+/* EJohnson advice styles **/
+.erinjohnson-advice h1 {
+	color: pink;
+	size: 14pt;
+}
+.erinjohnson-advice h4 {
+	color: #69fff7;
+	size: 13px;
+	margin: 10px;
+}
+.erinjohnson-advice p {
+	color: #FF69B4;
+	size: 11px;
+	margin: 10px;
+}
+.erinjohnson-advice {
+	background-color: black;
+}
+.erinjohnson-advice a {
+	text-decoration: none;
+	color: blue;
+}
+/** end EJohnson advice styles **/
+
+/*BEGINNING of Lea's Styles*/
+body.leacamara-advice {
+	color: #1c2642;
+	font-family: Helvetica, sans-serif;
+}
+
+.leacamara-advice h1 {
+	color: #d1e8f1;
+	background-color: #1c2642;
+	padding: 1%;
+	font-family: 'Julius Sans One', sans-serif;
+}
+
+.leacamara-advice h4 {
+	text-align: left;
+	color: #d1e8f1;
+	font-family: 'Julius Sans One', sans-serif;
+}
+
+.leacamara-advice footer {
+	background: #1c2642;
+}
+/*END of Lea's Styles*/
+
+/**Sarahz's Styles**/
+.sarahz-advice{
+  background: #dbf0ec;
+  padding: 20px;
+}
+.sarahz-advice h1{
+  background:none;
+  color:	#da5e0b;
+  font-family: 'Proza Libre', sans-serif;
+  font-size: 45pt;
+  text-shadow: #222 2px 2px 6px;
+  border-bottom: dotted 1px #491f04;
+}
+.sarahz-advice h4{
+  font-family: 'Proza Libre', sans-serif;
+  color: #f47825;
+  text-shadow: #222 .5px .5px 1px;
+}
+.sarahz-advice p{
+  text-align: center;
+}
+.sarahz-advice footer{
+  background: #da5e0b;
+}
+/**End Sarahz Styles**/
+>>>>>>> master

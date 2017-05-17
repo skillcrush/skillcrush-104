@@ -1,0 +1,29 @@
+body {
+  margin: 40px;
+  font-family: Lato, sans-serif;
+}
+
+a {
+  font-size: 10px;
+  background-color: #3e3e3e;
+  color: white;
+  padding: 5px;
+  text-decoration: none;
+}
+
+h1 {
+  text-align: center;
+  font-size: 40px;
+  color: #3e3e3e
+}
+
+h4 {
+  color: orange;
+  font-weight: 800;
+  font-size: 18px;
+}
+
+footer {
+  text-align: right;
+  font-size: 10px;
+}
