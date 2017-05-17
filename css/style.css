@@ -1,4 +1,32 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+/** Debra's Styles **/
+.debra-advice {
+    width: 100%;
+    background-color: antiquewhite;
+    font-family: serif;
+    margin: 0 auto;   
+}
+.debra-advice h1 {
+    color: darkblue;
+    font-weight: bold;
+    text-align: left;
+}
+.debra-advice h4 {
+    font-family: serif;
+    font-size: 22px;
+    text-align: left;
+    color: palevioletred;
+}
+.debra-advice p {
+    color:#00008B;
+    text-align: left;
+}
+.debra-advice footer {
+    color: #00008B; 
+    text-align: center;
+    font-size: 13px;
+    font-style: italic;
+}
 
 /** Lorrie's Styles **/
 .lorriepearson-advice {
