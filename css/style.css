@@ -6127,7 +6127,6 @@ Jess Wentworth Styles
 }
 
 /* Start Rhea Marie's Styles */
-
 .rheamarie-advice h1 {
 	font-size: 36px;
 	font-family: Helvetica;
@@ -6148,7 +6147,6 @@ Jess Wentworth Styles
 	color:  #ffa64d;
 	text-align: center;
 }
-
 /* End Rhea Marie's Styles */
 
 /**Rocky Jaeger's Styles**/
@@ -6176,4 +6174,15 @@ font-family: 'Roboto Condensed', sans-serif;
 	font-family: 'Raleway', sans-serif;
 	font-size:1em;
 	color: #424242;
+}
+
+/**stephschre's Styles**/
+.stephschre-advice h4{
+	color: black;
+	font-size: 45px;
+
+}
+.stephschre-advice {
+	font-family: Helvetica, sans-serif;
+	background-color: lightblue;
 }
