@@ -6150,3 +6150,30 @@ Jess Wentworth Styles
 }
 
 /* End Rhea Marie's Styles */
+
+/**Rocky Jaeger's Styles**/
+.rockyjaeger-advice {
+font-family: 'Raleway', sans-serif;
+	font-size:16px;
+	border-radius:20px;
+	padding:20px;
+    background-color: #8cd9b8;
+}
+
+.rockyjaeger-advice h1 {
+	font-size:2em;
+	color: #ccc;
+}
+
+.rockyjaeger-advice h4 {
+font-family: 'Roboto Condensed', sans-serif;
+	font-size: 1.5em;
+	color:#fff;
+	letter-spacing: 2px;
+}
+
+.rockyjaeger-advice p {
+	font-family: 'Raleway', sans-serif;
+	font-size:1em;
+	color: #424242;
+}
