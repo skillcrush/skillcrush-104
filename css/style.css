@@ -6186,3 +6186,27 @@ font-family: 'Roboto Condensed', sans-serif;
 	font-family: Helvetica, sans-serif;
 	background-color: lightblue;
 }
+
+/* EJohnson advice styles **/
+.erinjohnson-advice h1 {
+	color: pink;
+	size: 14pt;
+}
+.erinjohnson-advice h4 {
+	color: #69fff7;
+	size: 13px;
+	margin: 10px;
+}
+.erinjohnson-advice p {
+	color: #FF69B4;
+	size: 11px;
+	margin: 10px;
+}
+.erinjohnson-advice {
+	background-color: black;
+}
+.erinjohnson-advice a {
+	text-decoration: none;
+	color: blue;
+}
+/** end EJohnson advice styles **/
