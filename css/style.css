@@ -6093,5 +6093,35 @@ Jess Wentworth Styles
     margin: 0;
     padding: 5px;
 }
-
 /** ========== End of RBN's CSS =========== **/
+
+/** Flora's Styles **/
+.flora-advice {
+	font-family: verdana;
+	background: skyblue;
+	color: white;
+}
+
+.flora-advice h1, h4 {
+	background-color: navy;
+	color: white;
+}
+
+.flora-advice h4 {
+	font-family: verdana;
+	font-weight: bold;
+}
+
+.flora-advice p {
+	padding: 0 50px 10px 50px;
+}
+
+.flora-advice a {
+	color: navy;
+}
+
+.flora-advice footer {
+	text-align: center;
+	vertical-align: middle;
+	background-color: navy;
+}
