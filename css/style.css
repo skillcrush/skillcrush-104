@@ -6288,3 +6288,31 @@ body.leacamara-advice {
   background: #da5e0b;
 }
 /**End Sarahz Styles**/
+
+/**Tessa Styles**/
+
+.tessabrandt-advice {
+	font-family: sans-serif;
+	color: plum;
+	text-align: center;
+}
+
+.tessabrandt-advice header h1 {
+	background-color: plum;
+}
+
+.tessabrandt-advice h4 {
+	color: #ddd;
+	font-size: 1.5em;
+	text-transform: uppercase;
+}
+
+.tessabrandt-advice a {
+	color: plum;
+}
+
+.tessabrandt-advice footer {
+	background-color: plum;
+}
+
+/**end-Tessa**/
