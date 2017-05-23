@@ -76,11 +76,7 @@
     color:#00008B;
     text-align: left;
 }
-<<<<<<< HEAD
 .debra-advice footer {
-=======
-.ozge-advice footer {
->>>>>>> 752ea548352186dec65736929c9258295007bfcb
     color: #00008B;
     text-align: center;
     font-size: 13px;
@@ -6103,3 +6099,33 @@ body.leacamara-advice {
 	font-family: "Century Gothic"
 }
 /*End kaitlepack's styles*/
+
+/** Andrea's Styles **/
+.andreamacias-advice {
+    width: 100%;
+    background-color: #778899;
+    font-family: serif;
+    margin: 0 auto;   
+}
+.andreamacias-advice h1 {
+    color: black;
+    font-weight: bold;
+    text-align: left;
+}
+.andreamacias-advice h4 {
+    font-family: serif;
+    font-size: 22px;
+    text-align: left;
+    color: black;
+}
+.andreamacias-advice p {
+    color: black;
+    text-align: left;
+}
+.andreamacias-advice footer {
+    color: #00008B; 
+    text-align: center;
+    font-size: 13px;
+    font-style: italic;
+}
+/*** End Andrea's Styles**/
