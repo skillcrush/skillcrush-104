@@ -193,7 +193,6 @@ footer {
 	font-weight: 700;
 	color: #fff;
 	}
-
 .suzis-advice footer {
 	text-align: center;
 	margin-top: 200px;
@@ -201,7 +200,6 @@ footer {
 	height: 200px;
 	padding-top: 10px;
 }
-
 
 /** Ashley Rudy's Styles **/
 
@@ -259,7 +257,7 @@ footer {
 	font-color: #566573;
 	text-align: left;
 }
-.angelafoster-advice copyright {
+.angelafoster-advice .copyright {
 	font-size: 80%;
 	font-color: white;
 	margin-top: 50px;
