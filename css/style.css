@@ -1,4 +1,51 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+/* Dan's Styles */
+* .dans-advice {
+	font-family: 'Merriweather', serif;
+	width: 90%;
+	max-width: 1200px;
+	background-color: oldlace;
+}
+
+.dans-advice button {
+	background-color: black;
+	border-style: outset;
+}
+
+.dans-advice a {
+	color: white;
+	text-decoration: none;
+
+}
+
+.dans-advice h1 {
+	font-family: 'Lobster Two', cursive;
+	font-size: 48px;
+	padding: 25px, 25px, 30px, 0;
+	font-style: bolder;
+
+}
+
+.dans-advice h4 {
+	font-family: 'lobster two', cursive;
+	font-size: 30px;
+	color: lightslategray;
+	text-transform: lowercase;
+	text-decoration: underline;
+}
+.dans-advice p {
+	text-align: justify;
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 18px;
+}
+
+.dans-advice footer {
+	padding-top: 50px;
+	color: lightgray;
+}
+
+
+
 /** Loryn's Styles **/
 .loryns-advice {
 	background-color: #728e96;
@@ -389,7 +436,7 @@ header h1{
  .sarahcyr-advice .footnote{
  	font-weight: bold;
  	font-style: italic;
- 	
+
  }
 
 /** Ozge's Styles **/
