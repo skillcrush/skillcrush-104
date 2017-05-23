@@ -6239,30 +6239,8 @@ body.leacamara-advice {
 }
 .andreamacias-advice footer {
     color: #00008B; 
+  }
 /*** End Andrea's Styles**/
-
-/** Natalierose's Styles **/
-.natalierose-advice body, section{
-  font-family: Helvetica, sans-serif;
-	background-color: #66ffcc;
-  }
-
-  .natalierose-advice h1{
-  text-align: center;
-  font-size: 30px;
-  }
-
-
-/** End of Natalierose's Styles**/
-
-/* =======================
-Jess Wentworth Styles
-==========================*/
-.jesswentworth-advice h4 {
-  font-size: 45px;
-  font-weight: bold;
-	color: #5c00e6;
-}
 
 /***Carinn's styles***/
 .advice-carinn p {
@@ -6277,4 +6255,18 @@ Jess Wentworth Styles
     font-style: italic;
     font-size: .75em;
     padding: 10px 0;
+}
+
+/* liz's styles */
+
+.liz-advice h4 {
+	color: lightseagreen;
+}
+
+.liz-advice h1 {
+	color: slategray;
+}
+
+.liz-advice {
+	font-family: cursive;
 }
