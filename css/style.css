@@ -28,6 +28,67 @@
 }
 
 /* Judith's Styles */
+.juliette-advice header a {
+	color: black;	
+	background-color: #ccffe6;
+	padding: 10px 10px;
+	font-family: 'Quicksand', sans-serif;
+}
+
+.juliette-advice h1 {
+	background-color: #ccffe6;
+	padding: 40px 0;
+	color: #00331a;
+	font-size: 30px;
+	font-family: 'Quicksand', sans-serif;
+}
+
+.juliette-advice h4{
+    color: #00994f;
+    font-size: 24px;
+    font-family: 'Quicksand', sans-serif;
+    border-bottom: black solid 1px;
+    padding: 10px 0px;
+}
+
+.juliette-advice p{
+    color: black;
+    font-size: 18px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.juliette-advice footer{
+	background-color: #ccffe6;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+
+}
+
+/*
+
+.juliette-advice p{
+    color: white;
+}
+.juliette-advice h1{
+    color: white;
+}
+.juliette-advice h4{
+    color: yellow;
+    font-size: 24px;
+}
+.juliette-advice footer{
+    background-color: aquamarine;
+}
+.juliette-advice footer p{
+    color: blue;
+    font-size: 20px;
+    text-align: center;
+}
+
+*/
+
+
+/* Judith's Styles */
 .judith-advice{
     width: 100%;
     background-color: blue;
