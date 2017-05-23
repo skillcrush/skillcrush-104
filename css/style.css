@@ -4,7 +4,7 @@
     width: 100%;
     background-color: antiquewhite;
     font-family: serif;
-    margin: 0 auto;   
+    margin: 0 auto;
 }
 .debra-advice h1 {
     color: darkblue;
@@ -22,7 +22,7 @@
     text-align: left;
 }
 .debra-advice footer {
-    color: #00008B; 
+    color: #00008B;
     text-align: center;
     font-size: 13px;
     font-style: italic;
@@ -37,7 +37,7 @@
     font-family: sans-serif;
     color:#efeff5;
     margin: 0 auto;
-    
+
 }
 .lorriepearson-advice a {
     text-decoration: none;
@@ -55,20 +55,26 @@
     font-size: 22px;
     text-align: center;
     color:#b30059 ;
-    
+
 }
 .lorriepearson-advice p {
     color:#efeff5;
     text-align: left;
     text-indent: 50px;
-    
+
 }
 .lorriepearson-advice footer {
-    color: #00008B; 
+    color: #00008B;
     text-align: center;
     font-size: 13px;
     font-style: italic;
 }
+
+/** Ashley Habgood Styles **/
+.ashleyhabgood-advice {
+  margin: 0 auto;
+}
+
 
 /* Judith's Styles */
 .judith-advice{
@@ -121,7 +127,7 @@
     background-color: purple;
     font-family: sans-serif;
     margin: 0 auto;
-    
+
 }
 .monicaroy-advice a {
     text-decoration: none;
@@ -133,43 +139,43 @@
 
 
 .suzis-advice {
-	width: 100%; 
-	background-color: #c990b7; 
+	width: 100%;
+	background-color: #c990b7;
 	font-family: 'Raleway', sans-serif;
-	color: #fff; 
+	color: #fff;
 	}
 
-   
-.suzis-advice h1 {   
+
+.suzis-advice h1 {
     font-family: 'Lobster Two', cursive;
-  	text-align: center; 
-  	font-size: 2.25em; 
-  	color: #8d3971; 
-  	}  
-  	
+  	text-align: center;
+  	font-size: 2.25em;
+  	color: #8d3971;
+  	}
+
 .suzis-advice ul {
-	list-style: none; 
+	list-style: none;
 	text-align: center;
-	line-height: 2em; 
-	font-size: 1.5em;  
-	}  	
-	
+	line-height: 2em;
+	font-size: 1.5em;
+	}
+
 .suzis-advice a {
-	color: #e2c0d7; 
-	text-decoration: none; 
-	}	
-	
+	color: #e2c0d7;
+	text-decoration: none;
+	}
+
 .suzis-advice a:hover, .suzis a:active {
-	font-weight: 700; 
-	color: #fff; 
-	}	
-  
+	font-weight: 700;
+	color: #fff;
+	}
+
 .suzis-advice footer {
-	text-align: center; 
-	margin-top: 200px;   
-	background-color: #ac6294; 
+	text-align: center;
+	margin-top: 200px;
+	background-color: #ac6294;
 	height: 200px;
-	padding-top: 10px;  
+	padding-top: 10px;
 }
 
 
@@ -242,7 +248,7 @@
     background-color: tan;
     font-family: georgia;
     margin: 0 auto;
-    
+
 }
 .claralhotak-advice a {
     text-decoration: none;
@@ -265,7 +271,7 @@
     text-align: center;
 }
 .claralhotak-advice footer {
-    color: #fff; 
+    color: #fff;
     text-align: center;
     font-size: 13px;
     font-style: italic;
@@ -285,7 +291,7 @@
     background-color: ghostwhite;
     font-family: sans-serif;
     margin: 0 auto;
-    
+
 }
 .ozge-advice a {
     text-decoration: none;
@@ -308,7 +314,7 @@
     text-align: left;
 }
 .ozge-advice footer {
-    color: #00008B; 
+    color: #00008B;
     text-align: center;
     font-size: 13px;
     font-style: italic;
@@ -388,7 +394,7 @@
 
 
 .clementine-advice {
-  background-color: coral;   
+  background-color: coral;
   font-family: sans-serif;
   margin: 0 auto;
   padding: 100px;
@@ -427,18 +433,18 @@
 /*start of Ace's styles*/
 
 .ace-advice {
-  padding: 30px; 
+  padding: 30px;
 }
 
 .ace-advice a {
-  color: white;  
+  color: white;
   background-color: green;
-  padding: 10px 20px; 
+  padding: 10px 20px;
   border-radius: 50%;
 }
 
 .ace-advice h1 {
-  text-align: center; 
+  text-align: center;
 }
 
 .ace-advice h4 {
@@ -446,17 +452,17 @@
 }
 
 .ace-advice p{
-  text-indent: -20px; 
-  padding-left: 20px; 
+  text-indent: -20px;
+  padding-left: 20px;
 }
 
 .ace-advice footer {
   text-align: center;
-  max-width: 50%; 
-  margin: 0 auto; 
-  padding: 20px; 
+  max-width: 50%;
+  margin: 0 auto;
+  padding: 20px;
   background-color: green;
-  border-radius: 100%; 
+  border-radius: 100%;
 }
 /*End of Ace's styles*/
 
@@ -640,7 +646,7 @@
 }
 
 .sharvani-advice footer {
-  color: #00008B; 
+  color: #00008B;
 }
 
 /* Cameron's styles */
@@ -687,7 +693,7 @@
   font-size: small;
   font-family: Helvetica, Arial, sans-serif;
   font-weight: 300;
-} 
+}
 
 /***** Ed Short Styles****/
 .edshort-advice {
@@ -822,7 +828,7 @@ footer {
 
 .ldodson-advice h1 {
   color: black;
-  font-size: 18px; 
+  font-size: 18px;
   text-align: center;
 }
 
@@ -930,8 +936,8 @@ footer {
   padding: .25em 0 .3em 0;
 }
 
-.monika-advice p::first-letter { 
-  float: left; 
+.monika-advice p::first-letter {
+  float: left;
   color: tomato;
   font-weight: 900;
   font-family: "Times New Roman", Times, serif;
@@ -4575,7 +4581,7 @@ body.parismarron-advice{
   text-align: left;
 }
 .hmtarz-advice footer {
-  color: #000d1a; 
+  color: #000d1a;
   text-align: center;
   font-size: 20px;
   font-style: italic;
@@ -5081,7 +5087,7 @@ body.emilychapman-advice {
 }
 
 .lisa-advice h4 {
-  color:  #009933; 
+  color:  #009933;
 }
 
 .lisa-advice p {
@@ -5092,11 +5098,11 @@ body.emilychapman-advice {
   background-color:#3366cc;
   height: 120px;
   padding-bottom: 20px;
-  color: #e6f7ff;	
+  color: #e6f7ff;
 }
 
 .lisa-advice a {
-  color: #e6f7ff;	
+  color: #e6f7ff;
   padding: 5px;
   text-align: center;
 }
@@ -5109,7 +5115,7 @@ body.emilychapman-advice {
 
 .lisa-advice footer p {
   text-align: center;
-  color: 	#ff4d4d;	
+  color: 	#ff4d4d;
   padding-bottom: 5px;
 }
 /* End Lisa's Styles */
@@ -5510,7 +5516,7 @@ Chrizzit's Advice Styles
   background-color: #00789D;
   color: white;
   padding: 10px 21px;
-  text-align: center; 
+  text-align: center;
   text-decoration: none;
   display: inline-block;
 }
@@ -5551,7 +5557,7 @@ Chrizzit's Advice Styles
 
 .erocks-advice h4 {
   padding-top: 10px;
-} 
+}
 
 .erocks-advice p {
   color: red;
@@ -5563,7 +5569,7 @@ Chrizzit's Advice Styles
   background-color: white;
   border-radius: 10px;
   margin: 20px;
-}	
+}
 /* End Erika's Styles */
 
 /* Cara's Styles */
@@ -5764,7 +5770,7 @@ Chrizzit's Advice Styles
 }
 
 .omari-advice footer {
-  color: #00008B; 
+  color: #00008B;
   text-align: center;
   font-size: 13px;
   font-style: italic;
@@ -5832,7 +5838,7 @@ Jess Wentworth Styles
 }
 
 .asd-advice footer {
-  color: #1E90FF; 
+  color: #1E90FF;
   text-align: center;
   font-size: 13px;
   font-style: italic;
@@ -5904,7 +5910,7 @@ Jess Wentworth Styles
 .puppyburp-advice {
   font-family: sans-serif;
   background-color: #EAF4F7;
-  color: #666666;	
+  color: #666666;
   width: 960px;
   margin: auto;
 }
@@ -5963,7 +5969,7 @@ Jess Wentworth Styles
 }
 
 .sarah-montoro-advice  footer {
-  color: #00008B; 
+  color: #00008B;
   text-align: center;
   font-size: 13px;
   font-style: italic;
@@ -5975,7 +5981,7 @@ Jess Wentworth Styles
   color: red;
 }
 .ace-advice footer {
-  padding: 20px; 
+  padding: 20px;
 }
 /*End of Ace's styles*/
 
@@ -6012,7 +6018,7 @@ Jess Wentworth Styles
 }
 
 .anthonyiasiello-advice footer {
-    color: #00008B; 
+    color: #00008B;
     text-align: center;
     font-size: 13px;
     font-style: italic;
@@ -6040,7 +6046,7 @@ Jess Wentworth Styles
     text-decoration: none;
     color: #6B8E23;
     font-weight: bold;
-	
+
 }
 .greenwarrior-advice h1 {
     color: #556B2F;
@@ -6078,7 +6084,7 @@ Jess Wentworth Styles
     font-style: italic;
 	background-color: #88B04B;
 }
-/**  end greenwarrior's Styles **/ 
+/**  end greenwarrior's Styles **/
 
 /**Nikki's Styles**/
 
