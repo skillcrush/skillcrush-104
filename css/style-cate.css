@@ -1,0 +1,203 @@
+/* Cate's Advice Stylee CSS*/
+/* Global =============================================*/
+
+html {
+	height: 100%;
+}
+.cate-body {
+	display: -webkit-box;   /* OLD: Safari,  iOS, Android browser, older WebKit browsers.  */
+    display: -moz-box;      /* OLD: Firefox (buggy) */
+    display: -ms-flexbox;   /* MID: IE 10 */
+    display: -webkit-flex;  /* NEW, Chrome 21–28, Safari 6.1+ */
+    display: flex;
+	font-family: 'Lato', sans-serif;
+	font-size: 1em;
+	width: 100%;
+	color: #1B3435;
+	margin: 0px;
+	flex-direction: column;
+	min-height: 100%;
+	align-items: flex-start;
+}
+.cate-body p {
+	font-family: 'Lato', sans-serif;
+	margin-top: 0;
+	-webkit-margin-before: 0;
+    -webkit-margin-after: 1em;
+}
+.cate-body h1, 
+.cate-body h2, 
+.cate-body h3 {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #24787F;
+}
+.cate-fill {
+	display: flex;
+	width: 100%;
+	min-height: 5px;
+	flex: 1;
+}
+
+/* Header =============================================*/
+.cate-header-wrapper {
+	background-color: #F0B04D;
+	width: 100%;
+}
+.cate-nav {
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 700;
+	font-size: 0.8em;
+	padding: 1em 0em;   
+    text-transform: uppercase;
+}
+	.cate-nav a {
+		color: #333333;
+		text-decoration: none;
+	}
+		.cate-nav a:hover {
+			color: red;
+	}
+
+/* Main =============================================*/
+
+.cate-container {
+	display: flex;
+	flex-direction: column;
+	width: 94%;
+	margin: 0 auto auto;
+	max-width: 960px;
+	height: 100%;
+}
+	/* Top Container =============================================*/
+	.cate-top-container {
+  		display: -webkit-box;   /* OLD: Safari,  iOS, Android browser, older WebKit browsers.  */
+	    display: -moz-box;      /* OLD: Firefox (buggy) */
+	    display: -ms-flexbox;   /* MID: IE 10 */
+	    display: -webkit-flex;  /* NEW, Chrome 21–28, Safari 6.1+ */
+	    display: flex;
+		flex-flow: row wrap;
+		align-items: flex-start;
+	}
+	@media screen and (min-width: 960px) {	  	
+	  	.cate-top-contianer {
+	  		display: -webkit-box;   /* OLD: Safari,  iOS, Android browser, older WebKit browsers.  */
+		    display: -moz-box;      /* OLD: Firefox (buggy) */
+		    display: -ms-flexbox;   /* MID: IE 10 */
+		    display: -webkit-flex;  /* NEW, Chrome 21–28, Safari 6.1+ */
+		    display: flex;  
+			flex-flow: row wrap;
+		}
+	}
+		.cate-title {
+			width: 100%;
+		}
+			.cate-title h1 {
+				font-size: 3em;
+			    margin-bottom: 0;
+			    margin-top: 0.5em;
+			}
+			.cate-title h2 {
+				font-style: italic;
+				font-size: 2em;
+				margin-top: 0;
+			}
+		.cate-top-img {
+			width: 80%;
+			margin: auto auto 1em;
+		}
+		.cate-top-img img {
+			width: 100%;
+		}
+		@media screen and (min-width: 960px) {
+			.cate-top-img {
+				margin: 0px 0px 0px 60px;
+			    order: 3;
+			    max-width: 260px;
+			}
+		}
+		.cate-intro {
+			display: flex;
+			flex-direction: column;
+			align-items: flex-start;
+		}
+		.cate-intro ol {
+			list-style-type: upper-latin;
+			margin-left: 2em;
+		}
+		@media screen and (min-width: 960px) {
+			.cate-intro {
+				flex: 1;
+				order: 2;
+				font-size: 1em;
+			}
+		}
+
+	/* Bottom Container =============================================*/
+	.cate-bottom-container {
+		display: -webkit-box;   /* OLD: Safari,  iOS, Android browser, older WebKit browsers.  */
+	    display: -moz-box;      /* OLD: Firefox (buggy) */
+	    display: -ms-flexbox;   /* MID: IE 10 */
+	    display: -webkit-flex;  /* NEW, Chrome 21–28, Safari 6.1+ */
+	    display: flex;  
+		flex-direction: column;
+		justify-content: center;
+		border-top: none;
+	}
+		.cate-bottom-container h3 {
+			font-size: 2em;
+			margin-bottom: 0;
+		}
+		.cate-flex-item {
+			border-top: 2px solid #F0B04D;
+			margin-top: 1em;
+		}
+	@media screen and (min-width: 960px) {
+		.cate-bottom-container {
+			display: -webkit-box;   /* OLD: Safari,  iOS, Android browser, older WebKit browsers.  */
+		    display: -moz-box;      /* OLD: Firefox (buggy) */
+		    display: -ms-flexbox;   /* MID: IE 10 */
+		    display: -webkit-flex;  /* NEW, Chrome 21–28, Safari 6.1+ */
+		    display: flex;  
+			flex-direction: row;
+			justify-content: space-between;
+			border-top: 2px solid #F0B04D;
+		}
+			.cate-bottom-container h3 {
+			font-size: 1.5em;
+			margin-bottom: 0.5em;
+			text-align: center;
+			}
+			.cate-bottom-container p {
+				font-size: 1em;
+			}
+			.cate-flex-item {
+				border-top: 0px;
+				margin-top: 0em;
+				padding-bottom: 1em;
+				width: 30%;
+			}
+			.cate-div-1,
+			.cate-div-2 {
+				border-right: 2px solid #F0B04D;
+				padding-right: 2.5%;
+			}
+	}
+
+
+/* Footer =============================================*/
+.cate-footer-wrapper {
+	width: 100%;
+	clear: both;
+	background-color: #E26A5D;
+}
+.cate-footer-wrapper p {
+	padding: 0.5em;
+	margin-top: 1em;
+	color: #333;
+}
+.cate-footer {
+	width: 94%;
+	margin: auto;
+}
+
+
