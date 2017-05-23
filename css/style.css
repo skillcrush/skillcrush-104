@@ -6031,3 +6031,18 @@ body.leacamara-advice {
   background-color: green;
 }
 /**End of Naseem's Styles**/
+
+/*Kaitepack's styles*/
+.kaitlepack-advice {
+	background-color: pink;
+	color: green;
+}
+
+.kaitlepack-advice p {
+	font-weight: bold;
+}
+
+.kaitlepack-advice h1 {
+	font-family: "Century Gothic"
+}
+/*End kaitlepack's styles*/
