@@ -285,6 +285,34 @@
 	font-weight: bold;
 	text-align: center;
 }
+
+/** Sarah's Styles **/
+
+.sarahcyr-advice{
+	font-family: tahoma;
+	background-color:rgb(200,200,200);
+	width:90%;
+}
+.sarahcyr-advice a{
+	text-decoration: none;
+	color:#000000;
+	font-weight:bold;
+}
+.sarahcyr-advice a:hover{
+	color:teal;
+}
+.sarahcyr-advice h1, h4{
+	color:teal;
+}
+.sarahcyr-advice p{
+	text-align:justify;
+}
+ .sarahcyr-advice .footnote{
+ 	font-weight: bold;
+ 	font-style: italic;
+ 	
+ }
+
 /** Ozge's Styles **/
 .ozge-advice {
     width: 100%;
