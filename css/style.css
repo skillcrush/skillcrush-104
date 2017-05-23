@@ -1,4 +1,61 @@
+<<<<<<< HEAD
 /** Add a comment at the beginning of your CSS styles with your name**/
+=======
+/** Add a comment at the beginning of your CSS styles with your name **/
+
+/*AlexandraAlex's Styles*/
+
+.alexandraalex.advice{
+	width: 100%;
+	background-color: white;
+	font-family: 'Yrsa', serif;
+	margin: 0 auto;
+}
+.alexandraalex-advice p{
+	color: white;
+}
+.alexandraalex-advice h1{
+	color: white;
+}
+.alexandraalex-advice h4{
+	color: purple;
+	font-size: 18px;
+}
+.alexandraalex-advice footer{
+	background-color: #ffffff;
+}
+.alexandraalex-advice footer p{
+	color: red;
+	font-size: 18px;
+	text-align: center;
+}
+
+/* Judith's Styles */
+.judith-advice{
+    width: 100%;
+    background-color: blue;
+    font-family:fantasy;
+    margin: 0 auto;
+}
+.judith-advice p{
+    color: white;
+}
+.judith-advice h1{
+    color: white;
+}
+.judith-advice h4{
+    color: yellow;
+    font-size: 24px;
+}
+.judith-advice footer{
+    background-color: aquamarine;
+}
+.judith-advice footer p{
+    color: blue;
+    font-size: 20px;
+    text-align: center;
+}
+
 /** Loryn's Styles **/
 .loryns-advice {
 	background-color: #728e96;
@@ -422,6 +479,7 @@ header h1{
     font-size: 13px;
     font-style: italic;
 }
+
 /** Taylor315's Styles **/
 .taylor315-advice h1 {
   font-family: sans-serif;
