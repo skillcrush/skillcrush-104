@@ -1,4 +1,35 @@
-/** Add a comment at the beginning of your CSS styles with your name **/
+/** Add a comment at the beginning of your CSS styles with your name**/
+/*Erika Llacer's Styles*/
+.erikallacer-advice {
+  background-color:#f3f3f3;
+  padding: 40px;
+}
+
+.erikallacer-advice h1 {
+  background-color: #f3f3f3;
+  font-family: "Raleway", sans-serif;
+  color: #10b5a7;
+  font-weight: 900;
+}
+
+.erikallacer-advice h4 {
+  font-size: 24px;
+  font-family: "Open Sans", sans-serif;
+  color: #77c68c;
+  font-weight: 700;
+}
+
+.erikallacer-advice p {
+  font-family: "Raleway", sans-serif;
+  color: #10b5a7;
+  line-height: 28px;
+}
+
+.erikallacer-advice footer p {
+  font-family: "Raleway", sans-serif;
+  font-weight: 900;
+  background-color: #f3f3f3;
+}
 
 /*AlexandraAlex's Styles*/
 
@@ -350,7 +381,8 @@ header h1{
 	text-align: center;
 	line-height: 2em;
 	font-size: 1.5em;
-	}
+	color: #FF4500;
+}
 
 .suzis-advice a {
 	color: #e2c0d7;
