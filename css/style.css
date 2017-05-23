@@ -7,7 +7,6 @@
     font-family: sans-serif;
     text-align: center;
     margin: 20px auto;
-    
 }
 .jvillars-advice a {
     text-decoration: none;
@@ -179,6 +178,8 @@ header h1{
 	font-size: 30px;
 }
 
+/*End Jeff's Styles*/
+
 /** Jeremy Mwangelwa's Styles END  **/
 
 /** Monica's Styles **/
@@ -187,7 +188,6 @@ header h1{
     background-color: purple;
     font-family: sans-serif;
     margin: 0 auto;
-
 }
 .monicaroy-advice a {
     text-decoration: none;
