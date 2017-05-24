@@ -465,6 +465,7 @@
 .ashleys-advice a {
 	color: #b3c4ba;
 }
+
 .ashleys-advice h1 {
 	text-transform: uppercase;
 	text-align: center;
@@ -6353,3 +6354,40 @@ body.leacamara-advice {
 .liz-advice {
 	font-family: cursive;
 }
+
+/***** Tiffany Kantz's styles *****/
+
+.tiffanykantz-advice {
+    background-color: #e3e3e8;
+    padding: 10px;
+    border: 1px solid #330033;
+    border-radius: 10px;
+}
+
+.tiffanykantz-advice h1 {
+    font-family: 'Courgette', cursive;
+    color: #e6e6e6;
+    background-color: #660066;
+    border: 1px solid #660066;
+    border-radius: 5px;
+}
+
+.tiffanykantz-advice h4 {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #f1f1f4;
+    color: #330033;
+    border: 1px solid #330033;
+}
+
+.tiffanykantz-advice footer {
+    color: #e6e6e6;
+    padding: 5px;
+    background-color: #660066;
+    border: 1px solid #660066;
+    border-radius: 4px;
+}
+
+.tiffanykantz-advice footer p { margin: 0;}
+
+/***** End Tiffany Kantz's styles *****/
