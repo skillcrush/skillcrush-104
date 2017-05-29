@@ -48,6 +48,22 @@
   color:grey;
 }
 
+/***TooTechTrav style***/
+.tootechtrav-advice {
+  background-color: #ACCFCC;
+}
+.tootechtrav-advice .advice {
+  background-color: #ACCFCC;
+}
+.tootechtrav-advice h1{
+  background-color: #8A0917;
+}
+.tootechtrav-advice h4{
+  background-color: #8A0917;
+}
+.tootechtrav-advice p{
+  color: #8A0917;
+}
 /*Erika Llacer's Styles*/
 .erikallacer-advice {
   background-color:#f3f3f3;
