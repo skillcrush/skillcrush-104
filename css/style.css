@@ -1,4 +1,22 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+
+/** Jazz's Styles **/
+
+.jazz-advice {
+  background-color: black;
+  color: white;
+}
+
+.jazz-advice h1 {
+  background-color: grey;
+  font-weight: bold;
+}
+
+.jazz-advice footer {
+  background-color: white;
+  color: black;
+}
+
 /** Isabel's Styles **/
 .isabel-advice {
   width: 100%;
@@ -30,6 +48,22 @@
   color:grey;
 }
 
+/***TooTechTrav style***/
+.tootechtrav-advice {
+  background-color: #ACCFCC;
+}
+.tootechtrav-advice .advice {
+  background-color: #ACCFCC;
+}
+.tootechtrav-advice h1{
+  background-color: #8A0917;
+}
+.tootechtrav-advice h4{
+  background-color: #8A0917;
+}
+.tootechtrav-advice p{
+  color: #8A0917;
+}
 /*Erika Llacer's Styles*/
 .erikallacer-advice {
   background-color:#f3f3f3;
@@ -90,7 +124,7 @@
 }
 
 .juliette-advice header a {
-	color: black;	
+	color: black;
 	background-color: #ccffe6;
 	padding: 10px 10px;
 	font-family: 'Quicksand', sans-serif;
@@ -6314,7 +6348,7 @@ body.leacamara-advice {
     width: 100%;
     background-color: #778899;
     font-family: serif;
-    margin: 0 auto;   
+    margin: 0 auto;
 }
 .andreamacias-advice h1 {
     color: black;
@@ -6332,7 +6366,7 @@ body.leacamara-advice {
     text-align: left;
 }
 .andreamacias-advice footer {
-    color: #00008B; 
+    color: #00008B;
   }
 /*** End Andrea's Styles**/
 
@@ -6402,6 +6436,7 @@ body.leacamara-advice {
 
 /***** End Tiffany Kantz's styles *****/
 
+
 /* Lennyroy Robles Styles */
 
 .lennyrobles-advice {
@@ -6411,4 +6446,12 @@ body.leacamara-advice {
 
 .lenny {
     font-size: 80px;
+}
+
+/***** Allys styles *****/
+.ally-advice {
+    color: #4db97b;
+    font-size: 18px;
+    font-family: 'Gill Sans',sans-serif;
+
 }
