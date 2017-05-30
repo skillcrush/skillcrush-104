@@ -1,5 +1,25 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/**** JESSICA WEBER STYES ****/
+
+.advice-j-weber {
+  background-color: blue;
+  color: white;
+}
+
+.advice-j-weber h1 {
+  background-color: blue;
+  color: white;
+  font-size: 40px;
+
+}
+
+.advice-j-weber p {
+  background-color: blue;
+  color: white;
+}
+
+
 /** Jazz's Styles **/
 
 .jazz-advice {
