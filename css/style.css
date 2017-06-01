@@ -1,5 +1,23 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/***Amanda Worthington Styles***/
+.amandaworthington-advice {
+  background-color: lightgrey;
+}
+
+.amandaworthington-advice h1{
+  background-color: lightgrey;
+  font-size:3em;
+  font-style:italic;
+}
+
+.amandaworthington-advice h4{
+  font-size:2em;
+  font-style:italic;
+  color:#222222;
+  background-color: pink;
+}
+
 /**** JESSICA WEBER STYES ****/
 
 .advice-j-weber {
