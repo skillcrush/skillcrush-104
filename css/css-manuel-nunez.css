@@ -102,16 +102,18 @@ body{
   padding: 0, 4%;
   background-color: #bed8dd;
 }
-/*
-- needs to change color and add hover
-to the back page link
-- needs to add contact info
-- needs to fix the over flow on the body
-border
-
-*/
+/* HEADER
+=======================*/
 h1{
   text-shadow: 4px 4px #8db7bf;
+}
+
+/* CONTENT
+========================*/
+h4{
+  font-size: 1.5em;
+  border-bottom: 1px solid #386169;
+  font-style: italic;
 }
 .manuel-advice{
   overflow:  auto;
@@ -121,30 +123,15 @@ h1{
   background-color: #8db7bf;
   box-shadow: 4px 4px #005b6c;
 }
-.manuel-article{
 
-}
-
-
-h4{
-  font-size: 1.5em;
-  border-bottom: 1px solid #386169;
-  font-style: italic;
-}
-
+/* FOOTER
+====================*/
 footer {
   position: absolute;
   right: 0;
   bottom: 0;
   left: 0;
 }
-
-
-
-
-
-
-
 
 /* ==========================================================================
    Helper classes
