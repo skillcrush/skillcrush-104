@@ -232,6 +232,41 @@
 }
 /*----END Claire's Styles-----*/
 
+/****** Kerri's Styles *******/
+
+.kerrire-advice {
+  background-color: inherit;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+.kerrire-advice h1 {
+  background-color: SteelBlue;
+  color: #666;
+}
+.kerrire-advice header a {
+  color: #666;
+}
+
+.kerrire-advice h1, .kerrire-advice .advice h4 {
+  font-size: 1.7em;
+  color: AliceBlue;
+  text-align: left;
+  padding: 10px 0;
+}
+
+.kerrire-advice h4 {
+  background-color: LightSlateGray;
+}
+
+.kerrire-advice span {
+  font-size: 1.5em;
+  color: Magenta;
+}
+
+.kerrire-advice footer {
+  background-color: SteelBlue;
+  line-height: 2em;
+}
 
 /* Dan's Styles */
 * .dans-advice {
