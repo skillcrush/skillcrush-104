@@ -6493,3 +6493,33 @@ body.leacamara-advice {
     font-family: 'Gill Sans',sans-serif;
 
 }
+
+/******* Dani de Waal Styles ********/
+
+
+.danidewaal-advice span{
+  color: white;
+
+}
+
+.danidewaal-advice h1 {
+  color: #ff849d;
+  font-family: 'Rock Salt', cursive;
+  text-transform: uppercase;
+  margin: auto;
+ 
+
+}
+
+.dani-advice h4 {
+  background-color: #ff849d;
+  color: white;
+  font-family: 'Athiti', sans-serif;
+  font-size: 30px;
+}
+
+.dani-advice p {
+  text-align: center;
+ 
+}
+
