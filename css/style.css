@@ -232,6 +232,41 @@
 }
 /*----END Claire's Styles-----*/
 
+/****** Kerri's Styles *******/
+
+.kerrire-advice {
+  background-color: inherit;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+.kerrire-advice h1 {
+  background-color: SteelBlue;
+  color: #666;
+}
+.kerrire-advice header a {
+  color: #666;
+}
+
+.kerrire-advice h1, .kerrire-advice .advice h4 {
+  font-size: 1.7em;
+  color: AliceBlue;
+  text-align: left;
+  padding: 10px 0;
+}
+
+.kerrire-advice h4 {
+  background-color: LightSlateGray;
+}
+
+.kerrire-advice span {
+  font-size: 1.5em;
+  color: Magenta;
+}
+
+.kerrire-advice footer {
+  background-color: SteelBlue;
+  line-height: 2em;
+}
 
 /* Dan's Styles */
 * .dans-advice {
@@ -6494,6 +6529,7 @@ body.leacamara-advice {
 
 }
 
+
 /******** cpastoricks styles *****************/
 .cpastorick-advice header {
     color: grey;
@@ -6520,4 +6556,69 @@ body.leacamara-advice {
 .cpastorick-advice footer p {
     color: white;
     font-weight: bold;
+}
+=======
+/******* Dani de Waal Styles ********/
+
+
+.danidewaal-advice span{
+  color: white;
+
+}
+
+.danidewaal-advice h1 {
+  color: #ff849d;
+  font-family: 'Rock Salt', cursive;
+  text-transform: uppercase;
+  margin: auto;
+
+
+}
+
+.dani-advice h4 {
+  background-color: #ff849d;
+  color: white;
+  font-family: 'Athiti', sans-serif;
+  font-size: 30px;
+}
+
+.dani-advice p {
+  text-align: center;
+
+}
+
+/****** Evan Joblin's Styles *******/
+
+.evanj-advice {
+  background: #9b9b9b;
+}
+
+.evanj-advice h1 {
+  background: #9b9b9b;
+  font-family: 'Raleway';
+  font-weight: lighter;
+  padding-top: 30px;
+}
+
+.evanj-advice h4 {
+  background: #9b9b9b;
+  color: #ffd533;
+  font-family: 'Raleway';
+  font-size: 60px;
+  padding: 20px 10px 30px 10px;
+}
+
+.evanj-advice p {
+  background: #9b9b9b;
+  color: white;
+  font-family: 'Raleway';
+  font-weight: lighter;
+  line-height: 30px;
+  padding: 50px 50px 40px 50px;
+  text-align: center;
+}
+
+.evanj-advice span {
+  color: #ffd533;
+  font-weight: bold;
 }
