@@ -6542,7 +6542,7 @@ body.leacamara-advice {
   font-family: 'Rock Salt', cursive;
   text-transform: uppercase;
   margin: auto;
- 
+
 
 }
 
@@ -6555,6 +6555,42 @@ body.leacamara-advice {
 
 .dani-advice p {
   text-align: center;
- 
+
+}
+
+/****** Evan Joblin's Styles *******/
+
+.evanj-advice {
+  background: #9b9b9b;
+}
+
+.evanj-advice h1 {
+  background: #9b9b9b;
+  font-family: 'Raleway';
+  font-weight: lighter;
+  padding-top: 30px;
+}
+
+.evanj-advice h4 {
+  background: #9b9b9b;
+  color: #ffd533;
+  font-family: 'Raleway';
+  font-size: 60px;
+  padding: 20px 10px 30px 10px;
+}
+
+.evanj-advice p {
+  background: #9b9b9b;
+  color: white;
+  font-family: 'Raleway';
+  font-weight: lighter;
+  line-height: 30px;
+  padding: 50px 50px 40px 50px;
+  text-align: center;
+}
+
+.evanj-advice span {
+  color: #ffd533;
+  font-weight: bold;
 }
 
