@@ -6493,3 +6493,31 @@ body.leacamara-advice {
     font-family: 'Gill Sans',sans-serif;
 
 }
+
+/******** cpastoricks styles *****************/
+.cpastorick-advice header {
+    color: grey;
+    font-family: 'Patrick Hand SC', cursive;
+}
+.cpastorick-advice h1 {
+    color: white;
+    background-color: grey;
+    font-size: 26px;
+    font-family: 'Patrick Hand SC', cursive;
+}
+.cpastorick-advice h4 {
+    color: grey;
+    background-color: white;
+    font-size: 20;
+    font-family: 'Patrick Hand SC', cursive;
+}
+.cpastorick-advice p {
+    color: #ffff12;
+    font-size: 16px;
+    font-family: 'Patrick Hand SC', cursive;
+    background-color: grey;
+}
+.cpastorick-advice footer p {
+    color: white;
+    font-weight: bold;
+}
