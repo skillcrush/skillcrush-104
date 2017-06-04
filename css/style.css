@@ -6627,3 +6627,32 @@ body.leacamara-advice {
 .kays-advice {
   background: #d8d7d5 none repeat scroll 0 0;
 }
+
+
+/* Victoria Edgar's Styles */
+.victoriaedgar-advice{
+    background: lightgrey;
+}
+
+.victoriaedgar-advice h1{
+    background: lightgrey;
+    font-family: 'Montserrat', sans-serif;
+    color: #46494d;
+}
+
+.victoriaedgar-advice h4 {
+  background: #bbbbbb;
+  color: #ffffff;
+  font-family: 'OpenSans', sans-serif;
+  font-size: 20px;
+  padding: 20px 10px 30px 10px;
+}
+
+.victoriaedgar-advice p {
+  background: #eeeeee;
+  color: #46494d;
+  font-family: 'OpenSans', sans-serif;
+  font-weight: lighter;
+  line-height: 30px;
+  padding: 50px 50px 40px 50px;
+}
