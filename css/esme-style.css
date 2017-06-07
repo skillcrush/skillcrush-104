@@ -1,0 +1,36 @@
+/** Esme's Styles **/
+.esme-advice {
+    width: 100%;
+    background-color: ghostwhite;
+    font-family: sans-serif;
+    margin: 0 auto;
+    
+}
+.esme-advice a {
+    text-decoration: none;
+    color: #0066ff;
+    font-weight: bold;
+}
+.esme-advice h1 {
+    color: #00008B;
+    font-weight: bold;
+    text-align: left;
+}
+.esme-advice h4 {
+    font-family: sans-serif;
+    font-size: 22px;
+    text-align: left;
+    color: #ff6600;
+}
+.esme-advice p {
+    color:#00008B;
+    text-align: left;
+}
+.esme-advice footer {
+    color: #00008B; 
+    text-align: center;
+    font-size: 13px;
+    font-style: italic;
+}
+
+

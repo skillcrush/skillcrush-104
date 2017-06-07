@@ -1,0 +1,45 @@
+html {
+	background: #00bf8f; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #00bf8f , #001510); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #00bf8f , #001510); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+      color: LightGray;  
+}
+
+header a {
+	text-decoration: none;
+}
+
+a:link, a:visited {
+    background-color: Turquoise;
+    color: white;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: white;
+    color: Turquoise;
+}
+
+header h1 {
+	text-align: center;
+	font-family: 'Lobster', cursive;
+	color: LimeGreen;
+	letter-spacing: 2px;
+	font-size: 45px;
+	text-shadow: 1px 3px DarkSlateGrey;
+}
+
+.advice {
+	font-family: 'Taviraj', serif;
+	padding: 20px 25%;
+}
+
+.advice h3 {
+	font-size: 1.75em;
+	text-shadow: 2px 4px DarkSlateGrey;
+	text-align: center;
+	border-bottom: 1px PaleTurquoise solid;
+}
