@@ -1,5 +1,30 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/*Lindsay's Styles*/
+.lindsay-advice{
+  width: 100%;
+  background-color: #521247;
+  font-family: serif;
+  margin: auto;
+}
+
+.lindsay-advice a{
+  color: #0066ff;
+}
+
+.lindsay-advice h1{
+  color: #e4ac6a;
+}
+
+.lindsay-advice h4{
+  color: #ffd336;
+
+}
+
+.lindsay-advice p{
+  color: #e4ac6a;
+}
+
 /***Amanda Worthington Styles***/
 .amandaworthington-advice {
   background-color: lightgrey;
@@ -29,7 +54,6 @@
   background-color: blue;
   color: white;
   font-size: 40px;
-
 }
 
 .advice-j-weber p {
@@ -102,6 +126,7 @@
 .tootechtrav-advice p{
   color: #8A0917;
 }
+
 /*Erika Llacer's Styles*/
 .erikallacer-advice {
   background-color:#f3f3f3;
@@ -885,45 +910,6 @@
 }
 /*End of Ace's styles*/
 
-/** Ozge's Styles **/
-.ozge-advice {
-  width: 100%;
-  background-color: ghostwhite;
-  font-family: serif;
-  margin: 0 auto;
-}
-
-.ozge-advice a {
-  text-decoration: none;
-  color: #0066ff;
-  font-weight: bold;
-}
-
-.ozge-advice h1 {
-  color: #00008B;
-  font-weight: bold;
-  text-align: left;
-}
-
-.ozge-advice h4 {
-  font-family: sans-serif;
-  font-size: 22px;
-  text-align: left;
-  color: #ff6600;
-}
-
-.ozge-advice p {
-  color:#00008B;
-  text-align: left;
-}
-
-.ozge-advice footer {
-  color: #00008B;
-  text-align: center;
-  font-size: 13px;
-  font-style: italic;
-}
-
 /** YWLing's Styles **/
 .YWLing-advice {
   width: 100%;
@@ -1148,38 +1134,6 @@
 
 .tavon-advice p {
   color: black;
-}
-
-/** Helen Hoefele's Styles **/
-.advice-hhoefele {
-  background-color: #cc6699;
-}
-.advice-hhoefele a {
-  color:black;
-  text-decoration: none;
-  font-weight: bold;
-}
-.advice-hhoefele h2 {
-  color: black;
-  background-color: white;
-}
-
-header h1 {
-  color: white;
-  background-color: #862d59;
-}
-
-.advice-hhoefele p {
-  color: black;
-}
-
-.advice-hhoefele li {
-  font-size: 18px;
-}
-
-footer {
-  background-color: #862d59;
-  color: white;
 }
 
 /** Rachel's Styles **/
@@ -6631,4 +6585,58 @@ body.leacamara-advice {
 /***Jen's  Styles***/
 .jenettore-advice {
   background-color: lightblue;
+}
+
+/* Victoria Edgar's Styles */
+.victoriaedgar-advice{
+    background: lightgrey;
+}
+
+.victoriaedgar-advice h1{
+    background: lightgrey;
+    font-family: 'Montserrat', sans-serif;
+    color: #46494d;
+}
+
+.victoriaedgar-advice h4 {
+  background: #bbbbbb;
+  color: #ffffff;
+  font-family: 'OpenSans', sans-serif;
+  font-size: 20px;
+  padding: 20px 10px 30px 10px;
+}
+
+.victoriaedgar-advice p {
+  background: #eeeeee;
+  color: #46494d;
+  font-family: 'OpenSans', sans-serif;
+  font-weight: lighter;
+  line-height: 30px;
+  padding: 50px 50px 40px 50px;
+}
+
+/*~~~~~~~~~~Stetson's Styles~~~~~~~~~~*/
+.stetsonramey-advice {
+  width:500px;
+  margin-right:auto;
+  margin-left:auto;
+  background-color:gray;
+}
+
+.stetsonramey-advice h1{
+  font: courier;
+  font-size: 48px;
+  color:#1d0531;
+}
+
+.stetsonramey-advice h4{
+  font: arial;
+  font-size:32px;
+  color:#321456;
+}
+
+.stetsonramey-advice p{
+  font: arial;
+  font-size: 16px;
+  color:#2b1f39;
 }
