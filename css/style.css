@@ -1,82 +1,5 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
-
-/* --- bg STYLES --- */
-
-.bg-advice {
-  background-color: white;
-  padding: 2%;
-  font-family: 'Lato', sans-serif;
-}
-
-.bg-advice header {
-
-}
-.bg-advice a {
-  font-size: .5em;
-  font-weight: 900;
-  color: white;
-  text-align: left;
-  background-color: #ffbf80;
-  padding: 2px;
-  text-decoration: none;
-}
-
-.bg-advice h1 {
-  font-size: 1em;
-  font-style: italic;
-  font-weight: 300;
-  background-color: white;
-  font-family: 'Josefin Slab', serif;
-  color: #666;
-  text-align: left;
-  border-bottom: 2px solid #ff8000;
-  padding-bottom: 4%;
-}
-
-.bg-advice h1 span{
-  font-size: 7em;
-  font-weight: 900;
-  font-style: normal;
-  text-transform: uppercase;
-  font-family: 'Lato', sans-serif;
-  color: #ff8000;
-}
-
-.bg-advice h4 {
-  font-size: 2em;
-  font-weight: 900;
-  font-style: normal;
-  text-transform: uppercase;
-  color: #ff8000;
-  background-color: white;
-  text-align: left;
-}
-.bg-advice h4 span {
-  font-style: italic;
-  font-weight: 300;
-  font-family: 'Josefin Slab', serif;
-  text-transform: uppercase;
-  color: #ff8000;
-}
-
-.bg-advice p {
-  font-size: 1em;
-  font-style: italic;
-  font-weight: 300;
-  background-color: white;
-  padding: 4%;
-  font-family: 'Josefin Slab', serif;
-  color: #666;
-  text-align: left;
-}
-
-.bg-advice footer p{
-  font-size: .75em;
-  font-weight: 300;
-  font-family: 'Lato', sans-serif;
-  font-style: normal;
-
 /*Lindsay's Styles*/
 .lindsay-advice{
   width: 100%;
@@ -6659,6 +6582,10 @@ body.leacamara-advice {
   background: #d8d7d5 none repeat scroll 0 0;
 }
 
+/***Jen's  Styles***/
+.jenettore-advice {
+  background-color: lightblue;
+}
 
 /* Victoria Edgar's Styles */
 .victoriaedgar-advice{
@@ -6713,4 +6640,3 @@ body.leacamara-advice {
   font-size: 16px;
   color:#2b1f39;
 }
-
