@@ -1,4 +1,46 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+/* Mel's Styles */
+
+.mel-advice {
+	padding: 100px;
+}
+
+.mel-advice a{
+	font-family: Arial, sans-serif;
+	color: gray;
+  font-size: 1em;
+	text-transform: uppercase;
+}
+
+.mel-advice h1 {
+	font-family: Arial, sans-serif;
+	color: coral;
+  font-size: 2em;
+	text-transform: uppercase;
+
+}
+
+.mel-advice h4 {
+	font-family: Arial, sans-serif;
+	color: salmon;
+  font-size: 1.5em;
+	line-height: 1em;
+}
+
+.mel-advice p {
+	font-family: Arial, sans-serif;
+	color: salmon;
+  font-size: 1.2em;
+	line-height: 1em;
+	padding-bottom: 100px;
+}
+
+.mel-advice footer p{
+	background-color: white;
+	color: gray;
+}
+
+/* -- End Mel's Styles */
 
 /** Suzanne's Styles **/
 .smartsuzy-advice {
@@ -34,7 +76,6 @@
 
 .lindsay-advice h4{
   color: #ffd336;
-
 }
 
 .lindsay-advice p{
