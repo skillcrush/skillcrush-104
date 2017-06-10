@@ -1,6 +1,51 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
-/* Mel's Styles */
+/** Troy Pratt's Styles **/
 
+body.troypratt-advice h1{
+    font-family:'Open Sans', sans-serif;
+    font-size: 18px;
+    text-align:center;
+}
+
+body.troypratt-advice header{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 10px;
+}
+
+div.troypratt-advice{
+    width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    background-color:lightskyblue;
+    border-radius: 10px;
+}
+
+div.troypratt-advice p{
+    font-family:'Open Sans', sans-serif;
+    font-size: 12px;
+    background-color: white;
+    border-radius: 5px;
+    padding: 5px;
+
+}
+
+div.troypratt-advice h4{
+    font-family: 'Crushed', cursive;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+body.troypratt-advice footer {
+    text-align: center;
+    font-family:'Open Sans', sans-serif;
+    font-size: 10px;
+}
+
+/**END Troy Pratt's Styles**/
+
+/* Mel's Styles */
 .mel-advice {
 	padding: 100px;
 }
@@ -17,7 +62,6 @@
 	color: coral;
   font-size: 2em;
 	text-transform: uppercase;
-
 }
 
 .mel-advice h4 {
@@ -120,7 +164,6 @@
 
 
 /** Jazz's Styles **/
-
 .jazz-advice {
   background-color: black;
   color: white;
