@@ -1,4 +1,42 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+
+/** Sarah's Styles**/
+.sschlueter-advice {
+    width: 90%;
+    background-color: black;
+    font-family: diavlo;
+    margin: 0 auto;
+
+}
+.sschlueter-advice a {
+    text-decoration: none;
+    color: gray;
+    font-weight: bold;
+}
+.sschlueter-advice h1 {
+    color: #00d4ff;
+    font-weight: bold;
+    text-align: center;
+}
+.sschlueter-advice h4 {
+    font-family: sans-serif;
+    font-size: 22px;
+    text-align: center;
+    color: #126272;
+}
+.sschlueter-advice p {
+    color: white;
+    text-align: center;
+}
+.sschlueter-advice footer {
+    color: white;
+    background-color: black;
+    text-align: left;
+    font-size: 13px;
+    font-style: italic;
+}
+/** End Sarah's Styles*/
+
 /** Troy Pratt's Styles **/
 
 body.troypratt-advice h1{
@@ -47,7 +85,7 @@ body.troypratt-advice footer {
 
 /* Mel's Styles */
 .mel-advice {
-	padding: 100px;
+  padding: 100px;
 }
 
 .mel-advice a{
@@ -161,7 +199,6 @@ body.troypratt-advice footer {
   background-color: blue;
   color: white;
 }
-
 
 /** Jazz's Styles **/
 .jazz-advice {
