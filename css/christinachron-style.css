@@ -1,0 +1,37 @@
+/*CSS styles for advice page*/
+
+/*==ChristinaChron's Styles ==*/
+
+.christinachron-advice html {
+	font-family:  Oswalt, sans-serif;
+	padding: 2%;
+	padding-right: 25%;
+	background-color: blanchedalmond;
+}
+
+.christinachron-advice img {
+	background-position: center;
+	background-repeat: no-repeat;
+	padding: .5%;
+	width: 70%;
+}
+
+.christinachron-advice h1 {
+	font-size: 3em;
+}
+
+.christinachron-advice h4 {
+	font-size: 1.75em;
+}
+
+.christinachron-advice ul {
+	font-size: 1.25em;
+	font-style: oblique;
+	font-weight: bold;
+}
+
+.christinachron-advice p {
+	font-size: 1.20em;
+}
+
+/*==End of ChristinaChron's Styles ==*/
