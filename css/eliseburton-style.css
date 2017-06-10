@@ -1,0 +1,21 @@
+
+.elise-advice {
+  font-family: 'Roboto Condensed';
+  text-align: center;
+  color: #660066;
+  background-color: #ce99ff;
+
+}
+
+header h1 {
+  font-size: 45px;
+}
+
+.advice h4 {
+  font-size: 35px;
+  color: lime;
+}
+
+.advice p {
+ font-size: 24px;
+}

@@ -1,0 +1,29 @@
+:root {
+    background: lightblue;
+}
+
+.tracy-advice {
+    margin: 0 auto;
+    width: 824px;
+}
+
+h1 {
+    font-family: cursive;
+}
+
+h4, p {
+    font-family: sans-serif;
+}
+
+h4 {
+    font-size: 20px;
+}
+
+span {
+    font-style: italic;
+    font-size: 18px;
+}
+
+footer p {
+    font-size: 12px;
+}
