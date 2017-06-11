@@ -1,0 +1,42 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/** Sarah's Styles **/
+body {
+    width: 100%;
+    background-color: #6C6A6C;
+    margin: 0 auto;
+    
+}
+.sarah-advice a {
+    text-decoration: none;
+    color: #545054;
+}
+.sarah-advice h1 {
+    font-family: 'Lobster', cursive;
+    color: #FDEDEC;
+    font-weight: 700;
+    font-size: 50px;
+    text-align: center;
+}
+.sarah-advice h4 {
+    font-family: 'Amiko', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    color: #14088C;
+    font-weight: 600;
+    padding-left: 2%;
+}
+.sarah-advice p {
+    color: #FCFAFC;
+    text-align: center;
+    font-size:22px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.sarah-advice footer {
+    color: #00008B; 
+    text-align: center;
+    font-size: 13px;
+    font-style: italic;
+}
+
