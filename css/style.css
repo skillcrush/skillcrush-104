@@ -1,5 +1,20 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/** Linz Styles**/
+.linzfrank-advice {
+  font-family: 'serif';
+  margin: auto;
+}
+.linzfrank-advice h1{
+  font-weight: bold;
+  color: #0A3847;
+  font-family: serif;
+}
+
+.linzfrank-advice h4 {
+  font-family: serif;
+}
+
 /** Sarah's Styles**/
 .sschlueter-advice {
     width: 90%;
