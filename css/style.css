@@ -1,8 +1,5 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
-
-/* Kwags' Styles */
-
-
+/* Kayla's Styles */
 .kwags-advice {
   background-color: #494e6b;
   color: white;
@@ -44,7 +41,6 @@
 .kwags-advice footer{
   font-size: .75em;
 }
-
 
 /* Judith's Styles */
 .judith-advice{
@@ -170,7 +166,7 @@
 	color: black;
 	background-color: white;
 }
-.advice-hhoefele header h1{
+header h1{
 	color: white;
 	background-color: #862d59;
 }
@@ -180,7 +176,7 @@
 .advice-hhoefele li{
 	font-size: 18px;
 }
-.advice-hhoefele footer {
+footer {
 	background-color: #862d59;
 	color: white;
 }
@@ -334,7 +330,7 @@
 	text-align: center;
 }
 
-.nadine-advice #nadine {
+#nadine {
 	border-style: dotted;
 	border-color: purple;
 }
@@ -602,7 +598,7 @@
 }
 
 /*** Eliza Kocken styling***/
-.elizak-advice body {
+body.elizak-advice {
 	font-size: 16px;
 	font-family: "Noto Sans";
 	max-width: 1200px;
@@ -986,7 +982,7 @@ padding: 10px;
 	padding: 0px 80px 0px 80px;
 }
 
-.kimb-advice #Kim-foot {
+#Kim-foot {
 	font-family: Helvetica;
 	font-size: 10px;
 }
@@ -1088,7 +1084,7 @@ padding: 10px;
 /*end Clint Johnson's Styles*/
 
 /**Taiwei's style sheet**/
-.taiwei-advice{
+html.taiwei-advice{
     background: #333 url('https://images.unsplash.com/uploads/14125120591540eb48427/c1c4b1aa?q=80&fm=jpg&s=48e7fdc5e7f701d289b7134d55211768') center center no-repeat;
     background-size: cover;
     color:#532827;
@@ -3122,7 +3118,7 @@ div.alice-advice {
 }
 
 /** Lauren R's Styles **/
-.laurenr-advice body{
+body.laurenr-advice {
 	background-color: #33FFF8;
 	color: #A354D1;
 	font-family: trebuchet MS, sans-serif;
@@ -4039,7 +4035,7 @@ body.parismarron-advice{
 
 /* Joanne's styles */
 
-.joannesullivan-advice body {
+.joannesullivan-advice body, html {
 	background-color: #e6e6ff;
 	padding: 50px;
 }
@@ -4547,7 +4543,7 @@ body.parismarron-advice{
 
 /*Start CodeNeophyte's Styles */
 
-.codeneophyte-advice body {
+.codeneophyte-advice body, html {
 	font-family: 'Times New Roman', 'serif';
 	font-size: 18px;
 	background-color: #989898;
@@ -4653,7 +4649,7 @@ Chrizzit's Advice Styles
 
 /*Begin Lauren Togie's Styles */
 
-.laurentogie-advice body{
+.laurentogie-advice body, html{
 	background: #D9F6FF;
 	width:60%;
 	padding-left: 20%;
@@ -4674,7 +4670,7 @@ Chrizzit's Advice Styles
 	color: #00789D;
 }
 
-.laurentogie-advice a {
+.laurentogie-advice a:link, a:visited {
     background-color: #00789D;
     color: white;
     padding: 10px 21px;
