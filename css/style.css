@@ -1,10 +1,54 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+<<<<<<< HEAD
+/** Peta's Styles **/
+.petaspyrakis-advice {
+    width: 100%;
+    background-color: ghostwhite;
+    font-family: sans-serif;
+    margin: 0 auto;
+
+}
+.petaspyrakis-advice a {
+    text-decoration: none;
+    color: #0066ff;
+    font-weight: bold;
+}
+.petaspyrakis-advice h1 {
+    color: #00008B;
+    font-weight: bold;
+    text-align: left;
+}
+.petaspyrakis-advice h4 {
+    font-family: sans-serif;
+    font-size: 22px;
+    text-align: left;
+    color: #ff6600;
+}
+.petaspyrakis-advice p {
+    color:#00008B;
+    text-align: left;
+}
+.petaspyrakis-advice footer {
+    color: #00008B;
+    text-align: center;
+    font-size: 13px;
+    font-style: italic;
+}
+
+
+/** Ozge's Styles **/
+.ozge-advice {
+    width: 100%;
+    background-color: ghostwhite;
+    font-family: sans-serif;
+=======
 /** Sarah's Styles**/
 .sschlueter-advice {
     width: 90%;
     background-color: black;
     font-family: diavlo;
+>>>>>>> upstream/master
     margin: 0 auto;
 
 }
@@ -24,8 +68,13 @@
     text-align: center;
     color: #126272;
 }
+<<<<<<< HEAD
+.ozge-advice footer {
+    color: #00008B;
+=======
 .sschlueter-advice p {
     color: white;
+>>>>>>> upstream/master
     text-align: center;
 }
 .sschlueter-advice footer {
@@ -67,6 +116,28 @@ div.troypratt-advice p{
     border-radius: 5px;
     padding: 5px;
 
+<<<<<<< HEAD
+/** Helen Hoefele's Styles **/
+.advice-hhoefele {
+	background-color: #cc6699;
+}
+.advice-hhoefele a {
+	color:black;
+	text-decoration: none;
+	font-weight: bold;
+}
+.advice-hhoefele h2 {
+	color: black;
+	background-color: white;
+}
+header h1{
+	color: white
+	background-color: #862d59;
+}
+.advice-hhoefele p{
+	color: black;
+=======
+>>>>>>> upstream/master
 }
 
 div.troypratt-advice h4{
@@ -168,6 +239,13 @@ body.troypratt-advice footer {
 .amandaworthington-advice {
   background-color: lightgrey;
 }
+<<<<<<< HEAD
+.maile-advice h4 {
+	font-size: 1.5em;
+	color: #FF4500;
+}
+=======
+>>>>>>> upstream/master
 
 .amandaworthington-advice h1{
   background-color: lightgrey;
@@ -184,9 +262,19 @@ body.troypratt-advice footer {
 
 /**** JESSICA WEBER STYES ****/
 
+<<<<<<< HEAD
+.rachelcab-advice h4 {
+	color: #695d94;
+	font-weight: bold;
+
+/* Adam R's Styles */
+.adam-r-advice {
+	background-color: #000000;
+=======
 .advice-j-weber {
   background-color: blue;
   color: white;
+>>>>>>> upstream/master
 }
 
 .advice-j-weber h1 {
@@ -195,9 +283,14 @@ body.troypratt-advice footer {
   font-size: 40px;
 }
 
+<<<<<<< HEAD
+.lgpatruyo-advice .advice{
+	background-color: lightblue;
+=======
 .advice-j-weber p {
   background-color: blue;
   color: white;
+>>>>>>> upstream/master
 }
 
 /** Jazz's Styles **/
