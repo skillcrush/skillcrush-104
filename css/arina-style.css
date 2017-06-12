@@ -1,0 +1,61 @@
+/* Arina's Styles */
+
+.arina-advice {
+	background-color: white;
+	padding: 30px;
+    font-family: sans-serif;
+    color: #404040;
+}
+
+.arina-advice header {
+    width: 350px;
+    margin: 0 auto;
+    text-align: center;
+}
+	
+.arina-advice a {
+	text-decoration: none;
+	color: inherit;
+}
+
+.arina-advice a:hover {
+		color: #ff6000;
+}
+
+.arina-advice header h1 {
+    color: #1cb71c;
+}
+
+.arina-advice section div.advice {
+    border: 2px solid blue;
+    padding: 0 1.5em;
+    border-radius: 10px;
+    width: 350px;
+    margin: 0 auto;
+}
+.arina-advice section div.advice:hover {
+	background: #b5fbba;
+    background: -webkit-linear-gradient(left top, #b5fbba, #bbc2ff);
+    background: -o-linear-gradient(bottom right, #b5fbba, #bbc2ff);
+    background: -moz-linear-gradient(bottom right, #b5fbba, #bbc2ff);
+    background: linear-gradient(to bottom right, #b5fbba, #bbc2ff);
+}
+
+.arina-advice section div.advice h4 {
+    color: #8c00d2;
+    font-family: courier;
+}
+
+.arina-advice section div.advice p {
+	font-size: 14px;
+}
+
+.arina-advice footer {
+	background-color: transparent;
+    color: #b6b6b6;
+    width: 350px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+/* End of Arina's Styles */

@@ -1,0 +1,38 @@
+html{
+	height: 100%;
+width: 100%;
+background: rgba(242,233,110,1);
+background: -moz-linear-gradient(top, rgba(242,233,110,1) 0%, rgba(254,184,16,1) 100%);
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(242,233,110,1)), color-stop(100%, rgba(254,186,77,1)));
+background: -webkit-linear-gradient(top, rgba(242,233,110,1) 0%, rgba(254,186,77,1) 100%);
+background: -o-linear-gradient(top, rgba(242,233,110,1) 0%, rgba(254,186,77,1) 100%);
+background: -ms-linear-gradient(top, rgba(242,233,110,1) 0%, rgba(254,186,77,1) 100%);
+background: linear-gradient(to bottom, rgba(242,233,110,1) 0%, rgba(254,186,77,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2e96e', endColorstr='#feba4d', GradientType=0 );
+	}
+
+#page-wrap {
+     width: 800px;
+     margin: 0 auto;
+}
+.johnnicholson-advice header{
+	color: white;
+    background-color: purple;
+	padding: 12px;
+	max-width: 960px;
+}
+
+.johnnicholson-advice a{
+	color: gold;
+	padding-left: 12px;
+} 
+
+.johnnicholson-advice .maintext{
+	margin: 14px;
+	padding: 12px;
+}
+.johnnicholson-footer{
+	background-color: purple;
+	padding: 18px;
+	color: gold;
+}

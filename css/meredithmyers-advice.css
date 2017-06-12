@@ -1,0 +1,31 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/** Meredith's Styles **/
+.meredithmyers-advice {
+  font-family: 'Josefin Sans', sans-serif;
+  width: 600px;
+  height: 350px;
+  text-align: justify;
+  margin: 150px auto;
+}
+
+.meredithmyers-advice h1 {
+  font-size: 40px;
+}
+
+.meredithmyers-advice span {
+  font-family: 'Lobster', cursive;
+}
+
+.meredithmyers-advice h4 {
+  font-size: 25px;
+  font-variant: small-caps;
+}
+
+.meredithmyers-advice .advice p {
+  font-size: 18px;
+}
+
+.meredithmyers-advice footer {
+  font-size: 16px;
+}
