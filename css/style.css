@@ -7203,3 +7203,39 @@ color: white;
 	background-color: #fff;
 }
 /* ------ End Eldy's Styles ----- */
+
+/*karis styles*/
+.karisk-advice html{
+  background: black;
+}
+.karisk-advice header{
+  background: black;
+}
+
+.karisk-advice h1{
+  font-family: Indie Flower, cursive;
+  background: black;
+  font-size: 85px;
+}
+
+.karisk-advice h4{
+  font-family: Raleway;
+  font-size:70px;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+.karisk-advice footer {
+  text-align: center;
+  margin-top: 200px;
+  font-size: 14px;
+  background: black;
+}
+
+.karisk-advice p{
+  color: white;
+  font-size: 40px;
+  font-family: Indie Flower;
+  font-weight: lighter;
+  text-align: center;
+}
