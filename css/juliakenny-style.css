@@ -1,0 +1,65 @@
+/**JULIA KENNY'S ADVICE!**/
+
+/*base styles*/
+
+.juliakenny-advice {
+  background-color: #262626;
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+.juliakenny-advice h1, h4, p {
+  color: #f2f2f2;
+}
+
+
+/*header*/
+
+.juliakenny-advice h1 {
+  font-family: 'Prata', serif;
+  font-size: 75px;
+  padding-bottom: 40px;
+  border-bottom: 1px solid #cccccc;
+  margin-bottom: 40px;
+  margin-top: 70px;
+  font-weight: normal;
+}
+
+.juliakenny-advice span {
+  color: #ffbf00;
+}
+
+/*advice*/
+
+.juliakenny-advice section {
+  margin-bottom: 40px;
+  padding-bottom: 40px;
+  border-bottom: 1px solid #cccccc;
+}
+
+.juliakenny-advice h4 {
+  font-family: 'Prata', serif;
+  font-size: 30px;
+  font-weight: normal;
+  margin-bottom: 10px;
+  letter-spacing: 2px;
+}
+
+.juliakenny-advice p {
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 5px;
+  line-height: 1.7em;
+}
+
+
+/*footer*/
+
+.juliakenny-advice footer {
+  margin-bottom: 60px;
+}
+
+.juliakenny-advice a {
+  color: #ffbf00;;
+  font-family: 'Open Sans', sans-serif;
+  text-decoration: none;
+}
