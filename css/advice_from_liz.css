@@ -1,0 +1,23 @@
+/**Liz deCoen's Style Page**/
+body {
+     		height: 800px;
+		    background: url('https://static.pexels.com/photos/93405/pexels-photo-93405.jpeg');
+		    background-size: cover;
+				font-family: 'Slabo 27px', serif;
+				text-align: center;
+				color: #3366cc;
+
+		}
+
+h1 {
+	color: blue;
+	font-family: 'Lato', sans-serif;
+}
+
+h4 {
+	color: white;
+	text-align: left;
+	text-style: bold;
+	font-family: 'Lato', sans-serif;
+	font-style: italic;
+}

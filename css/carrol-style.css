@@ -1,0 +1,48 @@
+body {
+	background: #1E8184;
+	font-family: "myriad pro", sans-serif;
+	padding-top: 100px
+}
+header h1 {
+	text-align: center;
+	font-size: 24px
+	margin-top: 100px;
+	color: #126EB7;
+}
+p {
+	line-height: 1.7em;
+	font-size: 18px;
+	color: #666;
+	word-spacing: 5px;
+	margin-top: 10px;
+}
+
+h4{
+	color: #1E8184;
+	font-size: 40px;
+	text-align: center;
+	text-transform: uppercase;
+
+}
+header{
+	width: 1000px;
+	margin: 10px auto;
+	background: #fff;
+	padding: 20px;
+	border-radius: 8px 8px 0 0;
+	box-shadow: 0 2px 1px #ddd;
+}
+section {
+	width: 1000px;
+	margin: 10px auto;
+	background: #fff;
+	padding: 20px;
+	border-radius: 8px;
+	box-shadow: 0 2px 1px #ddd;
+}
+
+footer {
+	padding: 10px;
+	text-align: center;
+	font-size: 20px;
+}
