@@ -1,0 +1,21 @@
+/** Lolo's Styles **/
+.lolo-advice {
+	width: 1200px;
+	margin: 0 auto;	
+	font-size: 20px;
+    font-family: sans-serif;
+    color: #00004c;
+}
+
+.lolo-advice h2, .lolo-advice h1{
+    font-family: serif;
+}
+
+.lolo-advice footer {
+	text-align: center;
+	background-color: #00004c;
+}
+.lolo-advice .star {
+	color: #b20000;
+}
+/** End Lolo's Styles **/
