@@ -1,5 +1,15 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/** nataliemm styles **/
+.nataliemm-advice {
+  font-family: sans-serif;
+  background-color: white;
+}
+
+.nataliemm-advice a {
+  text-decoration: none;
+}
+
 /** Seanie's Styles **/
 
 .seanie-advice {
