@@ -1,0 +1,26 @@
+header a {
+  font-size: 22px;
+  text-decoration: none;
+  color: black;
+  border: 1px solid black;
+  padding: 2px;
+}
+header h1 {
+  font-size: 30px;
+  color: green;
+  font-weight: bold;
+  font-family: cursive;
+}
+.advice h4 {
+  font-size: 24px;
+  color: purple;
+  text-transform: uppercase;
+}
+.advice p {
+  font-size: 20px;
+  color: blue;
+  font-family: sans-serif;
+}
+footer p {
+  font-weight: bold;
+}
