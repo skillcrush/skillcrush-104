@@ -6767,9 +6767,7 @@ body.leacamara-advice {
     color: #4db97b;
     font-size: 18px;
     font-family: 'Gill Sans',sans-serif;
-
 }
-
 
 /******** cpastoricks styles *****************/
 .cpastorick-advice header {
@@ -7025,3 +7023,32 @@ body.tronson-advice{
 	background-color: #5DE5FF;
 }
 /*End Heidi's Styles*/
+
+/****Cathy Ferrell styles****/
+.cathyferrell-advice {
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAICAYAAADA+m62AAAAP0lEQVQoU42Q0QoAIAgDz///aMPAKKeQb26HTg0tB6zKVUhI4Bus5tMn2K4Djh7gBGXM7Uvo5riQ/BfUNwwTWfn+Cgg4zkoRAAAAAElFTkSuQmCC) repeat;
+}
+
+.cathyferrell-advice h1 {
+  background-color: black;
+}
+
+.cathyferrell-advice h4 {
+  font-size: 2em;
+border: solid 1px green;
+border-radius: 20px;
+text-align: center;
+background: grey;
+color: white;
+}
+.cathyferrell-advice p {
+  background: grey;
+  text-align: center;
+  font-weight: bold;
+}
+.cathyferrell-advice p span{
+  color: white;
+  background: black;
+  text-transform: uppercase;
+}
+/**** end of Cathy Ferrell styles****/
