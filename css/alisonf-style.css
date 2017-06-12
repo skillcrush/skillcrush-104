@@ -1,0 +1,55 @@
+body, html{
+	font-family:;
+	background: #ffe4e1;
+	font-size:16px;
+}
+
+.flex-container{
+	display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-flow: row wrap;
+    flex-flow: row wrap;
+    justify-content:space-between;
+}
+
+header, footer {
+    width: 100%; 
+    height: auto;
+    display: flex;
+    justify-content:center;
+}
+
+.advice{
+	width:100%;
+	height:auto;
+	display:flex;
+	justify-content:center;
+	border: 3px solid black;
+}
+
+
+header a{
+	font-size: .5em;
+}
+
+
+
+header h1{
+	font-family: 'Barrio', cursive;
+	font-size: 2em;
+}
+h4{
+	font-family: 'Barrio', cursive;
+	font-size: 1em;
+}
+
+p{
+	display: flex;
+	justify-content:center;
+	align-items:center;
+	font-size: .8em;
+	padding: 5px;
+}

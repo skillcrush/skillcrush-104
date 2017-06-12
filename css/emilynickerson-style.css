@@ -1,0 +1,55 @@
+
+/***** Emily Nickerson's Styles *****/
+.emilynickerson{
+  background-color:#ffffff;
+  width:100%;
+  height:auto;
+  margin:0;
+}
+
+.emilynickerson-advice header{
+  background-color:#ff0066;
+  color:#ffffff;
+  padding:10px 0 20px 0;
+}
+
+.emilynickerson-advice h1, h2, h3, p, a{
+    font-family: 'Indie Flower', cursive;
+}
+
+.emilynickerson-advice a{
+  padding-left:20px;
+}
+
+.emilynickerson-advice h1{
+  text-align:center;
+}
+
+.emilynickerson-advice h2{
+ color:#ff0066;
+}
+
+.emilynickerson-advice h3{
+  color:#ffffff;
+}
+
+.emilynickerson-advice p{
+ color:#262626;
+}
+
+a{
+  color:#ffff80;
+}
+
+.advice{
+  padding:10px 20px 20px 20px;
+}
+
+footer{
+  background-color:#ff0066;
+  padding:10px;
+  width:100%;
+  height:auto;
+  margin:0;
+  text-align:center;
+}

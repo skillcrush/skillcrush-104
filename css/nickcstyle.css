@@ -1,0 +1,17 @@
+body {
+	background-color: #DDDDDD;
+}
+
+.advice {
+    border: 2px solid black;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+h2, p {
+	margin-left: 10px;
+}
+
+h1 {
+	text-align: center;
+}
