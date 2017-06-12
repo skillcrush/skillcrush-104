@@ -1,0 +1,56 @@
+.advice-vanderwoo {
+	margin: 50px;
+	background-color: #f9d4de;
+}
+
+.advice-vanderwoo .hello{
+  font-family: 'Coming Soon', cursive;
+  background-color: #d5f2e5;
+  border: 3px;
+  border-style: dashed;
+  border-color: #42f462;
+}
+
+
+.advice-vanderwoo .main-page {
+	text-decoration: none;
+	font-style: italic;
+	color: purple;
+}
+
+.advice-vanderwoo h1 {
+	font-size: 3em;
+	text-align: center;
+}
+
+.advice-vanderwoo .h4 {
+  font-family: 'Indie Flower', cursive;
+}
+
+.advice-vanderwoo .advice {
+	margin: 10px auto;
+}
+
+.advice-vanderwoo h4 {
+  font-family: 'Indie Flower', cursive;
+	text-align: left;
+	font-size: 1.5em;
+	font-weight: bolder;
+	text-decoration: underline;
+	color: #1c2b60;
+	margin: 0px;
+	padding: 0px;
+}
+
+.advice-vanderwoo p {
+	font-family: sans-serif;
+}
+
+.advice-vanderwoo footer {
+	text-align: right;
+	font-style: italic;
+	font-size: .75em;
+	font-weight: lighter;
+	color: purple;
+}
+/**End of Vanderwoo's Advice Style**/

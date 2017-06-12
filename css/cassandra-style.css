@@ -1,0 +1,26 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+
+
+/**Cassandra's Styles**/
+@import url('https://fonts.googleapis.com/css?family=Quattrocento');
+@import url('https://fonts.googleapis.com/css?family=Satisfy');
+.cassandra-advice {
+	font-family: Satisfy;
+	background-color: #b8d0d6;
+  font-size: 25px;
+}
+
+.cassandra-advice h4 {
+  font-family: lora;
+	font-size: 30px;
+	color:	#696969;
+}
+
+.cassandra-advice p {
+  font-family: Quattrocento;
+	font-size: 22px;
+	color:  	#2F4F4F;
+  font-weight: bold;
+}
+/**End of Cassandra's Styles**/
