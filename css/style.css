@@ -1,5 +1,48 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+/*Patricia Kisinger's Styles*/
 
+.patriciakisinger-advice html{
+  background: #ffb6c1;
+  height: 100%;
+}
+.patriciakisinger-advice {
+  background: #ffb6c1;
+  font-family: Arial; sans-serif;
+  margin: auto;
+}
+
+.patriciakisinger-advice body{
+  background: #ffb6c1;
+  height: 100%;
+}
+
+.patriciakisinger-advice a{
+  text-decoration: none;
+}
+
+.patriciakisinger-advice a hover {
+  font-variant: small-caps;
+  color: #a9a9a9;
+}
+
+.patriciakisinger-advice h1{
+  color: #ffffff;
+  line-height: 1em;
+}
+
+.patriciakisinger-advice h4 {
+  background: #dcdcdc;
+  line-height: 2rem;
+}
+
+.patriciakisinger-advice p{
+  background: #f5f5f5;
+  padding: .5rem;
+}
+
+.patriciakisinger-advice .show-me-the-money section, div{
+  background: #ffb6c1;
+}
 /*Lindsay's Styles*/
 .lindsay-advice{
   width: 100%;
