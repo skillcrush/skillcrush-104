@@ -1,0 +1,39 @@
+body {
+	margin: 40px;
+	margin-right: 150px;
+}
+
+h1,h3,h4 {
+  font-family: 'Roboto Slab', serif;
+	}
+
+p,a,li {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h3 {
+	margin-top: 40px;
+}
+
+p {
+  line-height: 30px;	
+}
+
+li {
+  font-size: 120%;
+	margin-top: 15px;
+}
+
+blockquote {
+	font-size: 120%;
+	margin-bottom: 50px;
+}
+
+footer {
+	margin-top: 40px;
+}
+
+.citation {
+	font-style: italic;
+	font-size: 80%
+}
