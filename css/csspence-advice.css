@@ -1,0 +1,22 @@
+/*Charlie's Advice-----*/
+.csspence-advice {
+	background-color: #FOF8FF;
+	text-align: left;
+	font-family: "papyrus";
+	font-size: 14px;
+	}
+
+.csspence-advice h1 {
+	color: #6495ED;
+}
+
+.csspence-advice h3 {
+	color: #6495ED;
+	text-align: left;
+  font-size: 2em;
+}
+
+.csspence-advice p{
+	text-align: left;
+  color: #00008B;
+}

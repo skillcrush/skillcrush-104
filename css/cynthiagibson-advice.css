@@ -1,0 +1,35 @@
+/** Cynthia Gibson Styles **/
+
+h1 {
+	font-family: 'Abril Fatface', cursive;
+	text-align:left;
+	font-size: 50px;
+	color:rgba(226, 159, 4, 1)
+}
+
+h4 {
+	font-family: 'Roboto Slab', serif;
+	font-size: 20px;
+	text-align: right;
+	color:rgba(226, 159, 4, 1)
+}
+
+p {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 22px;
+	color: purple;
+}
+
+.cynthiagibson-advice-pbs {
+	font-family: 'Lobster', cursive;
+	font-size: 28px;
+	text-align: center;
+	color: #DC6163;
+}
+
+.cynthiagibson-advice span {
+	font-size: 28px;
+	color:green;
+	font-family:'Lobster', cursive;
+	font-weight:900;
+}
