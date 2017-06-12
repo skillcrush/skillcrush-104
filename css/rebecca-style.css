@@ -1,0 +1,36 @@
+/*Rebecca*/
+
+
+.rebecca-advice body {
+	font-family: 'Raleway', sans-serif;
+	background-color: #222;
+	color: #eee;
+	font-size: 16px;
+}
+
+
+.rebecca-advice h1 {
+	font-family: 'Cookie', cursive;
+	font-size: 4em;
+	font-weight: 500;
+	color: #00b3b3;
+}
+.rebecca-advice h4 {
+	font-size: 1.2em;
+	text-transform: uppercase;
+	padding-top: 3%;
+	width: 50%;
+	border-bottom: 1px solid #33ffff;
+}
+
+.rebecca-advice header a {
+	color: #00b3b3;
+}
+.rebecca-advice header a:hover {
+	color: #eee;
+}
+
+.rebecca-advice footer {
+	border-top: 2px solid #33ffff;
+	margin-top: 10%;
+}

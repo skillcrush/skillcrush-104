@@ -1,0 +1,107 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+* {
+  margin: 0;
+  padding: 0;
+  
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+
+* ::before, ::after {
+    box-sizing: border-box
+}
+
+.advice{
+        margin-left: 50px;
+}
+
+header{
+        margin-left: 50px;
+}
+
+.strong, .simplest, .cool{
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 40%;
+  width: 40%;
+        padding-top: 40px;
+        padding-bottom: 40px;
+}
+
+.avices{
+        -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 40%;
+  width: 40%;
+        padding-top: 20px;
+        padding-bottom: 5px;
+}
+
+
+
+.Géraldine-advice {
+        font-family: Arial,Helvetica,sans-serif ;
+        color: #3b3b3b;
+        max-width: 900px;
+        margin: 10px 20px;
+}
+
+.Géraldine-advice h1,.Géraldine-advice h2,.Géraldine-advice p,.Géraldine-advice a {
+        text-align:left !important;
+        font-family: Arial,Helvetica,sans-serif !important;
+}
+
+.Géraldine-advice h1 {
+        font-size: 20px;
+                color: #e8adce;
+        padding-top: 40px;
+        
+
+}
+
+.Géraldine-advice h4 {
+        font-size: 20px;
+                color: rgba(255, 87, 89, 0.38);
+        padding-top: 60px;
+        
+}
+
+
+
+.Géraldine-advice p,.Géraldine-advice a {
+        font-size: 16px;
+        line-height: 130%;
+            font-weight: 600;
+        text-align: justify;
+            
+}
+
+.Géraldine-advice a,.Géraldine-advice a:hover {
+        text-decoration: underline;
+}
+
+.Géraldine-advice a,.Géraldine-advice a:visited {
+        text-decoration: none;
+        border-bottom: 1px solid #45ac9d;
+        color: #3b3b3b;
+}
+
+footer{
+        padding-top: 40px;
+            margin-left: 50px;
+        
+}
+
+
+
+
+
+
