@@ -6932,3 +6932,27 @@ body.tronson-advice{
 	text-align: center;	
 }
 /*End Tronson's Styles*/
+
+/** Jenny's Styles **/
+.jenny-advice{
+	font-family: 'Montserrat', sans-serif;
+	background-color:#f0f0f5;
+}
+
+.jenny-advice h1{
+	color:#f0f0f5;
+	background-color:#9933ff;
+	border-top: 5px solid #ff9900;
+	border-bottom: 5px solid #ff9900;
+}
+
+.jenny-advice h4{
+	font-size: 32px;
+	color: #9933ff;
+}
+
+.jenny-advice p{
+	font-size: 16px;
+	color: #330066;
+}
+/** End of Jenny's Styles **/
