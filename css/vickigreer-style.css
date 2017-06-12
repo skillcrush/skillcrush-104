@@ -1,0 +1,56 @@
+/** Vicki's styles **/
+.vickigreer-advice {
+	color: #000099;
+	background-color: #ffdb4d;
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	margin: 20px;
+	border: 1px solid #000099;
+	padding: 20px;
+}
+
+.vickigreer-advice h1 {
+	font-weight: bold;
+	font-size: 25px;
+	color: #008800;
+	text-shadow: 1px 1px #006600;
+	text-align: center;
+}
+
+.vickigreer-advice a:link,
+.vickigreer-advice a:visited {
+	color: #000099;
+}
+
+.vickigreer-advice a:hover {
+	font-weight: bold;
+}
+
+.vickigreer-advice h4 {
+	color: #008800;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.vickigreer-advice blockquote {
+	text-align: center;
+	font-weight: bold;
+}
+
+.vickigreer-advice p span {
+	font-weight: bold;
+}
+
+.vickigreer-advice .emphasis {
+	font-weight: bold;
+	font-style: italic;
+}
+
+.vickigreer-advice .copyright {
+	font-size: 12px;
+}
+
+
+
+/** end of Vicki's styles **/
