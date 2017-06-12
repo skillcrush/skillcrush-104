@@ -7076,6 +7076,7 @@ text-align: center;
 background: grey;
 color: white;
 }
+
 .cathyferrell-advice p {
   background: grey;
   text-align: center;
@@ -7087,3 +7088,19 @@ color: white;
   text-transform: uppercase;
 }
 /**** end of Cathy Ferrell styles****/
+
+/*Molly Chabot's Styles*/
+
+.mollychabot-advice body {
+  background-color: #ffebcd;
+}
+
+.mollychabot-advice h1 {
+  font-family: 'BioRhyme', serif;
+  color:midnightblue;
+}
+
+.mollychabot-advice h4, p {
+  font-family: 'BioRhyme', serif;
+  color:cornflowerblue;
+}
