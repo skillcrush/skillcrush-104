@@ -1,0 +1,35 @@
+
+
+.amandaluu-html {
+	background-color: white;
+}
+.amandaluu-body {
+	font-family: 'Cutive Mono', monospace;
+	width: 900px;
+	height: auto;
+	margin: auto;
+	display: block;
+}
+.amandaluu-photo {
+	width: 45%;
+	float: left;
+}
+.amandaluu-advice {
+	float: left;
+	margin-left: 10%;
+	width: 45%;
+	text-align: center;
+}
+.amandaluu-header h1 {
+	font-family: 'Playfair Display', serif;
+	font-size: 38px;
+	text-transform: capitalize;
+	float: left;
+	width: 100%;
+}
+.amandaluu-footer p {
+	font-size: 12px;
+	width: auto;
+	clear: both;
+	padding: 10px 0 0 150px;
+}
