@@ -1,5 +1,47 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/**Feona's Styles**/
+.feona-advice-html {
+  background-color: white;
+  background-image: url("http://camillestyles.com/wp-content/uploads/2009/10/az-canary.jpg");
+  background-position: center;
+  background-repeat: repeat;
+  padding: 0;
+}
+
+.feona-advice {
+  background-color: #FFB317;
+  font-family: 'Open Sans', sans-serif;
+  margin: auto;
+  padding: 5px 20px 0 20px;
+  width: 100%;
+  max-width: 650px;
+}
+
+.feona-advice header {
+  width: 100%;
+}
+
+.feona-advice h1 {
+  background-color: #214AAF;
+  font-family: 'Patua One', cursive;
+  margin: 10px 0 10px 0;
+  padding: 10px;
+}
+
+.feona-advice h2 {
+  color: #C6128B;
+  font-family: 'Patua One', cursive;
+}
+
+.feona-advice footer {
+  background-color: #214AAF;
+}
+
+.feona-advice footer p {
+  padding: 5px;
+}
+
 /**Abbyh advice styling**/
 
 .abbyh-advice {
