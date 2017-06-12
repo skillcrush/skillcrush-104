@@ -1,5 +1,46 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/** Trav's Styles **/
+.trav-advice {
+    width: 100%;
+    background-color: ghostwhite;
+    font-family: sans-serif;
+    margin: 0 auto;
+
+}
+.trav-advice a {
+    text-decoration: none;
+    color: #0066ff;
+    font-weight: bold;
+}
+.trav-advice h1 {
+    color: red;
+    font-family: 'Quando', serif;
+    font-weight: bold;
+    text-align: left;
+}
+.trav-advice h4 {
+    font-family: sans-serif;
+    font-size: 22px;
+    text-align: left;
+    color: green;
+}
+.trav-advice p {
+    color: black;
+    font-family: 'Judson', serif;
+    text-align: left;
+    font-size: 1.5em;
+}
+.trav-advice footer {
+    color: #00008B;
+    text-align: center;
+    font-size: 13px;
+    font-style: italic;
+}
+.trav-advice footer p {
+  color: white;
+}
+
 /** Linz Styles**/
 .linzfrank-advice {
   font-family: 'serif';
@@ -81,7 +122,6 @@ div.troypratt-advice p{
     background-color: white;
     border-radius: 5px;
     padding: 5px;
-
 }
 
 div.troypratt-advice h4{
