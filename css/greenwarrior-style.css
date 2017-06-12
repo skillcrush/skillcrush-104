@@ -1,0 +1,50 @@
+/** greenwarrior's Styles **/
+.greenwarrior-advice {
+    width: 100%;
+	background-color: #F5F5F5;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0 auto;
+}
+.greenwarrior-advice a {
+    text-decoration: none;
+    color: #6B8E23;
+    font-weight: bold;
+	
+}
+.greenwarrior-advice h1 {
+    color: #556B2F;
+    font-weight: bold;
+    text-align: left;
+	margin: 20px;
+}
+.greenwarrior-advice h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+    text-align: left;
+    color: #556B2F;
+    margin: 20px;
+}
+.greenwarrior-advice p {
+    color: black;
+    text-align: left;
+	margin: 50px;
+}
+
+.greenwarrior-div{
+	margin: 50px;
+	border: 2px;
+	border-style: dashed;
+	border-width: 5px;
+	border-color: #556B2F;
+	background-color: #88B04B;
+	padding: 10px 10px 10px 10px;
+    border-radius: 20px;
+}
+.greenwarrior-advice footer {
+    color: #6B8E23;
+    text-align: center;
+    font-size: 13px;
+    font-style: italic;
+	background-color: #88B04B;
+}
+/**  end greenwarrior's Styles **/ 

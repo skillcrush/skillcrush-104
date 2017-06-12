@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Gruppo');
+@import url('https://fonts.googleapis.com/css?family=Lato:900');
+body  { background: #fff; font-family: 'Gruppo', sans-serif;}
+header { text-align: center; }
+h1
+{   
+    font-size: 50px;
+    color: #64ffda;
+    border-bottom: 1px dashed #000;
+}
+section { 
+    background: #fff; 
+    width: 600px; 
+    overflow: auto; 
+    margin: auto; 
+    border-radius: 30px; 
+    margin-bottom: 50px; 
+    box-shadow: 1px 2px 4px #000000;
+    font-size: 20px;
+}
+p { padding: 0px 50px; line-height: 20px;}
+p::first-letter {
+    font-family: Lato;
+    font-size: 1em; 
+    color: #64ffda;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+}
+h2 { border-bottom: 1px solid deeppink; color: deeppink}
+.pink::first-letter { color: deeppink; }
+h4 { background: #fff; padding: 10px;box-shadow: 1px 2px 4px #000000; font-family: 'Lato', sans-serif;}
+span { color: #000;}
+footer {font-family: Lato;}
+
+@media only screen and (max-width: 630px) {
+    body {
+        background: #000; 
+        color: #fff;
+    }
+    section {
+        background: #000;
+        width: 100%;
+        color: #fff;
+        box-shadow: 1px 2px 4px #fff;
+        border: 1px solid gray;
+    }
+    h4 {
+        background: #000;
+        box-shadow: 1px 2px 4px #fff;
+    }
+    span {
+        color: #fff;
+    } 
+    a { color:yellow;}
+    
+}
