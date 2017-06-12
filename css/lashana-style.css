@@ -1,0 +1,35 @@
+/*LaShana Breland Styles*/
+
+body {
+		width:100%;
+		height: auto;
+		background-color:#0099e6;
+		font-family: 'Alegreya', serif;
+}
+
+h1{
+	font-family: 'Tangerine',cursive;
+	text-align: center;
+	text-shadow: 3px 3px 3px #c4ccd4;
+	font-size: 46px;
+}
+
+h4{
+	font-size: 20px;
+	font-family: 'Indie Flower', cursive;
+	text-shadow: 3px 3px 3px #c4ccd4;
+}
+span {
+	font-variant: small-caps;
+	font-size: 26px;
+}
+
+.lashana-advice {
+	padding:0 10% 0 10% ;
+	text-align: center;
+
+}
+
+footer {
+	text-align: center;
+}
