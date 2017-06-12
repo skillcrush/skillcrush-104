@@ -1,0 +1,36 @@
+/** Corcutt Styles **/
+.corcutt-advice {
+    background-color: lightblue;
+    font-family: sans-serif;
+    margin: 20 auto;
+    
+}
+.corcutt-advice a {
+    text-decoration: none;
+    color: #0066ff;
+    font-weight: bold;
+}
+.corcutt-advice h1 {
+    color: midnightblue;
+    font-weight: bold;
+    text-align: left;
+}
+.corcutt-advice h4 {
+    font-family: sans-serif;
+    font-size: 22px;
+    text-align: left;
+    color: #00abff;
+}
+.corcutt-advice p {
+    color:#108e3e;
+    margin: 30px;
+}
+.corcutt-advice footer {
+    background-color: cornsilk; 
+}
+.corcutt-advice footer p {
+    color: black; 
+    text-align: center;
+    font-size: 13px;
+    font-style: italic;
+}
