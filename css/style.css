@@ -1,5 +1,33 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/**Abbyh advice styling**/
+
+.abbyh-advice {
+	background-color: #ff4367;
+	width: 100%;
+	margin: 0 auto;
+}
+.abbyh-advice h1{
+	font-size: 2em;
+	font-family: 'Lora', sans-serif;
+	text-align: center;
+}
+.abbyh-advice h4 {
+	font-size: 1.2em;
+	text-align: center;
+}
+
+.abbyh-advice p {
+	font-size: 1em;
+
+}
+
+.abbyh-advice footer {
+	text-align: center;
+}
+
+/**Abbyh advice styling END **/
+
 /** Asia's Styles **/
 .asiakane-advice header{
   color: pink;
