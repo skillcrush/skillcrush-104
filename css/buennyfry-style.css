@@ -1,0 +1,52 @@
+body {
+  font-size: 14px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+section {
+  margin: auto;
+}
+
+h1 {
+  color: 	#2a4d69;
+  margin: 50px 0 50px 140px;
+}
+
+.panel-title-link {
+  font-size: 1.1em;
+}
+
+#back {
+  margin-left: 140px;
+}
+
+.panel-group {
+  width: 80%;
+  margin: auto;
+}
+
+.panel-title>a {
+  color: #fff;
+  margin-left: 10px;
+}
+
+.panel-heading.advice-dark {
+  background: 	#2a4d69;
+}
+
+.panel-heading.advice-light {
+  background: #4b86b4;
+}
+
+p {
+  font-size: 1.3em;
+}
+
+footer {
+  margin-top: 10px;
+  text-align: center;
+}
+
+#copyright {
+  font-size: 1em;
+}
