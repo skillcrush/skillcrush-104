@@ -1,5 +1,24 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/*-----Aimee's styles ----*/
+.aimeehall-advice {
+  width: 100%;
+  background-color: gainsboro;
+  font-family: sans-serif;
+  border-radius: 8px;
+  padding: 10px;
+}
+
+.aimeehall-advice h4 {
+  color: indigo;
+  font-size: 1.5em;
+}
+
+.aimeehall-advice p{
+  text-align: left;
+  padding: 10px;
+}
+
 /**Feona's Styles**/
 .feona-advice-html {
   background-color: white;
