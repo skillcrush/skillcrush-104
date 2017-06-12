@@ -64,7 +64,6 @@
     text-align: left;
     font-size: 1.5em;
 }
-
 .trav-advice footer {
     color: #00008B;
     text-align: center;
@@ -6956,3 +6955,31 @@ body.tronson-advice{
 	color: #330066;
 }
 /** End of Jenny's Styles **/
+
+/*Heidi's Styles*/
+.heidis-advice {
+	font-family: 'Roboto Slab', serif;
+	color: white;
+}
+
+.heidis-advice h1 {
+	background-color: #5DE5FF;
+	font-family: 'Pacifico', cursive;
+}
+
+.heidis-advice h4 {
+	font-family: 'Roboto Slab', 700, serif;
+	text-transform: capitalize;
+	color: #5DE5FF;
+	text-align: left;
+	font-size: 24px;
+}
+
+.heidis-advice footer p {
+	color: white;
+	text-align: left;
+	font-size: 16px;
+	padding: 5px 0;
+	background-color: #5DE5FF;
+}
+/*End Heidi's Styles*/
