@@ -1,4 +1,104 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+<<<<<<< HEAD
+/* Kayla's Styles */
+.kwags-advice {
+  background-color: #494e6b;
+  color: white;
+  margin: 40px;
+}
+
+.kwags-advice h1{
+  font-family: 'Josefin Slab', serif;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  line-height: 1.25em;
+}
+
+.kwags-advice h4{
+  font-family: 'Raleway', sans-serif;
+  text-transform: uppercase;
+  font-weight: normal;
+  color: #8fd9ea;
+  font-size: 1.25em;
+  line-height: 2em;
+}
+
+.kwags-advice p{
+  font-family: 'Raleway', sans-serif;
+  color: white;
+}
+
+.kwags-advice span{
+  font-weight: 700;
+}
+
+.kwags-advice a{
+  font-size: .75em;
+  color: #98878f;
+  text-decoration: none;
+}
+
+.kwags-advice footer{
+  font-size: .75em;
+}
+
+/* Judith's Styles */
+.judith-advice{
+    width: 100%;
+    background-color: blue;
+    font-family:fantasy;
+    margin: 0 auto;
+}
+.judith-advice p{
+    color: white;
+}
+.judith-advice h1{
+    color: white;
+}
+.judith-advice h4{
+    color: yellow;
+    font-size: 24px;
+}
+.judith-advice footer{
+    background-color: aquamarine;
+}
+.judith-advice footer p{
+    color: blue;
+    font-size: 20px;
+    text-align: center;
+}
+
+/** Taylor315's Styles **/
+.taylor315-advice h1 {
+	font-family: sans-serif;
+	color: #020202;
+}
+
+.taylor315-advice p {
+	font-family: sans-serif;
+	font-size: 1em;
+	color: #333333;
+}
+
+.taylor315-advice a {
+	text-decoration: none;
+	font-family: sans-serif;
+	color: #222222;
+}
+
+.taylor315-advice h4 {
+	font-family: sans-serif;
+	color: #000000
+}
+
+.taylor315-advice footer {
+	color: #ffffff;
+	background-color: #ffffff;
+	font-size: 0.75em;
+}
+=======
+>>>>>>> master
 
 /** Linz Styles**/
 .linzfrank-advice {
@@ -39,8 +139,13 @@
     text-align: center;
     color: #126272;
 }
+<<<<<<< HEAD
+.ozge-advice footer {
+    color: #00008B;
+=======
 .sschlueter-advice p {
     color: white;
+>>>>>>> master
     text-align: center;
 }
 .sschlueter-advice footer {
@@ -82,6 +187,28 @@ div.troypratt-advice p{
     border-radius: 5px;
     padding: 5px;
 
+<<<<<<< HEAD
+/** Helen Hoefele's Styles **/
+.advice-hhoefele {
+	background-color: #cc6699;
+}
+.advice-hhoefele a {
+	color:black;
+	text-decoration: none;
+	font-weight: bold;
+}
+.advice-hhoefele h2 {
+	color: black;
+	background-color: white;
+}
+header h1{
+	color: white;
+	background-color: #862d59;
+}
+.advice-hhoefele p{
+	color: black;
+=======
+>>>>>>> master
 }
 
 div.troypratt-advice h4{
@@ -170,13 +297,31 @@ body.troypratt-advice footer {
 .lindsay-advice h1{
   color: #e4ac6a;
 }
+<<<<<<< HEAD
+.maile-advice h4 {
+	font-size: 1.5em;
+	color: #FF4500;
+}
+
+/*End Jeff's Styles*/
+
+
+/* Rachel's Styles */
+=======
+>>>>>>> master
 
 .lindsay-advice h4{
   color: #ffd336;
 }
 
+<<<<<<< HEAD
+/* Adam R's Styles */
+.adam-r-advice {
+	background-color: #000000;
+=======
 .lindsay-advice p{
   color: #e4ac6a;
+>>>>>>> master
 }
 
 /***Amanda Worthington Styles***/
@@ -184,10 +329,15 @@ body.troypratt-advice footer {
   background-color: lightgrey;
 }
 
+<<<<<<< HEAD
+.lgpatruyo-advice .advice{
+	background-color: lightblue;
+=======
 .amandaworthington-advice h1{
   background-color: lightgrey;
   font-size:3em;
   font-style:italic;
+>>>>>>> master
 }
 
 .amandaworthington-advice h4{
@@ -6102,8 +6252,13 @@ Jess Wentworth Styles
   font-size: 28px;
 }
 
+<<<<<<< HEAD
+.lisa-advice h4 {
+		color:  #009933;
+=======
 .josephinehuynh-advice div p {
   font-family: sans-serif;
+>>>>>>> master
 }
 
 /**Jennifer W's Styles**/
@@ -6115,6 +6270,19 @@ Jess Wentworth Styles
   margin: auto;
 }
 
+<<<<<<< HEAD
+.lisa-advice header {
+	background-color:#3366cc;
+	height: 120px;
+	padding-bottom: 20px;
+	color: #e6f7ff;
+}
+
+.lisa-advice a {
+	color: #e6f7ff;
+	padding: 5px;
+	text-align: center;
+=======
 .puppyburp-h1 {
   font-size: 40px;
   color: #00055C;
@@ -6123,6 +6291,7 @@ Jess Wentworth Styles
 
 .puppyburp-div {
   font-family: sans-serif;
+>>>>>>> master
 }
 
 .puppyburp-h4 {
@@ -6130,9 +6299,16 @@ Jess Wentworth Styles
   color: #00055C;
 }
 
+<<<<<<< HEAD
+.lisa-advice footer p {
+	text-align: center;
+	color: 	#ff4d4d;
+	padding-bottom: 5px;
+=======
 .puppyburp-footer {
   font-size: 12px;
   color: #A7A7A7
+>>>>>>> master
 }
 /**End Jennifer W's Styles**/
 
@@ -6713,10 +6889,20 @@ body.leacamara-advice {
 
 }
 
+<<<<<<< HEAD
+.laurentogie-advice a:link, a:visited {
+    background-color: #00789D;
+    color: white;
+    padding: 10px 21px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+=======
 /****** Evan Joblin's Styles *******/
 
 .evanj-advice {
   background: #9b9b9b;
+>>>>>>> master
 }
 
 .evanj-advice h1 {
@@ -6795,10 +6981,16 @@ body.leacamara-advice {
   background-color:gray;
 }
 
+<<<<<<< HEAD
+.erocks-advice h4 {
+	padding-top: 10px;
+
+=======
 .stetsonramey-advice h1{
   font: courier;
   font-size: 48px;
   color:#1d0531;
+>>>>>>> master
 }
 
 .stetsonramey-advice h4{
@@ -6806,9 +6998,21 @@ body.leacamara-advice {
   font-size:32px;
   color:#321456;
 }
+<<<<<<< HEAD
+
+.erocks-advice .advice {
+	background-color: white;
+	border-radius: 10px;
+	margin: 20px;
+
+}
+
+/* End Erika's Styles */
+=======
 
 .stetsonramey-advice p{
   font: arial;
   font-size: 16px;
   color:#2b1f39;
 }
+>>>>>>> master
