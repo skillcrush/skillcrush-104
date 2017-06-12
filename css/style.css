@@ -1,5 +1,21 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/** Seanie's Styles **/
+
+.seanie-advice {
+  background-color: purple;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.seanie-advice {
+  line-height: 1.5em;
+  font-weight: lighter;
+  color: white;
+  font-family: sans-serif;
+  text-align: right;
+}
+
 /*-----Aimee's styles ----*/
 .aimeehall-advice {
   width: 100%;
