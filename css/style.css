@@ -7281,3 +7281,59 @@ color: white;
   font-weight: lighter;
   text-align: center;
 }
+
+/*---- THE JILL CODES STYLE ----*/
+.advice-thejillcodes html {
+  background: white;
+  height: 100%;
+  width: 100%;
+}
+
+.advice-thejillcodes h1{
+  font-family: 'Shadows Into Light Two', cursive;
+  color: #F464B9;
+  text-align: center;
+  font-size: 48px;
+  margin: 40px 0;
+}
+
+.advice-thejillcodes header a {
+  font-family: 'Shadows Into Light Two', cursive;
+  color: DarkSlateGray;
+}
+
+.advice-thejillcodes h4 {
+  font-family: 'Shadows Into Light Two', cursive;
+  font-size: 36px;
+  color: white;
+  background-color: #129DC6;
+  border-bottom: 1px solid #DDDDDD;
+  margin: 10px 0px;
+  padding: 10px 0px;
+}
+
+.advice-thejillcodes .advice-block section, div, p{
+  font-family: 'Open Sans', sans-serif;
+  color: #094557;
+  padding: 10px 10px 10px 10px;
+  margin: 0 auto;
+  background-color: white;
+}
+
+.advice-thejillcodes p a {
+  font-family: 'Open Sans', sans-serif;
+  color: #094557;
+}
+
+.advice-thejillcodes a:hover {
+    color: #F464B9;
+}
+
+.advice-thejillcodes footer p {
+  color: #36545E;
+  padding: 20px 0px;
+  font-size: 16px;
+  text-align: center;
+}
+
+/*---- END STYLE ----*/
