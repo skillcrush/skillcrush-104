@@ -1,0 +1,13 @@
+/** Add a comment at the beginning of your CSS styles with your name **/
+
+
+/** alician styles **/
+
+.advice {
+  font-family: 'verdana', sans-serif;
+  color: black;
+}
+
+.advice h4 {
+  color: red;
+}
