@@ -7285,3 +7285,25 @@ color: white;
   font-weight: lighter;
   text-align: center;
 }
+
+.gab-advice {
+  background: #FAF1EF;
+}
+
+.gab-advice h1, 
+.gab-advice h4 {
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.gab-advice p{
+  color: black;
+}
+
+.gab-advice .advice, 
+.gab-advice section, 
+.gab-advice h4 {
+  background: transparent;
+  padding: 15px;
+}
+
