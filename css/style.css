@@ -1630,6 +1630,10 @@ body.troypratt-advice footer {
   font-family: "Source Sans Pro", sans-serif;
   font-size: 16px;
 }
+/**Regina Styles**/
+.reginacunningham-advice h4{
+  font-family:Verdana;
+}
 
 .advice-kaseyfahey h1 {
   font-family: "Slabo 27px", serif;
@@ -6837,7 +6841,6 @@ body.leacamara-advice {
 
 /***** End Tiffany Kantz's styles *****/
 
-
 /* Lennyroy Robles Styles */
 
 .lennyrobles-advice {
@@ -7244,6 +7247,7 @@ color: white;
 	color:  #660066;
 	background-color: #fff;
 }
+
 /* ------ End Eldy's Styles ----- */
 
 /*karis styles*/
@@ -7281,3 +7285,25 @@ color: white;
   font-weight: lighter;
   text-align: center;
 }
+
+.gab-advice {
+  background: #FAF1EF;
+}
+
+.gab-advice h1, 
+.gab-advice h4 {
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.gab-advice p{
+  color: black;
+}
+
+.gab-advice .advice, 
+.gab-advice section, 
+.gab-advice h4 {
+  background: transparent;
+  padding: 15px;
+}
+
