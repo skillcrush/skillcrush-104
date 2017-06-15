@@ -1,0 +1,161 @@
+body 	{
+		background-image: url("http://kingofwallpapers.com/sparkles/sparkles-018.jpg"); 
+		background-color: #ffcc72;
+		margin: 0px;
+		opacity: .95;
+		}
+
+
+#content {
+		font-family: 'Work Sans', sans-serif;
+		max-width: 550px;
+		margin-top: 50px;
+		margin-left: auto;
+		margin-right: auto;
+		text-align: center;
+		}
+
+h1, h2, h3, h4, p {margin: 0px;}
+
+a 		{
+		color: #ffffff;
+		text-decoration: none;
+		}	
+
+a:hover {color: #5b4743;}
+
+
+h1 		{
+		color: #ffffff;
+		font-family: 'Lobster Two', cursive;
+		font-size: 80px;
+		line-height: 90px;
+		padding-bottom: 0px;
+		}
+
+h2		{
+		color: #ffffff;
+		font-weight: 100;
+		font-size: 42px;
+		line-height: 110%;
+		padding-top: 20px;
+		}
+
+h3		{
+		color: #5b4743;
+		font-weight: 100;
+		font-size: 27px;
+		}
+
+h3 span {
+		color: #ee4c8d;
+		font-weight: 600;
+		text-transform: uppercase;
+		}
+
+
+h4		{
+		color: #ffffff;
+		font-weight: 400;
+		font-size: 20px;
+		}
+
+h4 span {
+		font-weight: 600;
+		text-transform: uppercase;
+		}
+
+
+p		{
+		color: #ffffff;
+		font-family: 'Work Sans', sans-serif;
+		font-weight: 300;
+		font-size: 16px;
+		line-height: 130%;
+		padding-top: 10px;
+		}
+
+
+header 	{
+		margin: 20px 0px;
+		}
+
+
+#advice {
+		background: transparent linear-gradient(to bottom, #c61f67, #e9752a);
+		padding: 50px 12% 30px 12%;
+		}
+
+#practice {
+		height:410px;
+		background-color: #ffffff;
+		padding-top: 30px;
+		}
+
+
+.top {color: #ee4c8d;}
+.middle {color: #c61f67;}
+.bottom {color: #e9752a;}
+
+
+hr 		{
+		width: 80%;
+		border-top: dotted 3px #c61f67;
+		margin-top: 30px;
+		margin-bottom: 30px;
+		border-bottom: none;
+		border-right: none;
+		border-left: none;
+		}
+
+
+#tip1	{
+		background: #ee4c8d;
+		padding: 20px 12%;
+		}
+
+#tip2	{
+		background: #c61f67;
+		padding: 20px 12%;
+		}
+
+#tip3	{
+		background: #e9752a;
+		padding: 20px 12%;
+		}
+
+
+
+	/*
+
+#tip1	{
+		background: transparent linear-gradient(to left, #c61f67, #e9752a);
+		padding: 20px 12%;
+		}
+
+#tip2	{
+		background: transparent linear-gradient(to bottom, #c61f67, #e9752a);
+		padding: 20px 12%;
+		}
+
+#tip3	{
+		background: transparent linear-gradient(to right, #c61f67, #e9752a);
+		padding: 20px 12%;
+		}
+	*/
+
+footer {
+		background-color: #5b4743;
+		padding-bottom: 10px;
+		}
+
+footer p {font-size: 11px;}
+
+
+footer a {
+		color: #ffffff;
+		text-decoration: none;
+		}	
+
+footer a:hover {color: #ee4c8d;}
+
