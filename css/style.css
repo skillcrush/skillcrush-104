@@ -1,4 +1,24 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+/*Becky T's Stylez*/
+
+.beckyt-advice body {
+  background-color: yellow;
+  font-family: 'Patrick Hand SC', cursive;
+
+
+    /*font-family: 'Patrick Hand SC', cursive;
+
+    font-family: 'Dancing Script', cursive;
+
+    font-family: 'Josefin Sans', sans-serif;
+    */
+
+}
+.beckyt-advice h1{
+  font-family: 'Josefin Sans', sans-serif;
+  font-variant: small-caps;
+}
+
 /*Patricia Kisinger's Styles*/
 .patriciakisinger-advice html{
   background: #ffb6c1;
@@ -7017,23 +7037,23 @@ body.leacamara-advice {
 }
 
 /*Tronson's Styles*/
-body.tronson-advice{	
+body.tronson-advice{
 	padding: 6em;
 }
 
-.tronson-advice p, h1, h2, h4, html{	
+.tronson-advice p, h1, h2, h4, html{
 	font-family: 'Crimson Text', sans-serif;
 	color: #666;
 }
 
-.tronson-advice h4{	
+.tronson-advice h4{
 	font-size: 2em;
 	font-style: italic;
 }
 
-.tronson-advice header h1{	
+.tronson-advice header h1{
 	color: #000;
-	font-weight: 400;	
+	font-weight: 400;
 }
 
 .tronson-advice header h1 {
@@ -7043,11 +7063,11 @@ body.tronson-advice{
 	line-height: 1em;
 	text-align: left;
 	border-bottom: 1px #666 solid;
-	padding-bottom: .5em;	
+	padding-bottom: .5em;
 }
 
 .tronson-advice section p{
-	font-size: 1.25em;	
+	font-size: 1.25em;
 }
 
 .tronson-advice body, html {
@@ -7056,9 +7076,9 @@ body.tronson-advice{
     background-color: #fff;
 }
 
-.tronson-advice footer{	
+.tronson-advice footer{
 	background-color: #fff;
-	text-align: center;	
+	text-align: center;
 }
 /*End Tronson's Styles*/
 
@@ -7210,7 +7230,7 @@ color: white;
 	margin: 10px 25px;
 }
 .eldydeines-advice a:hover {
-	color: #FFF; 
+	color: #FFF;
 }
 
 .eldydeines-advice h1 {
@@ -7222,7 +7242,7 @@ color: white;
 }
 
 .eldydeines-advice a:hover {
-	color: #FFF; 
+	color: #FFF;
 }
 
 .eldydeines-advice .advice {
@@ -7290,7 +7310,7 @@ color: white;
   background: #FAF1EF;
 }
 
-.gab-advice h1, 
+.gab-advice h1,
 .gab-advice h4 {
   color: black;
   font-family: 'Montserrat', sans-serif;
@@ -7300,10 +7320,9 @@ color: white;
   color: black;
 }
 
-.gab-advice .advice, 
-.gab-advice section, 
+.gab-advice .advice,
+.gab-advice section,
 .gab-advice h4 {
   background: transparent;
   padding: 15px;
 }
-
