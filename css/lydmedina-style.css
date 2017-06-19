@@ -1,0 +1,36 @@
+.lydmedina-advice {
+  background-color: #2E2E2E;
+  color: #1DA6AF;
+  text-align: center;
+  width: 75%;
+  margin: auto;
+}
+
+.lydmedina-advice h1 {
+  font-size: 2em;
+  color:#E7D449;
+  text-align: center;
+}
+
+.lydmedina-advice h4 {
+  font-size: 2em;
+  color: #E7D449;
+}
+
+p {
+ font-size: 1em;
+}
+
+.advice{
+  border: 1px solid #E2319F;
+  padding: 4px;  
+}
+
+strong {
+  color: #E2319F;
+}
+
+
+
+
+
