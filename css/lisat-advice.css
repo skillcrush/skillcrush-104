@@ -1,0 +1,23 @@
+/****** Lisa T's Styles ******/
+
+.lisat-advice {
+	background-color: #66ccff;
+	text-align: center;
+}
+
+.lisat-advice h1 {
+	color: #d852e8;
+	font-size: 40px;
+	text-shadow: 3px 2px purple;
+
+}
+
+.lisat-advice h4 {
+	color: #ff9966;
+	font-size: 30px;
+}
+
+.lisat-advice p {
+	color: #ffffff;
+	font-size: 20px;
+}
