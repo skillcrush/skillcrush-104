@@ -7332,3 +7332,49 @@ color: white;
   background: transparent;
   padding: 15px;
 }
+
+
+/* Leticia's Styles */
+.leticia-advice a, .leticia-advice h1, 
+.leticia-advice h4, .leticia-advice p {
+  color: black;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.leticia-advice a {
+  text-decoration: none;
+}
+
+.leticia-advice header a {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
+.leticia-advice a:hover {
+  color: #f16059;
+}
+
+.leticia-advice h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.5em;
+  margin: 50px 0;
+}
+
+.leticia-advice div {
+  background-color: #fff;
+}
+.leticia-advice h4{
+  background-color: #fff;
+  font-size: 1.1em;
+  margin: 50px auto;
+  text-transform: uppercase;
+  font-weight: normal;
+}
+
+.leticia-advice p {
+  background-color: #fff;
+  font-size: 1em;
+  font-family: 'Georgia', serif;
+}
+
