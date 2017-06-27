@@ -7377,4 +7377,19 @@ color: white;
   font-size: 1em;
   font-family: 'Georgia', serif;
 }
-
+/* Sandra's Styles */
+.sandra-advice h1 {
+	font-family: Franklin Gothic;
+	color: palegreen;
+	font-size: 2.95em;
+}
+.sandra-advice h4 {
+	color:antiquewhite;
+}
+.sandra-advice div {
+	background-color:coral;
+}
+.sandra-advice p{
+	color: white;
+	padding: 0 10px 10px 10px
+}
