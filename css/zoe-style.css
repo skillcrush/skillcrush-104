@@ -1,0 +1,29 @@
+/*** Zoe's Styles ***/
+
+.zoe-advice {
+  background-color: #ff99bb;
+  font-family: 'open sans';
+}
+
+.zoe-advice h1 {
+  font-family: fantasy;
+  font-size: 48px;
+  color: white;
+}
+
+.zoe-advice h4 {
+  font-family: fantasy;
+  color: white;
+  background-color: #ff1a8c;
+}
+
+.zoe-advice p {
+  font-size: 18px;
+  color: #595959;
+  background-color: #ff99bb;
+  padding: 10px;
+}
+
+.zoe-advice footer p {
+  text-align: center;
+}
