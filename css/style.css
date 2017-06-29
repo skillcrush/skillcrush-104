@@ -7335,7 +7335,7 @@ color: white;
 
 
 /* Leticia's Styles */
-.leticia-advice a, .leticia-advice h1, 
+.leticia-advice a, .leticia-advice h1,
 .leticia-advice h4, .leticia-advice p {
   color: black;
   font-family: 'Open Sans', sans-serif;
@@ -7377,6 +7377,34 @@ color: white;
   font-size: 1em;
   font-family: 'Georgia', serif;
 }
+
+/* Rachel D's Advice*/
+.racheldicesare-advice {
+	font-family: 'Roboto Slab', serif;
+	color: white;
+}
+
+.racheldicesare-advice h1 {
+	background-color: #5DE5FF;
+	font-family: 'Pacifico', cursive;
+}
+
+.racheldicesare-advice h4 {
+	font-family: 'Roboto Slab', 700, serif;
+	text-transform: capitalize;
+	color: #5DE5FF;
+	text-align: left;
+	font-size: 24px;
+}
+
+.racheldicesare-advice footer p {
+	color: white;
+	text-align: left;
+	font-size: 16px;
+	padding: 5px 0;
+	background-color: #5DE5FF;
+}
+
 /* Sandra's Styles */
 .sandra-advice h1 {
 	font-family: Franklin Gothic;
