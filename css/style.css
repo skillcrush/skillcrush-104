@@ -7404,3 +7404,20 @@ color: white;
 	padding: 5px 0;
 	background-color: #5DE5FF;
 }
+
+/* Sandra's Styles */
+.sandra-advice h1 {
+	font-family: Franklin Gothic;
+	color: palegreen;
+	font-size: 2.95em;
+}
+.sandra-advice h4 {
+	color:antiquewhite;
+}
+.sandra-advice div {
+	background-color:coral;
+}
+.sandra-advice p{
+	color: white;
+	padding: 0 10px 10px 10px
+}
