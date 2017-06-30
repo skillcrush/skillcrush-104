@@ -1,0 +1,25 @@
+body.jessicapowell-advice {
+	padding: 10px;
+	width: 100%;
+	background: grey;
+	color: #333;
+}
+
+h1{
+	font-family: 'Slabo 13px', serif ;
+	color:#ffccdd;
+}
+
+h2 {
+	font-family: 'Slabo 13px', serif;
+	font-size: 1.5em;
+}
+
+p {
+	font-family: 'helvetica 12px', sans-serif;
+}
+
+a {
+	font-family: 'helvetica 12px', sans-serif;
+	text-decoration: none;
+}
