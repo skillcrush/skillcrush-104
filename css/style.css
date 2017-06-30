@@ -7332,3 +7332,92 @@ color: white;
   background: transparent;
   padding: 15px;
 }
+
+
+/* Leticia's Styles */
+.leticia-advice a, .leticia-advice h1,
+.leticia-advice h4, .leticia-advice p {
+  color: black;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.leticia-advice a {
+  text-decoration: none;
+}
+
+.leticia-advice header a {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
+.leticia-advice a:hover {
+  color: #f16059;
+}
+
+.leticia-advice h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.5em;
+  margin: 50px 0;
+}
+
+.leticia-advice div {
+  background-color: #fff;
+}
+.leticia-advice h4{
+  background-color: #fff;
+  font-size: 1.1em;
+  margin: 50px auto;
+  text-transform: uppercase;
+  font-weight: normal;
+}
+
+.leticia-advice p {
+  background-color: #fff;
+  font-size: 1em;
+  font-family: 'Georgia', serif;
+}
+
+/* Rachel D's Advice*/
+.racheldicesare-advice {
+	font-family: 'Roboto Slab', serif;
+	color: white;
+}
+
+.racheldicesare-advice h1 {
+	background-color: #5DE5FF;
+	font-family: 'Pacifico', cursive;
+}
+
+.racheldicesare-advice h4 {
+	font-family: 'Roboto Slab', 700, serif;
+	text-transform: capitalize;
+	color: #5DE5FF;
+	text-align: left;
+	font-size: 24px;
+}
+
+.racheldicesare-advice footer p {
+	color: white;
+	text-align: left;
+	font-size: 16px;
+	padding: 5px 0;
+	background-color: #5DE5FF;
+}
+
+/* Sandra's Styles */
+.sandra-advice h1 {
+	font-family: Franklin Gothic;
+	color: palegreen;
+	font-size: 2.95em;
+}
+.sandra-advice h4 {
+	color:antiquewhite;
+}
+.sandra-advice div {
+	background-color:coral;
+}
+.sandra-advice p{
+	color: white;
+	padding: 0 10px 10px 10px
+}
