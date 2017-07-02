@@ -1,0 +1,30 @@
+.eliane-advice {
+	background-color: white;
+}
+
+body {
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+
+}
+
+h1 {
+	font-family: 'Indie Flower', cursive;
+
+}
+
+.advice {
+	border-width: 10px;
+	border-radius: 20px;
+	border-color: gold;
+	font-size: 15px;
+
+}
+
+footer, h1 {
+	margin-top: 50px;
+}
+
+footer {
+	font-size: 10px;
+}
