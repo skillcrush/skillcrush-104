@@ -1,4 +1,33 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+/*anwegner Styles*/
+
+.anwegner-advice h1 {
+  font-family: 'Zilla Slab', serif;
+  font-weight: 600;
+}
+
+.anwegner-advice h4 {
+  font-family: 'Zilla Slab', serif;
+  background-color: #fff;
+  text-align: left;
+  font-size: 1.5em;
+  font-weight: 400;
+}
+
+.anwegner-advice .advice {
+  background-color: #fff;
+}
+
+.anwegner-advice p {
+  font-family: 'Zilla Slab', serif;
+  color: #900C3F;
+}
+
+.anwegner-advice footer p {
+  color: #8C8085;
+  font-size: .75em;
+}
+
 /*Kristin's Styles*/
 .kristin-advice html{
 	background: #ffffff;
