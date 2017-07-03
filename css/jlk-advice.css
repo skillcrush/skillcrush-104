@@ -1,0 +1,60 @@
+/* Jodie's Styles */
+
+.jlk-advice {
+	background-color: silver;
+	padding: 30px;
+    font-family: cursive;
+    color: navy;
+}
+
+.jlk-advice header {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+		text-transform: capitalize;
+}
+
+.jlk-advice a {
+	text-decoration: none;
+	color: black;
+}
+
+.jlk-advice a:hover {
+		color: crimson;
+}
+
+.jlk-advice header h1 {
+    color: navy;
+		border:2px solid blue;
+		border-radius: 10px;
+		padding: 2em;
+		background-color: whitesmoke;
+		font-size: 2em;
+}
+
+.jlk-advice section div.advice {
+    border: 2px solid blue;
+    padding: 4em;
+    border-radius: 10px;
+    width: 75%;
+    margin: 0 auto;
+		background-color: whitesmoke;
+}
+
+.jlk-advice section div.advice h4 {
+    color: navy;
+    font-family: courier;
+		font-size: 1.5em;
+}
+
+.jlk-advice section div.advice p {
+	font-size: 1.25em;
+}
+
+.jlk-advice footer {
+	background-color: transparent;
+    color: black;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
