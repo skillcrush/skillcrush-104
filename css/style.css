@@ -1,4 +1,33 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+/*anwegner Styles*/
+
+.anwegner-advice h1 {
+  font-family: 'Zilla Slab', serif;
+  font-weight: 600;
+}
+
+.anwegner-advice h4 {
+  font-family: 'Zilla Slab', serif;
+  background-color: #fff;
+  text-align: left;
+  font-size: 1.5em;
+  font-weight: 400;
+}
+
+.anwegner-advice .advice {
+  background-color: #fff;
+}
+
+.anwegner-advice p {
+  font-family: 'Zilla Slab', serif;
+  color: #900C3F;
+}
+
+.anwegner-advice footer p {
+  color: #8C8085;
+  font-size: .75em;
+}
+
 /*Kristin's Styles*/
 .kristin-advice html{
 	background: #ffffff;
@@ -7335,7 +7364,7 @@ color: white;
 
 
 /* Leticia's Styles */
-.leticia-advice a, .leticia-advice h1, 
+.leticia-advice a, .leticia-advice h1,
 .leticia-advice h4, .leticia-advice p {
   color: black;
   font-family: 'Open Sans', sans-serif;
@@ -7377,6 +7406,34 @@ color: white;
   font-size: 1em;
   font-family: 'Georgia', serif;
 }
+
+/* Rachel D's Advice*/
+.racheldicesare-advice {
+	font-family: 'Roboto Slab', serif;
+	color: white;
+}
+
+.racheldicesare-advice h1 {
+	background-color: #5DE5FF;
+	font-family: 'Pacifico', cursive;
+}
+
+.racheldicesare-advice h4 {
+	font-family: 'Roboto Slab', 700, serif;
+	text-transform: capitalize;
+	color: #5DE5FF;
+	text-align: left;
+	font-size: 24px;
+}
+
+.racheldicesare-advice footer p {
+	color: white;
+	text-align: left;
+	font-size: 16px;
+	padding: 5px 0;
+	background-color: #5DE5FF;
+}
+
 /* Sandra's Styles */
 .sandra-advice h1 {
 	font-family: Franklin Gothic;
@@ -7393,3 +7450,15 @@ color: white;
 	color: white;
 	padding: 0 10px 10px 10px
 }
+/*==END SANDRA'S STYLES==*/
+
+/*==NATHALIA B.'S STYLES==*/
+.nathalias-advice h1,
+.nathalias-advice h4 {
+  color: hotpink;
+}
+
+.nathalias-advice p {
+  color: black;
+}
+/*==END NATHALIA B.'S STYLES==*/
