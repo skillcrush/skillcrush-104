@@ -1,0 +1,33 @@
+.rm1411-advice {
+  background-color: #adcddf;
+  font-family: sans-serif;
+  width: 860px;
+  margin: 0 auto;
+}
+
+.rm1411-advice
+  h1 {
+  background-color: #4a83a3;
+  padding: 6px;
+  color: #f8f8ea;
+  text-align: center;
+  border-radius: 6px;
+  font-family: serif;
+  font-size: 35px;
+}
+.rm1411-advice
+h4 {
+  font-size: 28px;
+  font-style: italic;
+  font-family: serif;
+  background-color: #f8f8ea;
+  padding: 4px 12px;
+  color: #4a83a3;
+  border-radius: 6px;
+  margin-bottom: -2px;
+}
+
+.rm1411-advice
+p {
+  line-height: 22px;
+}
