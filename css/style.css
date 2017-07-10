@@ -1,4 +1,59 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+/*anwegner Styles*/
+
+.anwegner-advice h1 {
+  font-family: 'Zilla Slab', serif;
+  font-weight: 600;
+}
+
+.anwegner-advice h4 {
+  font-family: 'Zilla Slab', serif;
+  background-color: #fff;
+  text-align: left;
+  font-size: 1.5em;
+  font-weight: 400;
+}
+
+.anwegner-advice .advice {
+  background-color: #fff;
+}
+
+.anwegner-advice p {
+  font-family: 'Zilla Slab', serif;
+  color: #900C3F;
+}
+
+.anwegner-advice footer p {
+  color: #8C8085;
+  font-size: .75em;
+}
+
+/*Kristin's Styles*/
+.kristin-advice html{
+	background: #ffffff;
+	color: #ccc;
+}
+
+/*Becky T's Stylez*/
+
+.beckyt-advice body {
+  background-color: yellow;
+  font-family: 'Patrick Hand SC', cursive;
+
+
+    /*font-family: 'Patrick Hand SC', cursive;
+
+    font-family: 'Dancing Script', cursive;
+
+    font-family: 'Josefin Sans', sans-serif;
+    */
+
+}
+.beckyt-advice h1{
+  font-family: 'Josefin Sans', sans-serif;
+  font-variant: small-caps;
+}
+
 /*Patricia Kisinger's Styles*/
 .patriciakisinger-advice html{
   background: #ffb6c1;
@@ -7017,23 +7072,23 @@ body.leacamara-advice {
 }
 
 /*Tronson's Styles*/
-body.tronson-advice{	
+body.tronson-advice{
 	padding: 6em;
 }
 
-.tronson-advice p, h1, h2, h4, html{	
+.tronson-advice p, h1, h2, h4, html{
 	font-family: 'Crimson Text', sans-serif;
 	color: #666;
 }
 
-.tronson-advice h4{	
+.tronson-advice h4{
 	font-size: 2em;
 	font-style: italic;
 }
 
-.tronson-advice header h1{	
+.tronson-advice header h1{
 	color: #000;
-	font-weight: 400;	
+	font-weight: 400;
 }
 
 .tronson-advice header h1 {
@@ -7043,11 +7098,11 @@ body.tronson-advice{
 	line-height: 1em;
 	text-align: left;
 	border-bottom: 1px #666 solid;
-	padding-bottom: .5em;	
+	padding-bottom: .5em;
 }
 
 .tronson-advice section p{
-	font-size: 1.25em;	
+	font-size: 1.25em;
 }
 
 .tronson-advice body, html {
@@ -7056,9 +7111,9 @@ body.tronson-advice{
     background-color: #fff;
 }
 
-.tronson-advice footer{	
+.tronson-advice footer{
 	background-color: #fff;
-	text-align: center;	
+	text-align: center;
 }
 /*End Tronson's Styles*/
 
@@ -7210,7 +7265,7 @@ color: white;
 	margin: 10px 25px;
 }
 .eldydeines-advice a:hover {
-	color: #FFF; 
+	color: #FFF;
 }
 
 .eldydeines-advice h1 {
@@ -7222,7 +7277,7 @@ color: white;
 }
 
 .eldydeines-advice a:hover {
-	color: #FFF; 
+	color: #FFF;
 }
 
 .eldydeines-advice .advice {
@@ -7290,7 +7345,7 @@ color: white;
   background: #FAF1EF;
 }
 
-.gab-advice h1, 
+.gab-advice h1,
 .gab-advice h4 {
   color: black;
   font-family: 'Montserrat', sans-serif;
@@ -7300,10 +7355,110 @@ color: white;
   color: black;
 }
 
-.gab-advice .advice, 
-.gab-advice section, 
+.gab-advice .advice,
+.gab-advice section,
 .gab-advice h4 {
   background: transparent;
   padding: 15px;
 }
 
+
+/* Leticia's Styles */
+.leticia-advice a, .leticia-advice h1,
+.leticia-advice h4, .leticia-advice p {
+  color: black;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.leticia-advice a {
+  text-decoration: none;
+}
+
+.leticia-advice header a {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
+.leticia-advice a:hover {
+  color: #f16059;
+}
+
+.leticia-advice h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.5em;
+  margin: 50px 0;
+}
+
+.leticia-advice div {
+  background-color: #fff;
+}
+.leticia-advice h4{
+  background-color: #fff;
+  font-size: 1.1em;
+  margin: 50px auto;
+  text-transform: uppercase;
+  font-weight: normal;
+}
+
+.leticia-advice p {
+  background-color: #fff;
+  font-size: 1em;
+  font-family: 'Georgia', serif;
+}
+
+/* Rachel D's Advice*/
+.racheldicesare-advice {
+	font-family: 'Roboto Slab', serif;
+	color: white;
+}
+
+.racheldicesare-advice h1 {
+	background-color: #5DE5FF;
+	font-family: 'Pacifico', cursive;
+}
+
+.racheldicesare-advice h4 {
+	font-family: 'Roboto Slab', 700, serif;
+	text-transform: capitalize;
+	color: #5DE5FF;
+	text-align: left;
+	font-size: 24px;
+}
+
+.racheldicesare-advice footer p {
+	color: white;
+	text-align: left;
+	font-size: 16px;
+	padding: 5px 0;
+	background-color: #5DE5FF;
+}
+
+/* Sandra's Styles */
+.sandra-advice h1 {
+	font-family: Franklin Gothic;
+	color: palegreen;
+	font-size: 2.95em;
+}
+.sandra-advice h4 {
+	color:antiquewhite;
+}
+.sandra-advice div {
+	background-color:coral;
+}
+.sandra-advice p{
+	color: white;
+	padding: 0 10px 10px 10px
+}
+/*==END SANDRA'S STYLES==*/
+
+/*==NATHALIA B.'S STYLES==*/
+.nathalias-advice h1,
+.nathalias-advice h4 {
+  color: hotpink;
+}
+
+.nathalias-advice p {
+  color: black;
+}
+/*==END NATHALIA B.'S STYLES==*/
