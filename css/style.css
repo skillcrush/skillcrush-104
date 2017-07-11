@@ -1,29 +1,30 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 /*anwegner Styles*/
 
-.anwegner-advice h1 {
+.betinalynn-advice h1 {
   font-family: 'Zilla Slab', serif;
   font-weight: 600;
 }
 
-.anwegner-advice h4 {
+.betinalynn-advice h4 {
   font-family: 'Zilla Slab', serif;
-  background-color: #fff;
+  background-color: #944dff;
   text-align: left;
-  font-size: 1.5em;
+  font-size: 2.5em;
   font-weight: 400;
+  color: #000000;
 }
 
-.anwegner-advice .advice {
-  background-color: #fff;
+.betinalynn-advice .advice {
+  background-color: #4dff88;
 }
 
-.anwegner-advice p {
+.betinalynn-advice p {
   font-family: 'Zilla Slab', serif;
-  color: #900C3F;
+  color: #eee;
 }
 
-.anwegner-advice footer p {
+.betinalynn-advice footer p {
   color: #8C8085;
   font-size: .75em;
 }
