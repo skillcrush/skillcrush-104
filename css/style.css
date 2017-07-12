@@ -7462,3 +7462,38 @@ color: white;
   color: black;
 }
 /*==END NATHALIA B.'S STYLES==*/
+
+/* Casey's Styles */
+.caseymorris-advice a {
+  color: #aaaaaa;
+  text-decoration: none;
+}
+
+.caseymorris-advice h1 {
+  color: #00875a;
+}
+
+.caseymorris-advice .advice {
+  background-color: #ddfcdb;
+  border: 3px solid #273422;
+  padding: 10px;
+  text-align: center;
+}
+
+.caseymorris-advice h4, p {
+  font-family: Georgia, serif;
+}
+
+.caseymorris-advice h4 {
+  background-color: inherit;
+  color: #888888;
+  font-size: 20px;
+  padding-top: 20px;
+}
+
+.caseymorris-advice p {
+  color: #273422;
+  font-size: 16px;
+}
+
+/* END Casey's Styles */
