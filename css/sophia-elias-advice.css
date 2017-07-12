@@ -1,0 +1,37 @@
+
+body {
+	background-color #A9D0F5";
+	font-family: ', impact', sans-serif;
+	padding: 20px 0 20px 15px;
+	font-weight: 700px;
+	text-align: left;
+}
+
+ p {
+	font-family: 'impact', sans-serif;
+	font-size: 40px;
+	text-align: center;
+	font-weight: 700px;
+	margin-left: 40px
+	;
+}
+
+ h3 {
+	font-color: black;
+	font-size: 40px;
+	font-family: impact;
+	font-weight: 700px;
+	margin-left: 40px
+	padding: 10px;
+
+}
+h1 {
+	font-family: 'impact', sans-serif;
+	font-size: 40px;
+	font-color: black;
+	font-weight: 700px;
+	margin-left: 40px
+	font-align: center;
+}
+
+/**End Sophia's Styles **/
