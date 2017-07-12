@@ -1,0 +1,40 @@
+
+/**Yuri's Style**/
+.yuri-advice a {
+  font-size: 0.7em;
+  text-decoration: none;
+  color: #696969;
+}
+
+.yuri-advice a:hover {
+  color: #FFB6C1;
+  font-size: 1em;
+}
+
+.yuri-advice h1,
+.yuri-advice h4 {
+  font-family: 'Shadows Into Light', cursive;
+}
+
+.yuri-advice h1 {
+  font-size: 2.5em;
+  text-transform: capitalize;
+  padding: 0 10px;
+}
+
+.yuri-advice h4 {
+  color: #808080;
+  font-size: 1.2em;
+  background-color: #E6E6FA;
+}
+
+.yuri-advice footer {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.yuri-advice footer p {
+  color: #696969;
+}
+
+/**End of Yuri's Style**/
