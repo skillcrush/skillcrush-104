@@ -7527,3 +7527,29 @@ color: white;
 }
 
 /* END Casey's Styles */
+/*Jeff Weis's Styles*/
+.jeffweis-advice {
+  font-family: 'Arial', serif;
+  color: black;
+}
+
+.jeffweis-advice h1 {
+  background-color: #ffffff;
+  font-family: 'Arial'
+}
+
+.jeffweis-advice h4 {
+  font-family: 'Arial', 700, serif;
+  color: #5DE5FF;
+  text-align: left;
+  font-size: 24px;
+}
+
+.jeffweis-advice footer p {
+  color: white;
+  text-align: left;
+  font-size: 16px;
+  padding: 5px 0;
+  background-color: #5DE5FF;
+}
+/*End Jeff Weis's Styles*/
