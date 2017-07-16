@@ -1,0 +1,38 @@
+html {
+    background: url("https://pixabay.com/get/eb31b10a28f0033ed1534705fb0938c9bd22ffd41db818489cf0c278a0/umbrella-2405042_1920.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+}
+
+body {
+    color: white;
+    font-family: 'Assistant', sans-serif;
+    background-color: rgba(0,0,0,0.7);
+    border-radius: 10px;
+    padding: 30px;
+    text-align: justify;
+    line-height: 30px;
+}
+
+h1,
+h4{
+    font-family: 'Satisfy', cursive;
+    text-align: center;
+}
+
+h1{
+  padding-bottom: 30px;
+}
+
+#advice{
+  width: 60%;
+  padding-left: 20%;
+}
+
+footer{
+  padding-top: 30px;
+  text-align: center;
+}
