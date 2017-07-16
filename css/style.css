@@ -7497,3 +7497,18 @@ color: white;
 }
 
 /* END Casey's Styles */
+
+.dani-advice {
+  font-variant: small-caps;
+}
+
+.dani-advice p {
+  color: #888888;
+  font-size: 18px;
+}
+
+.dani-advice h4 {
+  background-color: #A090F1;
+}
+
+
