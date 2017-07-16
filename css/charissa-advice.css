@@ -1,0 +1,26 @@
+/***Charissa Style***/
+
+
+body{
+  background-color: white;
+}
+
+
+header{
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 28px;
+  padding: 10px;
+  color: #A26769;
+}
+
+p{
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 26px;
+  color: #A26769;
+}
+
+h4{
+  font-family: "Satisfy", cursive;
+  font-size: 32px;
+  color: #582C4D;
+}

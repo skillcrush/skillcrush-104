@@ -1,0 +1,39 @@
+body{
+	background: #777;
+	font-size: 20px;
+	font-family: arial;
+	text-align: center;
+	width: 90%;
+	margin: auto;
+}
+.advice{
+	background: #666;
+	clear: both;
+	overflow: auto;
+}
+.one, .two, .three{
+	width: 30%;
+	float: left;
+}
+a{
+	float: left;
+	text-decoration: none;
+	color: #111;
+	border: 2px black dotted; 
+}
+h1{
+	clear: both;	
+	font-size: 2.2em;
+	color: #222;
+}
+h4{
+	font-size: 1.3em;
+	color: #222;
+}
+p{
+	font-size: 1em;
+	color: #111;
+}
+footer{
+	clear: both;
+}
