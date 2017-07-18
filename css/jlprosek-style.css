@@ -1,0 +1,23 @@
+/*--JLProsek's Advice Styles--*/
+.jlprosek-advice {
+  background: #c2c2d6;
+}
+.jlprosek-advice a {
+  color: #6600ff;
+}
+
+.jlprosek-advice h1 {
+  font-family: "Calibre", sans-serif;
+  color: #6600ff;
+  font-style: italic;
+}
+
+.jlprosek-advice h4 {
+  color: #ffff00;
+}
+
+.jlprosek-advice p {
+  font-family: "Helvetica", sans-serif;
+  color: #0000cc;
+}
+/*--End of JLProsek's Advice Styles--*/
