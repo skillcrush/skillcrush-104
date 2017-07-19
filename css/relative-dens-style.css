@@ -1,0 +1,55 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/* Relative-density Styles */
+body {
+    font-family: verdana;
+    padding: 2%;
+    background-color: #4d4d4d;
+}
+
+header h1 {
+    font-size: 1.75em;
+    border-radius: 0px 20px 20px 0px;
+    color: #66ffff;
+    padding: 5px;
+    background-color: #004080;
+    box-shadow: 6px 8px 12px #003333;
+    width: 90%;
+}
+
+a {
+  color: #d9d9d9;
+  font-size: .85em;
+  border-radius: 10px;
+  background-color: #262626;
+  box-shadow: 4px 4px 4px 2px #003333;
+  padding: 0 1em 0 1em;
+}
+
+p {
+  color: #d9d9d9;
+}
+
+h4 {
+  margin-left: 1em;
+  color: #85e0e0;
+  border-radius: 20px;
+  background-color: #5f5f5f;
+  width: 60%;
+  padding-left: 1em;
+  box-shadow: 6px 8px 12px #003333;
+  font-style: italic;
+  font-size: 1.25em;
+}
+
+.rel-dens-footer {
+    width: 22%;
+    color: #dadada;
+    font-size: .85em;
+    padding-left: 1em;
+    border-width: medium;
+    border-color: darkgrey;
+    border-radius: 10px;
+    background-color: #004080;
+    box-shadow: 4px 6px 8px #003333;
+}

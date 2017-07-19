@@ -1,0 +1,27 @@
+
+/**Andy's styles**/
+
+.andy-advice {
+background: #cecee4;
+padding: 10px;
+font-family: tahoma, sans-serif;
+color: #8970a1;
+border-radius: 10px;
+}
+
+.andy-advice h1 {
+	color: #ffffff;
+	text-shadow: 1px 1px 0px #777777;
+}
+
+.andy-advice h4 {
+	font-family: tahoma, sans-serif;
+	color: #8970a1;
+	font-style: italic;
+		font-weight: bold;
+}
+.andy-advice footer {
+	font-size: 12px;
+	text-align: center;
+		font-weight: bold;
+}

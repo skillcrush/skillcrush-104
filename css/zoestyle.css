@@ -1,0 +1,31 @@
+/*** Zoe's Styles ***/
+.zoe-advice {
+  font-family: 'Maven Pro', sans-serif;
+  background-color: #ffcce6;
+}
+
+.zoe-advice h1 {
+  font-family: 'Patrick Hand SC', cursive;
+  font-size: 60px;
+  text-align: center;
+  color: #ff1a8c;
+}
+
+.zoe-advice h4 {
+  font-family: 'Bubbler One', sans-serif;
+  font-size: 28px;
+  text-align: center;
+  color: #ff0066;
+  margin-bottom: -40px;
+}
+
+.zoe-advice p {
+  font-size: 20px;
+  margin: 50px;
+  color: #4d4d4d;
+}
+
+.zoe-advice footer p {
+  text-align: center;
+  font-size: 18px;
+}

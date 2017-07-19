@@ -1,0 +1,35 @@
+body {
+  color: #FF9999;
+  text-align: center;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header {
+  color: #336600;
+}
+
+h1 {
+  border: 1px solid #CC99FF;
+  border-radius: 25px;
+  width: 100%;
+}
+
+.heatherd-advice {
+  background: #FFF;
+  width: 100%;
+}
+
+.advice {
+  color: #CC6600;
+}
+
+footer {
+  border: 2px solid #CC99FF;
+  border-radius: 25px;
+  background: #000;
+  height: 50px;
+  text-align: center;
+  width: 100%;
+}
