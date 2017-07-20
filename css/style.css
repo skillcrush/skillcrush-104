@@ -5,6 +5,35 @@
 }
 
 
+/*---CESOLDO Styles---*/
+.esoldo-advice {
+background-color: #fafafa;
+}
+
+.esoldo-advice h1 {
+  color: #4a148c;
+  font-size: 36px;
+}
+
+.esoldo-advice h4 {
+  color: #4a148c;
+  background-color: #fafafa;
+  font-size: 24px;
+}
+
+.esoldo-advice p {
+  color: #263238;
+  font-family: Arial, sans-serif;
+  padding: 0px 50px 10px 50px;
+}
+
+.esoldo-advice a {
+  color: #0097a7;
+}
+
+/*---End CESOLDO Styles---*/
+
+
 /*---Andra Styles---*/
 .andra-advice {
   background-color:#DAF7A6;
