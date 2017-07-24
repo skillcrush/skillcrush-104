@@ -8,10 +8,7 @@ body {
   background-color: #867986;
   font-family: sans-serif;
 }
-h1, h2 {
-  font-family:'Architects Daughter', cursive;
-  text-align: center;
-}
+
 h1 {
   margin-top: 10px;
   font-size: 50px;
@@ -29,9 +26,6 @@ p {
 a {
   text-decoration: none;
   color: black;
-}
-a:hover {
-  color: #ff1a1a;
 }
 
 /**End Adrianne Scalera**/
