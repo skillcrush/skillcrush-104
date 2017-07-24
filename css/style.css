@@ -15,6 +15,29 @@
   background-color: #66ff33;
 }
 
+/*------Logan Turner Styles-------*/
+.loganturner-advice {
+  background-color: #D9D6E5;
+  font-family: "Lucida Bright", "Georgia", serif;
+}
+
+.loganturner-advice div {
+  background-color: #D9D6E5;
+}
+
+.loganturner-advice em {
+  font-weight: bolder;
+  font-stretch: expanded;
+}
+
+.loganturner-advice p {
+  color: #666;
+}
+
+.loganturner-advice h4 {
+  background-color: #666;
+  color: white;
+}
 
 /*---CESOLDO Styles---*/
 .esoldo-advice {
