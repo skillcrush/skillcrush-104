@@ -1,4 +1,61 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+/* --Rebeccas Styles--*/
+.rebeccas-advice{
+  background-color: #66ff33;
+}
+
+/*------Logan Turner Styles-------*/
+.loganturner-advice {
+  background-color: #D9D6E5;
+  font-family: "Lucida Bright", "Georgia", serif;
+}
+
+.loganturner-advice div {
+  background-color: #D9D6E5;
+}
+
+.loganturner-advice em {
+  font-weight: bolder;
+  font-stretch: expanded;
+}
+
+.loganturner-advice p {
+  color: #666;
+}
+
+.loganturner-advice h4 {
+  background-color: #666;
+  color: white;
+}
+
+/*---CESOLDO Styles---*/
+.esoldo-advice {
+background-color: #fafafa;
+}
+
+.esoldo-advice h1 {
+  color: #4a148c;
+  font-size: 36px;
+}
+
+.esoldo-advice h4 {
+  color: #4a148c;
+  background-color: #fafafa;
+  font-size: 24px;
+}
+
+.esoldo-advice p {
+  color: #263238;
+  font-family: Arial, sans-serif;
+  padding: 0px 50px 10px 50px;
+}
+
+.esoldo-advice a {
+  color: #0097a7;
+}
+
+/*---End CESOLDO Styles---*/
+
 
 /*---Andra Styles---*/
 .andra-advice {
@@ -7285,56 +7342,6 @@ color: white;
 }
 /** End of Rene's Styles **/
 
-/* -------- Eldy's Styles ------- */
-.eldydeines-advice  {
-	background-color: #FFF;
-	border: 10px solid #52527a;
-}
-
-.eldydeines-advice header {
-	margin: 10px 25px;
-}
-.eldydeines-advice a:hover {
-	color: #FFF;
-}
-
-.eldydeines-advice h1 {
-	margin: 15px 0px;
-	color: #660066;
-	background-color: #FFF;
-	text-align: left;
-	font-size: 30px;
-}
-
-.eldydeines-advice a:hover {
-	color: #FFF;
-}
-
-.eldydeines-advice .advice {
-	margin: 10px 30px;
-}
-
-.eldydeines-advice h4 {
-	margin-top: 25px;
-	font-variant: small-caps;
-	color:  #ff8566;
-	text-align: left;
-	font-size: 20px;
-}
-
-.eldydeines-advice p {
-	text-align: justify;
-}
-
-.eldydeines-advice footer {
-	margin: 15px;
-	text-align: center;
-	color:  #660066;
-	background-color: #fff;
-}
-
-/* ------ End Eldy's Styles ----- */
-
 /*karis styles*/
 .karisk-advice html{
   background: black;
@@ -7527,6 +7534,21 @@ color: white;
 }
 
 /* END Casey's Styles */
+
+.dani-advice {
+  font-variant: small-caps;
+}
+
+.dani-advice p {
+  color: #888888;
+  font-size: 18px;
+}
+
+.dani-advice h4 {
+  background-color: #A090F1;
+}
+
+
 /*Jeff Weis's Styles*/
 .jeffweis-advice {
   font-family: 'Arial', serif;
@@ -7553,3 +7575,22 @@ color: white;
   background-color: #5DE5FF;
 }
 /*End Jeff Weis's Styles*/
+
+
+/* Olesia Baginski's styles */
+
+.olesiabaginski-advice {
+  background: pink;
+  font-size: 24px;
+  color: chocolate;
+}
+
+/*End Olesia Baginski's styles */
+
+/* eco's styles */
+
+.eco-advice a {
+  color: grey;
+}
+
+/*End eco's styles */
