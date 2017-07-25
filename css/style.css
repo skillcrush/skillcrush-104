@@ -1,23 +1,3 @@
-/** Add a comment at the beginning of your CSS styles with your name**/
-/* BEWARE THE COMMA!!!!!
-
-if you do this --> .my-name h1, p {}
-
-you will change every p for the entire page that comes before yours
-
-(messing up a bunch of other people's advice pages and making the whole thing look super janky.
-DONT BE THAT PERSON!)
-
-what can you do instead? great question!
-
-do this --> .my-name h1, .my-name p {}
-
-or this --> .my-name h1 {}
-.my-name p {}
-
-END RANT */
-
-
 /***** Abbi's Styles *****/
 .abbi-advice  {
   margin: 50px;
@@ -170,16 +150,8 @@ background-color: #DAF7A6;
 .beckyt-advice body {
   background-color: yellow;
   font-family: 'Patrick Hand SC', cursive;
-
-
-    /*font-family: 'Patrick Hand SC', cursive;
-
-    font-family: 'Dancing Script', cursive;
-
-    font-family: 'Josefin Sans', sans-serif;
-    */
-
 }
+
 .beckyt-advice h1{
   font-family: 'Josefin Sans', sans-serif;
   font-variant: small-caps;
@@ -190,6 +162,7 @@ background-color: #DAF7A6;
   background: #ffb6c1;
   height: 100%;
 }
+
 .patriciakisinger-advice {
   background: #ffb6c1;
   font-family: Arial; sans-serif;
@@ -228,6 +201,7 @@ background-color: #DAF7A6;
 .patriciakisinger-advice .show-me-the-money {
   background: #ffb6c1;
 }
+
 /** nataliemm styles **/
 .nataliemm-advice {
   font-family: sans-serif;
@@ -1434,6 +1408,7 @@ body.troypratt-advice footer {
 .nicole-advice footer {
   color: #00008B;
 }
+
 /*start of Ace's styles*/
 
 .ace-advice {
@@ -1816,6 +1791,7 @@ body.troypratt-advice footer {
   font-family: "Source Sans Pro", sans-serif;
   font-size: 16px;
 }
+
 /**Regina Styles**/
 .reginacunningham-advice h4{
   font-family:Verdana;
@@ -7666,9 +7642,12 @@ color: white;
   text-align: center;
 }
 
+/*Kiera's Styles*/
 
-/***** HOMEPAGE STYLES - LEAVE AT BOTTOM OF STYLE.CSS ******/
-.all-advice {
-  margin: 50px;
-  text-align: center;
+.kiera-advice {
+background-color:#A5C3C6;
+color:#454245;
+font-family:"chalkduster",fantasy;
+font-size: 20px;
 }
+ /*End of Kiera's Styles*/
