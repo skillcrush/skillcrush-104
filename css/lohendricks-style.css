@@ -1,0 +1,28 @@
+/**Start of LHendricks Styles**/
+.lohendricks-advice body, html{
+  background-color: #aaaaaa
+}
+.lohendricks-advice h1{
+  font-family: 'Barrio', cursive;
+  text-align: center;
+  font-size: 48px;
+  color: #1a472a;
+}
+
+.lohendricks-advice h4{
+  font-family: 'Caveat Brush', cursive;
+  font-size: 36px;
+  color: #2a623d;
+}
+
+.lohendricks-advice p{
+  font-family: 'Georgia', serif;
+  font-size: 28px;
+}
+
+.lohendricks-advice footer{
+  text-align: center;
+  font-family: 'Caveat Brush', cursive;
+  font-size: 14px;
+  text-transform: capitalize;
+}

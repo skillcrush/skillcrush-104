@@ -1,0 +1,58 @@
+body{
+   background: #B3B3B3;
+   text-align: left;
+   font-size: 125%;
+   margin: 4%;
+}
+
+header{
+	background: #666666;
+	text-align: center;
+	padding: 15px;
+}
+
+header, footer{
+	background: #666666;
+	background: -moz-linear-gradient (top, #666666 0%, #000000);
+	background: -webkit-linear-gradient (#666666 0%, #000000 ); 
+	background: -0-linear-gradient(#666666 0%, #000000);
+	background: linear-gradient (#666666 0%, #000000);
+}	
+	
+h1{
+	color: #FFFF66;
+	font-size: 120%;
+}
+
+a{
+	font-variant: small-caps;
+	font-size: 80%;
+	font-family: Arial, "Time New Roman", serif;
+	width: 22%;
+}	
+
+h4{
+	color: #ffcc00;
+	background: #666666;
+}
+
+section{
+	width: 100%;
+	display: block;
+	float: left;
+	margin-right: 2%;
+}
+
+details{
+	font-style: italic;
+}
+
+summary{
+	font-style:normal;
+}
+
+footer{
+	background: #666666;
+	clear: both;
+}
+
