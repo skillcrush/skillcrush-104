@@ -1,4 +1,135 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+/* BEWARE THE COMMA!!!!!
+
+if you do this --> .my-name h1, p {}
+
+you will change every p for the entire page that comes before yours 
+
+(messing up a bunch of other people's advice pages and making the whole thing look super janky. 
+DONT BE THAT PERSON!)
+
+what can you do instead? great question!
+
+do this --> .my-name h1, .my-name p {}
+
+or this --> .my-name h1 {}
+.my-name p {}
+
+END RANT */
+
+
+/***** Abbi's Styles *****/
+.abbi-advice  {
+  margin: 50px;
+  font-family: "Helvetica", sans-serif;
+}
+
+.abbi-advice a:visited {
+  color: gray;
+}
+
+.abbi-advice h1 {
+  font-family: "Courgette", sans-serif;
+  font-size: 50px;
+  color: black;
+  text-align: center;
+  width: 75%;
+  margin: 20px auto;
+}
+
+.abbi-advice footer {
+  padding-top: 50px;
+  text-align: center;
+}
+
+
+/* --Rebeccas Styles--*/
+.rebeccas-advice{
+  background-color: #66ff33;
+}
+
+/*------Logan Turner Styles-------*/
+.loganturner-advice {
+  background-color: #D9D6E5;
+  font-family: "Lucida Bright", "Georgia", serif;
+}
+
+.loganturner-advice div {
+  background-color: #D9D6E5;
+}
+
+.loganturner-advice em {
+  font-weight: bolder;
+  font-stretch: expanded;
+}
+
+.loganturner-advice p {
+  color: #666;
+}
+
+.loganturner-advice h4 {
+  background-color: #666;
+  color: white;
+}
+
+/*---CESOLDO Styles---*/
+.esoldo-advice {
+background-color: #fafafa;
+}
+
+.esoldo-advice h1 {
+  color: #4a148c;
+  font-size: 36px;
+}
+
+.esoldo-advice h4 {
+  color: #4a148c;
+  background-color: #fafafa;
+  font-size: 24px;
+}
+
+.esoldo-advice p {
+  color: #263238;
+  font-family: Arial, sans-serif;
+  padding: 0px 50px 10px 50px;
+}
+
+.esoldo-advice a {
+  color: #0097a7;
+}
+
+/*---End CESOLDO Styles---*/
+
+
+/*---Andra Styles---*/
+.andra-advice {
+  background-color:#DAF7A6;
+}
+.andra-advice header a {
+  color: #FF5733;
+  font-size: 16px;
+}
+.andra-advice h1 {
+  color: #27AE60;
+}
+.andra-advice h3 {
+  color: #900C3F;
+  text-align: center;
+}
+.andra-advice p {
+  color: #C70039;
+}
+.andra-advice h4 {
+color: #FFC300;
+background-color: #DAF7A6;
+}
+.andra-advice footer p {
+  font-size: 12px;
+  color: #FF5733;
+}
+/*---End Andra Styles---*/
+
+
 /*anwegner Styles*/
 
 .anwegner-advice h1 {
@@ -29,7 +160,7 @@
 }
 
 /*Kristin's Styles*/
-.kristin-advice html{
+.kristinlinde-advice {
 	background: #ffffff;
 	color: #ccc;
 }
@@ -55,7 +186,7 @@
 }
 
 /*Patricia Kisinger's Styles*/
-.patriciakisinger-advice html{
+.patriciakisinger-advice {
   background: #ffb6c1;
   height: 100%;
 }
@@ -94,7 +225,7 @@
   padding: .5rem;
 }
 
-.patriciakisinger-advice .show-me-the-money section, div{
+.patriciakisinger-advice .show-me-the-money {
   background: #ffb6c1;
 }
 /** nataliemm styles **/
@@ -1126,7 +1257,7 @@ body.troypratt-advice footer {
 .sarahcyr-advice a:hover{
 	color:teal;
 }
-.sarahcyr-advice h1, h4{
+.sarahcyr-advice h1, .sarahcyr-advice h4{
 	color:teal;
 }
 .sarahcyr-advice p{
@@ -1503,7 +1634,7 @@ body.troypratt-advice footer {
   background: #fff;
 }
 
-.nate-advice h1, p {
+.nate-advice h1, .nate-advice p {
   font-family: Georgia, serif;
   font-weight: normal;
   color: #333;
@@ -2229,7 +2360,7 @@ body.elizak-advice {
   background-color: yellow;
 }
 
-.sandyhogan-advice h1, h4 {
+.sandyhogan-advice h1, .sandyhogan-advice h4 {
   color: midnightblue;
 }
 
@@ -2641,7 +2772,7 @@ img {
   text-align: center;
 }
 
-.marykatherine-advice h1, h2, h3, h4 {
+.marykatherine-advice h1, .marykatherine-advice h2, .marykatherine-advice h3, .marykatherine-advice h4 {
   font-family: 'Playfair Display', serif;
   font-weight: 700;
   color: #09bc8a;
@@ -4080,11 +4211,11 @@ p.sarahgreercopy-advice {
   padding-top: 10px;
 }
 
-.chloequinn-advice p, h1, h4 {
+.chloequinn-advice p, .chloequinn-advice h1, .chloequinn-advice h4 {
   text-align: center;
 }
 
-.chloequinn-advice h1, h4{
+.chloequinn-advice h1, .chloequinn-advice h4{
   font-family: 'Oxygen', sans-serif;
 }
 
@@ -4239,7 +4370,7 @@ p.sarahgreercopy-advice {
   font-size: 100%;
 }
 
-.sued-advice h1, h4 {
+.sued-advice h1, .sued-advice h4 {
   color: #FFA500;
 }
 
@@ -4437,13 +4568,13 @@ body.dayispatterson-advice {
   margin-left: 25%;
   width: 50%;
 }
-.dayispatterson-advice h1, h2, h3 h4 {
+.dayispatterson-advice h1, .dayispatterson-advice h2, .dayispatterson-advice h3, .dayispatterson-advice h4 {
   color: #45617D;
   font-family: Lobster;
   text-align: left;
 }
 
-.dayispatterson-advice ul,li {
+.dayispatterson-advice ul, .dayispatterson-advice li {
   list-style: square;
 }
 
@@ -4461,7 +4592,7 @@ body.dayispatterson-advice {
   font-family: monospace;
 }
 
-.brandi-advice header, img {
+.brandi-advice header, .brandi-advice img {
   min-width: 100%;
   margin: 0px 0px 0px 0px;
 }
@@ -4477,7 +4608,7 @@ body.dayispatterson-advice {
   margin: 10px 100px 10px 100px;
 }
 
-.brandi-advice ul,li {
+.brandi-advice ul, .brandi-advice li {
   font-size: 14px;
 }
 
@@ -4919,7 +5050,7 @@ body.parismarron-advice{
 }
 
 /*Ashley Brown Advice Style*/
-.ashleybrown-advice h1, h2 {
+.ashleybrown-advice h1, .ashleybrown-advice h2 {
   font-family: 'Josefin Slab', serif;
   text-align: center;
 }
@@ -5329,7 +5460,7 @@ body.emilychapman-advice {
   background-color: #efefef;
 }
 
-.melanieg-advice h1, h4 {
+.melanieg-advice h1, .melanieg-advice h4 {
   font-family: 'Trirong', serif;
 }
 
@@ -5339,7 +5470,7 @@ body.emilychapman-advice {
 /* End Melanie's Styles */
 
 /* Joanne's styles */
-.joannesullivan-advice body, html {
+.joannesullivan-advice body{
   background-color: #e6e6ff;
   padding: 50px;
 }
@@ -5351,7 +5482,7 @@ body.emilychapman-advice {
   color: #006600;
 }
 
-.joannesullivan-advice h1, h2, h4 {
+.joannesullivan-advice h1, .joannesullivan-advice h2, .joannesullivan-advice h4 {
   font-family: 'Amiri', serif;
   margin: 0 0;
 }
@@ -5384,7 +5515,7 @@ body.emilychapman-advice {
   background-color: #ccb3ff;
 }
 
-.thebeeletter a, h1, p {
+.thebeeletter a, .thebeeletter h1, .thebeeletter p {
   font-family: 'Josefin Sans', sans-serif;
 }
 
@@ -5478,7 +5609,7 @@ body.emilychapman-advice {
   color: #000299;
 }
 
-.melaniegraber-advice h1, h4 {
+.melaniegraber-advice h1, .melaniegraber-advice h4 {
   font-family: 'Lora', serif;
 }
 /* End Melanie's Styles */
@@ -5843,7 +5974,7 @@ body.emilychapman-advice {
 /*End of Sherri's Style*/
 
 /*Start CodeNeophyte's Styles */
-.codeneophyte-advice body, html {
+.codeneophyte-advice body {
   font-family: 'Times New Roman', 'serif';
   font-size: 18px;
   background-color: #989898;
@@ -5952,7 +6083,7 @@ Chrizzit's Advice Styles
 
 /*Begin Lauren Togie's Styles */
 
-.laurentogie-advice body, html{
+.laurentogie-advice body{
   background: #D9F6FF;
   width:60%;
   padding-left: 20%;
@@ -5973,7 +6104,7 @@ Chrizzit's Advice Styles
   color: #00789D;
 }
 
-.laurentogie-advice a:link, a:visited {
+.laurentogie-advice a:link, .laurentogie-advice a:visited {
   background-color: #00789D;
   color: white;
   padding: 10px 21px;
@@ -5982,7 +6113,7 @@ Chrizzit's Advice Styles
   display: inline-block;
 }
 
-.laurentogie-advice a:hover, a:active {
+.laurentogie-advice a:hover, .laurentogie-advice a:active {
   background-color: #00C3FF;
 }
 /* End Lauren Togie's Styles */
@@ -5992,7 +6123,7 @@ Chrizzit's Advice Styles
   text-align: center;
 }
 
-.advice-marina-snyder p, a, h1, h4 {
+.advice-marina-snyder p, .advice-marina-snyder a, .advice-marina-snyder h1, .advice-marina-snyder h4 {
   font-family: sans-serif;
 }
 
@@ -6034,7 +6165,7 @@ Chrizzit's Advice Styles
 /* End Erika's Styles */
 
 /* Cara's Styles */
-.caraslavens-advice body, html{
+.caraslavens-advice body{
   background: #ccffe6;
 }
 
@@ -6062,7 +6193,7 @@ Chrizzit's Advice Styles
   font-size: .7em;
 }
 
-.caraslavens-advice header, a {
+.caraslavens-advice header, .caraslavens-advice a {
   color: #00995c;
   size: .7em;
 }
@@ -6239,7 +6370,7 @@ Chrizzit's Advice Styles
 /**End of Omari's Styles**/
 
 /** Natalierose's Styles **/
-.natalierose-advice body, section{
+.natalierose-advice body, .natalierose-advice section{
   font-family: Helvetica, sans-serif;
   background-color: #66ffcc;
 }
@@ -6597,7 +6728,7 @@ Jess Wentworth Styles
 	color: white;
 }
 
-.flora-advice h1, h4 {
+.flora-advice h1, .flora-advice h4 {
 	background-color: navy;
 	color: white;
 }
@@ -7076,7 +7207,7 @@ body.tronson-advice{
 	padding: 6em;
 }
 
-.tronson-advice p, h1, h2, h4, html{
+.tronson-advice p, .tronson-advice h1, .tronson-advice h2, .tronson-advice h4{
 	font-family: 'Crimson Text', sans-serif;
 	color: #666;
 }
@@ -7105,7 +7236,7 @@ body.tronson-advice{
 	font-size: 1.25em;
 }
 
-.tronson-advice body, html {
+.tronson-advice body {
     font-family: 'Times New Roman', 'serif';
     font-size: 18px;
     background-color: #fff;
@@ -7210,7 +7341,7 @@ color: white;
   color:midnightblue;
 }
 
-.mollychabot-advice h4, p {
+.mollychabot-advice h4, .mollychabot-advice p {
   font-family: 'BioRhyme', serif;
   color:cornflowerblue;
 }
@@ -7255,58 +7386,8 @@ color: white;
 }
 /** End of Rene's Styles **/
 
-/* -------- Eldy's Styles ------- */
-.eldydeines-advice  {
-	background-color: #FFF;
-	border: 10px solid #52527a;
-}
-
-.eldydeines-advice header {
-	margin: 10px 25px;
-}
-.eldydeines-advice a:hover {
-	color: #FFF;
-}
-
-.eldydeines-advice h1 {
-	margin: 15px 0px;
-	color: #660066;
-	background-color: #FFF;
-	text-align: left;
-	font-size: 30px;
-}
-
-.eldydeines-advice a:hover {
-	color: #FFF;
-}
-
-.eldydeines-advice .advice {
-	margin: 10px 30px;
-}
-
-.eldydeines-advice h4 {
-	margin-top: 25px;
-	font-variant: small-caps;
-	color:  #ff8566;
-	text-align: left;
-	font-size: 20px;
-}
-
-.eldydeines-advice p {
-	text-align: justify;
-}
-
-.eldydeines-advice footer {
-	margin: 15px;
-	text-align: center;
-	color:  #660066;
-	background-color: #fff;
-}
-
-/* ------ End Eldy's Styles ----- */
-
 /*karis styles*/
-.karisk-advice html{
+.karisk-advice {
   background: black;
 }
 .karisk-advice header{
@@ -7450,3 +7531,118 @@ color: white;
 	color: white;
 	padding: 0 10px 10px 10px
 }
+/*==END SANDRA'S STYLES==*/
+
+/*==NATHALIA B.'S STYLES==*/
+.nathalias-advice h1,
+.nathalias-advice h4 {
+  color: hotpink;
+}
+
+.nathalias-advice p {
+  color: black;
+}
+/*==END NATHALIA B.'S STYLES==*/
+
+/* Casey's Styles */
+.caseymorris-advice a {
+  color: #aaaaaa;
+  text-decoration: none;
+}
+
+.caseymorris-advice h1 {
+  color: #00875a;
+}
+
+.caseymorris-advice .advice {
+  background-color: #ddfcdb;
+  border: 3px solid #273422;
+  padding: 10px;
+  text-align: center;
+}
+
+.caseymorris-advice h4, .caseymorris-advice p {
+  font-family: Georgia, serif;
+}
+
+.caseymorris-advice h4 {
+  background-color: inherit;
+  color: #888888;
+  font-size: 20px;
+  padding-top: 20px;
+}
+
+.caseymorris-advice p {
+  color: #273422;
+  font-size: 16px;
+}
+
+/* END Casey's Styles */
+
+.dani-advice {
+  font-variant: small-caps;
+}
+
+.dani-advice p {
+  color: #888888;
+  font-size: 18px;
+}
+
+.dani-advice h4 {
+  background-color: #A090F1;
+}
+
+
+/*Jeff Weis's Styles*/
+.jeffweis-advice {
+  font-family: 'Arial', serif;
+  color: black;
+}
+
+.jeffweis-advice h1 {
+  background-color: #ffffff;
+  font-family: 'Arial'
+}
+
+.jeffweis-advice h4 {
+  font-family: 'Arial', 700, serif;
+  color: #5DE5FF;
+  text-align: left;
+  font-size: 24px;
+}
+
+.jeffweis-advice footer p {
+  color: white;
+  text-align: left;
+  font-size: 16px;
+  padding: 5px 0;
+  background-color: #5DE5FF;
+}
+/*End Jeff Weis's Styles*/
+
+
+/* Olesia Baginski's styles */
+
+.olesiabaginski-advice {
+  background: pink;
+  font-size: 24px;
+  color: chocolate;
+}
+
+/*End Olesia Baginski's styles */
+
+/* eco's styles */
+
+.eco-advice a {
+  color: grey;
+}
+
+/*End eco's styles */
+
+
+/***** HOMEPAGE STYLES - LEAVE AT BOTTOM OF STYLE.CSS ******/
+.all-advice {
+  margin: 50px;
+  text-align: center;
+}
+
