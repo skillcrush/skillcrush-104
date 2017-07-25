@@ -3,9 +3,9 @@
 
 if you do this --> .my-name h1, p {}
 
-you will change every p for the entire page that comes before yours 
+you will change every p for the entire page that comes before yours
 
-(messing up a bunch of other people's advice pages and making the whole thing look super janky. 
+(messing up a bunch of other people's advice pages and making the whole thing look super janky.
 DONT BE THAT PERSON!)
 
 what can you do instead? great question!
@@ -7639,10 +7639,36 @@ color: white;
 
 /*End eco's styles */
 
+/***** Stephanie's Styles *****/
+.sfranz-advice  {
+  background-color: #6a5750;
+  background-image: linear-gradient(to right, #6a5750, #30231d);
+  color: #f6f1ed;
+  font-family: Verdana, sans-serif;
+  font-size: 1rem;
+  max-width: 800px;
+  margin: 2rem auto;
+}
+
+.sfranz-advice a:visited {
+  color: gray;
+}
+
+.sfranz-advice h1 {
+  font-size: 1.5rem;
+  margin: 2rem auto;
+  text-align: center;
+  width: 80%;
+}
+
+.sfranz-advice footer {
+  padding-top: 4rem;
+  text-align: center;
+}
+
 
 /***** HOMEPAGE STYLES - LEAVE AT BOTTOM OF STYLE.CSS ******/
 .all-advice {
   margin: 50px;
   text-align: center;
 }
-
