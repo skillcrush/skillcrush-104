@@ -1,0 +1,28 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/* Melissa Ormonde Guzman Styles */
+
+.melissaog-advice a {
+	font-family: 'Open Sans Condensed', sans-serif;
+	
+}
+.melissaog-advice h1 {
+	font-family: 'Montserrat', sans-serif;
+	text-align: left;
+	font-size: 40 px;
+	color: #D71212
+}
+
+.melissaog-advice h4 {
+	font-family: 'Montserrat', sans-serif;
+	color: #5B5759;
+}
+
+.melissaog-advice p {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 18px;
+	color: darkgrey;
+}
+
+/* End Melissa Ormonde Guzman Styles */
+

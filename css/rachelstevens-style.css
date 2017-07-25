@@ -1,0 +1,42 @@
+/*Body Styles*/
+
+.rachelstevens-advice {
+  background: #e6e6ff;
+
+}
+
+.rachelstevens-advice a {
+  text-decoration: none;
+  font-family: 'Reenie Beanie', cursive;
+  font-size: 2em;
+}
+
+
+.rachelstevens-advice h1 {
+  font-family: 'Suez One', serif;
+  font-size 3em;
+  padding: 20px;
+}
+
+.rachelstevens-advice p {
+  font-family: 'Reenie Beanie', cursive;
+  font-size: 2em;
+  padding: 20px;
+
+}
+
+.advice h4 {
+  font-family: 'Reenie Beanie', cursive;
+  font-weight: bolder;
+  font-size: 3em;
+  padding: 20px;
+}
+
+.advice p {
+  max-width: 700px;
+  text-align: center;
+}
+
+.rachelstevens-advice footer p {
+  font-weight: bold;
+}
