@@ -7615,6 +7615,49 @@ color: white;
 
 /*End eco's styles */
 
+/* Amanda Hasenzahl's Styles */
+
+.amandahasenzahl-advice {
+	background-color: aqua;
+	padding: 10px;
+}
+
+.amandahasenzahl-advice header a {
+	text-decoration: none;
+	color: blue;
+	font-weight: 700;
+}
+
+.amandahasenzahl-advice h1 {
+	color: Black;
+	font-family: gill-sans;
+}
+
+.amandahasenzahl-advice h4 {
+	background-color: aqua;
+	color: black;
+	font-family: gill-sans;
+	font-size: 21px;
+}
+
+.amandahasenzahl-advice p {
+	color: navy;
+	font-family: arial;
+	font-size: 16px;
+}
+
+.amandahasenzahl-advice .first-para {
+	border-top: 2px solid #fff;
+	padding-top: 15px;
+}
+
+.amandahasenzahl-advice footer p {
+	font-weight: 700;
+	color: blue;
+}
+
+/* End Amanda Hasenzahl's Styles */
+
 /***** Stephanie's Styles *****/
 .sfranz-advice  {
   background-color: #6a5750;
