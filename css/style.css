@@ -1,5 +1,14 @@
-
 /** Add a comment at the beginning of your CSS styles with your name**/
+
+/***** KrissyFile Styles *****/
+.krissyscott-advice {
+ font-family: 'Zilla Slab', serif;
+  background-color: black;
+  color: red;
+  text-align: right;
+  font-size: 24px;
+  font-weight: 700;
+}
 
 /***** Abbi's Styles *****/
 .abbi-advice  {
