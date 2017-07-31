@@ -122,6 +122,31 @@ background-color: #DAF7A6;
 
 /*anwegner Styles*/
 
+
+/* Morgan's Styles*/
+.morgancook-advice {
+  background-color: #000099;
+  font-size: 26px;
+  font-color: #e6e6e6 !important;
+  font-family: fantasy;
+  padding-top: 5px;
+}
+
+.morgancook-advice-p  {
+  font-size: 18px;
+  font-color: grey !important;
+  font-family: fantasy;
+  background-color:  #bfbfbf !important;
+  text-align: center !important;
+}
+
+.morgancook-advice-a {
+  background-color: #000099;
+  font-color: #f2f2f2 !important;
+}
+
+/*ANWegner Advice*/
+
 .anwegner-advice h1 {
   font-family: 'Zilla Slab', serif;
   font-weight: 600;
