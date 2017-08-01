@@ -7707,3 +7707,34 @@ font-size: 20px;
 }
  /*End of Kiera's Styles*/
 
+/***Liz Tracy's Styles***/
+.liztracy-advice {
+  background-color: #b3d7d3;
+  color: #9376d2;
+  font-family:'Julee', cursive;
+  font-size: 20px;
+  text-align: center;
+}
+.liztracy-advice h1{
+font-family: 'Shadows Into Light', cursive;
+font-size: 48px;
+text-align: center;
+}
+.liztracy-advice h2{
+font-family: 'Shadows Into Light', cursive;
+font-size: 36px;
+text-align: center;
+color: black;
+}
+.liztracy-advice h4 {
+  font-family: 'Lemonada', cursive;
+  font-size: 36px;
+  color: #528dd2;
+  text-align: center;
+}
+.liztracy-advice footer {
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: 24px;
+  color: #528dd2;
+  text-align: center;
+}
