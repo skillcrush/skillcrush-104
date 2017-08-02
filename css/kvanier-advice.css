@@ -1,0 +1,24 @@
+/** K Vanier style**/
+
+.kvanier-advice h1{
+    color: #ff530d;
+    font-family: 'Abril Fatface', serif;
+    text-align: justify;
+    font-size: 20px;
+}
+
+.kvanier-advice p{
+    color: #cc841f;
+    font-family: 'Biorhyme';
+    text-align: center;
+    font-size: 12px;
+}
+
+.kvanier-advice h4{
+    color: #1fcc50;
+    font-size: 15px;
+    font-family: 'Biorhyme';
+    text-align: left;
+}
+
+/** END K Vanier's style**/
