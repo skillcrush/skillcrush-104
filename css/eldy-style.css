@@ -1,0 +1,48 @@
+/* -------- Eldy's Styles ------- */
+.eldydeines-advice  {
+	background-color: #FFF;
+	border: 10px solid #52527a;
+}
+
+.eldydeines-advice header {
+	margin: 10px 25px;
+}
+.eldydeines-advice a:hover {
+	color: #FFF; 
+}
+
+.eldydeines-advice h1 {
+	margin: 15px 0px;
+	color: #660066;
+	background-color: #FFF;
+	text-align: left;
+	font-size: 30px;
+}
+
+.eldydeines-advice a:hover {
+	color: #FFF; 
+}
+
+.eldydeines-advice .advice {
+	margin: 10px 30px;
+}
+
+.eldydeines-advice h4 {
+	margin-top: 25px;
+	font-variant: small-caps;
+	color:  #ff8566;
+	text-align: left;
+	font-size: 20px;
+}
+
+.eldydeines-advice p {
+	text-align: justify;
+}
+
+.eldydeines-advice footer {
+	margin: 15px;
+	text-align: center;
+	color:  #660066;
+	background-color: #fff;
+}
+/* ------ End Eldy's Styles ----- */

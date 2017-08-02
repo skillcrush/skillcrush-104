@@ -1,0 +1,50 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/**Brigid Barrett's Styles **/
+
+header a{
+	text-decoration: none;
+	color: #005168;
+	font-size: .75em;
+}
+
+.bb-advice{
+	background-color: #00ffd4;
+	font-size: 20px;
+	font-family: 'helvetica', sans-serif;
+	text-align: left;
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
+.bb-advice h1, .bb-advice h4 {
+	color: #01baef;
+}
+
+.bb-advice h1 {
+	font-size: 3em;
+}
+
+.bb-advice h4 {
+	font-size: 2em;
+	font-family: 'helvetica', sans-serif;
+	padding-bottom: 10px;
+	border-bottom: 2px solid #a7eccf;
+}
+
+.bb-advice p {
+	color: #005168;
+	font-size: 1.5em;
+}
+.bb-advice ol {
+	color: #005168;
+	font-size: 1.5em;
+}
+
+.bb-advice ol li {
+	padding: 25px;
+}
+
+footer {
+	font-size: .5em;
+}

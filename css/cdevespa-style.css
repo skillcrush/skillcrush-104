@@ -1,0 +1,55 @@
+html{
+  font-family: 'Catamaran', sans-serif;
+  background-color: #fff;
+  color: #000;
+  padding: 10px;
+  width: 75%;
+}
+
+.cdevespa-advice header{
+    background-color: #42f4ee;
+    padding-bottom: 10px;
+    width: 102%;
+}
+
+.cdevespa-advice header a{
+    
+    font-size: .75em;
+    color: #999897;
+}
+
+.cdevespa-advice header h1{
+    font-size: 2.4em;
+    color: #2d2d2c;
+    font-weight: 900;
+    text-align: center;
+    }
+
+.cdevespa-advice  h4{
+    color: #2d2d2c;
+    background-color: #f2eba4;
+    text-align: left;
+    width: 101%;
+    font-size: 1.2em;
+    font-weight: 700;
+    padding-top: 0;
+    padding-left: 10px;
+    margin: 0;
+}
+
+.cdevespa-advice p{
+    background-color: #f2eba4;
+    color: #3d3d3d;
+    font-size: 1em;
+    padding: 10px 10px;
+    margin: auto;
+    width: 100%;
+}
+
+.cdevespa-advice footer p {
+  font-size: 1em;
+  font-weight: 700;
+  background-color: #42f4ee;
+  
+}
+

@@ -1,0 +1,35 @@
+/** Jose Sánchez's Styles **/
+html {
+   /* set height to 100% - these are important for allowing content to vertically align */
+   height: 100%;
+}
+body {
+    /* set height to 100% - these are important for allowing content to vertically align */
+	height: 100%;
+}
+.wrapper {
+    /* set the display to flex and use the justify-content & align-items properties to center all child elements on the page */
+    margin: 0;
+    height: 100%;
+    width: 100%;
+	display: flex;
+	justify-content: center; 
+	align-items: center;
+}
+#content {
+   /* set the display to flex and use the justify-content & align-items properties to center the text within the div*/
+    background: #222;
+    background:rgba(0,0,0,0.7);
+    color: #fff;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+    font-size: 1.25em;
+    line-height: 1.5em;
+    border-radius: 10px;
+    padding: 0px 30px;
+    width: 300px;
+    height: 300px;
+	display: flex;
+	justify-content: center; 
+	align-items: center;
+}

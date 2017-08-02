@@ -1,0 +1,42 @@
+/* styles for kristig-advice.html */
+
+.kristig-advice {
+  background-color: #e9dbaf;
+  font-family: Arial, sans-serif;
+}
+.kristig-advice header a, header a:hover, header a:visited {
+  text-decoration: none;
+  background-color: #3f5f32;
+  padding: 12px;
+  color: #e9dbaf;
+  font-size: .6em;
+}
+.kristig-advice header a:hover {
+    color: #c1cfbb;
+}
+.kristig-advice h1 {
+  margin-top: 70px;
+  color: #3f5f32;
+  text-align: center;
+  font-size: 1.5em;
+  font-style: italic;
+}
+.kristig-advice h4 {
+  margin-top: 50px;
+  color: #3f5f32;
+  font-size: 1em;
+}
+.kristig-advice h4, p {
+  margin-bottom: 10px;
+}
+.kristig-advice p {
+  font-size: .8em;
+  line-height: 1.5em;
+}
+.kristig-advice footer {
+  margin-top: 70px;
+  padding: 20px 0;
+  border-top: 1px solid #3f5f32;
+  text-align: center;
+  font-size: .8em;
+}
