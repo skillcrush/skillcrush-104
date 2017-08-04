@@ -7715,5 +7715,20 @@ font-size: 20px;
   font-family: "Arial Black", "Arial", sans-serif;
   font-size: 16px;
 }
- }
 
+/*Riva's Styles*/
+  .riva-advice {
+    background-color: #222222;
+    color: #f99ab7;
+    font-family: 'Lemonada', cursive;
+  }
+  .riva-advice h1 {
+    font-size: 32px;
+  }
+  .riva-advice h4 {
+    font-size: 24px;
+  }
+  .riva-advice p {
+    font-size: 10 px;
+  }
+}
