@@ -1,5 +1,32 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/*****Bianca's Sytle*****/
+.bianca-advice {
+  font: sans-serif;
+}
+
+.bianca-advice h1 {
+  background-color: yellow;
+  font-size: 28px;
+  text-align: center;
+  text-transform: capitalize;
+  padding: 50px 0;
+}
+
+.bianca-advice h4 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.bianca-advice p {
+  font-size: 16px;
+  font-weight: lighter;
+}
+
+/******End Bianca's Style*****/
+
+
+}
 /***** KrissyFile Styles *****/
 .krissyscott-advice {
  font-family: 'Zilla Slab', serif;
