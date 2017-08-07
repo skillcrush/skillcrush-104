@@ -1,0 +1,47 @@
+html {
+	height: 100%;
+	background: #feb645; 
+	background: -webkit-linear-gradient(#feb645, #e73827); 
+	background: -moz-linear-gradient(#feb645, #e73827); 
+	background: linear-gradient(#feb645, #e73827);
+}
+
+html, body {
+	font-size: 16px;
+}
+
+p {
+	padding-bottom: 2em;
+	margin-top: 0;
+}
+
+h1 {
+	font-family: 'Cantata One', serif;
+	font-size: 1.75em;
+}
+
+h2 {
+	margin-bottom: .25em;
+}
+
+a {
+	color: #aa0000;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #ff0000;
+}
+
+footer {
+	font-size: .75em;
+}
+
+footer p {
+	margin-top: 1em;
+}
+
+.kevin-advice {
+	font-family: 'Imprima', sans-serif;
+	font-size: 1.5em;
+}

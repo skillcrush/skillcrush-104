@@ -1,5 +1,32 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/*****Bianca's Sytle*****/
+.bianca-advice {
+  font: sans-serif;
+}
+
+.bianca-advice h1 {
+  background-color: yellow;
+  font-size: 28px;
+  text-align: center;
+  text-transform: capitalize;
+  padding: 50px 0;
+}
+
+.bianca-advice h4 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.bianca-advice p {
+  font-size: 16px;
+  font-weight: lighter;
+}
+
+/******End Bianca's Style*****/
+
+
+}
 /***** KrissyFile Styles *****/
 .krissyscott-advice {
  font-family: 'Zilla Slab', serif;
@@ -7741,6 +7768,80 @@ font-size: 20px;
   font-family: "Arial Black", "Arial", sans-serif;
   font-size: 16px;
 }
- }
   /* End Marvelonaut's Styles */
 
+
+/*Riva's Styles*/
+  .riva-advice {
+    background-color: #222222;
+    color: #f99ab7;
+    font-family: 'Lemonada', cursive;
+  }
+  .riva-advice h1 {
+    font-size: 32px;
+  }
+  .riva-advice h4 {
+    font-size: 24px;
+  }
+  .riva-advice p {
+    font-size: 10 px;
+  }
+
+/***** Jenn's Styles *****/
+
+.jenn-advice {
+  background-color: #8e44ad;
+  color: #fff;
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  margin: 0;
+}
+
+.jenn-advice h1 {
+  font-size: 3em;
+  max-width: 80%;
+  margin: 100px auto;
+  text-align: center;
+}
+
+.jenn-advice a {
+  text-decoration: none;
+  color: #fff;
+  border-bottom: 1px solid #f1c40f;
+}
+
+.jenn-advice a:hover {
+  color: #f1c40f;
+}
+
+.jenn-advice header > a {
+  text-transform: uppercase;
+  font-size: 0.6em;
+  display: block;
+  text-align: center;
+  margin: 20px;
+  border-bottom: none;
+}
+
+.jenn-advice h4 {
+  text-transform: uppercase;
+  font-size: 2em;
+  text-align: center;
+}
+
+.jenn-advice section {
+  max-width: 50%;
+  margin: 0 auto;
+  line-height: 1.5em;
+}
+
+.jenn-advice footer {
+  text-transform: uppercase;
+  font-size: 0.6em;
+  text-align: center;
+  background-color: #431856;
+  padding: 30px;
+  margin-top: 100px;
+}
+
+/***** End Jenn's Styles *****/
