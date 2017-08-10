@@ -3077,6 +3077,22 @@ body.emilyjoringer-advice p{
 }
 /**END Emily Jo's style sheet**/
 
+/**al advice**/
+
+.al-advice h1{
+  color:blue;
+  text-align: center;
+}
+
+.al-advice h4{
+  font-size: 40px;
+  text-align: center;
+}
+.al-advice p{
+  text-align: center;
+  font-size: 20px;
+}
+
 /**Erin's style sheet**/
 body.erinorr-advice{
   color: grey ;
@@ -7834,7 +7850,7 @@ font-size: 20px;
     color: #8A2BE2;
 }
 .AskAlicia-advice footer {
-  
+
   font-size: 0.9em;
   text-align: center;
   background-color: lightblue;
