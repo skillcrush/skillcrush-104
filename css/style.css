@@ -7817,3 +7817,28 @@ font-size: 20px;
 }
 
 /***** End Jenn's Styles *****/
+
+/***Ask Alicia styles*****/
+
+.AskAlicia-advice {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.AskAlicia-advice h4{
+	text-indent: 30px;
+	weight:342;
+}
+
+.AskAlicia-advice h4::first-letter {
+    font-size: 200%;
+    color: #8A2BE2;
+}
+.AskAlicia-advice footer {
+  
+  font-size: 0.9em;
+  text-align: center;
+  background-color: lightblue;
+  padding: 30px;
+  margin-top: 100px;
+}
+/*** END Ask Alicia styles*****/
