@@ -1,26 +1,27 @@
 header {
-	font-family: 'Indie Flower', cursive;
-	color: darkslategrey;
-	text-align: center;
-	border: solid 2px darkslategrey;
+	background-color: grey;
 }
 
-h4 {
-	font-family: 'Abril Fatface', cursive;
-	text-align: center;
-	color: darkmagenta;
-	font-size: 2em;
+h1, h4 {
+	font-family: 'Slabo 27px', serif;
+	font-weight: bold;
+	color: darkgreen;
+}
+
+p, a {
+	font-family: 'Lato', sans-serif;
+	font-size: 18px;
+	padding-bottom: 10px;
 }
 
 p {
-	padding: 5%;
-	font-size: 1.5em;
-	color: grey;
-	font-family: 'Yanone Kaffeesatz', sans-serif;
+	max-width: 80%;
 }
 
-.footer {
-	color: grey;
-	font-family: 'Indie Flower', cursive;
-	font-size: 1em;
+a {
+	font-style: italic;
+}
+
+.advice-container {
+	padding: 10px;
 }
