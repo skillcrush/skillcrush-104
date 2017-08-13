@@ -7895,3 +7895,13 @@ font-size: 20px;
   margin-top: 100px;
 }
 /*** END Ask Alicia styles*****/
+
+/*** You Got JRPd! ***/
+.jrpjrp-advice {
+  padding: 0 10px 0 100px;
+  border: double;
+  border-color: black;
+  margin: 10px 100px 10px 100px;
+}
+
+/*** END You Got JRPd! ***/
