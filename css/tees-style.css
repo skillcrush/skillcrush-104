@@ -1,0 +1,25 @@
+.tees-sage-advice {
+	width: 100%;
+	background-color: azure;
+}
+
+h4 {
+	font-size: 2em;
+	font-family: 'Helvetica', sans-serif;
+	color: aqua;
+	text-align: center;
+}
+
+h1 {
+	font-size: 3em;
+	color: aquamarine;
+	font-family: fantasy;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+p {
+	font-size: 1em;
+	font-family: serif;
+	color: darkblue;
+}
