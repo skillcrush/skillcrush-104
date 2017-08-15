@@ -1,5 +1,69 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/*****Bianca's Sytle*****/
+.bianca-advice {
+  font: sans-serif;
+}
+
+.bianca-advice h1 {
+  background-color: yellow;
+  font-size: 28px;
+  text-align: center;
+  text-transform: capitalize;
+  padding: 50px 0;
+}
+
+.bianca-advice h4 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.bianca-advice p {
+  font-size: 16px;
+  font-weight: lighter;
+}
+
+/******End Bianca's Style*****/
+
+
+/***** BreAnn's Style *****/
+.breannh-advice {
+  font-family: 'Source Serif Pro', serif;
+  padding: 10px 50px;
+}
+
+.breannh-advice h1{
+  font-size: 48px;
+  color: #fff;
+  background-color: #e02000;
+  padding: 10px 20px;
+}
+
+.breannh-advice h4 {
+  font-size: 28px;
+  color: #08182e;
+  padding: 0 20px;
+}
+
+.breannh-advice p {
+  font-size: 18px;
+  padding: 0 20px;
+  color: #2f2f2f;
+}
+
+.breannh-advice a {
+  text-decoration: none;
+  padding: 10px;
+  border: 4px solid #FAcdFE;
+  color: #FAcdFE;
+  font-size: 14px;
+}
+
+.breannh-advice a:hover {
+  color: #e02000;
+  border: 4px solid #e02000;
+}
+
 /***** KrissyFile Styles *****/
 .krissyscott-advice {
  font-family: 'Zilla Slab', serif;
@@ -3054,6 +3118,22 @@ body.emilyjoringer-advice p{
   padding-left: 20px;
 }
 /**END Emily Jo's style sheet**/
+
+/**al advice**/
+
+.al-advice h1{
+  color:blue;
+  text-align: center;
+}
+
+.al-advice h4{
+  font-size: 40px;
+  text-align: center;
+}
+.al-advice p{
+  text-align: center;
+  font-size: 20px;
+}
 
 /**Erin's style sheet**/
 body.erinorr-advice{
@@ -7712,3 +7792,149 @@ font-size: 20px;
 }
  /*End of Kiera's Styles*/
 
+ /* Marvelonaut's Styles */
+
+.marvelonaut-advice {
+  background-color: #eceff4;
+  color: #003b53;
+  font-family: "Arial Black", "Arial", sans-serif;
+  font-size: 16px;
+}
+
+/*Riva's Styles*/
+  .riva-advice {
+    background-color: #222222;
+    color: #f99ab7;
+    font-family: 'Lemonada', cursive;
+  }
+  .riva-advice h1 {
+    font-size: 32px;
+  }
+  .riva-advice h4 {
+    font-size: 24px;
+  }
+  .riva-advice p {
+    font-size: 10 px;
+  }
+
+/***** Jenn's Styles *****/
+
+.jenn-advice {
+  background-color: #8e44ad;
+  color: #fff;
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  margin: 0;
+}
+
+.jenn-advice h1 {
+  font-size: 3em;
+  max-width: 80%;
+  margin: 100px auto;
+  text-align: center;
+}
+
+.jenn-advice a {
+  text-decoration: none;
+  color: #fff;
+  border-bottom: 1px solid #f1c40f;
+}
+
+.jenn-advice a:hover {
+  color: #f1c40f;
+}
+
+.jenn-advice header > a {
+  text-transform: uppercase;
+  font-size: 0.6em;
+  display: block;
+  text-align: center;
+  margin: 20px;
+  border-bottom: none;
+}
+
+.jenn-advice h4 {
+  text-transform: uppercase;
+  font-size: 2em;
+  text-align: center;
+}
+
+.jenn-advice section {
+  max-width: 50%;
+  margin: 0 auto;
+  line-height: 1.5em;
+}
+
+.jenn-advice footer {
+  text-transform: uppercase;
+  font-size: 0.6em;
+  text-align: center;
+  background-color: #431856;
+  padding: 30px;
+  margin-top: 100px;
+}
+
+/***** End Jenn's Styles *****/
+
+/***Ask Alicia styles*****/
+
+.AskAlicia-advice {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.AskAlicia-advice h4{
+	text-indent: 30px;
+	weight:342;
+}
+
+.AskAlicia-advice h4::first-letter {
+    font-size: 200%;
+    color: #8A2BE2;
+}
+.AskAlicia-advice footer {
+
+  font-size: 0.9em;
+  text-align: center;
+  background-color: lightblue;
+  padding: 30px;
+  margin-top: 100px;
+}
+/*** END Ask Alicia styles*****/
+
+/*** You Got JRPd! ***/
+.jrpjrp-advice {
+  padding: 0 10px 0 100px;
+  border: double;
+  border-color: black;
+  margin: 10px 100px 10px 100px;
+}
+
+/*** END You Got JRPd! ***/
+
+/***StacieDanyelle styles***/
+.staciedanyelle-advice{
+  font-size: 0.85em;
+  width: 75%;
+  margin: 20px 0 0 20px;
+  padding: 10px;
+  background-color: #14c0b2;
+  color: #3d5c5c;
+}
+
+.sd-advice{
+  border-top: 3px solid aliceblue;
+  border-bottom: 3px solid aliceblue;
+}
+
+.staciedanyelle-advice a{
+  text-decoration: none;
+  color: #3d5c5c;
+  text-transform: uppercase;
+  font-size: 0.7em;
+}
+
+.staciedanyelle-advice h4, h1{
+  font-family: "Bevan";
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+}

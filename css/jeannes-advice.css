@@ -1,0 +1,11 @@
+.jeannes-advice h1 {
+    font-family: monospace;
+    color: turquoise;
+    text-transform: uppercase;
+}
+
+.jeannes-advice h4 {
+    font-family: monospace;
+    font-size: 18px;
+    font-weight: bold;
+}

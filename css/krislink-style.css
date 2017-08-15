@@ -1,0 +1,45 @@
+html {
+    margin: 0;
+}
+
+body {
+    font-size: 16px;
+    width: 94%;
+    padding: 0 3%;
+    background: #fcfcfc;
+}
+
+header h1 {
+    font-size: 3em;
+    font-family: 'Playfair Display', serif;
+}
+
+header span {
+    font-style: italic;
+}
+
+.krislink-advice h4 {
+    font-family: 'Playfair Display', serif;
+    font-size: 2em;
+    margin-bottom: .5em;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.1em;
+    line-height: 1.5em;
+}
+
+a {
+    font-family: 'Raleway', sans-serif;
+    text-decoration: none;
+    color: gray;
+}
+
+a:hover {
+    color: lightgray;
+}
+
+footer {
+    margin-top: 3em;
+}
