@@ -80,6 +80,11 @@
   font-family: "Helvetica", sans-serif;
 }
 
+.advice-crystal {
+	background-color: lightgrey;
+	color: blue;
+}
+
 .abbi-advice a:visited {
   color: gray;
 }
