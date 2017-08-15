@@ -7905,3 +7905,31 @@ font-size: 20px;
 }
 
 /*** END You Got JRPd! ***/
+
+/***StacieDanyelle styles***/
+.staciedanyelle-advice{
+  font-size: 0.85em;
+  width: 75%;
+  margin: 20px 0 0 20px;
+  padding: 10px;
+  background-color: #14c0b2;
+  color: #3d5c5c;
+}
+
+.sd-advice{
+  border-top: 3px solid aliceblue;
+  border-bottom: 3px solid aliceblue;
+}
+
+.staciedanyelle-advice a{
+  text-decoration: none;
+  color: #3d5c5c;
+  text-transform: uppercase;
+  font-size: 0.7em;
+}
+
+.staciedanyelle-advice h4, h1{
+  font-family: "Bevan";
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+}
