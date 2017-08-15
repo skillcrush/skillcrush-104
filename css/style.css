@@ -7938,3 +7938,31 @@ font-size: 20px;
   text-transform: uppercase;
   letter-spacing: 0.15em;
 }
+
+/** kimberly styles**/
+.kimberlys-advice {
+  
+  font-size: 0.85em;
+  width: 50%;
+  margin: 30px 0 0 30px;
+  padding: 15px;
+  background-color: #f7e6ec;
+  color: #e53b77;
+}
+
+  .kimberlys-advice h1{
+    font-family: "Merriweather";
+    text-transform: uppercase;
+  }
+
+  .kimberlys-advice h4{
+    font-family: "Lato";
+    font-size:1.5em;
+    text-transform: uppercase;
+  }
+.kimberlys-advice p{
+    font-family: "Lato";
+    font-size:1em;
+    }
+
+/** kimberly styles END**/
