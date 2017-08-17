@@ -3,11 +3,10 @@
 	background-color: azure;
 }
 
-h4 {
-	font-size: 2em;
-	font-family: 'Helvetica', sans-serif;
-	color: aqua;
-	text-align: center;
+a {
+	text-decoration: none;
+	color: teal;
+	font-family: cursive;
 }
 
 h1 {
@@ -16,10 +15,20 @@ h1 {
 	font-family: fantasy;
 	text-transform: uppercase;
 	text-align: center;
+	padding: 0 10%;
 }
 
+h4 {
+	font-size: 2em;
+	font-family: 'Helvetica', sans-serif;
+	color: aqua;
+	text-align: center;
+}
+
+
 p {
-	font-size: 1em;
+	font-size: 1.5em;
 	font-family: serif;
 	color: darkblue;
+	padding: 0 10%;
 }
