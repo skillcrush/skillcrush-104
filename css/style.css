@@ -7966,3 +7966,24 @@ font-size: 20px;
     }
 
 /** kimberly styles END**/
+
+.sarahelayna-advice {
+    color: #76D7C4;
+    font-size: 14px;
+    font-family: Helvetica;
+    text-align: center;
+}
+
+.sarahelayna-advice h4{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.sarahelayna-advice h1{
+    font-family: Helvetica;
+    color: #EC7063;
+}
+
+.sarahelayna-advice p {
+    color: black;
+}
