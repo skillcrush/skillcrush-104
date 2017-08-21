@@ -1,4 +1,5 @@
-/** Add a comment at the beginning of your CSS styles with your name**/
+/** Add a comment at the beginning of your CSS styles with your name**//
+
 
 /*****Bianca's Sytle*****/
 .bianca-advice {
@@ -24,7 +25,11 @@
 }
 
 /******End Bianca's Style*****/
-
+/**Kaleigh's advice**/
+.kaleighs-advice p{
+  font-size: 45px;
+  font-style: italic;
+}
 
 /***** BreAnn's Style *****/
 .breannh-advice {
