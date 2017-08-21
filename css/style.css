@@ -7941,7 +7941,7 @@ font-size: 20px;
 
 /** kimberly styles**/
 .kimberlys-advice {
-  
+
   font-size: 0.85em;
   width: 50%;
   margin: 30px 0 0 30px;
@@ -7986,4 +7986,13 @@ font-size: 20px;
 
 .sarahelayna-advice p {
     color: black;
+}
+
+.jozef-advice {
+  background-color: #80dfff;
+  font-family: sans-serif;
+}
+
+.jozef-advice h1 {
+  font-family: sans-serif;
 }
