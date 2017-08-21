@@ -1,5 +1,30 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/*****Anna's Style*****/
+.ahaefele-advice {
+  font: Georgia, serif;
+}
+
+.ahaefele-advice h1 {
+  background-color: purple;
+  font-size: 42px;
+  text-align: center;
+  text-transform: capitalize;
+  padding: 50px 0;
+}
+
+.ahaefele-advice h4 {
+  font-size: 22px;
+  font-weight: normal;
+}
+
+.ahaefele-advice p {
+  font-size: 18px;
+  font-weight: lighter;
+}
+
+/******End Anna's Style*****/
+
 /*****Bianca's Sytle*****/
 .bianca-advice {
   font: sans-serif;
