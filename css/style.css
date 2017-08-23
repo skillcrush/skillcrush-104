@@ -1,5 +1,28 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/*Jenn6 Styles*/
+.jenn6-advice {
+  background-color: #333333;
+  color: #B6DB19;
+}
+.jenn6-advice a {
+  color: #b6db19;
+}
+.jenn6-advice h1 {
+  text-transform: none;
+  text-align: center;
+  font-size: 4em;
+
+}
+.jenn6-advice .advice {
+  margin: 5% ;
+  font-size: 2em;
+  background: #dedede;
+  color: #333333;
+  padding: 2% 5%;
+  border-radius: 5%;
+}
+
 /*****Anna's Style*****/
 .ahaefele-advice {
   font: Georgia, serif;
