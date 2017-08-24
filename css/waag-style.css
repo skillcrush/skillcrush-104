@@ -1,0 +1,33 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+/*Waag Styles*/
+.waag-advice body{
+	background-color: navy;
+}
+
+.waag-advice h1{
+	font-variant: capitalize;
+	font-size: 1.75em;
+}
+.waag-advice section{
+	margin: auto;
+	padding: 2%;
+	background: navy;
+}
+
+.waag-advice .advice h4{
+	color: #fff;
+	font-family: 'spectral', serif;
+	font-variant: small-caps;
+	font-size: 1.7em;
+}
+
+.waag-advice .advice p {
+	font-family: 'spectral', serif;
+	color: #fff;
+}
+
+.waag-advice .advice{
+	background-color: navy;
+	border: 3px solid #ccc;
+	padding: 2%;
+}

@@ -1,0 +1,71 @@
+.jrecher-advice {
+padding: 10px 10px;
+background-color: #e0e1f7;
+
+}
+
+.jrecher-advice span {
+  color: red;
+  font-weight: bold;
+}
+
+.home {
+font-size: 0.8em;
+}
+
+.jays-advice {
+display:flex;
+justify-content: space-between;
+align-items: flex-start;
+flex-basis: 30%;
+}
+
+.first {
+display:flex;
+flex-direction: column;
+flex-basis: 30%;
+border: 2px dotted green;
+
+}
+
+.first,
+.second,
+.third p {
+  padding-left: 5px;
+}
+
+.second {
+display:flex;
+flex-basis: 30%;
+flex-direction: column;
+border: 2px dotted green;
+}
+
+.third {
+display:flex;
+flex-basis: 30%;
+flex-direction: column;
+border: 2px dotted green;
+}
+
+#footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: .8em;
+}
+
+@media all and (max-width: 400px) {
+  .jays-advice {
+  display:flex;
+  flex-direction: column;
+}
+
+.first,
+.second,
+.third {
+  display: flex;
+  flex-direction: column;
+}
+
+}

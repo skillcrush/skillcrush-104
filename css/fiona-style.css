@@ -1,0 +1,27 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+/*--Fiona Styles--*/
+.fiona-advice {
+  background-color: #993955;
+}
+
+.fiona-advice h1 {
+  color: #e9ecf5;
+}
+
+.fiona-advice h2 {
+  color: #e9ecf5;
+  padding-bottom: 10px;
+}
+
+.advice-fiona h4 {
+  color: #993955;
+  background-color: #ae76a6;
+  padding:10px 0px;
+}
+
+.advice-fiona p {
+  margin-left: 10px;
+}
+
+
+/*--End Fiona Styles--*/

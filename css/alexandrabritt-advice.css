@@ -1,0 +1,27 @@
+/* alexandrabritt's styles*/
+
+.alexandrabritt-advice {
+
+  background-color: #f2f2f2;
+}
+.alexandrabritt-advice h1 {
+  font-family: 'Economica', sans-serif;
+  font-size: 30px;
+  color: #404040;
+}
+
+.alexandrabritt-advice p {
+  font-family: 'Marvel', sans-serif;
+  font-size: 20px;
+  color: #404040;
+
+}
+.alexandrabritt-advice h4 {
+  font-family: 'Economica', sans-serif;
+  font-size: 28px;
+  color: #254d74;
+}
+
+.alexandrabritt-advice footer{
+  padding: 200px 600px 100px 600px;
+}

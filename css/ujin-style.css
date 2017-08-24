@@ -1,0 +1,27 @@
+html, body {
+  background: ;
+
+}
+header {
+  background: white;
+  height: 100px;
+}
+
+h1 {
+  text-align: center;
+
+}
+
+.advice {
+  text-align: center;
+  font-size: 2em;
+  background: red;
+  height: 260px;
+}
+
+footer {
+text-align: center;
+background: blue;
+height: 200px;
+
+}

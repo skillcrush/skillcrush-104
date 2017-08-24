@@ -1,0 +1,73 @@
+/** Add a comment at the beginning of your CSS styles with your name **/
+
+/**Marie's CSS Styles**/
+
+header {
+    background: black;
+    width: 100%;
+    }
+
+header a {
+	color: white;
+}
+
+body.marieorriss-advice{
+	background-image: url(https://cdn.pixabay.com/photo/2016/11/19/15/32/business-1839876_960_720.jpg);
+    font-family: 'Roboto', sans-serif;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+}
+
+.marie-advice {
+	background: #e5e0e0;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 2%;
+    border-radius: 3%;
+}
+
+p {
+    text-align: left;
+    line-height: 1.4;
+}
+
+.marieorriss-advice h1 {
+	font-family: 'Oswald', sans-serif;
+	color: white;
+	padding-bottom: 3%;
+
+}
+
+.marieorriss-advice h2 {
+	font-family: 'Oswald', sans-serif;
+
+}
+span {
+	font-family: 'Oswald', sans-serif;
+	font-size: 1.13em;
+	font-weight: bold;
+	color: #009688;
+}
+
+footer {
+	background: black;
+    height: 100px;
+    width: 100%;
+    margin-top: 20%;
+    
+}
+
+footer p{
+	text-align: center;
+    color: white;
+    padding-top: 3%;
+}
+
+/**End Marie's Styles **/

@@ -1,0 +1,17 @@
+/**Andy Hall's Styles **/
+.andyhall-advice {
+  background-color: blue;
+  opacity: 0.75;
+  font-family: "Poiret One", cursive;
+  width: 500px;
+  height: auto;
+  padding: 10px;
+  border-radius: 10px;
+  border: 2px solid gray;
+  margin: auto;
+}
+.andyhall-advice h1 {
+  text-align: center;
+}
+
+
