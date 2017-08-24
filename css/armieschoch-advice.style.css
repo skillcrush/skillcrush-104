@@ -1,0 +1,39 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/** Armie-Schoch Advice Styles **/
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500');
+.armieschoch-advice {
+  font-family: 'Roboto', sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.04em;
+  word-spacing: 0.03em;
+  color: #2C2C2C;
+  background: #28B463;
+}
+.armieschoch-advice h1, h4 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 38px;
+  font-weight: 600;
+  color: #262424;
+  text-shadow: 1px 1px 2px #ccc;
+}
+.armieschoch-advice h4 {
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #2E4053;
+  background: #FCF3CF;
+  width: 50%;
+}
+.armieschoch-advice .advice {
+  font-size: 20px;
+  font-weight: 600;
+  color: #2E4053;
+  text-align: justify;
+}
+.armieschoch-advice .footer {
+  font-size: 16px;
+  font-weight: 400;
+  color: #F39C12;
+}
+/** End of Armie -Schoch Advice Styles **/
