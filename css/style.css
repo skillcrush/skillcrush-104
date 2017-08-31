@@ -2391,6 +2391,31 @@ body.elizak-advice {
 }
 /**End Jessie C **/
 
+/** K Vanier style**/
+
+.kvanier-advice h1{
+    color: #ff530d;
+    font-family: 'Abril Fatface', serif;
+    text-align: justify;
+    font-size: 20px;
+}
+
+.kvanier-advice p{
+    color: #cc841f;
+    font-family: 'Biorhyme';
+    text-align: center;
+    font-size: 12px;
+}
+
+.kvanier-advice h4{
+    color: #1fcc50;
+    font-size: 15px;
+    font-family: 'Biorhyme';
+    text-align: left;
+}
+
+/** END K Vanier's style**/
+
 /**Evelin advice styling**/
 .evelin-advice {
   color: #003399;
@@ -7847,6 +7872,7 @@ font-size: 20px;
 }
  /*End of Kiera's Styles*/
 
+
  /* Marvelonaut's Styles */
 
 .marvelonaut-advice {
@@ -7855,6 +7881,8 @@ font-size: 20px;
   font-family: "Arial Black", "Arial", sans-serif;
   font-size: 16px;
 }
+  /* End Marvelonaut's Styles */
+
 
 /*Riva's Styles*/
   .riva-advice {
