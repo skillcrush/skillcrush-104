@@ -1,5 +1,22 @@
 /** Add a comment at the beginning of your CSS styles with your name**//
 
+/****Natalie's style****/
+.nataliemc-advice {
+  font-family: Helvetica, sans-serif;
+}
+
+.nataliemc-advice h4 {
+  color: pink;
+  font-size: 35px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.nataliemc-advice p {
+  color: purple;
+}
+
+/****end natalie's style****/
 
 /*****Anna's Style*****/
 .ahaefele-advice {
