@@ -8073,5 +8073,40 @@ font-size: 20px;
   margin: auto;
   line-height: 1.5;
 }
-
 /** End of Katherine's Style**/
+/**** Elster's Style ****/
+
+.elster-advice {
+  color: #000;
+  font-family: sans-serif;
+  }
+  
+.elster-advice header {
+  background: #0fbbf5;
+  padding: 1% 10%;
+  width: 80%;
+  }
+  
+.elster-advice header h1 {
+  color: #fff;
+  }
+  
+.elster-advice section {
+  display: flex;
+  flex-flow: row nowrap;
+  width: 100%;
+  }
+
+.elster-advice .sidebar {
+  width: 30%;
+  }
+  
+.elster-advice .advice {
+  width: 50%;
+  }
+
+.elster-advice p, h4 {
+  color: #000;
+  }
+
+/**** End Elster's Style ****/
