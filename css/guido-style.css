@@ -1,0 +1,21 @@
+.guido-advice {
+ 
+max-width: 100%;
+
+}
+
+h1 {
+    
+    color: #37bce4;
+    text-align: center
+}
+
+h4 {
+    
+    font-size: 1.5em; 
+}
+
+.advice {
+    width: auto;
+    background-color: #fafafa;
+}
