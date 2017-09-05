@@ -8049,6 +8049,20 @@ font-size: 20px;
   font-family: sans-serif;
 }
 
+-/*** Heather Hanson styles ***/
+ -.advice-heatherh {
+ -  background-color: #000;
+ -  font-family: 'Quicksand', sans-serif;
+ -}
+ -.advice-heatherh h1, p, h4{
+ -  font-family: 'Quicksand', sans-serif;
+ -  color: #e6ffe6;
+ -}
+ -.advice-heatherh h4{
+ -  text-transform: uppercase;
+ -  font-weight: bold;
+ }
+
 
 /*====================Tia' Styles====================*/
 
