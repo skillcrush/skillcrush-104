@@ -1,0 +1,20 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/** Kaylin's Style **/
+.kaylin-advice h1 {
+    font-size: 30px;
+    color: tomato;
+    font-weight: bold;
+}
+
+.kaylin-advice h4 {
+    font-style: italic;
+    font-size: 18px;
+    text-decoration: underline;
+    font-variant: small-caps;
+    color: orange;
+}
+
+.kaylin-advice p  {
+    font-family: sans-serif;
+}
