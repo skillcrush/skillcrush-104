@@ -8082,17 +8082,17 @@ font-size: 20px;
 	color: #000;
 	font-family: sans-serif;
 }
-  
+
 .elster-advice header {
 	background: #0fbbf5;
 	padding: 1% 10%;
 	width: 80%;
 	}
-	
+
 .elster-advice header h1 {
 	color: #fff;
 }
-  
+
 .elster-advice section {
 	display: flex;
 	flex-flow: row nowrap;
@@ -8102,11 +8102,11 @@ font-size: 20px;
 .elster-advice .sidebar {
 	width: 30%;
 }
-  
+
 .elster-advice .advice {
 	width: 50%;
 }
- 
+
 .elster-advice p, h4 {
 	color: #000;
 }
@@ -8123,3 +8123,31 @@ font-size: 20px;
 	text-align: center;
 }
 /*====================End Tia's Stlyes================*/
+
+
+/***Melissa Bouchard's Styles***/
+
+.melissabouchard-advice {
+  background: #F0E1EA;
+}
+
+.melissabouchard-advice h1 {
+  color: #AE658A;
+  text-align: center;
+  padding: 50px;
+}
+
+.melissabouchard-advice h4 {
+  color: #AE658A;
+  font-size: 24px; 
+  padding: 30px;
+}
+
+.melissabouchard-advice p {
+  color: #575066;
+  line-height: 25px;
+  text-align: left;
+  font-size: 16px;
+}
+
+/***End Melissa Bouchard's Styles***/
