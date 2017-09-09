@@ -1,0 +1,34 @@
+/** MARTA'S STYLE **/
+
+.marta-advice h1 {
+	font-family: Garamond;
+	text-align: center;
+  color: #862d59;
+}
+
+.marta-advice h4 {
+	font-family: Garamond;
+	text-align: center;
+	color: #862d59;
+	font-size: 36px;
+}
+
+.marta-advice p {
+	font-family: Garamond;
+	text-align: center;
+	font-size: 24px;
+  color: #003380;
+}
+
+.marta-advice {
+	background-image: url('https://homeschoolcoach.files.wordpress.com/2012/11/marshmallow_checkerboard.jpg');
+	background-repeat: repeat;
+	background-position: left;
+}
+
+.marta-advice .footer p {
+	font-family: Garamond;
+	font-size: 18px;
+	text-align: left;
+  color: #994d00;
+}
