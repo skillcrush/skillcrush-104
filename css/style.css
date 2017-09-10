@@ -8151,3 +8151,32 @@ font-size: 20px;
 }
 
 /***End Melissa Bouchard's Styles***/
+
+
+/************************************ Megan Charles Style Start ************/
+
+.megancharles-advice {
+	background: #4e454e;
+	width: 900px;
+	color: white;
+}
+
+.megancharles-advice h1 {
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.megancharles-advice h4 {
+	font-style: italic;
+	font-size: 20px;
+	text-align: left;
+	margin-bottom: 10px;
+}
+
+.megancharles-advice p {
+	color: white;
+	text-align: left;
+	margin-bottom: 10px;
+}
+
+/************************************ Megan Charles Style End **************/
