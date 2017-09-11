@@ -8245,3 +8245,50 @@ font-size: 20px;
 	text-align: justify;
 	color: #ff0000;
 }
+
+/*=======Lavanya's styles=============*/
+* .lavanya-advice {
+  font-family: 'Merriweather', serif;
+  width: 90%;
+  max-width: 1200px;
+  background-color: oldlace;
+}
+
+.lavanya-advice button {
+  background-color: black;
+  border-style: outset;
+}
+
+.lavanya-advice a {
+  color: white;
+  text-decoration: none;
+
+}
+
+.lavanya-advice h1 {
+  font-family: 'Lobster Two', cursive;
+  font-size: 48px;
+  padding: 25px, 25px, 30px, 0;
+  font-style: bolder;
+
+}
+
+.lavanya-advice h4 {
+  font-family: 'lobster two', cursive;
+  font-size: 30px;
+  color: lightslategray;
+  text-transform: lowercase;
+  text-decoration: underline;
+}
+.lavanya-advice p {
+  text-align: justify;
+  font-family: 'Droid Sans', sans-serif;
+  font-size: 18px;
+}
+
+.lavanya-advice footer {
+  padding-top: 50px;
+  color: lightgray;
+}
+/*====end of Lavanya's style=======*/
+
