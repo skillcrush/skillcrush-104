@@ -4968,8 +4968,31 @@ footer.brandi-advice {
   color: #167277;
 }
 
+/**The beginning of Mike's advice style**/
+.mike-advice  {
+  text-align: justify;;
+  font-style: normal;
+  background: yellow;
+
+
+  }
+
+  .mike-advice footer{
+    text-align: center;
+  }
+
+  .mike-advice h4{
+    color: red;
+  }
+
+  .mike-advice h1 {
+    color: red;
+  }
+
+  /**End mike nobles advice style**/
+  
 /**Start Krystle Scott advice style**/
-.krystlescott-advice {
+.krystlescott-advice{
   text-align: justify;
   font-family: Helvetica;
   background: teal;
