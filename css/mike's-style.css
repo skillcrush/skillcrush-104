@@ -1,28 +1,28 @@
 @charset "UTF-8";
 /*CSS Document*/
 
-h1 {
+.mike-advice h1 {
   font-family: sans-serif;
   text-align: center;
   color: #000080;
   font-size: 34px;
 }
 
- h4 {
+ .mike-advice h4 {
   font-family: sans-serif;
   text-align: right;
   color: #4169E1;
   font-size: 30px;
 }
 
- p {
+ .mike-advice p {
   font-family: sans-serif;
   text-align: right;
   color: black;
   font-size: 20px;
 }
 
- footer {
+ .mike-advice footer {
   font-family: sans-serif;
   text-align: center;
   color: #000000;
