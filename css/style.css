@@ -1,5 +1,47 @@
-/** Add a comment at the beginning of your CSS styles with your name**//
+/*--- Sarah's Styles ---*/
+.sarahyu-advice {
+    text-align: center;
+    padding: 50px;
+    margin: 50px;
+}
 
+.sarahyu-advice h1 {
+    color: blue;
+    font-family: sans-serif;
+}
+
+.sarahyu-advice p {
+    margin: 30px auto;
+}
+
+.sarahyu-advice strong {
+    color: blue;
+}
+
+/*--- End Sarah's Style ---*/
+
+/***** Gregs Style *****/
+.gregschmitt-advice {
+  font: Georgia, serif;
+}
+
+.gregschmitt-advice h1 {
+  color: purple;
+  font-size: 42px;
+  text-align: center;
+  text-transform: capitalize;
+  padding: 50px 0;
+}
+
+.gregschmitt-advice h4 {
+  font-size: 22px;
+  font-weight: normal;
+}
+
+.gregschmitt-advice p {
+  font-size: 18px;
+  font-weight: lighter;
+}
 
 /*****Anna's Style*****/
 .ahaefele-advice {
@@ -8077,14 +8119,221 @@ font-size: 20px;
 
 /*** Heather Hanson styles ***/
 .advice-heatherh {
-  background-color: #000;
-  font-family: 'Quicksand', sans-serif;
+	background-color: #000;
+	font-family:'Quicksand', sans-serif;
 }
-.advice-heatherh h1, p, h4{
-  font-family: 'Quicksand', sans-serif;
-  color: #e6ffe6;
+
+.advice-heatherh h1, p, h4 {
+	font-family: 'Quicksand', sans-serif;
+	color: #e6ffe6;
 }
+
 .advice-heatherh h4{
-  text-transform: uppercase;
-  font-weight: bold
+	text-transform: uppercase;
+	font-weight: bold;'
 }
+
+/** Katherine's Style**/
+.advice-katherine h1, p, h4, a {
+	font: Verdana, sans-serif;
+	font-size: 14px;
+	color: black;
+	text-align: center;
+	max-width: 600px;
+	margin: auto;
+	line-height: 1.5;
+}
+/** End of Katherine's Style**/
+/**** Elster's Style ****/
+
+.elster-advice {
+	color: #000;
+	font-family: sans-serif;
+}
+
+.elster-advice header {
+	background: #0fbbf5;
+	padding: 1% 10%;
+	width: 80%;
+	}
+
+.elster-advice header h1 {
+	color: #fff;
+}
+
+.elster-advice section {
+	display: flex;
+	flex-flow: row nowrap;
+	width: 100%;
+}
+
+.elster-advice .sidebar {
+	width: 30%;
+}
+
+.elster-advice .advice {
+	width: 50%;
+}
+
+.elster-advice p, h4 {
+	color: #000;
+}
+/**** End Elster's Style ****/
+
+
+/*====================Tia' Styles====================*/
+
+
+.trose-advice{
+	font-family: "Arial Black Bold", Gadget, sans-serif;
+	background-color: tomato;
+	color: yellow;
+	text-align: center;
+}
+/*====================End Tia's Stlyes================*/
+
+
+/***Melissa Bouchard's Styles***/
+
+.melissabouchard-advice {
+  background: #F0E1EA;
+}
+
+.melissabouchard-advice h1 {
+  color: #AE658A;
+  text-align: center;
+  padding: 50px;
+}
+
+.melissabouchard-advice h4 {
+  color: #AE658A;
+  font-size: 24px; 
+  padding: 30px;
+}
+
+.melissabouchard-advice p {
+  color: #575066;
+  line-height: 25px;
+  text-align: left;
+  font-size: 16px;
+}
+
+/***End Melissa Bouchard's Styles***/
+
+
+/************************************ Megan Charles Style Start ************/
+
+.megancharles-advice {
+	background: #4e454e;
+	width: 900px;
+	color: white;
+}
+
+.megancharles-advice h1 {
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.megancharles-advice h4 {
+	font-style: italic;
+	font-size: 20px;
+	text-align: left;
+	margin-bottom: 10px;
+}
+
+.megancharles-advice p {
+	color: white;
+	text-align: left;
+	margin-bottom: 10px;
+}
+
+/************************************ Megan Charles Style End **************/
+
+/***** AUBRIE ST LOUIS ADVICE *****/
+
+.aubriestlouis-advice {
+	background: #000000;
+	background-size: cover;
+}
+
+.aubriestlouis-advice #home-link {
+	color: #ffffff;
+}
+
+.aubriestlouis-advice h1 {
+	background: #ffff00;
+	background-size: cover;
+	border-radius: 30px;
+	font-size: 48px;
+	text-align: center;
+	color: #0066ff;
+}
+
+.aubriestlouis-advice span {
+	color: #cc00ff;
+}
+
+.aubriestlouis-advice h4 {
+	background: #1aff1a;
+	background-size: cover;
+	border-radius: 50px;
+	font-size: 30px;
+	text-align: center;
+	color: #ff8000;;
+}
+
+.aubriestlouis-advice p {
+	background: #80e5ff;
+	background-size: cover;
+	border-radius: 10px;
+	font-size: 25px;
+	text-align: justify;
+	color: #ff0000;
+}
+
+/*=======Lavanya's styles=============*/
+* .lavanya-advice {
+  font-family: 'Merriweather', serif;
+  width: 90%;
+  max-width: 1200px;
+  background-color: oldlace;
+}
+
+.lavanya-advice button {
+  background-color: black;
+  border-style: outset;
+}
+
+.lavanya-advice a {
+  color: white;
+  text-decoration: none;
+
+}
+
+.lavanya-advice h1 {
+  font-family: 'Lobster Two', cursive;
+  font-size: 48px;
+  padding: 25px, 25px, 30px, 0;
+  font-style: bolder;
+
+}
+
+.lavanya-advice h4 {
+  font-family: 'lobster two', cursive;
+  font-size: 30px;
+  color: lightslategray;
+  text-transform: lowercase;
+  text-decoration: underline;
+}
+.lavanya-advice p {
+  text-align: justify;
+  font-family: 'Droid Sans', sans-serif;
+  font-size: 18px;
+}
+
+.lavanya-advice footer {
+  padding-top: 50px;
+  color: lightgray;
+}
+/*====end of Lavanya's style=======*/
+
