@@ -1,28 +1,39 @@
 @charset "UTF-8";
 /*CSS Document*/
-
-.mike-advice h1 {
+#my-name {
+  font-family: ariel;
+  text-align: center;
+  color: black;
+  font-size: 25px;
+}
+#big-title {
+  font-style: normal;
+  text-align: center;
+  color: #009900;
+  font-size: 30px;
+}
+.mike's-advice h1 {
   font-family: sans-serif;
   text-align: center;
   color: #000080;
   font-size: 34px;
 }
 
- .mike-advice h4 {
+ .mike's-advice h4 {
   font-family: sans-serif;
   text-align: right;
   color: #4169E1;
   font-size: 30px;
 }
 
- .mike-advice p {
+ .mike's-advice p {
   font-family: sans-serif;
   text-align: right;
   color: black;
   font-size: 20px;
 }
 
- .mike-advice footer {
+ .mike's-advice footer {
   font-family: sans-serif;
   text-align: center;
   color: #000000;
