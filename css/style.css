@@ -1,3 +1,25 @@
+/*--- Sarah's Styles ---*/
+.sarahyu-advice {
+    text-align: center;
+    padding: 50px;
+    margin: 50px;
+}
+
+.sarahyu-advice h1 {
+    color: blue;
+    font-family: sans-serif;
+}
+
+.sarahyu-advice p {
+    margin: 30px auto;
+}
+
+.sarahyu-advice strong {
+    color: blue;
+}
+
+/*--- End Sarah's Style ---*/
+
 /***** Gregs Style *****/
 .gregschmitt-advice {
   font: Georgia, serif;
