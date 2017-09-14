@@ -8226,6 +8226,33 @@ font-size: 20px;
 
 /************************************ Megan Charles Style End **************/
 
+
+/**** Heidi Vincent's Styles Begin ****/
+.hvincent-advice {
+    background: #99ccff;
+}
+
+.hvincent-header {
+    color: darkblue;
+    font-family: sans-serif;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.hvincent-wisdom h4 {
+    border-top: 1px solid #000;
+    font-size: 24px;
+    padding-bottom: 10px;
+}
+
+.hvincent-wisdom p {
+    border-bottom: 1px solid #000;
+    font-size: 18px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
 /***** AUBRIE ST LOUIS ADVICE *****/
 
 .aubriestlouis-advice {
@@ -8313,4 +8340,5 @@ font-size: 20px;
   color: lightgray;
 }
 /*====end of Lavanya's style=======*/
+
 
