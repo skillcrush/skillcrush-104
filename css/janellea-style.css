@@ -1,0 +1,24 @@
+header h1 {
+  color: #578ca9;
+  font-family: 'Sacramento', cursive;
+  font-size: 60px;
+  text-align: center;
+}
+
+.advice {
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+.advice p {
+  font-family: 'Raleway', sans-serif;
+  font-size: 22px;
+  text-align: justify;
+}
+
+footer p {
+  color: #57a98c;
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  text-align: center;
+}
