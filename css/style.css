@@ -8364,3 +8364,21 @@ font-size: 20px;
   color: lightgray;
 }
 /*====end of Lavanya's style=======*/
+
+
+/***** Jon Baum's Style *****/
+.jon-baum {
+  width: 100%;
+  height: auto;
+  align-items: center;
+}
+.jon-baum>header{
+  font-style: italic;
+  font-size: 1em;
+  text-align: center;
+}
+.jon-baum>p{
+  display: flex;
+  height: auto;
+  text-align: center;
+}
