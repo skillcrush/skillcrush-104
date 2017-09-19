@@ -1,3 +1,27 @@
+/******Tiffany's Styles *******/
+.tiffanyo-advice {
+    text-align: center;
+}
+.tiffanyo-advice h1 {
+    color: #804d80;
+}
+.tiffanyo-advice h2 {
+    border-bottom: 1px solid darkgrey;
+    background-color: lightgrey;
+    padding: 10px 0px;
+}
+.tiffanyo-advice p {
+    text-align: left;
+    padding-bottom: 1.2em;
+}
+.tiffanyo-advice .advice {
+    padding-top: 1.2em;
+}
+.tiffanyo-advice footer {
+    text-align: center;
+    background-color: darkgrey;
+}
+
 /*--- Sarah's Styles ---*/
 .sarahyu-advice {
     text-align: center;
@@ -8184,7 +8208,7 @@ font-size: 20px;
 
 .melissabouchard-advice h4 {
   color: #AE658A;
-  font-size: 24px; 
+  font-size: 24px;
   padding: 30px;
 }
 
@@ -8342,6 +8366,7 @@ font-size: 20px;
 /*====end of Lavanya's style=======*/
 
 
+
 /*=======Elizabethv's styles=============*/
 
 * .Elizabethv-advice {
@@ -8384,3 +8409,21 @@ font-size: 20px;
 /*====end of Elizabethv's style=======*/
 
 
+
+/***** Jon Baum's Style *****/
+.jon-baum {
+  width: 100%;
+  height: auto;
+  align-items: center;
+}
+.jon-baum>header{
+  font-style: italic;
+  font-size: 1em;
+  text-align: center;
+}
+.jon-baum>p{
+  display: flex;
+  height: auto;
+  text-align: center;
+}
+>>>>>>> upstream/master
