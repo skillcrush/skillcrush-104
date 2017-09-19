@@ -8184,7 +8184,7 @@ font-size: 20px;
 
 .melissabouchard-advice h4 {
   color: #AE658A;
-  font-size: 24px; 
+  font-size: 24px;
   padding: 30px;
 }
 
@@ -8341,4 +8341,23 @@ font-size: 20px;
 }
 /*====end of Lavanya's style=======*/
 
+/***** START OF KATHRENE FAITH'S STYLE *****/
+.kathrenefaith-advice h1 {
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
+  padding: 60px;
+  background-color: lightgrey;
+}
 
+.kathrenefaith-advice p {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  padding-bottom: 25px;
+}
+
+.kathrenefaith-advice h4 {
+  font-family: 'Pacifico', cursive;
+  font-size: 25px;
+  background-color: lightyellow;
+}
+/***** END OF KATHRENE FAITH'S STYLE *****/
