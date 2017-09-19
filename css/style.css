@@ -1,3 +1,27 @@
+/******Tiffany's Styles *******/
+.tiffanyo-advice {
+    text-align: center;
+}
+.tiffanyo-advice h1 {
+    color: #804d80;
+}
+.tiffanyo-advice h2 {
+    border-bottom: 1px solid darkgrey;
+    background-color: lightgrey;
+    padding: 10px 0px;
+}
+.tiffanyo-advice p {
+    text-align: left;
+    padding-bottom: 1.2em;
+}
+.tiffanyo-advice .advice {
+    padding-top: 1.2em;
+}
+.tiffanyo-advice footer {
+    text-align: center;
+    background-color: darkgrey;
+}
+
 /*--- Sarah's Styles ---*/
 .sarahyu-advice {
     text-align: center;
