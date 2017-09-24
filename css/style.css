@@ -8365,20 +8365,23 @@ font-size: 20px;
 }
 /*====end of Lavanya's style=======*/
 
+/***** START OF KATHRENE FAITH'S STYLE *****/
+.kathrenefaith-advice h1 {
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
+  padding: 60px;
+  background-color: lightgrey;
+}
 
-/***** Jon Baum's Style *****/
-.jon-baum {
-  width: 100%;
-  height: auto;
-  align-items: center;
+.kathrenefaith-advice p {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  padding-bottom: 25px;
 }
-.jon-baum>header{
-  font-style: italic;
-  font-size: 1em;
-  text-align: center;
+
+.kathrenefaith-advice h4 {
+  font-family: 'Pacifico', cursive;
+  font-size: 25px;
+  background-color: lightyellow;
 }
-.jon-baum>p{
-  display: flex;
-  height: auto;
-  text-align: center;
-}
+/***** END OF KATHRENE FAITH'S STYLE *****/
