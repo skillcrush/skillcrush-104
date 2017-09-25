@@ -1,0 +1,20 @@
+/*Charlotte's Styles*/
+body {
+  font-family: 'Oleo Script', cursive;
+  font-size:62.5%;
+  color: #444;
+  padding:50px;
+  background-color: rgba(103, 58, 183, 0.38)
+
+}
+h1{
+  font-family: 'Oleo Script Swash Caps', cursive;
+  font-size: 4rem;
+}
+h4{
+  font-size: 2.4rem;
+  color:
+}
+p{
+  font-size: 1.8rem;
+}
