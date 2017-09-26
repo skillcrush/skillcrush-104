@@ -1,0 +1,29 @@
+:root {
+    background: green;
+}
+
+.tsering-advice {
+    margin: 3 auto;
+    width: 454px;
+}
+
+h1 {
+    font-family: comic-sans;
+}
+
+h4, p {
+    font-family: sans-serif;
+}
+
+h4 {
+    font-size: 24px;
+}
+
+span {
+    font-style: bold;
+    font-size: 18px;
+}
+
+footer p {
+    font-size: 14px;
+}
