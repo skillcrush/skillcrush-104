@@ -1,0 +1,35 @@
+body {
+
+}
+.advice {
+  background-color: lightcyan;
+  padding: 25px;
+  margin: 50px;
+}
+h1, h2 {
+  font-family: 'Just Another Hand', cursive;
+  text-align: center;
+}
+h1 {
+  margin-top: 10px;
+  font-size: 50px;
+  color: darkblue;
+}
+h2 {
+  font-size: 40px;
+}
+h4 {
+    font-size: 1.5em;
+    font-family: 'Slabo 27px', serif;
+}
+p {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0 2em;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  font-weight: 900;
+}
