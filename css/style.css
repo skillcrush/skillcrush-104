@@ -8382,6 +8382,29 @@ font-size: 20px;
   height: auto;
   text-align: center;
 }
+
+/***julie kay style****/
+.juliekay-advice p {
+  color:green;
+}
+
+.juliekay-advice h4 {
+  color:gray;
+}
+
+.juliekay-advice h1 {
+  color:purple;
+}
+
+.juliekay-advice {
+  background: #ffff99;
+  margin: 16px;
+}
+
+.juliekay-advice {
+  border: 10px dashed #66ffff;
+}
+
 /*Charlotte's Styles*/
 .charlotteadvice {
   font-family: 'Cherry Swash', serif;
