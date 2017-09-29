@@ -1,8 +1,11 @@
 body{
     background-color: #daecf3;
     font-family: "Roboto", sans-serif;
+    font-weight: 700;
     height: 100%;
 }
+
+
 /* HEADER */
 .h-cont{
     background-image: url(https://placeimg.com/640/480/tech);
@@ -25,3 +28,49 @@ header h1{
     text-shadow: 1px 1px 5px black; 
     font-size: 5em;
 }
+
+/* Advice Content */
+
+.adv{
+    height: 70%;
+    background-color: white;
+    font-size: 20px;
+    text-align: center;
+}
+ .cont{
+    margin: 5% 7%;
+    padding: 10px;
+ }
+
+ .cont h2{
+    font-family: 'Patua One', serif;
+    color: #64F3D5;
+    font-size: 2em;
+    margin-bottom: 50px;
+ }
+
+ /* Image seperations */
+ #sep-img1 {
+    background-image: url(https://placeimg.com/640/480/nature);
+    height: 495px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+
+ #sep-img2{
+    background-image: url(https://placeimg.com/640/480/tech);
+    height: 495px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+
+ /* footer */
+
+ footer{
+    text-align: center;
+    
+ }
