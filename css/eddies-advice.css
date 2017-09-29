@@ -1,4 +1,27 @@
 body{
     background-color: #daecf3;
     font-family: "Roboto", sans-serif;
+    height: 100%;
+}
+/* HEADER */
+.h-cont{
+    background-image: url(https://placeimg.com/640/480/tech);
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header {
+    font-family: 'Patua One', serif;
+    letter-spacing: 1px;
+    padding: 35% 10%;
+    text-align: center;
+    color: white;
+}
+
+header h1{
+    text-shadow: 1px 1px 5px black; 
+    font-size: 5em;
 }
