@@ -44,6 +44,24 @@
 
 /*--- End Sarah's Style ---*/
 
+/*--- Eshton's Styles ---*/
+.eshton-advice {
+	text-align: left;
+	padding: 50px;
+	margin: 50ox;
+	}
+
+.eshton.advice p {
+	font-family: sans-serif;
+	color: purple;
+	}
+
+.eshton.advice h4 {
+	font-family: serif;
+	color: black;
+	}
+
+
 /***** Gregs Style *****/
 .gregschmitt-advice {
   font: Georgia, serif;
