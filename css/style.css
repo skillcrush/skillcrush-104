@@ -1,3 +1,35 @@
+/*--- Sarah's Styles ---*/
+
+.sarahs-advice {
+	
+	text-align:center;
+
+}
+
+.sarahs-advice h1 {
+	
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 24px;
+	color: #F06;
+	padding-bottom: 50px;
+	padding-top: 50px;
+	
+}
+
+.sarahs-advice h4 {
+	
+	font-size: 24px;
+	margin-bottom: 20px;
+	font-style: italic;
+}
+
+.sarahs-advice p {
+	
+	line-height: 40px;
+	font-size: 18px;
+}
+
+
 /******Tiffany's Styles *******/
 .tiffanyo-advice {
     text-align: center;
