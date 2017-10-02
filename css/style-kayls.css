@@ -1,0 +1,26 @@
+/* Kay's Advice Styles */
+
+h1 {
+    text-align: center;
+    color: teal;
+    text-transform: capitalize;
+}
+
+
+h4 {
+    font-size: 24px;
+    color: hotpink;
+    text-decoration: underline;
+}
+
+
+p {
+    font-size: 16px;
+    line-height: 2em;
+}
+
+.kls-copy {
+    text-align: center;
+    margin-top: 60px;
+    font-size: 14px;
+}

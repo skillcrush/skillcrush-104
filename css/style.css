@@ -1,3 +1,38 @@
+/***** Kathy Kemmis Styles *****/
+.kathykemmis-advice {
+  text-align:center;
+  font-family: 'Fauna One', serif;
+
+}
+.kathykemmis-advice h1 {
+  font-size: 30px;
+color:#400080;
+}
+
+.kathykemmis-advice h4 {
+font-size: 24px;
+text-decoration: underline;
+color:#6600cc;
+padding: 30px 0;
+}
+
+.kathykemmis-advice p{
+text-align: justify;
+font-family: 'Fauna One', serif;
+font-size: 18px}
+}
+.kathykemmis-advice .advice {
+padding: 80px 0;
+}
+.kathykemmis-advice footer {
+padding: 80px 0;
+}
+.kathykemmis-advice span{
+  font-family: 'Dancing Script', cursive;
+  color: #8000ff;
+  text-decoration: underline;
+}
+
 /******Tiffany's Styles *******/
 .tiffanyo-advice {
     text-align: center;
@@ -43,6 +78,24 @@
 }
 
 /*--- End Sarah's Style ---*/
+
+/*--- Eshton's Styles ---*/
+.eshton-advice {
+	text-align: left;
+	padding: 50px;
+	margin: 50ox;
+	}
+
+.eshton.advice p {
+	font-family: sans-serif;
+	color: purple;
+	}
+
+.eshton.advice h4 {
+	font-family: serif;
+	color: black;
+	}
+
 
 /***** Gregs Style *****/
 .gregschmitt-advice {
@@ -7264,13 +7317,10 @@ body.leacamara-advice {
     color: white;
     font-weight: bold;
 }
-=======
+
 /******* Dani de Waal Styles ********/
-
-
 .danidewaal-advice span{
   color: white;
-
 }
 
 .danidewaal-advice h1 {
@@ -7278,8 +7328,6 @@ body.leacamara-advice {
   font-family: 'Rock Salt', cursive;
   text-transform: uppercase;
   margin: auto;
-
-
 }
 
 .dani-advice h4 {
@@ -7290,8 +7338,7 @@ body.leacamara-advice {
 }
 
 .dani-advice p {
-  text-align: center;
-
+  text-align: center;/
 }
 
 /****** Evan Joblin's Styles *******/
@@ -8481,8 +8528,3 @@ font-size: 20px;
 }
 
 /* End Mina's Styles */
-
-
-
-
-
