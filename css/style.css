@@ -1,3 +1,38 @@
+/***** Kathy Kemmis Styles *****/
+.kathykemmis-advice {
+  text-align:center;
+  font-family: 'Fauna One', serif;
+
+}
+.kathykemmis-advice h1 {
+  font-size: 30px;
+color:#400080;
+}
+
+.kathykemmis-advice h4 {
+font-size: 24px;
+text-decoration: underline;
+color:#6600cc;
+padding: 30px 0;
+}
+
+.kathykemmis-advice p{
+text-align: justify;
+font-family: 'Fauna One', serif;
+font-size: 18px}
+}
+.kathykemmis-advice .advice {
+padding: 80px 0;
+}
+.kathykemmis-advice footer {
+padding: 80px 0;
+}
+.kathykemmis-advice span{
+  font-family: 'Dancing Script', cursive;
+  color: #8000ff;
+  text-decoration: underline;
+}
+
 /******Tiffany's Styles *******/
 .tiffanyo-advice {
     text-align: center;
