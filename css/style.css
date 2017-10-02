@@ -7317,13 +7317,10 @@ body.leacamara-advice {
     color: white;
     font-weight: bold;
 }
-=======
+
 /******* Dani de Waal Styles ********/
-
-
 .danidewaal-advice span{
   color: white;
-
 }
 
 .danidewaal-advice h1 {
@@ -7331,8 +7328,6 @@ body.leacamara-advice {
   font-family: 'Rock Salt', cursive;
   text-transform: uppercase;
   margin: auto;
-
-
 }
 
 .dani-advice h4 {
@@ -7343,8 +7338,7 @@ body.leacamara-advice {
 }
 
 .dani-advice p {
-  text-align: center;
-
+  text-align: center;/
 }
 
 /****** Evan Joblin's Styles *******/
@@ -8465,3 +8459,72 @@ font-size: 20px;
 .charlotteadvice h1{
   font-family: 'Cherry Swash', serif;
 }
+
+/* Mina's Styles */
+
+.mina-advice {
+  background-color: linen;
+  margin-top: 50px;
+  font-family: helvetica;
+}
+
+.mina-advice a {
+  background-color: rosybrown;
+  color: floralwhite;
+  text-decoration: none;
+  border-radius: 50px;
+  padding: 5px 20px;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  margin-left: 50px;
+}
+
+.mina-advice h1 {
+  text-align: center;
+  color: saddlebrown;
+  margin-top: 50px;
+  font-family: helvetica;
+  font-weight: lighter;
+}
+
+.mina-advice section {
+  height: 400px;
+  margin-top: 50px;
+  text-align: center;
+  background-color: floralwhite;
+}
+
+.mina-advice section h4 {
+  color: saddlebrown;
+  font-size: 18px;
+  letter-spacing: 3px;
+  padding: 25px;
+  font-weight: lighter;
+}
+
+.mina-advice section p {
+  color: rosybrown;
+  font-size: 14px;
+  letter-spacing: 2px;
+  font-weight: lighter;
+  line-height: 25px;
+  padding: 10px;
+}
+
+.mina-advice footer {
+  padding-top: 35px;
+}
+
+.mina-advice footer p {
+  background-color: rosybrown;
+  color: floralwhite;
+  text-decoration: none;
+  border-radius: 50px;
+  padding: 10px 0px;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
+
+/* End Mina's Styles */
