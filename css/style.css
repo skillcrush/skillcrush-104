@@ -1,3 +1,63 @@
+/*--- Sarah's Styles ---*/
+
+.sarahs-advice {
+	text-align:center;
+}
+
+.sarahs-advice h1 {
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 24px;
+	color: #F06;
+	padding-bottom: 50px;
+	padding-top: 50px;	
+}
+
+.sarahs-advice h4 {
+	font-size: 24px;
+	margin-bottom: 20px;
+	font-style: italic;
+}
+
+.sarahs-advice p {	
+	line-height: 40px;
+	font-size: 18px;
+}
+
+/***** Kathy Kemmis Styles *****/
+.kathykemmis-advice {
+  text-align:center;
+  font-family: 'Fauna One', serif;
+
+}
+.kathykemmis-advice h1 {
+  font-size: 30px;
+color:#400080;
+}
+
+.kathykemmis-advice h4 {
+font-size: 24px;
+text-decoration: underline;
+color:#6600cc;
+padding: 30px 0;
+}
+
+.kathykemmis-advice p{
+text-align: justify;
+font-family: 'Fauna One', serif;
+font-size: 18px}
+}
+.kathykemmis-advice .advice {
+padding: 80px 0;
+}
+.kathykemmis-advice footer {
+padding: 80px 0;
+}
+.kathykemmis-advice span{
+  font-family: 'Dancing Script', cursive;
+  color: #8000ff;
+  text-decoration: underline;
+}
+
 /******Tiffany's Styles *******/
 .tiffanyo-advice {
     text-align: center;
@@ -43,6 +103,24 @@
 }
 
 /*--- End Sarah's Style ---*/
+
+/*--- Eshton's Styles ---*/
+.eshton-advice {
+	text-align: left;
+	padding: 50px;
+	margin: 50ox;
+	}
+
+.eshton.advice p {
+	font-family: sans-serif;
+	color: purple;
+	}
+
+.eshton.advice h4 {
+	font-family: serif;
+	color: black;
+	}
+
 
 /***** Gregs Style *****/
 .gregschmitt-advice {
@@ -7264,13 +7342,10 @@ body.leacamara-advice {
     color: white;
     font-weight: bold;
 }
-=======
+
 /******* Dani de Waal Styles ********/
-
-
 .danidewaal-advice span{
   color: white;
-
 }
 
 .danidewaal-advice h1 {
@@ -7278,8 +7353,6 @@ body.leacamara-advice {
   font-family: 'Rock Salt', cursive;
   text-transform: uppercase;
   margin: auto;
-
-
 }
 
 .dani-advice h4 {
@@ -7290,8 +7363,7 @@ body.leacamara-advice {
 }
 
 .dani-advice p {
-  text-align: center;
-
+  text-align: center;/
 }
 
 /****** Evan Joblin's Styles *******/
@@ -8426,3 +8498,102 @@ font-size: 20px;
   height: auto;
   text-align: center;
 }
+
+/***julie kay style****/
+.juliekay-advice p {
+  color:green;
+}
+
+.juliekay-advice h4 {
+  color:gray;
+}
+
+.juliekay-advice h1 {
+  color:purple;
+}
+
+.juliekay-advice {
+  background: #ffff99;
+  margin: 16px;
+}
+
+.juliekay-advice {
+  border: 10px dashed #66ffff;
+}
+
+/*Charlotte's Styles*/
+.charlotteadvice {
+  font-family: 'Cherry Swash', serif;
+}
+.charlotteadvice h1{
+  font-family: 'Cherry Swash', serif;
+}
+
+/* Mina's Styles */
+
+.mina-advice {
+  background-color: linen;
+  margin-top: 50px;
+  font-family: helvetica;
+}
+
+.mina-advice a {
+  background-color: rosybrown;
+  color: floralwhite;
+  text-decoration: none;
+  border-radius: 50px;
+  padding: 5px 20px;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  margin-left: 50px;
+}
+
+.mina-advice h1 {
+  text-align: center;
+  color: saddlebrown;
+  margin-top: 50px;
+  font-family: helvetica;
+  font-weight: lighter;
+}
+
+.mina-advice section {
+  height: 400px;
+  margin-top: 50px;
+  text-align: center;
+  background-color: floralwhite;
+}
+
+.mina-advice section h4 {
+  color: saddlebrown;
+  font-size: 18px;
+  letter-spacing: 3px;
+  padding: 25px;
+  font-weight: lighter;
+}
+
+.mina-advice section p {
+  color: rosybrown;
+  font-size: 14px;
+  letter-spacing: 2px;
+  font-weight: lighter;
+  line-height: 25px;
+  padding: 10px;
+}
+
+.mina-advice footer {
+  padding-top: 35px;
+}
+
+.mina-advice footer p {
+  background-color: rosybrown;
+  color: floralwhite;
+  text-decoration: none;
+  border-radius: 50px;
+  padding: 10px 0px;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
+
+/* End Mina's Styles */
