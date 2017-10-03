@@ -8438,6 +8438,50 @@ font-size: 20px;
 /*====end of Lavanya's style=======*/
 
 
+
+/*=======Elizabethv's styles=============*/
+
+* .Elizabethv-advice {
+  font-family: 'helvetica', sans-serif;
+  width: 90%;
+  max-width: 1200px;
+  background-color: pink;
+}
+
+.Elizabethv-advice a {
+  color: white;
+  text-decoration: none;
+
+}
+
+.Elizabethv-advice h1 {
+  font-family: 'times', serif;
+  font-size: 24px;
+  padding: 25px, 25px, 30px, 0;
+  font-style: bolder;
+
+}
+
+.Elizabethv-advice h4 {
+  font-family: 'times', serif;
+  font-size: 24px;
+  text-transform: lowercase;
+  
+}
+.Elizabethv-advice p {
+  text-align: left;
+  font-family: 'helvetica', sans-serif;
+  font-size: 16px;
+}
+
+.Elizabethv-advice footer {
+  padding-top: 80px;
+  color: black;
+}
+/*====end of Elizabethv's style=======*/
+
+
+
 /***** Jon Baum's Style *****/
 .jon-baum {
   width: 100%;
