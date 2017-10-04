@@ -10,6 +10,30 @@
   font-weight: 700;
 }
 
+/***** Khristian's Styles *****/
+.khristian-advice {
+  padding: 0 50 50 0;
+}
+.khristian-advice p {
+  font-family: 'Raleway';
+  color: #7d53de;
+  text-align: justify;
+}
+
+.khristian-advice h1 {
+  font-family: 'Shrikhand';
+  color: #bffff7;
+  text-align: center;
+}
+
+.khristian-advice h4 {
+  font-family: 'Raleway';
+  color: #e24451;
+  text-align: center;
+}
+
+/***** END Khristian's Styles *****/
+
 /***** Abbi's Styles *****/
 .abbi-advice  {
   margin: 50px;
