@@ -1,0 +1,22 @@
+
+/** JULI'SS STYLES **/
+
+body {
+	font-size: 2em;
+	color: black;
+	text-align: center;
+	border-bottom: 3px gray solid;
+	font-family: 'Encode Sans Expanded', sans-serif;
+}
+
+h4 footer {
+	font-size: 1.75em;
+	text-align: center;
+}
+
+.main {
+	text-align: center;
+}
+
+
+
