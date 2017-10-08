@@ -1,3 +1,49 @@
+/*--- Lesley's Styles ---*/
+.lesleyhogg-advice {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.lesleyhogg-advice h1 {
+	font-family: 'Montserrat', sans-serif;
+	color: #000;
+	font-size: 24px;
+	text-align: center;
+	background-color: skyblue;
+	padding: 30px 0;
+	margin-bottom: 0;
+}
+
+.lesleyhogg-advice div {
+	height: 160px;
+	background-color: lightblue;
+	margin-top: 0;
+	padding: 30px 0;
+}
+
+.lesleyhogg-advice h4 {
+	font-size: 18px;
+	color: #000;
+	margin-bottom: 10px;
+}
+
+.lesleyhogg-advice p {
+	font-size: 16px;
+	color: dimgray;
+}
+
+.lesleyhogg-advice span {
+	color: midnightblue;
+	font-weight: bold;
+}
+
+.lesleyhogg-advice footer {
+	padding-top: 20px;
+}
+
+.lesleyhogg-advice footer p {
+	color: silver;
+}
+
 /*--- Sarah's Styles ---*/
 
 .sarahs-advice {
@@ -9,7 +55,7 @@
 	font-size: 24px;
 	color: #F06;
 	padding-bottom: 50px;
-	padding-top: 50px;	
+	padding-top: 50px;
 }
 
 .sarahs-advice h4 {
@@ -18,7 +64,7 @@
 	font-style: italic;
 }
 
-.sarahs-advice p {	
+.sarahs-advice p {
 	line-height: 40px;
 	font-size: 18px;
 }
@@ -8466,7 +8512,7 @@ font-size: 20px;
   font-family: 'times', serif;
   font-size: 24px;
   text-transform: lowercase;
-  
+
 }
 .Elizabethv-advice p {
   text-align: left;
