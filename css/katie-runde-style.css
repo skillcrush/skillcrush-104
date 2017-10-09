@@ -1,0 +1,30 @@
+.katierunde-advice {
+	text-align:center;
+}
+
+.katierunde-advice h1 {
+	font-family: georgia serif;
+	font-size: 24px;
+	color: red;
+	background-color:white;
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+
+.katierunde-advice h4 {
+
+	font-size: 24px;
+	margin-bottom: 20px;
+	text-transform: uppercase;
+}
+
+.katierunde-advice p {
+
+	color:navy;
+	line-height: 40px;
+	font-size: 18px;
+}
+
+.katierunde-advice {
+	background-color:tan;
+}
