@@ -1,0 +1,28 @@
+header {
+	background-color: grey;
+}
+
+h1, h4 {
+	font-family: 'Slabo 27px', serif;
+	font-weight: bold;
+	color: darkgreen;
+}
+
+p, a {
+	font-family: 'Lato', sans-serif;
+	font-size: 18px;
+	padding-bottom: 10px;
+}
+
+p {
+	max-width: 80%;
+}
+
+a {
+	font-style: italic;
+	color: lightgreen;
+}
+
+.advice-container {
+	padding: 10px;
+}

@@ -1,0 +1,41 @@
+header a {
+  background-color: #57a98c;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 24px;
+  font-family: 'Raleway', sans-serif;
+  font-variant: small-caps;
+}
+
+header h1 {
+  color: #578ca9;
+  font-family: 'Sacramento', cursive;
+  font-size: 60px;
+  text-align: center;
+}
+
+.advice {
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+.advice p {
+  font-family: 'Raleway', sans-serif;
+  font-size: 22px;
+  text-align: justify;
+}
+
+footer p {
+  color: #8c8c8c;
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  font-variant: small-caps;
+  text-align: center;
+}

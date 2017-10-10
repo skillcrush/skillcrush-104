@@ -1,0 +1,19 @@
+/******** Charlene Sheehan ********/
+
+.charlene-sheehan-advice h1 {
+	background: pink;
+	font-family: courier new;
+	font-weight: 200;
+	font-variant: small-caps;}
+
+.charlene-sheehan-advice h4 {
+	font-family: courier new;
+	font-weight: 200;
+	text-transform: capitalize;
+	color: pink;
+}
+.charlene-sheehan-advice p {
+			font-family: courier new;
+			color: black;
+			font-weight: 200;
+}
