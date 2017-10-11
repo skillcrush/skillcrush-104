@@ -1,0 +1,56 @@
+/* Jennifer Carver advice styles */
+
+/****** BASE STYLES ******/
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+ 
+ body {
+  background-color: white;
+  padding: 3%;
+ }
+
+ 
+ .header h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  color: #4c6e6f;
+  text-align: center;
+ }
+
+ .header a {
+  color: #6f4c6d;
+  text-decoration: underline;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  text-align: left;
+ }
+
+ h4 {
+  color: #6f4c6d;
+  font-family: 'Roboto Slab', serif;
+  font-size: 30px;
+  text-align: center;
+}
+ p {
+  color: #4c6e6f;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+ 
+ .footer {
+  padding: 3px;
+  background-color: #4c6e6f;
+}
+
+ .footer p {
+  font-family: 'Open Sans', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+}
+ 
+
+ 
