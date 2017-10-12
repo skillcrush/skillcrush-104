@@ -8651,3 +8651,30 @@ font-size: 20px;
 .tsering-advice h1{
   font-family: 'comic-sans', serif;
 }
+
+/*Deborah's styles*/
+
+.deborah-advice {
+	background-color:#ebfafa;
+	
+	margin: 5% 20%;
+	text-align: center;
+}
+.deborah-advice header a {
+	text-decoration: none;
+	font-family: 'Josefin Slab', serif;
+}
+	
+.deborah-advice h1 {
+	font-family: 'Roboto Slab', serif;
+	font-size: 1.5em;
+}
+
+.deborah-advice p {
+	padding-bottom: 20px;
+	font-family: 'Josefin Slab', serif;
+}
+
+ .deborah-advice footer p {
+	 font-family: 'Roboto Slab', serif;
+ }
