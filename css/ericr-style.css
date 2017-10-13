@@ -1,0 +1,19 @@
+
+/** EricR's Styles**/
+
+h1 {
+  color: green;
+}
+
+h4 {
+  text-decoration: underline;
+  color: red;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.advice {
+    width: 1200px;
+    background-color: yellow;
+    text-align: center;
+}
