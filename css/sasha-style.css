@@ -1,23 +1,28 @@
 /*--- Sasha's Styles ---*/
 
-.sashas-advice h1 {
+.sasha-advice h1 {
 	font-family:"Roboto", serif;
 	font-size: 40px;
 	color: pink;
-	padding-bottom: 50px;
+	padding-bottom: 20px;
 	padding-top: 50px;
+	text-align: center;
 }
 
-.sashas-advice h4 {
+.sasha-advice h4 {
 	font-family:"Roboto", serif;
 	font-size: 30px;
 	color: black;
 	padding-bottom: 50px;
 	padding-top: 50px;
+	text-align: center;
 }
 
-.sashas-advice p {
+.sasha-advice p {
 	font-family:"Roboto", serif;
 	font-size: 20px;
 	color: black;
+	margin-left: 300px;
+	text-align: center;
+	width: 800px;
 }
