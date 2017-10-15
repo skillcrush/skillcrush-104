@@ -1,0 +1,36 @@
+.carmen-advice {
+    text-align: center;  
+}
+
+.carmen-advice h1 {
+    color: #0073e6;;
+    text-transform: capitalize;
+    letter-spacing: 0.05em;
+    font-family: 'courier';
+}
+
+.carmen-advice h4 {
+    color:  #0073e6;
+    font-family: 'courier';
+    font-size: 24px; 
+}
+
+.carmen-advice p {
+    color:  #0073e6;
+    font-family: 'calibri';
+    font-size: 18px;
+}
+
+.carmen-advice ul {
+    list-style: none; 
+}
+
+.carmen-advice ul li {
+    color:  #0073e6;
+    font-family: 'calibri';
+    font-size: 18px;
+    line-height: 1.5;
+}
+.advice-carmen h1, p, h4 {
+    max-width: 700px;
+}
