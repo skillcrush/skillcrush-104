@@ -1,3 +1,19 @@
+/**Rachel's Styles**/
+.rachelmiller-advice {
+font-family: 'Open Sans', serif;
+color: blue;
+}
+.rachelmiller-advice h1 {
+	font-size: 36px;
+	font-weight: bold;
+	text-align: center;
+}
+.rachelmiller-advice h4{
+	font-size: 24px;
+}
+.rachelmiller-advice p{
+	font-size: 18px;
+}
 /*--- Lesley's Styles ---*/
 .lesleyhogg-advice {
 	font-family: 'Open Sans', sans-serif;
@@ -8651,3 +8667,36 @@ font-size: 20px;
 .tsering-advice h1{
   font-family: 'comic-sans', serif;
 }
+<<<<<<< HEAD
+=======
+
+/*** lynettelim's Styles ***/
+.lynettelim-advice header {
+    color: #39120A;
+    font-family: 'Century Gothic';
+}
+.lynettelim-advice h1 {
+    color: #900C3F;
+    background-color: #EABABO;
+    font-size: 24px;
+    font-family: 'Century Gothic';
+}
+.lynettelim-advice h4 {
+    color: #900C3F;
+    background-color: white;
+    font-size: 18;
+    font-family: 'Century Gothic';
+}
+.lynettelim-advice p {
+    color: #900C3F;
+    font-size: 14px;
+    font-family: 'Century Gothic';
+    background-color: #EABABO;
+}
+.lynettelim-advice footer p {
+    color: white;
+    font-weight: bold;
+}
+
+/*** End lynettellim's Styles ***/
+>>>>>>> master
