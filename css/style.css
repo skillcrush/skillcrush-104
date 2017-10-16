@@ -8748,8 +8748,8 @@ font-size: 20px;
 
 .vlg-advice a {
 	color: #f1da73;
-}	
-	
+}
+
 .vlg-advice h1 {
 	font-family: Roboto, sans-serif;
 	letter-spacing: -0.00125em;
@@ -8788,3 +8788,27 @@ font-size: 20px;
 	text-align: left;
 }
 /* End Vicki Greer's styles 2017 */
+
+/**Dugancodes Styles 2017**/
+.dugancodes-advice h1 {
+  background-color:#edeefe;
+  border-style: groove;
+  color: #07137f;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+.dugancodes-advice h4 {
+  background-color:#edeefe;
+  border-style: groove;
+  color: #091ab0;
+  font-size: 18px;
+  text-align: center;
+}
+.dugancodes-advice p {
+  color: #0c21e0;
+  font-size: 15px;
+  font-weight: bolder;
+  text-align: center;
+}
+/**End Dugancodes Styles 2017**/
