@@ -341,6 +341,30 @@ padding: 80px 0;
   font-weight: 700;
 }
 
+/***** Khristian's Styles *****/
+.khristian-advice {
+  padding: 0 50 50 0;
+}
+.khristian-advice p {
+  font-family: 'Raleway';
+  color: #7d53de;
+  text-align: justify;
+}
+
+.khristian-advice h1 {
+  font-family: 'Shrikhand';
+  color: #bffff7;
+  text-align: center;
+}
+
+.khristian-advice h4 {
+  font-family: 'Raleway';
+  color: #e24451;
+  text-align: center;
+}
+
+/***** END Khristian's Styles *****/
+
 /***** Abbi's Styles *****/
 .abbi-advice  {
   margin: 50px;
@@ -2602,6 +2626,7 @@ body.elizak-advice {
   padding: 0px 80px 0px 80px;
 }
 /**End Jessie C **/
+
 
 /**Evelin advice styling**/
 .evelin-advice {
@@ -8733,6 +8758,7 @@ font-size: 20px;
 }
 
 /*** End lynettellim's Styles ***/
+
 
 /***** Vicki Greer's Advice 9/2017 ****/
 .vlg-advice {
