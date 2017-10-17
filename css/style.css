@@ -8820,6 +8820,7 @@ font-size: 20px;
 /* End Vicki Greer's styles 2017 */
 
 
+
 /* Start rachaelk-advice styles 2017 */
 
 .rachaelk-advice {
@@ -8827,18 +8828,6 @@ font-size: 20px;
   background: #ffb3b3;
 }
 
-
-.rachaelk-advice h1 {
-    
-}
-
-.rachaelk-advice .advice {
-
-}
-
-.rachaelk-advice h4 {
-
-}
 
 .rachaelk-advice p {
 font-size: 16px;
@@ -8851,6 +8840,7 @@ text-align: justify;
 }
 
 /* End rachaelk-advice styles 2017 */
+
 /**Dugancodes Styles 2017**/
 .dugancodes-advice h1 {
   background-color:#edeefe;
@@ -8874,4 +8864,7 @@ text-align: justify;
   text-align: center;
 }
 /**End Dugancodes Styles 2017**/
+<<<<<<< HEAD
+>>>>>>> master
+=======
 >>>>>>> master
