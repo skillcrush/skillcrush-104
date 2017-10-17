@@ -1,3 +1,36 @@
+/** Vegoia's Styles **/
+.sthvecu-advice {
+  background: #888;
+  width: 100%;
+  font-size: 1em;
+}
+.sthvecu-advice h1, h2 {
+  font-family: 'Philosopher', sans-serif;
+  color: #98fb98;
+  text-align: center;
+}
+.sthvecu-advice h2 {
+  font-family: 'Philosopher', sans-serif;
+  color: #ff6666; 
+/*  color: #dc143c;  */
+/*  text-shadow: 2px 1px #eee;  */
+  text-align: center;
+}
+.sthvecu-advice  p {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 1.05em;
+  color: #fff;
+  text-align: justify;
+  padding: 1% 0;
+}
+.sthvecu-advice footer p {
+  background-color: #ccc;
+  font-size: 0.75em;
+  color: #dc143c;
+  text-align: center;
+}
+
+
 /** Grace's Advice **/
 .grace-advice{
     font-family:  'Roboto', sans-serif;
@@ -8864,3 +8897,4 @@ text-align: justify;
   text-align: center;
 }
 /**End Dugancodes Styles 2017**/
+
