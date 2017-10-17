@@ -112,7 +112,7 @@ padding: 30px 0;
 .kathykemmis-advice p{
 text-align: justify;
 font-family: 'Fauna One', serif;
-font-size: 18px}
+font-size: 18px;
 }
 .kathykemmis-advice .advice {
 padding: 80px 0;
@@ -535,7 +535,7 @@ background-color: #DAF7A6;
 
 .patriciakisinger-advice {
   background: #ffb6c1;
-  font-family: Arial; sans-serif;
+  font-family: Arial, sans-serif;
   margin: auto;
 }
 
@@ -7456,7 +7456,7 @@ body.leacamara-advice {
 }
 
 .dani-advice p {
-  text-align: center;/
+  text-align: center;
 }
 
 /****** Evan Joblin's Styles *******/
@@ -8296,7 +8296,7 @@ font-size: 20px;
 
 .advice-heatherh h4{
 	text-transform: uppercase;
-	font-weight: bold;'
+	font-weight: bold;
 }
 
 /** Katherine's Style**/
@@ -8699,6 +8699,36 @@ font-size: 20px;
   font-family: 'comic-sans', serif;
 }
 
+
+/*Deborah's styles 10/2017*/
+
+.deborah-advice {
+	background-color:#ebfafa;
+	
+	margin: 5% 20%;
+	text-align: center;
+}
+.deborah-advice header a {
+	text-decoration: none;
+	font-family: 'Josefin Slab', serif;
+}
+	
+.deborah-advice h1 {
+	font-family: 'Roboto Slab', serif;
+	font-size: 1.5em;
+}
+
+.deborah-advice p {
+	padding-bottom: 20px;
+	font-family: 'Josefin Slab', serif;
+}
+
+ .deborah-advice footer p {
+	 font-family: 'Roboto Slab', serif;
+ }
+ 
+ /*End Deborah's styles */
+
 /*** lynettelim's Styles ***/
 .lynettelim-advice header {
     color: #39120A;
@@ -8748,8 +8778,8 @@ font-size: 20px;
 
 .vlg-advice a {
 	color: #f1da73;
-}	
-	
+}
+
 .vlg-advice h1 {
 	font-family: Roboto, sans-serif;
 	letter-spacing: -0.00125em;
@@ -8789,6 +8819,7 @@ font-size: 20px;
 }
 /* End Vicki Greer's styles 2017 */
 
+
 /* Start rachaelk-advice styles 2017 */
 
 .rachaelk-advice {
@@ -8820,3 +8851,27 @@ text-align: justify;
 }
 
 /* End rachaelk-advice styles 2017 */
+/**Dugancodes Styles 2017**/
+.dugancodes-advice h1 {
+  background-color:#edeefe;
+  border-style: groove;
+  color: #07137f;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+.dugancodes-advice h4 {
+  background-color:#edeefe;
+  border-style: groove;
+  color: #091ab0;
+  font-size: 18px;
+  text-align: center;
+}
+.dugancodes-advice p {
+  color: #0c21e0;
+  font-size: 15px;
+  font-weight: bolder;
+  text-align: center;
+}
+/**End Dugancodes Styles 2017**/
+>>>>>>> master
