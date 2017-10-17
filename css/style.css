@@ -8788,3 +8788,35 @@ font-size: 20px;
 	text-align: left;
 }
 /* End Vicki Greer's styles 2017 */
+
+/* Start rachaelk-advice styles 2017 */
+
+.rachaelk-advice {
+  font-family: 'Merriweather', serif;
+  background: #ffb3b3;
+}
+
+
+.rachaelk-advice h1 {
+    
+}
+
+.rachaelk-advice .advice {
+
+}
+
+.rachaelk-advice h4 {
+
+}
+
+.rachaelk-advice p {
+font-size: 16px;
+text-align: justify;
+}
+
+.rachaelk-advice footer p {
+  text-align: center;
+  padding-top: 10px;
+}
+
+/* End rachaelk-advice styles 2017 */
