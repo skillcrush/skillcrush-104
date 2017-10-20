@@ -1,3 +1,30 @@
+/*daniel berryman's styles*/
+
+.danielberryman-advice header a {
+    color: red;
+    border: 1px solid red;
+    text-decoration: none;
+    padding: 0px 40px;
+}
+
+.danielberryman-advice h1 {
+    color: red;
+    text-align: center;
+}
+
+.danielberryman-advice h4 {
+    color: blue;
+    text-transform: uppercase;
+}
+
+.danielberryman-advice section p {
+    color: purple;
+}
+
+.danielberryman-advice footer p {
+    color: red;
+}
+
 /** Vegoia's Styles **/
 .sthvecu-advice {
   background: #888;
