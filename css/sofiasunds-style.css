@@ -1,0 +1,28 @@
+/* Sofia's advice */
+
+body { background-color: #AAC3E3;
+}
+
+h1 { font-family: 'Satisfy', cursive;
+    font-size: 38px;
+    text-align: center; 
+
+}
+p { font-family: 'Pontano Sans', sans-serif;
+    text-align: center;
+    
+} 
+h4 { font-family: 'Pontano Sans', sans-serif;
+    font-size: 22px;
+    text-align: center;
+    font-weight: bold;
+    
+}
+a { font-family: 'Pontano Sans', sans-serif;
+    text-align: center;
+    text-decoration:none;
+}
+.advice { border-bottom: 1px solid black;
+    margin: 30px;
+    padding: 20px;
+}
