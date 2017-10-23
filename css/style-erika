@@ -1,0 +1,21 @@
+/* Kay's Advice Styles */
+
+h1 {
+    text-align: center;
+    color: purple;
+    text-transform: capitalize;
+    font-size: 32px
+}
+
+
+h4 {
+    font-size: 24px;
+    color: orange;
+    text-decoration: underline;
+}
+
+
+p {
+    font-size: 8px;
+    line-height: 2em;
+}

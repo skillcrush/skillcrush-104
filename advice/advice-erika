@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="../css/style.css">
+
+	<!-- replace Skillcrush with your name here -->
+	<title>Skillcrush's Advice For Newbies</title>
+</head>
+
+<!-- replace skillcrush with your name here -->
+<body class="advice by erika	">
+	<header>
+		<a href="../index.html">Back to Main Page</a>
+		<h1>Hi my name is erika and I have some advice for you!</h1>
+	</header>
+
+	<section>
+		<div class="advice">
+			<h4>Anyone can code! But...</h4>
+			<p>It's also very hard. It takes patience.</p>
+
+			<p>Remember to ask for help. Others have gone before you on this journey and you shouldn't be alone.</p>
+
+			<h4>When nothing is working...</h4>
+			<p>Take breaks! When something isn't working and you've tried literally everything, step away for a bit. You'll be amazed at what pops out at you quickly with fresh eyes.</p>
+
+			<p>Look at sample code from past projects. How is yours different?</p>
+
+			<p>Find new friends in the community. Growing your community gives you more places to turn for help.</p>
+		</div>
+    </section>
+
+	<footer>
+		<!-- replace Skillcrush with your name here -->
+    <p>&copy; Copyright Skillcrush 2014.</p>
+	</footer>
+</body>
+</html>
