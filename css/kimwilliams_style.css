@@ -1,0 +1,22 @@
+body {
+	background: url('../babybuddha.jpg');
+	background-size: cover;
+	text-align: center;
+}
+h1{
+	color: magenta;
+}
+section{
+	margin-top: 270px;
+	
+}
+.advice p{
+	color: blue;
+	font-size: 1.2em;
+}
+.advice h4{
+	color: purple;
+	font-size: 1.7em;
+	font-weight: bold;
+	margin-top: 50px;
+}
