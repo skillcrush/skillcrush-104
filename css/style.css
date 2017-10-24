@@ -1,3 +1,30 @@
+/*jamie shocklee's styles*/
+.jamie-shocklee-advice{
+  width: 100%;
+  background: #f7dabe;
+}
+
+.jamie-shocklee-advice h1 {
+  color: green;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.jamie-shocklee-advice h4 {
+  color: green;
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+
+.jamie-shocklee-advice section p {
+  color: brown;
+}
+
+.jamie-shocklee-advice footer p {
+  color: green;
+  text-align: center;
+}
+
 /*daniel berryman's styles*/
 
 .danielberryman-advice header a {
