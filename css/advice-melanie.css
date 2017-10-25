@@ -1,0 +1,62 @@
+
+/** Add a comment at the beginning of your CSS styles with your name **/
+
+/**Melanie's CSS Styles**/
+header{
+    font-family: 'Roboto', sans-serif;
+}
+header a {
+  color: gray;
+  font-size: 10px;
+    text-align: left;
+}
+body .melanie-advice {
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+}
+
+.advice {
+	background: grey;
+    width: 75%;
+	height: 300px;
+    margin: 0 auto;
+    padding: 2%;
+    border-radius: 50%;
+}
+/** Add a comment at the beginning of your CSS styles with your name **/
+
+p {
+    text-align: center;
+    line-height: 1.4;
+	margin: 6%;
+	color: white;
+	font-family: 'Oswald', sans-serif
+}
+h1 {
+	font-family: 'Oswald', sans-serif;
+	text-align: center;
+	color: black;
+	padding: 2% 0%;
+
+}
+
+h3 {
+	font-family: 'Oswald', sans-serif;
+	text-align: center;
+	color: LightSkyBlue;
+}
+span {
+	font-family: 'Oswald', sans-serif;
+	font-size: 1.13em;
+	font-weight: bold;
+	color: LightSkyBlue;
+}
+
+footer p{
+	text-align: center;
+    color: black;
+    padding-top: 3%;
+	font-size: 14px;
+}
+
+/**End Marie's Styles **/
