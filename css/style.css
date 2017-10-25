@@ -1,28 +1,40 @@
-/*daniel berryman's styles*/
+/*Kelsey Newman's styles*/
 
-.danielberryman-advice header a {
-    color: red;
-    border: 1px solid red;
+.advice-kelseynewman header a {
+    color: #6b6b47;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.2em;
+    font-weight: bold;
     text-decoration: none;
-    padding: 0px 40px;
+    padding: 10px 30px;
+    float: right;
 }
 
-.danielberryman-advice h1 {
-    color: red;
+.advice-kelseynewman h1 {
+    color: #1a53ff;
+    font-family: 'Cabin Sketch', cursive;
     text-align: center;
+    clear: both;
+    padding-top: 2%;
+    padding-bottom: 1%;
 }
 
-.danielberryman-advice h4 {
-    color: blue;
+.advice-kelseynewman h4 {
+    color: #558000;
+    font-size: 2em;
+    font-family: 'Cabin Sketch', cursive;
     text-transform: uppercase;
 }
 
-.danielberryman-advice section p {
-    color: purple;
+.advice-kelseynewman  p {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 1.15em;
+  color: #333333;
+  text-align: justify;
+  padding: 1% 0;
 }
-
-.danielberryman-advice footer p {
-    color: red;
+.advice-kelseynewman footer p {
+    color: #1a53ff;
 }
 
 /** Vegoia's Styles **/
