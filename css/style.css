@@ -8974,7 +8974,7 @@ text-align: justify;
 /**End daphniedonnell Styles 2017**/
 
 /**michaelsm styles 2017**/
-.michaelsm-advice h1 {
+.advice-michaelsm h1 {
   background-color: #blue;
   border-style: dashed;
   color: #07137f;
@@ -8982,14 +8982,14 @@ text-align: justify;
   font-weight: bold;
   text-align: center;
 }
-.michaelsm-advice h4 {
+.advice-michaelsm h4 {
 
   border-style: solid;
   color: #091ab0;
   font-size: 25px;
   text-align: center;
 }
-.michaelsm-advice p {
+.advice-michaelsm p {
   color: #FFFFFF;
   font-size: 30px;
   text-align: center;
