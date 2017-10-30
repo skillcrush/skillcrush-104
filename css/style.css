@@ -8984,3 +8984,26 @@ text-align: justify;
   text-align: center;
 }
 /**End daphniedonnell Styles 2017**/
+
+/**michaelsm styles 2017**/
+.advice-michaelsm h1 {
+  background-color: #blue;
+  border-style: dashed;
+  color: #07137f;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+.advice-michaelsm h4 {
+
+  border-style: solid;
+  color: #091ab0;
+  font-size: 25px;
+  text-align: center;
+}
+.advice-michaelsm p {
+  color: #FFFFFF;
+  font-size: 30px;
+  text-align: center;
+}
+/**End michaelsm styles 2017**/
