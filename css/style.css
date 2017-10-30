@@ -8699,4 +8699,42 @@ font-size: 20px;
 }
 
 /*** End lynettellim's Styles ***/
+
+/*** Melanie Trzaskus's Styles ***/
+
+.melanietrz-advice {
+	background: #ffe6e6;
+	width: 800px;
+	color: white;
+}
+
+.melanietrz-advice h1 {
+	text-transform: uppercase;
+	font-family: 'Bebas';
+	font-size: 42px;
+	text-align: left;
+}
+
+.melanietrz-advice h2 {
+	text-transform: uppercase;
+	font-family: 'Bebas';
+	font-size: 32px;
+	text-align: left;
+}
+
+.melanietrz-advice h4 {
+	font-family: 'Bebas';
+	color: #666666;
+	font-size: 20px;
+	text-align: left;
+	margin-bottom: 10px;
+}
+
+.melanietrz-advice p {
+	color: #b2b2b2;
+	text-align: justify;
+	font-family: 'Droid Serif';
+	margin-bottom: 10px;
+}
+
 >>>>>>> master
