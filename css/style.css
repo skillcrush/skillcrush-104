@@ -1,3 +1,35 @@
+/*****STATZ STYLE*****/
+.statz-advice {
+  font-family: 'Bellefair', sans-serif;
+  color: #BF3F1C;
+  background-color: #7d8076;
+  font-size: 36px;
+  text-align: center;
+
+}
+
+.statz-advice h2 {
+  color: #efe8dc;
+  font-size: 48px;
+  font-variant: small-caps;
+  letter-spacing: -2px;
+}
+
+.statz-advice p {
+  color: #293549;
+  font-family: 'Bellefair';
+  font-size: 26px;
+}
+
+.statz-advice h4 {
+  color: #293549;
+  font-size: 12px;
+  padding: 40px;
+
+}
+/********/
+
+
 /** Grace's Advice **/
 .grace-advice{
     font-family:  'Roboto', sans-serif;
@@ -8748,8 +8780,8 @@ font-size: 20px;
 
 .vlg-advice a {
 	color: #f1da73;
-}	
-	
+}
+
 .vlg-advice h1 {
 	font-family: Roboto, sans-serif;
 	letter-spacing: -0.00125em;
