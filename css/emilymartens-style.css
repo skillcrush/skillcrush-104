@@ -1,0 +1,89 @@
+/** STYLES FOR EMILY MARTENS' ADVICE PAGE **/
+
+.emilymartens-advice {
+  background: #0059b3;
+  background-image: url("https://static.pexels.com/photos/479511/pexels-photo-479511.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.emilymartens-advice h1, .emilymartens-advice h4 {
+  color: #ccffff;
+  font-family: 'Shadows Into Light', cursive;
+  font-variant: none;
+  text-align: center;
+  text-shadow: 1px 1px #000;
+}
+
+.emilymartens-advice h4 {
+  font-size: 1.5em;
+  margin-bottom: 2%;
+  margin-top: 2%;
+}
+
+.emilymartens-advice blockquote {
+  border: 2px solid #ccffff;
+  margin-left: 35%;
+  padding: 2%;
+  width: 25%;
+}
+
+.emilymartens-advice blockquote p {
+  color: #fff;
+  text-shadow: 1px 1px #000;
+}
+
+.emilymartens-advice p {
+  font-family: 'Josefin Slab', serif;
+}
+
+.emilymartens-advice p, .emilymartens-advice ul li, .emilymartens-advice i {
+  color: #fff;
+  text-shadow: 1px 1px #000;
+}
+
+.emilymartens-advice a {
+  color: #ccffff;
+  text-decoration: none;
+}
+
+.emilymartens-advice ul li {
+  font-family: 'Shadows Into Light', cursive;
+  padding-left: 18%;
+  list-style: none;
+  width: 50%;
+}
+
+.emilymartens-advice i {
+  margin-right: 2%;
+}
+
+.emilymartens-advice p, .emilymartens-advice ul li {
+  text-align: left;
+}
+
+.emilymartens-advice footer p {
+  text-align: center;
+}
+
+.emilymartens-advice .advice, .emilymartens-advice footer {
+  background: rgba(6, 25, 146, .55);
+  margin-left: 10%;
+  padding-bottom: 2%;
+  padding-top: 2%;
+  width: 80%;
+}
+
+@media all and (max-width: 800px) {
+
+  .emilymartens-advice blockquote {
+    margin-left: 25%;
+    width: 50%;
+  }
+
+  .emilymartens-advice .advice, .emilymartens-advice footer {
+    padding-left: 2%;
+    padding-right: 2%;
+  }
+
+}

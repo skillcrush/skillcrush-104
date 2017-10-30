@@ -1,3 +1,4 @@
+
 /*****STATZ STYLE*****/
 .statz-advice {
   font-family: 'Bellefair', sans-serif;
@@ -29,6 +30,91 @@
 }
 /********/
 
+
+/*daniel berryman's styles*/
+
+.danielberryman-advice header a {
+    color: red;
+    border: 1px solid red;
+    text-decoration: none;
+    padding: 0px 40px;
+}
+
+.danielberryman-advice h1 {
+    color: red;
+    text-align: center;
+}
+
+.danielberryman-advice h4 {
+    color: blue;
+    text-transform: uppercase;
+}
+
+.danielberryman-advice section p {
+    color: purple;
+}
+
+.danielberryman-advice footer p {
+    color: red;
+}
+
+/** Vegoia's Styles **/
+.sthvecu-advice {
+  background: #888;
+  width: 100%;
+  font-size: 1em;
+}
+.sthvecu-advice h1, h2 {
+  font-family: 'Philosopher', sans-serif;
+  color: #98fb98;
+  text-align: center;
+}
+.sthvecu-advice h2 {
+  font-family: 'Philosopher', sans-serif;
+  color: #ff6666;
+/*  color: #dc143c;  */
+/*  text-shadow: 2px 1px #eee;  */
+  text-align: center;
+}
+.sthvecu-advice  p {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 1.05em;
+  color: #fff;
+  text-align: justify;
+  padding: 1% 0;
+}
+.sthvecu-advice footer p {
+  background-color: #ccc;
+  font-size: 0.75em;
+  color: #dc143c;
+  text-align: center;
+}
+
+body.eps-advice {
+    height: 100%;
+}
+
+.eps-advice header {
+    height: 30%;
+}
+
+.eps-advice section {
+    height: 40%;
+    padding: 5%;
+}
+
+.eps-advice footer {
+    height: 30%;
+    padding: 10%;
+}
+
+.eps-advice h1{
+    padding: 100px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-family: sans-serif;
+}
 
 /** Grace's Advice **/
 .grace-advice{
@@ -144,7 +230,7 @@ padding: 30px 0;
 .kathykemmis-advice p{
 text-align: justify;
 font-family: 'Fauna One', serif;
-font-size: 18px}
+font-size: 18px;
 }
 .kathykemmis-advice .advice {
 padding: 80px 0;
@@ -567,7 +653,7 @@ background-color: #DAF7A6;
 
 .patriciakisinger-advice {
   background: #ffb6c1;
-  font-family: Arial; sans-serif;
+  font-family: Arial, sans-serif;
   margin: auto;
 }
 
@@ -7488,7 +7574,7 @@ body.leacamara-advice {
 }
 
 .dani-advice p {
-  text-align: center;/
+  text-align: center;
 }
 
 /****** Evan Joblin's Styles *******/
@@ -8328,7 +8414,7 @@ font-size: 20px;
 
 .advice-heatherh h4{
 	text-transform: uppercase;
-	font-weight: bold;'
+	font-weight: bold;
 }
 
 /** Katherine's Style**/
@@ -8731,6 +8817,36 @@ font-size: 20px;
   font-family: 'comic-sans', serif;
 }
 
+
+/*Deborah's styles 10/2017*/
+
+.deborah-advice {
+	background-color:#ebfafa;
+
+	margin: 5% 20%;
+	text-align: center;
+}
+.deborah-advice header a {
+	text-decoration: none;
+	font-family: 'Josefin Slab', serif;
+}
+
+.deborah-advice h1 {
+	font-family: 'Roboto Slab', serif;
+	font-size: 1.5em;
+}
+
+.deborah-advice p {
+	padding-bottom: 20px;
+	font-family: 'Josefin Slab', serif;
+}
+
+ .deborah-advice footer p {
+	 font-family: 'Roboto Slab', serif;
+ }
+
+ /*End Deborah's styles */
+
 /*** lynettelim's Styles ***/
 .lynettelim-advice header {
     color: #39120A;
@@ -8820,3 +8936,95 @@ font-size: 20px;
 	text-align: left;
 }
 /* End Vicki Greer's styles 2017 */
+
+
+
+/* Start rachaelk-advice styles 2017 */
+
+.rachaelk-advice {
+  font-family: 'Merriweather', serif;
+  background: #ffb3b3;
+}
+
+
+.rachaelk-advice p {
+font-size: 16px;
+text-align: justify;
+}
+
+.rachaelk-advice footer p {
+  text-align: center;
+  padding-top: 10px;
+}
+
+/* End rachaelk-advice styles 2017 */
+
+/**Dugancodes Styles 2017**/
+.dugancodes-advice h1 {
+  background-color:#edeefe;
+  border-style: groove;
+  color: #07137f;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+.dugancodes-advice h4 {
+  background-color:#edeefe;
+  border-style: groove;
+  color: #091ab0;
+  font-size: 18px;
+  text-align: center;
+}
+.dugancodes-advice p {
+  color: #0c21e0;
+  font-size: 15px;
+  font-weight: bolder;
+  text-align: center;
+}
+/**End Dugancodes Styles 2017**/
+
+/**daphniedonnell Styles 2017**/
+.daphniedonnell-advice h1 {
+  background-color:#purple;
+  border-style: solid;
+  color: #07137f;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+.daphniedonnell-advice h4 {
+
+  border-style: solid;
+  color: #091ab0;
+  font-size: 25px;
+  text-align: center;
+}
+.daphniedonnell-advice p {
+  color: #FFFFFF;
+  font-size: 30px;
+  text-align: center;
+}
+/**End daphniedonnell Styles 2017**/
+
+/**michaelsm styles 2017**/
+.advice-michaelsm h1 {
+  background-color: #blue;
+  border-style: dashed;
+  color: #07137f;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+.advice-michaelsm h4 {
+
+  border-style: solid;
+  color: #091ab0;
+  font-size: 25px;
+  text-align: center;
+}
+.advice-michaelsm p {
+  color: #FFFFFF;
+  font-size: 30px;
+  text-align: center;
+}
+/**End michaelsm styles 2017**/
