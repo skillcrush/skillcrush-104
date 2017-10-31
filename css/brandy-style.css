@@ -1,0 +1,37 @@
+/*-- Brandy's Styles--*/
+
+.brandy-advice {
+	font-family: 'Poppins', sans-serif;
+	background: #000;
+	color: #fff;
+	padding: 50px;
+}
+
+.brandy-advice button {
+	background-color: #d5208f;
+}
+
+.brandy-advice a {
+	text-decoration: none;
+	color: #fff;
+}
+
+.brandy-advice h1 {
+	font-family: 'Courgette', cursive;
+	font-size: 36px;
+	color: #d5208f;
+}
+
+.brandy-advice span {
+	color: #a5a5a5;
+}
+
+.advice h4 {
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.advice p {
+	font-size: 18px;
+	line-height: 36px;
+}
