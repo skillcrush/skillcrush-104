@@ -8995,3 +8995,22 @@ text-align: justify;
   text-align: center;
 }
 /**End michaelsm styles 2017**/
+
+/****renee advice styles 2017****/
+.renee-advice p {
+  color: white;
+  background: black;
+  text-align: justify;
+  font-size: 12px;
+
+.renee-advice h1 {
+  color: #ff8080;
+  font-size: 36px;
+  }
+
+  .renee-advice h4 {
+    color:  #cccc00;
+    font-size: 18px;
+  }
+
+  /****end renee advice style 2017****/
