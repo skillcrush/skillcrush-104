@@ -1,0 +1,35 @@
+
+/** EmmaF styles **/
+
+body {
+font-family: 'Rozha One', serif;
+font-family: 'Montserrat', sans-serif;
+background-color: #e8f1f2;
+padding-left: 40px;
+}
+
+.emmaf-advice h1 {
+  font-family: 'Rozha One', serif;
+  font-size: 36px;
+  color: #31493c;
+  padding-bottom: 5px;
+}
+
+.emmaf-advice h4 {
+  color: #31493c;
+  font-family: 'Rozha One', serif;
+  font-size: 22px;
+}
+
+.emmaf-advice p{
+  font-weight: lighter;
+  font-family: 'Montserrat', sans-serif;
+  color: #001a23;
+}
+
+footer {
+  font-size: 14px;
+  padding-top: 50px;
+}
+
+/** End of EmmaF styles **/
