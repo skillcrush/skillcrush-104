@@ -9028,3 +9028,11 @@ text-align: justify;
   text-align: center;
 }
 /**End michaelsm styles 2017**/
+
+/** calebs-advice **/
+
+.calebs-advice {
+  color: red;
+  font-size: 40px;
+  letter-spacing: 1px;
+}
