@@ -1,0 +1,28 @@
+/***Liliana Style***/
+body{margin: 30px 160px;
+}
+
+a{text-decoration: none;
+  color: rgb(56,55,36);
+  font-family: sans-serif;
+  font-style: oblique;}
+
+h1{font-family: sans-serif;
+    font-size: 40px;
+    color:rgb(44,145,176);}
+
+h4{font-family:sans-serif;
+    font-size: 30px;
+    color: rgb(256,255,236);
+  background-color: rgb(44,145,176);}
+
+.advice p{font-family: garamond,serif;
+    font-size: 25px;
+    color:gray;
+    padding: 0 50px 0 100px;
+}
+
+footer {font-family: sans-serif;
+    font-size: 20px;
+    color: rgb(56,55,36);
+    }
