@@ -9028,3 +9028,34 @@ text-align: justify;
   text-align: center;
 }
 /**End michaelsm styles 2017**/
+
+/** calebs-advice **/
+
+.calebs-advice {
+  color: red;
+  font-size: 40px;
+  letter-spacing: 1px;
+}
+
+/* Sandy's Styles */
+
+.sandyreef-advice h1 {
+  background-color: #ffe49c;
+  color: #696d7f;
+  font-size: 30px;
+  text-align: center;
+}
+
+.sandyreef-advice h4 {
+  color: #7f724e;
+  font-size: 20px;
+  text-align: center;
+}
+
+.sandyreef-advice p {
+  color: #696d7f;
+  font-size: 15px;
+  text-align: justify;
+}
+
+/* End Sandy's Styles */
