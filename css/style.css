@@ -9028,3 +9028,28 @@ text-align: justify;
   text-align: center;
 }
 /**End michaelsm styles 2017**/
+
+/**kbaxley styles**/
+
+.kbaxley-advice h1 {
+  color: #254c3c;
+  font-family: helvetica; sans-serif;
+  letter-spacing: .0em;
+  text-align: left;
+  font-size: 30px;
+}
+
+.kbaxley-advice h4 {
+  text-align: left;
+  margin-left: 0;
+  line-height: 50px;
+  font-size: 20px;
+  color: #c96420;
+  text-transform: uppercase;
+}
+
+.kbaxley-advice p {
+  text-align: left;
+  margin-left: 0;
+  font-weight: 700;
+}
