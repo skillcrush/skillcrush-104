@@ -1,0 +1,22 @@
+body {
+	background: url('https://thumb7.shutterstock.com/display_pic_with_logo/835753/412243465/stock-vector-little-meditating-buddha-on-the-lotus-cartoon-character-vector-cartoon-illustration-on-a-white-412243465.jpg');
+	background-size: cover;
+	text-align: center;
+}
+h1{
+	color: magenta;
+}
+section{
+	margin-top: 270px;
+	
+}
+.advice p{
+	color: blue;
+	font-size: 1.2em;
+}
+.advice h4{
+	color: purple;
+	font-size: 1.7em;
+	font-weight: bold;
+	margin-top: 50px;
+}
