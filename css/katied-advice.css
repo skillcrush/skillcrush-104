@@ -1,0 +1,31 @@
+body {
+	background-color: #dcb8ba;
+	text-align: center;
+	color: black;
+	font-family: 'Gentium Basic', sans-serif;
+	
+}
+
+
+.advice {
+	width: 50%;
+	margin: auto;
+	background-color: #fdfbfb;
+	padding: 7px 25px 7px 25px;
+	border: #234745 4px solid;
+}
+
+h4 {
+
+font-family: 'Eczar', serif;
+font-size: 1.5em;
+color: #234745;
+
+}
+
+h1 {
+
+font-family: 'Eczar', serif;
+color: #974b4f;
+
+}
