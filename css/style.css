@@ -9060,4 +9060,25 @@ text-align: justify;
 
 /* End Sandy's Styles */
 
+/* Alyssa's Styles */
 
+.alyssaroberts-advice h1 {
+  background-color: #e0ffff;
+  color: #800080;
+  font-size: 36px;
+  text-align: center;
+}
+
+.alyssaroberts-advice h4 {
+  color: #c71585;
+  font-size: 24px;
+  text-align: center;
+}
+
+.alyssaroberts-advice p {
+  color: #adff2f;
+  font-size: 18px;
+  text-align: justify;
+}
+
+/* End Alyssa's Styles */
