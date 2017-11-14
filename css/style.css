@@ -1,3 +1,60 @@
+/*kailey wontorski's styles*/
+.kaileywontorski-advice {
+  background-color: #7A6C5D;
+
+}
+
+.kaileywontorski-advice header a{
+  text-decoration: none;
+  font-family: 'Cormorant Garamond', serif;
+  color: #2A3D45;
+  margin-left: 40px;
+  font-size: 21px;
+
+}
+
+.kaileywontorski-advice header a:hover {
+  color: black;
+  background-color: #DDC9B4;
+  background-clip: content-box;
+  margin-left: 30px;
+
+}
+
+.kaileywontorski-advice h1 {
+  color: #C17C74;
+  margin: 0 30 30 30px;
+  text-transform: none;
+  font-family: 'Playfair Display', serif;
+  font-size: 32px;
+  letter-spacing: 0px;
+  text-align: center;
+
+}
+
+.kaileywontorski-advice h4 {
+  text-transform: capitalize;
+  padding: 10px;
+  color:#DDC9B4;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 28px;
+
+}
+
+.kaileywontorski-advice p {
+  line-height: 40px;
+  color: #2A3D45;
+  font-family: 'Catamaran', sans-serif;
+  font-size: 19px;
+}
+
+.kaileywontorski-advice footer p {
+  color: #C17C74;
+  font-weight: bold;
+  font-family: 'Playfair Display', serif;
+  font-size: 18px;
+
+}
 
 /*****STATZ STYLE*****/
 .statz-advice {
