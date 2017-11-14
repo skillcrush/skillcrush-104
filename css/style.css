@@ -9098,3 +9098,36 @@ text-align: justify;
 }
 
 /* End Alyssa's Styles */
+
+/* Keisha Smith's Styles */
+.keisha-advice {
+	background-color: lightgrey;
+}
+.keisha-advice h1 {
+	font-size: 40px; 
+	color: cornflowerblue;
+	text-decoration: underline;
+	text-decoration-color: darkviolet;
+	text-transform:uppercase;
+	text-align: center;
+}
+.keisha-advice h4{
+	margin-top: 20px;
+	font-size: 28px;
+	color:midnightblue;
+	text-align: center;
+	line-height: 40px;
+}
+.keisha-advice p{
+	margin-top: 20px;
+	font-size: 18px;
+	color: black;
+	text-align: center;
+	line-height: 30px;
+	
+}
+.keisha-advice span{
+	color: darkviolet;
+	font-weight: 800;
+}
+/* End Keisha Smith's Style */
