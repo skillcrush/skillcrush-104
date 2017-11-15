@@ -1,3 +1,36 @@
+
+/*****STATZ STYLE*****/
+.statz-advice {
+  font-family: 'Bellefair', sans-serif;
+  color: #BF3F1C;
+  background-color: #7d8076;
+  font-size: 36px;
+  text-align: center;
+
+}
+
+.statz-advice h2 {
+  color: #efe8dc;
+  font-size: 48px;
+  font-variant: small-caps;
+  letter-spacing: -2px;
+}
+
+.statz-advice p {
+  color: #293549;
+  font-family: 'Bellefair';
+  font-size: 26px;
+}
+
+.statz-advice h4 {
+  color: #293549;
+  font-size: 12px;
+  padding: 40px;
+
+}
+/********/
+
+
 /*daniel berryman's styles*/
 
 .danielberryman-advice header a {
@@ -8972,3 +9005,59 @@ text-align: justify;
   text-align: center;
 }
 /**End daphniedonnell Styles 2017**/
+
+/**michaelsm styles 2017**/
+.advice-michaelsm h1 {
+  background-color: #blue;
+  border-style: dashed;
+  color: #07137f;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+.advice-michaelsm h4 {
+
+  border-style: solid;
+  color: #091ab0;
+  font-size: 25px;
+  text-align: center;
+}
+.advice-michaelsm p {
+  color: #FFFFFF;
+  font-size: 30px;
+  text-align: center;
+}
+/**End michaelsm styles 2017**/
+
+/** calebs-advice **/
+
+.calebs-advice {
+  color: red;
+  font-size: 40px;
+  letter-spacing: 1px;
+}
+
+/* Sandy's Styles */
+
+.sandyreef-advice h1 {
+  background-color: #ffe49c;
+  color: #696d7f;
+  font-size: 30px;
+  text-align: center;
+}
+
+.sandyreef-advice h4 {
+  color: #7f724e;
+  font-size: 20px;
+  text-align: center;
+}
+
+.sandyreef-advice p {
+  color: #696d7f;
+  font-size: 15px;
+  text-align: justify;
+}
+
+/* End Sandy's Styles */
+
+
