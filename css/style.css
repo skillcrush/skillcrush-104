@@ -242,7 +242,6 @@ color: blue;
 .kathykemmis-advice {
   text-align:center;
   font-family: 'Fauna One', serif;
-
 }
 .kathykemmis-advice h1 {
   font-size: 30px;
@@ -509,8 +508,6 @@ padding: 80px 0;
   color: #e24451;
   text-align: center;
 }
-
-/***** END Khristian's Styles *****/
 
 /***** Abbi's Styles *****/
 .abbi-advice  {
@@ -9160,3 +9157,84 @@ text-align: justify;
 	font-weight: 800;
 }
 /* End Keisha Smith's Style */
+    
+/*== Beth's Styles ==*/
+    
+/* Fonts Used:
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+*/    
+    
+.heasley {
+    background-color: #eee;
+    color: #222;
+    font-family: 'Open Sans', sans-serif;
+    margin: auto;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 30px;
+}   
+    
+
+
+.heasley a {
+    color: cornflowerblue;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+
+
+.heasley a:hover {
+    color: magenta;
+}
+
+
+
+.heasley .eh-advice {
+    border: 1px solid indianred;
+    padding: 30px 5% 30px 5%;
+}
+
+
+
+.heasley h1 {
+    border-top: 1px solid gray;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    padding: 50px 0 30px 0;
+    text-align: left;    
+}
+
+
+
+.heasley .eh-advice h4 {
+    color:indianred;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 25px;
+}    
+
+
+
+.heasley .eh-advice p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+}
+
+
+
+.heasley footer {
+    background-color: #eee;
+    border-top: 1px solid gray;
+    font-size: 11px;
+    padding: 30px 0 20px 0;
+    text-align: center;
+    color: #222;
+}
+    
+    
+/*== END Beth's Styles ==*/
+
