@@ -1,3 +1,35 @@
+<<<<<<< HEAD
+=======
+/****** SALLY D's STYLE********/
+.sally-d-advice {
+  font: sans-serif;
+}
+
+.sally-d-advice h1 {
+  background-color: purple;
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  text-transform: capitalize;
+  padding: 50px 0;
+}
+
+.sally-d-advice h4 {
+  background-color: yellow;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.sally-d-advice p {
+  font-size: 16px;
+  font-weight: lighter;
+  text-align: justify;
+}
+
+/******* END SALLY D ADVICE *****/
+
+
+>>>>>>> master
 
 /*****STATZ STYLE*****/
 .statz-advice {
@@ -9061,3 +9093,76 @@ text-align: justify;
 /* End Sandy's Styles */
 
 
+<<<<<<< HEAD
+=======
+/* Scott J's styles */
+
+.scottj-advice h4 {
+	color: #009999;
+	font-variant: small-caps;
+	font-size: 24px;
+}
+
+.scottj-advice h1 {
+	color: #009999;
+	text-align: center;
+	font-size: 36px;
+	text-decoration: underline;
+}
+
+/* Alyssa's Styles */
+
+.alyssaroberts-advice h1 {
+  background-color: #e0ffff;
+  color: #800080;
+  font-size: 36px;
+  text-align: center;
+}
+
+.alyssaroberts-advice h4 {
+  color: #c71585;
+  font-size: 24px;
+  text-align: center;
+}
+
+.alyssaroberts-advice p {
+  color: #adff2f;
+  font-size: 18px;
+  text-align: justify;
+}
+
+/* End Alyssa's Styles */
+
+/* Keisha Smith's Styles */
+.keisha-advice {
+	background-color: lightgrey;
+}
+.keisha-advice h1 {
+	font-size: 40px; 
+	color: cornflowerblue;
+	text-decoration: underline;
+	text-decoration-color: darkviolet;
+	text-transform:uppercase;
+	text-align: center;
+}
+.keisha-advice h4{
+	margin-top: 20px;
+	font-size: 28px;
+	color:midnightblue;
+	text-align: center;
+	line-height: 40px;
+}
+.keisha-advice p{
+	margin-top: 20px;
+	font-size: 18px;
+	color: black;
+	text-align: center;
+	line-height: 30px;
+	
+}
+.keisha-advice span{
+	color: darkviolet;
+	font-weight: 800;
+}
+/* End Keisha Smith's Style */
+>>>>>>> master
