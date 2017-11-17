@@ -9161,7 +9161,11 @@ text-align: justify;
 	background-color: lightgrey;
 }
 .keisha-advice h1 {
+<<<<<<< HEAD
 	font-size: 40px;
+=======
+	font-size: 40px;
+>>>>>>> master
 	color: cornflowerblue;
 	text-decoration: underline;
 	text-decoration-color: darkviolet;
@@ -9181,10 +9185,18 @@ text-align: justify;
 	color: black;
 	text-align: center;
 	line-height: 30px;
+<<<<<<< HEAD
 
+=======
+
+>>>>>>> master
 }
 .keisha-advice span{
 	color: darkviolet;
 	font-weight: 800;
 }
+<<<<<<< HEAD
 /* End Keisha Smith's Style */
+=======
+/* End Keisha Smith's Style */
+>>>>>>> master
