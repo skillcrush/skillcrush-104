@@ -9130,7 +9130,7 @@ text-align: justify;
 	background-color: lightgrey;
 }
 .keisha-advice h1 {
-	font-size: 40px; 
+	font-size: 40px;
 	color: cornflowerblue;
 	text-decoration: underline;
 	text-decoration-color: darkviolet;
@@ -9150,23 +9150,23 @@ text-align: justify;
 	color: black;
 	text-align: center;
 	line-height: 30px;
-	
+
 }
 .keisha-advice span{
 	color: darkviolet;
 	font-weight: 800;
 }
 /* End Keisha Smith's Style */
-    
+
 /*== Beth's Styles ==*/
-    
+
 /* Fonts Used:
     font-family: 'Montserrat', sans-serif;
     font-family: 'Barlow Semi Condensed', sans-serif;
     font-family: 'Raleway', sans-serif;
     font-family: 'Open Sans', sans-serif;
-*/    
-    
+*/
+
 .heasley {
     background-color: #eee;
     color: #222;
@@ -9175,8 +9175,8 @@ text-align: justify;
     padding-left: 5%;
     padding-right: 5%;
     padding-top: 30px;
-}   
-    
+}
+
 
 
 .heasley a {
@@ -9206,7 +9206,7 @@ text-align: justify;
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
     padding: 50px 0 30px 0;
-    text-align: left;    
+    text-align: left;
 }
 
 
@@ -9215,7 +9215,7 @@ text-align: justify;
     color:indianred;
     font-family: 'Barlow Semi Condensed', sans-serif;
     font-size: 25px;
-}    
+}
 
 
 
@@ -9234,7 +9234,48 @@ text-align: justify;
     text-align: center;
     color: #222;
 }
-    
-    
+
+
 /*== END Beth's Styles ==*/
 
+/*Melanie's Styles*/
+
+.melanief-advice  a:hover {
+    color: #dac584;
+}
+
+.melanief-advice h1 {
+    border: 2px solid #dac584;
+    margin: 10px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 28px;
+    font-weight: lighter;
+    padding: 20px 10px;
+}
+.melanief-advice span{
+    color: #dac584;
+}
+
+.melanief-advice h4{
+    font-family: sans-serif;
+    font-size: 24px;
+    text-align: left;
+}
+
+.advice u {
+  color:#dac584;
+}
+.melanief-advice p {
+    font-family: 'Assistant',sans-serif;
+    text-align: left;
+    font-size: 20px;
+    padding: 0 10px;
+    letter-spacing: .3px;
+}
+
+.melanief-advice footer p {
+    color: #dac584;
+    font-size: 18px;
+    text-align: center;
+}
