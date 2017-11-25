@@ -9334,3 +9334,34 @@ text-align: justify;
     text-align: center;
 }
 /*Melanie's Style End*/
+
+ /*---MaybeMaile's Styles---*/
+
+ .maybemaile-advice h1 {
+  font-family: 'Poiret One', cursive;
+  font-size: 40px;
+  color: slategray;
+  text-transform: none;
+}
+
+.maybemaile-advice h4 {
+  font-family: 'Poiret One', cursive;
+  font-size: 30px;
+  color: #695b36;
+  font-variant: small-caps;
+  text-align: left;
+}
+
+.maybemaile-advice p {
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  color: darkgray;
+  text-transform: none;
+  text-align: left;
+}
+
+.maybemaile-advice footer p {
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  color: indianred;
+}
