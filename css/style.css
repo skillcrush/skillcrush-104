@@ -9365,3 +9365,44 @@ text-align: justify;
   font-size: 18px;
   color: indianred;
 }
+
+/* val's's styles */
+
+ .valb-advice h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 24px;
+  color: #ef4a83;
+  text-transform: none;
+  text-align: center;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.valb-advice h4 {
+font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+  color: #000;
+  text-transform: none;
+  text-align: center;
+	font-weight: bold;
+}
+
+.valb-advice p {
+  font-family: 'Faro', serif;
+  font-size: 14px;
+  color: #000;
+  text-transform: none;
+  text-align: left;
+  line-height: 21px;
+  padding-top:24px;
+}
+
+.valb-advice footer p {
+font-family: 'Montserrat', sans-serif;
+  font-size: 10px;
+  color: #ef4a83;
+  text-transform: none;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
