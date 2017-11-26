@@ -1,0 +1,64 @@
+/* steven jetton's styles */
+body {
+    width: 80%;
+    margin: auto;
+}
+h1 {
+  font-family: 'Playfair Display';
+  color: #5885be;
+  margin: auto;
+  width: 50%;
+  padding: 20px 30px 20px 80px;
+
+}
+
+h3 {
+  font-size: 24px;
+  margin: auto;
+  width: 50%;
+  padding-left: 300px;
+  padding-bottom: 30px;
+
+}
+
+h4 {
+    font-size: 24px;
+    color: #6e1f20;
+    padding-left: 100px;
+
+}
+
+span {
+    color: #6e1f20;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.section-one,
+.section-two {
+    width: 40%;
+    float: left;
+    margin-top: 10px;
+
+}
+
+.section-one {
+    border-right: 3px solid black;
+    padding: 20px 50px 20px 70px;
+
+}
+
+
+.section-two {
+    padding: 20px 10px 20px 50px;
+
+}
+section {
+      border-top: 3px solid black;
+
+}
+
+footer {
+    clear: both;
+}
