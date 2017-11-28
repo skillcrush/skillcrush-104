@@ -28,6 +28,77 @@
   font-size: 16px;
   text-align: justify;
 }
+/* kailey wontorski's styles */
+ .kaileywontorski-advice {
+   background-color: #98A886;
+ }
+
+ .kaileywontorski-advice header a{
+   text-decoration: none;
+   font-family: 'Cormorant Garamond', serif;
+   color: #465C69;
+   margin-left: 40px;
+   font-size: 22px;
+ }
+
+ .kaileywontorski-advice header a:hover {
+   color: black;
+   background-color: #FFFFFC;
+   background-clip: content-box;
+   margin-left: 30px;
+ }
+
+ .kaileywontorski-advice h1 {
+   color: #FFFFFC;
+   margin: 0 30 30 30px;
+   text-transform: none;
+   font-family: 'Playfair Display', serif;
+   font-size: 32px;
+   letter-spacing: 0px;
+   text-align: center;
+ }
+
+ .kaileywontorski-advice h4 {
+   text-transform: capitalize;
+   padding: 10px;
+   color:#465C69;
+   font-family: 'Cormorant Garamond', serif;
+   font-size: 28px;
+ }
+
+ .kaileywontorski-advice p {
+   line-height: 40px;
+   color: #363457;
+   font-family: 'Catamaran', sans-serif;
+   font-size: 19px;
+ }
+ .kaileywontorski-advice footer p {
+   color: #000000;
+   font-family: 'Playfair Display', serif;
+   font-size: 18px;
+  }
+/* end of kaileywontorski's style's */
+
+/****** SALLY D's STYLE********/
+.sally-d-advice {
+  font: sans-serif;
+}
+.sally-d-advice h1 {
+   background-color: purple;
+   color: white;
+   font-size: 25px;
+   text-transform: capitalize;
+   padding: 50px 0;
+ }
+.sally-d-advice h4 {
+ -  background-color: yellow;
+ -  font-size: 22px;
+ -  font-weight: bold;
+}
+ .sally-d-advice p {
+   -  font-weight: lighter;
+}
+/******* END SALLY D ADVICE *****/
 
 /*****STATZ STYLE*****/
 .statz-advice {
