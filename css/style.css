@@ -1,3 +1,31 @@
+/****** Joy's STYLE********/
+.joys-advice {
+  font-family:  'Roboto', sans-serif;
+}
+
+.joys-advice h1 {
+  background-color: grey;
+  color: tomato;
+  font-size: 25px;
+  text-align: center;
+  text-transform: capitalize;
+  padding: 50px 0;
+}
+
+.joys-advice h4 {
+  background-color: blanchedalmond;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.joys-advice-advice p {
+  font-size: 16px;
+  font-weight: lighter;
+  text-align: justify;
+}
+
+/******* END SJOY' ADVICE *****/
+
 /* kailey wontorski's styles */
 .kaileywontorski-advice {
   background-color: #98A886;
