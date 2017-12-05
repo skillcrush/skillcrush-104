@@ -1,48 +1,3 @@
-/*mirajones-advice-styles*/
-.mirajones-advice {
-  font-family: 'Open Sans', sans-serif;
-}
-
-.mirajones-advice h1 {
-  font-family: 'Montserrat', sans-serif;
-  color: #000;
-  font-size: 24px;
-  text-align: center;
-  background-color: skyblue;
-  padding: 30px 0;
-  margin-bottom: 0;
-}
-
-.mirajones-advice div {
-  height: 160px;
-  background-color: lightblue;
-  margin-top: 0;
-  padding: 30px 0;
-}
-
-.mirajones-advice h4 {
-  font-size: 18px;
-  color: #000;
-  margin-bottom: 10px;
-}
-
-.mirajones-advice p {
-  font-size: 16px;
-  color: dimgray;
-}
-
-.mirajones-advice span {
-  color: midnightblue;
-  font-weight: bold;
-}
-
-.mirajones-advice footer {
-  padding-top: 20px;
-}
-
-.mirajones-advice footer p {
-  color: silver;
-}
 /* kailey wontorski's styles */
 .kaileywontorski-advice {
   background-color: #98A886;
@@ -97,7 +52,6 @@
 
 /* end of kaileywontorski's style's */
 
-
 /****** SALLY D's STYLE********/
 .sally-d-advice {
   font: sans-serif;
@@ -125,6 +79,8 @@
 }
 
 /******* END SALLY D ADVICE *****/
+
+
 
 /*****STATZ STYLE*****/
 .statz-advice {
@@ -9184,6 +9140,7 @@ text-align: justify;
 
 /* End Sandy's Styles */
 
+
 /* Scott J's styles */
 
 .scottj-advice h4 {
@@ -9377,113 +9334,3 @@ text-align: justify;
     text-align: center;
 }
 /*Melanie's Style End*/
-
- /*---MaybeMaile's Styles---*/
-
- .maybemaile-advice h1 {
-  font-family: 'Poiret One', cursive;
-  font-size: 40px;
-  color: slategray;
-  text-transform: none;
-}
-
-.maybemaile-advice h4 {
-  font-family: 'Poiret One', cursive;
-  font-size: 30px;
-  color: #695b36;
-  font-variant: small-caps;
-  text-align: left;
-}
-
-.maybemaile-advice p {
-  font-family: 'Raleway', sans-serif;
-  font-size: 18px;
-  color: darkgray;
-  text-transform: none;
-  text-align: left;
-}
-
-.maybemaile-advice footer p {
-  font-family: 'Raleway', sans-serif;
-  font-size: 18px;
-  color: indianred;
-}
-
-/* val's's styles */
-
- .valb-advice h1 {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 24px;
-  color: #ef4a83;
-  text-transform: none;
-  text-align: center;
-	font-weight: bold;
-	text-transform: uppercase;
-}
-
-.valb-advice h4 {
-font-family: 'Montserrat', sans-serif;
-  font-size: 18px;
-  color: #000;
-  text-transform: none;
-  text-align: center;
-	font-weight: bold;
-}
-
-.valb-advice p {
-  font-family: 'Faro', serif;
-  font-size: 14px;
-  color: #000;
-  text-transform: none;
-  text-align: left;
-  line-height: 21px;
-  padding-top:24px;
-}
-
-.valb-advice footer p {
-font-family: 'Montserrat', sans-serif;
-  font-size: 10px;
-  color: #ef4a83;
-  text-transform: none;
-	font-weight: bold;
-	text-transform: uppercase;
-}
-
-/* ---nicolerf'S styles--- */
-
-.nicolerf-advice h1 {
-    font-family: "Abril Fatface", cursive;
-    font-size: 40px;
-    color: rgb(70, 79, 45);
-    letter-spacing: 1px;
-    padding-bottom: 1.5em;
-    text-align: center;
-    text-transform: none;
-    margin: 1em 4em;
-}
-
-.nicolerf-advice h4 {
-    font-family: Lato, sans-serif;
-    font-size: 30px;
-    color: rgb(201, 98, 53);
-    text-transform: capitalize;
-    text-align: left;
-    font-weight: 100;
-    padding: 0.5em;
-}
-
-.nicolerf-advice p {
-    font-family: Raleway, sans-serif;
-    font-size: 18px;
-    color: rgb(201, 151, 109);
-    text-transform: none;
-    text-align: left;
-    padding: 0.5em;
-}
-
-.nicolerf-advice footer p {
-    color: rgb(49, 58, 97);
-    font-family: Raleway, sans-serif;
-    font-size: 15px;
-    padding: 2em;
-}
