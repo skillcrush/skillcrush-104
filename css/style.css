@@ -80,6 +80,7 @@
 
 /* end of kaileywontorski's style's */
 
+
 /****** SALLY D's STYLE********/
 .sally-d-advice {
   font: sans-serif;
@@ -107,8 +108,6 @@
 }
 
 /******* END SALLY D ADVICE *****/
-
-
 
 /*****STATZ STYLE*****/
 .statz-advice {
@@ -9168,7 +9167,6 @@ text-align: justify;
 
 /* End Sandy's Styles */
 
-
 /* Scott J's styles */
 
 .scottj-advice h4 {
@@ -9434,3 +9432,41 @@ font-family: 'Montserrat', sans-serif;
 	text-transform: uppercase;
 }
 
+/* ---nicolerf'S styles--- */
+
+.nicolerf-advice h1 {
+    font-family: "Abril Fatface", cursive;
+    font-size: 40px;
+    color: rgb(70, 79, 45);
+    letter-spacing: 1px;
+    padding-bottom: 1.5em;
+    text-align: center;
+    text-transform: none;
+    margin: 1em 4em;
+}
+
+.nicolerf-advice h4 {
+    font-family: Lato, sans-serif;
+    font-size: 30px;
+    color: rgb(201, 98, 53);
+    text-transform: capitalize;
+    text-align: left;
+    font-weight: 100;
+    padding: 0.5em;
+}
+
+.nicolerf-advice p {
+    font-family: Raleway, sans-serif;
+    font-size: 18px;
+    color: rgb(201, 151, 109);
+    text-transform: none;
+    text-align: left;
+    padding: 0.5em;
+}
+
+.nicolerf-advice footer p {
+    color: rgb(49, 58, 97);
+    font-family: Raleway, sans-serif;
+    font-size: 15px;
+    padding: 2em;
+}
