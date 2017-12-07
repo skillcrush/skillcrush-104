@@ -17,7 +17,8 @@ img {
 }
 
 .advice p {
-	font-size: 1.4px;
+	font-size: 12px;
+	
 	}
 
 .chrisw-advice h1 {
@@ -28,6 +29,7 @@ img {
 	text-align: center;
 	padding: 5px;
 	margin: auto;
+
 	}
 
 h4 {
@@ -36,6 +38,7 @@ h4 {
 	font-weight: bold;
 	text-transform: uppercase;
 	margin: 30px 20px 30px 70px;
+	text-decoration: underline;
 	}
 
 
