@@ -1,9 +1,34 @@
-/****** Joy's STYLE********/
-.joys-advice {
+/***Start of Lex****/
+.lex1-advice {
   font-family:  'Roboto', sans-serif;
 }
 
-.joys-advice h1 {
+.lex1-advice h1 {
+  background-color: grey;
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  text-transform: capitalize;
+  padding: 50px 0;
+}
+
+.lex1-advice h4 {
+  background-color: blanchedalmond;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.lex1-advice-advice p {
+  font-size: 16px;
+  font-weight: lighter;
+  text-align: justify;
+}
+/****** Lex STYLE********/
+.lex1-advice {
+  font-family:  'Roboto', sans-serif;
+}
+
+.lex1-advice h1 {
   background-color: grey;
   color: tomato;
   font-size: 25px;
@@ -12,19 +37,19 @@
   padding: 50px 0;
 }
 
-.joys-advice h4 {
+.lex1-advice h4 {
   background-color: blanchedalmond;
   font-size: 22px;
   font-weight: bold;
 }
 
-.joys-advice-advice p {
+.lex1-advice-advice p {
   font-size: 16px;
   font-weight: lighter;
   text-align: justify;
 }
 
-/******* END SJOY' ADVICE *****/
+/******* END Lex ADVICE *****/
 
 /* kailey wontorski's styles */
 .kaileywontorski-advice {
