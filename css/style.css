@@ -1,3 +1,28 @@
+/***** RACHELMURRAY'S STYLE *****/
+.rachelmurray-adivce {
+  font-family: 'Raleway', sans-serif;
+  background-color: #B2FFEC;
+}
+
+.rachelmurray-advice h1 {
+  font-size: 24px;
+  text-align: center;
+  text-transform: capitalize;
+  padding-bottom: 30px;
+}
+
+.rachelmurray-advice h4 {
+  font-size: 20px;
+  text-align: center;
+}
+
+.rachelmurray-advice p {
+  font-size: 16px;
+  text-align: center;
+}
+
+/***** END RACHELMURRAY'S STYLE *****/
+
 /****** Joy's STYLE********/
 .joys-advice {
   font-family:  'Roboto', sans-serif;
