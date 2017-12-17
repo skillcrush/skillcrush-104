@@ -1,0 +1,14 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/** hp Styles **/
+.hp-advice {
+    width: 100%;
+    background-color: slategray;
+    font-family: sans-serif;
+    margin: 0 auto;
+    
+}
+
+.hp-advice h1 {
+    color: floralwhite;
+}
