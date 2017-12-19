@@ -1,0 +1,36 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+/* --Tanya's Styles--*/
+.LatanyaGreen-advice{
+  font-family: 'lato', sans-serif;
+  text-align: center;
+  margin: 10px;
+}
+
+.LatanyaGreen-advice a {
+  float: left;
+}
+
+.LatanyaGreen-advice h1 {
+  font-size: 36px;
+  text-transform: uppercase;
+  padding-top: 50px;
+}
+
+.LatanyaGreen-advice h4 {
+  color: grey;
+  background-color: yellow;
+  font-size: 22px;
+  text-transform: capitalize;
+}
+
+.LatanyaGreen-advice p {
+  background-color: white;
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  padding: 0px 50px 10px 50px;
+}
+
+.LatanyaGreen-advice footer p {
+  font-size: 14px;
+}
+/*--End Tanya's Styles--*/

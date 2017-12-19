@@ -1,0 +1,24 @@
+.cdispoto-advice {
+	background-color: white;
+ }
+
+.cdispoto-advice h1 {
+    font-family: "times new roman",  serif;
+    color: green;
+    text-transform: uppercase;
+}
+
+.cdispoto-advice h4 {
+    font-family: "arial", sans-serif;
+    color: red;
+    text-decoration: underline;
+    background-color: white;
+}
+
+.advice {
+    background-color: black;
+}
+
+.advice p {
+    color: white;    
+}

@@ -1,0 +1,46 @@
+header
+
+h2 {
+  font-size: 45px;
+  color: tomato;
+  text-align: center;
+  margin-bottom: -20px;
+}
+
+h3 {
+  font-size: 15px;
+  color: red;
+  text-align: center;
+}
+
+.advice {
+  width: 98%;
+  padding: 2%;
+  text-align: justify;
+}
+
+#pers {
+  color: darkred;
+  margin: 20px;
+  border-bottom: 10px dotted red;
+}
+
+#practice {
+  text-align: center;
+  color: orangered;
+  margin: 20px;
+  border-bottom: 10px dotted orange;
+
+}
+
+#play {
+  text-align: right;
+  margin: 20px;
+  color: darkorange;
+}
+
+#play-on {
+  text-align: right;
+  font-size: 45px;
+  color: tomato;
+}

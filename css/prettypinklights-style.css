@@ -1,0 +1,56 @@
+/* Prettypinklights advice styles */
+
+/****** BASE STYLES ******/
+
+body {
+    font-family: 'Barlow', sans-serif;
+}
+ 
+ body {
+  background-color: white;
+  padding: 3%;
+ }
+
+ 
+ .header h1 {
+  color: #b1c4d6;
+  font-family: 'Barlow', sans-serif;
+  font-size: 30px;
+  text-align: left;
+ }
+
+ .header a {
+  color: #b1c4d6;
+  text-decoration: underline;
+  font-family: 'Barlow', sans-serif;
+  font-size: 20px;
+  text-align: left;
+ }
+
+ h4 {
+  color: #de9e8c;
+  font-family: 'Barlow', sans-serif;
+  font-size: 30px;
+  text-align: center;
+}
+ p {
+  color: #6d8395;
+  font-family: 'Barlow', sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+ 
+ .footer {
+  padding: 3px;
+  background-color: #9f8a77;
+}
+
+ .footer p {
+  font-family: 'Barlow', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+}
+ 
+
+ 

@@ -1,0 +1,34 @@
+/*Taqwa's Styles Only*/
+
+html {
+	background-color: #b3f5fb;
+}
+
+.taqwa-advice {
+	background-color: #b3f5fb;
+	font-family: Calibri;
+    font-size: 24px;
+}
+
+.taqwa-advice h4 {
+	color: black;
+	font-weight: bolder;
+}
+
+
+.taqwa-advice header h1 {
+	color: white;
+	background-color: rgba(24, 12, 12, 0.7);
+	padding: 10px;
+}
+
+.taqwa-advice footer {
+	color: white;
+	text-align: center;
+    background-color: rgb(75, 74, 74);
+    padding: 10px;
+}
+
+#taqwa-advice-italic {
+	font-style: italic;
+}

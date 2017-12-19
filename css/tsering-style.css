@@ -1,0 +1,12 @@
+/*tsering's Styles*/
+ 
+.tsering-advice h1{
+  font-family: 'Book Antiqua', serif;
+}
+p{
+  font-family: 'Times-new-roman', sans-serif;
+  color:#660033;
+  font-weight: normal;
+  text-shadow: 2px 2px #1f2e2e;
+  text-align: left;
+}
