@@ -1,0 +1,35 @@
+/*****Jacqueline's Styles ---*/
+.rjyoung-advice {
+	background-color: #2AC9FF;
+
+}
+.rjyoung-advice h1 {
+	font-family:"Roboto", serif;
+	font-size: 40px;
+	color: #110133;
+	padding-bottom: 20px;
+	padding-top: 50px;
+	text-align: center;
+}
+.rjyoung-advice h1 span{
+	color: #E8281B;
+}
+.rjyoung-advice h4 {
+	font-family:"Roboto", serif;
+	font-size: 30px;
+	color: black;
+	padding-bottom: 50px;
+	padding-top: 50px;
+	text-align: center;
+}
+.rjyoung-advice h4 span {
+	color:#4E07E8;
+}
+.advice p {
+	font-family:"Roboto", serif;
+	font-size: 20px;
+	color: black;
+	margin-left: 300px;
+	text-align: center;
+	width: 800px;
+}
