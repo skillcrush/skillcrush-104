@@ -9494,9 +9494,26 @@ font-family: 'Montserrat', sans-serif;
   line-height: 28px;
 }
 
+
+/* End Biskitcrumb's Styles */
+
+/***** Start Melanie's Styles *****/
+
+.melaniejansen-advice h1 {
+	font-size: 16px;
+	text-align: center;
+	color: #ff4500;
+}
+.melaniejansen-advice h4 {
+	font-size: 12px;
+	text-transform: uppercase;
+}
+/***** End Melanie's Styles *****/
+
 .loripopo-advice footer p{
   font-family: gill sans, sans-serif;
   font-size: 12px;
   color: #f93943;
   line-height: 42px;
 }
+
