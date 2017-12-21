@@ -1,3 +1,41 @@
+/****** Elenatron's STYLE********/
+body {
+	background-color: cornsilk;
+}
+section {
+	width: 800px;
+	margin: 100px auto;
+}
+section h1,
+section p {
+	text-align: center;
+	color: #454545;
+}
+.elenatron-advice a {
+	color: #454545;
+	text-decoration: none;
+}
+.elenatron-advice h1 {
+	font: 32px 'Open Sans';
+	font-weight: bold;
+ 	color: darkred;
+	text-align: center;
+	text-transform: capitalize;
+}
+.elenatron-advice h4 {
+	font: 14px 'Open Sans';
+	font-weight: bolder;
+ 	color: darkred;
+	text-align: center;
+	text-transform: capitalize;
+}
+
+.elenatron-advice p {
+	font: 16px 'Open Sans';
+	text-transform: lowercase;
+}
+
+
 /****** Joy's STYLE********/
 .joys-advice {
   font-family:  'Roboto', sans-serif;
