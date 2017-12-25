@@ -1,3 +1,32 @@
+
+/****** robo's STYLE********/
+.robo-advice {
+  font-family:  'Roboto', sans-serif;
+}
+
+.robo-advice h1 {
+  background-color: blue;
+  color: purple;
+  font-size: 25px;
+  text-align: center;
+  text-transform: capitalize;
+  padding: 50px 0;
+}
+
+.robo-advice h4 {
+  background-color: white;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.robo-advice-advice p {
+  font-size: 16px;
+  font-weight: lighter;
+  text-align: center;
+}
+
+/******* END robo' ADVICE *****/
+
 /****** Joy's STYLE********/
 .joys-advice {
   font-family:  'Roboto', sans-serif;
@@ -9516,4 +9545,3 @@ font-family: 'Montserrat', sans-serif;
   color: #f93943;
   line-height: 42px;
 }
-
