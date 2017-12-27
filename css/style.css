@@ -1,3 +1,31 @@
+/****** robopingvin's STYLE********/
+.robopingvin-advice {
+  font-family:  'Roboto', sans-serif;
+}
+
+.robopingvin-advice h1 {
+  background-color: purple;
+  color: black;
+  font-size: 25px;
+  text-align: center;
+  text-transform: capitalize;
+  padding: 50px 0;
+}
+
+.robopingvin-advice h4 {
+  background-color: white;
+  font-size: 25px;
+
+}
+
+.robopingvin-advice p {
+  font-size: 25px;
+  font-weight: lighter;
+  text-align: center;
+}
+
+/******* END robopingvin's ADVICE *****/
+
 /****** Joy's STYLE********/
 .joys-advice {
   font-family:  'Roboto', sans-serif;
@@ -9516,4 +9544,3 @@ font-family: 'Montserrat', sans-serif;
   color: #f93943;
   line-height: 42px;
 }
-
