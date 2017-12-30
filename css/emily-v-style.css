@@ -1,0 +1,77 @@
+/** emily-v styles **/
+
+body {
+  text-align: center;
+  padding: 50px;
+}
+
+h1 {
+  background-color: #9933ff;
+  color: white;
+  font-family: 'Chonburi', cursive;
+  font-size: 36px;
+  line-height: 1.5;
+}
+
+.advice {
+  background-color: #d9b3ff;
+  color: black;
+}
+
+.advice h4 {
+  font-weight: bold;
+  font-size: 24px;
+  font-family: 'Chonburi', cursive;
+}
+
+.advice h4 span {
+  font-size: 32px;
+}
+
+.advice p {
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.advice p span {
+  font-size: 24px;
+  font-weight: bolder;
+}
+
+footer {
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+/** body {
+  font-family: 'Rozha One', serif;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #e8f1f2;
+  padding-left: 40px;
+  }
+  
+  h1 {
+    font-family: 'Rozha One', serif;
+    font-size: 36px;
+    color: #31493c;
+    padding-bottom: 5px;
+  }
+  
+  h4 {
+    color: #31493c;
+    font-family: 'Rozha One', serif;
+    font-size: 22px;
+  }
+  
+  p{
+    font-weight: lighter;
+    font-family: 'Montserrat', sans-serif;
+    color: #001a23;
+  }
+  
+  footer {
+    font-size: 14px;
+    padding-top: 50px;
+  } **/
+  
+  /** End of emily-v styles **/
