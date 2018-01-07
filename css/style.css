@@ -9537,16 +9537,49 @@ font-family: 'Montserrat', sans-serif;
 	text-transform: uppercase;
 }
 /***** End Melanie's Styles *****/
-
-.loripopo-advice footer p{
-  font-family: gill sans, sans-serif;
-  font-size: 12px;
-  color: #f93943;
-  line-height: 42px;
+.julie-advice {
+  background-color: #fdf7f6;
 }
 
-.richard-college-advice h4 {
-  font-size: 30px;
-  text-align: center;
+.julie-advice h1 {
+    font-family: 'Merriweather', serif;
+    font-size: 36px;
+    color: #6c2f4a;
+    letter-spacing: 1px;
+    padding-bottom: .5em;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 1em 4em;
+    font-weight: normal;
 }
 
+.julie-advice h4 {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 30px;
+    color: #F26968;
+    text-transform: none;
+    text-align: center;
+    font-weight: 100;
+    padding: 0.5em;
+    background-color: #f7d2ca;
+}
+
+.julie-advice p {
+    font-family: Raleway, sans-serif;
+    font-size: 18px;
+    color: #323339;
+    text-transform: none;
+    text-align: left;
+    padding: 0.5em;
+    background-color: #F2AD9F;
+}
+
+.julie-advice footer p {
+    color: #323339;
+    font-family: Raleway, sans-serif;
+    font-size: 12px;
+    padding: 0.3em;
+    text-align: center;
+    background-color: #fdf7f6;
+}
+/****** End 01Julies-advice styling ********/
