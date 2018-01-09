@@ -1,0 +1,48 @@
+body {
+  background-color: #42526C;
+  margin: 100px;
+}
+
+a {
+  color: white;
+  border: 1px solid white;
+  padding: 15px;
+}
+
+p {
+  color: white;
+  font-family: 'Libre Baskerville', serif;
+  font-size: 20px;
+  line-height: 40px;
+  text-align: center;
+  padding-left: 250px;
+  padding-right: 250px;
+  margin-top: 5px;
+
+}
+
+h1 {
+
+  color: white;
+  border: 1px; #cc9900;
+  font-family: 'Raleway', sans-serif;
+  font-size: 40px;
+  text-align: center;
+  padding: 50px 0;
+}
+
+h4 {
+  border-top: 5px solid;
+  border-color: #cc9900;
+  padding: 30px;
+  color: white;
+  font-size: 35px;
+  font-weight: lighter;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+
+footer {
+  padding: 40px;
+}
+
