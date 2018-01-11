@@ -9550,3 +9550,58 @@ font-family: 'Montserrat', sans-serif;
   text-align: center;
 }
 
+/* ---Shelby Muntis Styles--- */
+.shelbymuntis-advice {
+background-color: #96b8c4; 
+}
+
+.shelbymuntis-advice h1 {
+    font-family: Starlight; 
+    font-size: 100px;
+    color: #1b2027;
+    padding-bottom:0em;
+    text-align: center;
+    text-transform: none;
+    font-weight: lighter;
+
+}
+
+.shelbymuntis-advice h2 {
+    font-family: Minion Pro;
+    font-size: 35px;
+    color: #2a313d;
+    padding-bottom: .02em;
+    text-align: center;
+    text-transform: none;
+    font-weight: lighter;
+    line-height: 70%; 
+
+}
+
+.shelbymuntis-advice h4 {
+    font-family: Starlight;
+    font-size: 30px;
+    color: #2d3f5e;
+    text-transform: none;
+    text-align: left;
+    font-weight: lighter;
+    padding: 0.5em;
+    letter-spacing: 2px; 
+}
+
+.shelbymuntis-advice p {
+    font-family: Ledger;
+    font-size: 18px;
+    color: #3c537e; 
+    text-transform: none;
+    text-align: left;
+    padding: 0.5em;
+}
+
+.shelbymuntis-advice footer p {
+    color: #2d3f5e;
+    font-family: Montserate, sans-serif;
+    font-size: 15px;
+    padding: 2em;
+}
+
