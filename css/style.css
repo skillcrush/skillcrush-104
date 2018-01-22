@@ -9605,3 +9605,19 @@ background-color: #96b8c4;
     padding: 2em;
 }
 
+/***Arooj's Advice****/
+.arooj-advice p {
+Font-family: Helvetica;
+Font-size: 24px;
+Color: purple;
+}
+
+.arooj-advice h4 {
+Font-family: roboto;
+Font-size: 60px;
+Color: green;
+}
+
+.arooj-advice body {
+Text-align: center;
+}
