@@ -9605,3 +9605,12 @@ background-color: #96b8c4;
     padding: 2em;
 }
 
+/****** Mshea STYLE********/
+
+.mshea-advice h1 {
+	font-family: allura; 
+	font-size: 16px;
+	background-color: gainsboro;
+	padding: 1em;
+	color: dimgray;
+}
