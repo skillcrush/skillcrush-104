@@ -1,3 +1,35 @@
+/****** ANGFLOWERS STYLES ******/
+.angflowers-advice {
+	text-align: center; 
+	background-color: lightgray;
+	font-family: 'Open Sans';
+}
+
+.angflowers-advice  h1 {
+	font-family: 'Arial Narrow';
+	color: cornflowerblue;
+	font-size: 30px;
+}
+
+.angflowers-advice h4 {
+	text-transform: uppercase;
+	padding-bottom: 10px;
+	color: fuchsia;
+}
+
+.angflowers-advice p {
+	padding-bottom: 40px;
+}
+
+.angflowers-advice .advice {
+	border: solid 1px black;
+	background-color: azure;
+	margin: 0px 100px 20px 100px;
+	padding-top: 40px;
+}
+
+/******  END ANGFLOWERS STYLES ******/
+
 /****** robopingvin's STYLE********/
 .robopingvin-advice {
   font-family:  'Roboto', sans-serif;
