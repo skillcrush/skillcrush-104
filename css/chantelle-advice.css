@@ -1,0 +1,38 @@
+/**Chantelle's Styles**/
+
+.chantelle-advice {
+	font-family:  'Roboto', sans-serif;
+ }
+ 
+ .chantelle-advice a {
+	 text-decoration: none;
+	 color: gray;
+	 text-transform: capitalize;
+ }
+ 
+  .chantelle-advice h1 {
+  color: black;
+  font-size: 30px;
+  text-align: center;
+  text-transform: capitalize;
+  padding: 50px 0;
+  border-bottom: 1px solid black;
+}
+
+.chantelle-advice h4 {
+  background-color: white;
+  font-size: 25px;
+  text-align: center;
+}
+
+.chantelle-advice p {
+  font-size: 25px;
+  font-weight: lighter;
+  text-align: center;
+}
+
+.chantelle-advice #myadvice, h4 {
+	font-weight: bold;
+	text-transform: capitalize;
+	
+}
