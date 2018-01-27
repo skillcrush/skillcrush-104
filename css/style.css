@@ -9621,3 +9621,30 @@ Color: green;
 .arooj-advice body {
 Text-align: center;
 }
+
+/* Paul's Advice */
+.paul-advice {
+    text-align: center;
+}
+.paul-advice h1 {
+    color: deepskyblue;
+}
+.paul-advice h4 {
+    border-bottom: 1px solid darkgrey;
+    background-color: lightgrey;
+    padding: 10px 0px;
+}
+.paul-advice p {
+    text-align: left;
+    padding-bottom: 1.2em;
+}
+.paul-advice .advice {
+    padding-top: 1.2em;
+}
+.paul-advice footer {
+    background-color: cadetblue;
+}
+.paul-advice footer p {
+    text-align: center;
+}
+/*End Paul's advice */
