@@ -1,3 +1,32 @@
+/***** AMANDA OTTOSEN ADVICE *****/
+.amandaottosen-advice h1{
+  font-family: 'Bangers', cursive;
+  font-size: 55px;
+  font-weight: bold;
+  text-align: center;
+  color: #456990;
+}
+.amandaottosen-advice h4{
+  font-family: 'Dosis', sans-serif;
+  font-size: 38px;
+  font-weight: bold;
+  color: #d7816a;
+}
+.amandaottosen-advice p{
+  font-family: 'Dosis', sans-serif;
+  font-size: 26px;
+  font-weight: bold;
+  color: #75b9be;
+}
+.amandaottosen-advice footer{
+  background-color: #ee767a;
+}
+.amandaottosen-advice footer p{
+  font-family: 'Dosis', sans-serif;
+  font-weight: normal;
+  color: white;
+}
+
 /****** robopingvin's STYLE********/
 .robopingvin-advice {
   font-family:  'Roboto', sans-serif;
@@ -9552,11 +9581,11 @@ font-family: 'Montserrat', sans-serif;
 
 /* ---Shelby Muntis Styles--- */
 .shelbymuntis-advice {
-background-color: #96b8c4; 
+background-color: #96b8c4;
 }
 
 .shelbymuntis-advice h1 {
-    font-family: Starlight; 
+    font-family: Starlight;
     font-size: 100px;
     color: #1b2027;
     padding-bottom:0em;
@@ -9574,7 +9603,7 @@ background-color: #96b8c4;
     text-align: center;
     text-transform: none;
     font-weight: lighter;
-    line-height: 70%; 
+    line-height: 70%;
 
 }
 
@@ -9586,13 +9615,13 @@ background-color: #96b8c4;
     text-align: left;
     font-weight: lighter;
     padding: 0.5em;
-    letter-spacing: 2px; 
+    letter-spacing: 2px;
 }
 
 .shelbymuntis-advice p {
     font-family: Ledger;
     font-size: 18px;
-    color: #3c537e; 
+    color: #3c537e;
     text-transform: none;
     text-align: left;
     padding: 0.5em;
