@@ -96,15 +96,15 @@
   line-height: 40px;
   color: #363457;
   font-family: 'Catamaran', sans-serif;
-  font-size: 19px;
 }
 
+font-size: 19px;
 .kaileywontorski-advice footer p {
   color: #000000;
   font-weight: bold;
-  font-family: 'Playfair Display', serif;
   font-size: 18px;
 }
+font-family: 'Playfair Display', serif;
 
 /* end of kaileywontorski's style's */
 
@@ -1153,9 +1153,9 @@ body.troypratt-advice footer {
 }
 
 .lindsay-advice h1{
-  color: #e4ac6a;
 }
 
+color: #e4ac6a;
 .lindsay-advice h4{
   color: #ffd336;
 }
@@ -4570,10 +4570,10 @@ p.sarahgreercopy-advice {
 .kristi-advice p {
   margin: 10px 150px 10px 150px;
   border-radius: 20px;
-  background-color: indigo;
   color: white;
   padding: 25px;
   font-size: 1.5em;
+  background-color: indigo;
 }
 /** End of Kristi's Styles **/
 
@@ -9552,11 +9552,11 @@ font-family: 'Montserrat', sans-serif;
 
 /* ---Shelby Muntis Styles--- */
 .shelbymuntis-advice {
-background-color: #96b8c4; 
+background-color: #96b8c4;
 }
 
 .shelbymuntis-advice h1 {
-    font-family: Starlight; 
+    font-family: Starlight;
     font-size: 100px;
     color: #1b2027;
     padding-bottom:0em;
@@ -9574,7 +9574,7 @@ background-color: #96b8c4;
     text-align: center;
     text-transform: none;
     font-weight: lighter;
-    line-height: 70%; 
+    line-height: 70%;
 
 }
 
@@ -9586,13 +9586,13 @@ background-color: #96b8c4;
     text-align: left;
     font-weight: lighter;
     padding: 0.5em;
-    letter-spacing: 2px; 
+    letter-spacing: 2px;
 }
 
 .shelbymuntis-advice p {
     font-family: Ledger;
     font-size: 18px;
-    color: #3c537e; 
+    color: #3c537e;
     text-transform: none;
     text-align: left;
     padding: 0.5em;
@@ -9621,6 +9621,40 @@ Color: green;
 .arooj-advice body {
 Text-align: center;
 }
+
+
+/****** leighdamico's STYLE********/
+.leighdamico-advice {
+  font-family:  'News Gothic', sans-serif;
+}
+
+.leighdamico-advice h1 {
+  background-color: darkblue;
+  color: white;
+  font-size: 35px;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 50px 0;
+}
+
+.leighdamico-advice h4 {
+  background-color: white;
+  font-size: 25px;
+  padding: 25px 0;
+}
+
+.leighdamico-advice p {
+  font-size: 25px;
+  font-weight: lighter;
+  padding: 25px 0;
+  text-align: left;
+}
+
+.leighdamico-advice footer p{
+  font-size: 15px;
+}
+
+/******* END leighdamico's ADVICE *****/
 
 /* Paul's Advice */
 .paul-advice {
