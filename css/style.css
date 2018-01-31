@@ -96,15 +96,15 @@
   line-height: 40px;
   color: #363457;
   font-family: 'Catamaran', sans-serif;
-  font-size: 19px;
 }
 
+font-size: 19px;
 .kaileywontorski-advice footer p {
   color: #000000;
   font-weight: bold;
-  font-family: 'Playfair Display', serif;
   font-size: 18px;
 }
+font-family: 'Playfair Display', serif;
 
 /* end of kaileywontorski's style's */
 
@@ -1153,9 +1153,9 @@ body.troypratt-advice footer {
 }
 
 .lindsay-advice h1{
-  color: #e4ac6a;
 }
 
+color: #e4ac6a;
 .lindsay-advice h4{
   color: #ffd336;
 }
@@ -9622,6 +9622,7 @@ Color: green;
 Text-align: center;
 }
 
+
 /****** leighdamico's STYLE********/
 .leighdamico-advice {
   font-family:  'News Gothic', sans-serif;
@@ -9654,3 +9655,30 @@ Text-align: center;
 }
 
 /******* END leighdamico's ADVICE *****/
+
+/* Paul's Advice */
+.paul-advice {
+    text-align: center;
+}
+.paul-advice h1 {
+    color: deepskyblue;
+}
+.paul-advice h4 {
+    border-bottom: 1px solid darkgrey;
+    background-color: lightgrey;
+    padding: 10px 0px;
+}
+.paul-advice p {
+    text-align: left;
+    padding-bottom: 1.2em;
+}
+.paul-advice .advice {
+    padding-top: 1.2em;
+}
+.paul-advice footer {
+    background-color: cadetblue;
+}
+.paul-advice footer p {
+    text-align: center;
+}
+/*End Paul's advice */
