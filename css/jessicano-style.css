@@ -1,0 +1,24 @@
+body {
+  background: url(file:///U:/105-project/skillcrush-104/advice/images/sky.jpg); background-size: 100% 100%;
+}
+h1 {
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  color: #f45b69;
+}
+
+h4 {
+  font-size: 20px;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+p {
+  text-align: center;
+  margin-top: -10px;
+  font-family: 'Open Sans', sans-serif;
+  margin-right: 400px;
+  margin-left: 400px;
+}
+
+/******* END robopingvin's ADVICE *****/
