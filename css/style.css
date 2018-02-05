@@ -37,7 +37,7 @@
 .katistewarts-advice a {
 	color:#525297;
 	text-decoration: none;
-	
+
 }
 .katistewarts-advice h1 {
 	color: #101A52;
@@ -719,6 +719,33 @@ padding: 80px 0;
   padding-top: 50px;
   text-align: center;
 }
+/****Amelia's Styles****/
+.ameliawarr-advice title{
+  font-size:40px;
+  text-align:center;
+}
+.ameliawarr-advice body{
+  font-family: 'Indie Flower', cursive;
+  width:900px;
+}
+.ameliawarr-advice h1{
+  font-size: 36px;
+  text-transform: uppercase;
+  color: CornflowerBlue;
+  font-weight: bold;
+}
+.ameliawarr-advice h4{
+  color:#000000;
+  font-size: 32px;
+  text-align: left;
+}
+.ameliawarr-advice p{
+  font-size: 18px;
+  text-align: left;
+  color:tomato;
+}
+
+
 
 /* --Rebeccas Styles--*/
 .rebeccas-advice{
