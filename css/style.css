@@ -1,6 +1,6 @@
 
 /*****MARTIN JARRIN ADVICE*****/
-header {
+body {
 background: url('https://avante.biz/wp-content/uploads/Minecraft-shaders-background/Minecraft-shaders-background-020.jpg')no-repeat #800000;
 width: 100% ;
 
@@ -15,18 +15,20 @@ text-align: center;
 color: #a72a3d;
 }
 
-.martinj-advice h2 {
+.martinj-advice h4 {
 font-family: 'Rammetto One', cursive ;
 font-size: 45px;
 font-weight: bolder;
-text-align: left;
+text-align: center;
 color: #2aa774;
+text-transform: uppercase;
+
 
 }
 
-.martinj-advice ol {
+section ol {
 font-family: 'Nanum Brush Script', cursive;
-font-size: 25px;
+font-size: 22px;
 font-weight: bolder;
 text-align: left;
 color: #ecd200;
