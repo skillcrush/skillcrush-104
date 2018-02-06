@@ -1,0 +1,37 @@
+.lolas-advice {
+    background-color: rgba(167,	167,	168, 0.2);
+}
+.lolas-advice a {
+    color: #EB036E;
+}
+
+.lolas-advice h1 {
+    text-align: center;
+    color: #EB036E;
+
+}
+
+.lolas-advice ul {
+    list-style: none;
+}
+
+.lolas-advice li {
+    border: 5px solid #EB036E;
+    border-radius: 100px;
+    float: left;
+    padding: 25px;
+    margin: 5px;
+    font-variant: small-caps;
+    font-size: 30px;
+
+    background-color: rgba(167,	167, 168, 0.5);
+}
+
+.lolas-advice footer {
+    clear: both
+}
+
+.lolas-advice footer p {
+    padding: 10px;
+    margin: 10px;
+}

@@ -1,0 +1,46 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+body {
+  background-color: #87cfe8;
+}
+
+.ericpatrick-advice h1 {
+  font-family: "Bangers", serif;
+  text-align: center;
+  font-size: 40px;
+  letter-spacing: 2px;
+}
+
+span {
+  text-decoration: underline;
+}
+
+.first, .second, .third {
+  float: left;
+  width: 33%;
+}
+
+img {
+  width: 100%;
+}
+
+.ericpatrick-advice h4 {
+  font-family: "Lato", serif;
+  text-align: center;
+  font-size: 25px;
+  text-transform: uppercase;
+}
+
+.ericpatrick-advice p {
+  font-family: "Lato", serif;
+  font-size: 20px;
+  text-align: justify;
+  line-height: 25px;
+}
+
+.ericpatrick-advice footer p {
+  font-family: "Lato", serif;
+  font-size: 18px;
+  text-align: center;
+  padding-top: 450px;
+}

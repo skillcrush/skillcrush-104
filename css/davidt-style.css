@@ -1,0 +1,43 @@
+/** Add a comment at the beginning of your CSS styles with your name **/
+
+
+
+/*********************** David's Styles *********************/
+
+header a {
+    color: #1855d1
+}
+.david-advice {
+    background-color: #c4c7ca;
+    margin: 0 auto;
+    width: 60%;
+}
+
+.david-advice h1 {
+    color: #655c3f;
+    font-family: sans-serif;
+    font-size: 40px;
+}
+
+.david-advice h4 {
+    color: #931b02;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+.david-advice p {
+    color: #35372a;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+.david-advice footer {
+    background-color: #3b76b0;
+}
+
+.david-advice footer p {
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+}
+

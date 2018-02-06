@@ -1,0 +1,78 @@
+
+/** MEG'S STYLES **/
+
+.megappleby-advice {
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+.megappleby-advice h1 {
+    font-family: helvetica, arial, sans-serif;
+    font-size: 75px;
+    letter-spacing: 0.05em;
+    line-height: 30px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.megappleby-advice h1 span {
+  font-size: 30px;
+}
+
+.megappleby-advice h4 {
+  font-family: helvetica, arial, sans-serif;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  margin-bottom: 5px
+}
+
+.megappleby-advice p {
+  margin-top: 0;
+}
+
+.megappleby-advice a {
+    color: #F07131;
+}
+
+.megappleby-advice .button {
+    text-decoration: none;
+    padding: 10px;
+    border: 2px solid;
+    text-transform: uppercase;
+    font-family: helvetica, arial, sans-serif;
+    font-weight: bold;
+    background: #f07131;
+    color: #fff;
+}
+
+.megappleby-advice blockquote {
+    font-size: 18px;
+    font-style: italic;
+    width: 70%;
+    margin: 20px auto;
+    border: 2px solid;
+    padding: 20px;
+}
+
+.megappleby-advice cite {
+  font-style: normal;
+  display: block;
+  margin-top: 5px;
+}
+
+.megappleby-advice .c4op {
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.megappleby-advice .divider {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 20%;
+    border-top-width: 2px;
+    border-style: solid;
+    color: #F07131;
+}
