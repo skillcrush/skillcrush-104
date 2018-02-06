@@ -37,7 +37,7 @@
 .katistewarts-advice a {
 	color:#525297;
 	text-decoration: none;
-	
+
 }
 .katistewarts-advice h1 {
 	color: #101A52;
@@ -9721,3 +9721,31 @@ Text-align: center;
     text-align: center;
 }
 /*End Paul's advice */
+
+/* Leigh's Advice */
+.leighdamico-advice {
+    text-align: center;
+}
+.leighdamico-advice h1 {
+    background: darkblue;
+    color: white;
+    font-size: 40px;
+}
+
+.leighdamico-advice h4 {
+    border: 2px dashed red;
+    background-color: lightblue;
+    padding: 20px;
+    font-size: 30px;
+}
+.leighdamico-advice p {
+    margin: 20px auto;
+    font-size: 20px;
+    text-align: left;
+
+}
+
+.leighdamico-advice footer p {
+    font-size: 10pt;
+}
+/*End Leigh's advice */
