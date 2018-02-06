@@ -1,0 +1,16 @@
+body {
+	background: cyan	
+}
+
+header {
+	background: white;
+}
+
+.advice {
+	background: pink;
+}
+
+footer {
+	background: purple;
+	color: white;
+}

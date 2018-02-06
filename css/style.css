@@ -1,3 +1,76 @@
+/***** AMANDA OTTOSEN ADVICE *****/
+.amandaottosen-advice h1{
+  font-family: 'Bangers', cursive;
+  font-size: 55px;
+  font-weight: bold;
+  text-align: center;
+  color: #456990;
+}
+.amandaottosen-advice h4{
+  font-family: 'Dosis', sans-serif;
+  font-size: 38px;
+  font-weight: bold;
+  color: #d7816a;
+}
+.amandaottosen-advice p{
+  font-family: 'Dosis', sans-serif;
+  font-size: 26px;
+  font-weight: bold;
+  color: #75b9be;
+}
+.amandaottosen-advice footer{
+  background-color: #ee767a;
+}
+.amandaottosen-advice footer p{
+  font-family: 'Dosis', sans-serif;
+  font-weight: normal;
+  color: white;
+}
+
+/********katistewart's STYLE********/
+
+.katistewarts-advice {
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	background-color: antiquewhite;
+}
+
+.katistewarts-advice a {
+	color:#525297;
+	text-decoration: none;
+
+}
+.katistewarts-advice h1 {
+	color: #101A52;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size: 24px;
+	text-align: center;
+}
+
+.katistewarts-advice h4 {
+	color: #101A52;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size: 18px;
+}
+
+.katistewarts-advice p {
+	color:#101A52;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 18px;
+	text-align: left;
+}
+
+.katistewarts-advice footer p {
+	color:#525297;
+	font-size: 12px;
+}
+
+
+
+
+
+/******End of katistewart's STYLE/
+
+
 /****** robopingvin's STYLE********/
 .robopingvin-advice {
   font-family:  'Roboto', sans-serif;
@@ -9552,11 +9625,11 @@ font-family: 'Montserrat', sans-serif;
 
 /* ---Shelby Muntis Styles--- */
 .shelbymuntis-advice {
-background-color: #96b8c4; 
+background-color: #96b8c4;
 }
 
 .shelbymuntis-advice h1 {
-    font-family: Starlight; 
+    font-family: Starlight;
     font-size: 100px;
     color: #1b2027;
     padding-bottom:0em;
@@ -9574,7 +9647,7 @@ background-color: #96b8c4;
     text-align: center;
     text-transform: none;
     font-weight: lighter;
-    line-height: 70%; 
+    line-height: 70%;
 
 }
 
@@ -9586,13 +9659,13 @@ background-color: #96b8c4;
     text-align: left;
     font-weight: lighter;
     padding: 0.5em;
-    letter-spacing: 2px; 
+    letter-spacing: 2px;
 }
 
 .shelbymuntis-advice p {
     font-family: Ledger;
     font-size: 18px;
-    color: #3c537e; 
+    color: #3c537e;
     text-transform: none;
     text-align: left;
     padding: 0.5em;
@@ -9605,3 +9678,74 @@ background-color: #96b8c4;
     padding: 2em;
 }
 
+/***Arooj's Advice****/
+.arooj-advice p {
+Font-family: Helvetica;
+Font-size: 24px;
+Color: purple;
+}
+
+.arooj-advice h4 {
+Font-family: roboto;
+Font-size: 60px;
+Color: green;
+}
+
+.arooj-advice body {
+Text-align: center;
+}
+
+/* Paul's Advice */
+.paul-advice {
+    text-align: center;
+}
+.paul-advice h1 {
+    color: deepskyblue;
+}
+.paul-advice h4 {
+    border-bottom: 1px solid darkgrey;
+    background-color: lightgrey;
+    padding: 10px 0px;
+}
+.paul-advice p {
+    text-align: left;
+    padding-bottom: 1.2em;
+}
+.paul-advice .advice {
+    padding-top: 1.2em;
+}
+.paul-advice footer {
+    background-color: cadetblue;
+}
+.paul-advice footer p {
+    text-align: center;
+}
+/*End Paul's advice */
+
+/* Leigh's Advice */
+.leighdamico-advice {
+    text-align: center;
+}
+.leighdamico-advice h1 {
+    background: darkblue;
+    color: white;
+    font-size: 40px;
+}
+
+.leighdamico-advice h4 {
+    border: 2px dashed red;
+    background-color: lightblue;
+    padding: 20px;
+    font-size: 30px;
+}
+.leighdamico-advice p {
+    margin: 20px auto;
+    font-size: 20px;
+    text-align: left;
+
+}
+
+.leighdamico-advice footer p {
+    font-size: 10pt;
+}
+/*End Leigh's advice */
