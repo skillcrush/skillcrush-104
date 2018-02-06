@@ -1,3 +1,45 @@
+
+/*****MARTIN JARRIN ADVICE*****/
+header {
+background: url('https://avante.biz/wp-content/uploads/Minecraft-shaders-background/Minecraft-shaders-background-020.jpg')no-repeat #800000;
+width: 100% ;
+
+
+}
+
+.martinj-advice h1 {
+font-family: 'Dhurjati', sans-serif;
+font-size: 60px;
+font-weight: bold;
+text-align: center;
+color: #a72a3d;
+}
+
+.martinj-advice h2 {
+font-family: 'Rammetto One', cursive ;
+font-size: 45px;
+font-weight: bolder;
+text-align: left;
+color: #2aa774;
+
+}
+
+.martinj-advice ol {
+font-family: 'Nanum Brush Script', cursive;
+font-size: 25px;
+font-weight: bolder;
+text-align: left;
+color: #ecd200;
+opacity: 0.6;
+filter: alpha(opacity=70);
+background-color:black;
+
+
+
+
+
+}
+
 /***** AMANDA OTTOSEN ADVICE *****/
 .amandaottosen-advice h1{
   font-family: 'Bangers', cursive;
@@ -37,7 +79,7 @@
 .katistewarts-advice a {
 	color:#525297;
 	text-decoration: none;
-	
+
 }
 .katistewarts-advice h1 {
 	color: #101A52;
