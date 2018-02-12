@@ -9749,3 +9749,45 @@ Text-align: center;
     font-size: 10pt;
 }
 /*End Leigh's advice */
+
+/***** Nancy's Advice *****/
+.nancys-advice header a {
+  color: White;
+}
+
+body.nancys-advice {
+  background-image: url('https://i.imgur.com/dIQ5Nim.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Quattrocento Sans', sans-serif;
+  margin: 0 auto;
+}
+
+.nancys-advice section {
+  padding-left: 30px;
+}
+
+.nancys-advice h1,h4 {
+  font-family: 'Quattrocento', serif;
+  text-align: center;
+  font-weight: bolder;
+  color: darkbrown;
+}
+
+.nancys-advice h1 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.nancys-advice h4 {
+  font-size: 20px;
+  padding-bottom: 10px;
+}
+
+.nancys-advice p {
+  font-size: 16px;
+  font-weight: 300;
+  padding-bottom: 20px;
+}
+
+/***** END Nancy's Advice *****/
