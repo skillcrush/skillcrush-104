@@ -9750,6 +9750,45 @@ Text-align: center;
 }
 /*End Leigh's advice */
 
+/* Lindsey R's Advice */
+
+.lindsey_r_advice {
+  background-color: silver;
+}
+
+
+.lindsey_r_advice h1 {
+  color: DarkViolet;
+  font-family: "Verdana", serif;
+  font-size: 26px;
+  text-align: right;
+  text-transform: none;
+  margin-right: 20px;
+  margin-top: 25px;
+}
+
+.lindsey_r_advice p {
+  color: black;
+  font-family: "Helvetica", sans-serif;
+  text-align: right;
+  margin-right: 20px;
+  margin-top: 10px;
+ }
+
+.lindsey_r_advice h4 {
+  color: black;
+  font-family: "Helvetica", sans-serif;
+  font-style: italic;
+  font-size: 18px;
+  text-align: right;
+  margin-bottom: 0px;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+
+.lindsey_r_advice footer {
+  margin-top: 20px;
+ }
 /***** Nancy's Advice *****/
 .nancys-advice header a {
   color: White;
