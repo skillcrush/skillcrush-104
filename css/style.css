@@ -27,6 +27,24 @@
   color: white;
 }
 
+/** Eric L's Stle**/
+
+.ericlahoda-advice h4 {
+  font-family: 'Concert One', cursive;
+  font-size: 36px;
+}
+
+
+.ericlahoda-advice p {
+  font-family: 'Barlow Condensed', sans-serif;
+  color: white;
+  font-size: 24px;
+  background-color: #4074E8
+}
+
+
+
+
 /********katistewart's STYLE********/
 
 .katistewarts-advice {
