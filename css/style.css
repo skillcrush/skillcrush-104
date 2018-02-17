@@ -1,3 +1,44 @@
+/****Marlene's advice*****/
+.marlene-advice h1{
+   font-family:  noto-serif
+   font-size:  48px;
+   font-weight:  bold;
+   color:  white;
+   background-color:  blue;
+   margin:  25px;
+   text-align: center;
+}
+.marlene-advice h2{
+   font-family:  noto-sans;
+   font-size:  36px;
+   font-weight:  bold;
+   color:  blue;
+   margin:  35px;
+}
+.marlene-advice p{
+   font-family:  noto-sans;
+   font-size:  24px;
+   font-weight: regular;
+   color:  black;
+   margin-bottom:  10px;
+   margin-left: 150px;
+   text-align:  left;
+   }
+.marlene-advice footer p{
+   font-family:  noto-sans
+   font-size:  12px;
+   font-weight: regular;
+   color:  black;
+   margin-top:  50px;
+   text-align:  center
+   }
+
+
+
+
+
+
+
 /***** AMANDA OTTOSEN ADVICE *****/
 .amandaottosen-advice h1{
   font-family: 'Bangers', cursive;
