@@ -27,6 +27,36 @@
   color: white;
 }
 
+/** Eric L's Stle**/
+
+.ericlahoda-intro h1 {
+  font-family: 'Concert One';
+  font-size: 44px;
+  text-align: center;
+  text-transform: capitalize;
+  background-color: #FFBA19;
+  margin: 100px 0px 100px 0px;
+}
+.ericlahoda-code {
+  text-decoration: underline;
+  color: #4074E8;
+  font-weight: bold;
+}
+.ericlahoda-advice h4 {
+  font-family: 'Concert One', sans-serif;
+  font-size: 36px;
+  margin-top: 100px;
+}
+
+.ericlahoda-advice p {
+  font-family: 'Barlow Condensed', sans-serif;
+  color: white;
+  font-size: 24px;
+  text-align: left;
+  background-color: #4074E8
+}
+
+
 /********katistewart's STYLE********/
 
 .katistewarts-advice {
