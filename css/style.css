@@ -37,7 +37,7 @@
 .katistewarts-advice a {
 	color:#525297;
 	text-decoration: none;
-	
+
 }
 .katistewarts-advice h1 {
 	color: #101A52;
@@ -9721,3 +9721,10 @@ Text-align: center;
     text-align: center;
 }
 /*End Paul's advice */
+
+/* Nik Latkin advise start */
+.latkins-advice-list ul li {
+  text-align: center;
+}
+
+/*Nik Latkin advice end*/
