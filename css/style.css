@@ -1,3 +1,32 @@
+/***** Nancych Advice ******/
+
+.nancych-advice h1 {
+  color: blue;
+  padding: 40px;
+  border-bottom: 5px solid grey;
+  text-transform: capitalize;
+  text-align: center;
+}
+.nancych-advice h4 {
+  font-size: 24px;
+}
+.nancych-advice p {
+  font-size: 20px;
+  padding-bottom: 30px;
+}
+.nancych-advice html, body {
+  height: 100%;
+}
+.nancych-advice body {
+  display: flex;
+  flex-direction: column;
+}
+.nancych-advice advice {
+  flex: 1 0 auto;
+}
+
+/***** end Nancych Advice *****/
+
 /***** AMANDA OTTOSEN ADVICE *****/
 .amandaottosen-advice h1{
   font-family: 'Bangers', cursive;
@@ -26,6 +55,36 @@
   font-weight: normal;
   color: white;
 }
+
+/** Eric L's Stle**/
+
+.ericlahoda-intro h1 {
+  font-family: 'Concert One';
+  font-size: 44px;
+  text-align: center;
+  text-transform: capitalize;
+  background-color: #FFBA19;
+  margin: 100px 0px 100px 0px;
+}
+.ericlahoda-code {
+  text-decoration: underline;
+  color: #4074E8;
+  font-weight: bold;
+}
+.ericlahoda-advice h4 {
+  font-family: 'Concert One', sans-serif;
+  font-size: 36px;
+  margin-top: 100px;
+}
+
+.ericlahoda-advice p {
+  font-family: 'Barlow Condensed', sans-serif;
+  color: white;
+  font-size: 24px;
+  text-align: left;
+  background-color: #4074E8
+}
+
 
 /********katistewart's STYLE********/
 
@@ -9830,3 +9889,4 @@ body.nancys-advice {
 }
 
 /***** END Nancy's Advice *****/
+
