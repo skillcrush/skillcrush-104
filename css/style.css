@@ -1,3 +1,32 @@
+/***** Nancych Advice ******/
+
+.nancych-advice h1 {
+  color: blue;
+  padding: 40px;
+  border-bottom: 5px solid grey;
+  text-transform: capitalize;
+  text-align: center;
+}
+.nancych-advice h4 {
+  font-size: 24px;
+}
+.nancych-advice p {
+  font-size: 20px;
+  padding-bottom: 30px;
+}
+.nancych-advice html, body {
+  height: 100%;
+}
+.nancych-advice body {
+  display: flex;
+  flex-direction: column;
+}
+.nancych-advice advice {
+  flex: 1 0 auto;
+}
+
+/***** end Nancych Advice *****/
+
 /***** AMANDA OTTOSEN ADVICE *****/
 .amandaottosen-advice h1{
   font-family: 'Bangers', cursive;
@@ -26,6 +55,36 @@
   font-weight: normal;
   color: white;
 }
+
+/** Eric L's Stle**/
+
+.ericlahoda-intro h1 {
+  font-family: 'Concert One';
+  font-size: 44px;
+  text-align: center;
+  text-transform: capitalize;
+  background-color: #FFBA19;
+  margin: 100px 0px 100px 0px;
+}
+.ericlahoda-code {
+  text-decoration: underline;
+  color: #4074E8;
+  font-weight: bold;
+}
+.ericlahoda-advice h4 {
+  font-family: 'Concert One', sans-serif;
+  font-size: 36px;
+  margin-top: 100px;
+}
+
+.ericlahoda-advice p {
+  font-family: 'Barlow Condensed', sans-serif;
+  color: white;
+  font-size: 24px;
+  text-align: left;
+  background-color: #4074E8
+}
+
 
 /********katistewart's STYLE********/
 
@@ -9749,3 +9808,85 @@ Text-align: center;
     font-size: 10pt;
 }
 /*End Leigh's advice */
+
+/* Lindsey R's Advice */
+
+.lindsey_r_advice {
+  background-color: silver;
+}
+
+
+.lindsey_r_advice h1 {
+  color: DarkViolet;
+  font-family: "Verdana", serif;
+  font-size: 26px;
+  text-align: right;
+  text-transform: none;
+  margin-right: 20px;
+  margin-top: 25px;
+}
+
+.lindsey_r_advice p {
+  color: black;
+  font-family: "Helvetica", sans-serif;
+  text-align: right;
+  margin-right: 20px;
+  margin-top: 10px;
+ }
+
+.lindsey_r_advice h4 {
+  color: black;
+  font-family: "Helvetica", sans-serif;
+  font-style: italic;
+  font-size: 18px;
+  text-align: right;
+  margin-bottom: 0px;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+
+.lindsey_r_advice footer {
+  margin-top: 20px;
+ }
+/***** Nancy's Advice *****/
+.nancys-advice header a {
+  color: White;
+}
+
+body.nancys-advice {
+  background-image: url('https://i.imgur.com/dIQ5Nim.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Quattrocento Sans', sans-serif;
+  margin: 0 auto;
+}
+
+.nancys-advice section {
+  padding-left: 30px;
+}
+
+.nancys-advice h1,h4 {
+  font-family: 'Quattrocento', serif;
+  text-align: center;
+  font-weight: bolder;
+  color: darkbrown;
+}
+
+.nancys-advice h1 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.nancys-advice h4 {
+  font-size: 20px;
+  padding-bottom: 10px;
+}
+
+.nancys-advice p {
+  font-size: 16px;
+  font-weight: 300;
+  padding-bottom: 20px;
+}
+
+/***** END Nancy's Advice *****/
+
