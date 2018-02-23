@@ -1,3 +1,12 @@
+/***** Jeannine Advice ******/
+.jeannine-advice h1 {
+  color: pink;
+  font-size: 16px;
+  text-align: center;
+
+}
+
+
 /***** Nancych Advice ******/
 
 .nancych-advice h1 {
@@ -9889,4 +9898,3 @@ body.nancys-advice {
 }
 
 /***** END Nancy's Advice *****/
-
