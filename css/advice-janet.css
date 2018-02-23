@@ -6,16 +6,16 @@
   margin: 50px;
 }
 h1 {
-  font-family: 'Lobster', cursive;
+  font-family: 'Helvetica', sans-serif;
   text-align: center;
 }
 h1 {
   margin-top: 10px;
   font-size: 70px;
-  color: darkorange;
+  color: turquoise;
 }
 h4 {
-  font-family: 'Lobster', cursive;
+  font-family: 'Helvetica', sans-serif;
   font-size: 40px;
 }
 p {
