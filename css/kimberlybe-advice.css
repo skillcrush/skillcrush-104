@@ -1,0 +1,188 @@
+/***** Kimberly B.E.'s Advice - Step 5 "Working With Others In GitHub Skillcrush 105 2.15.18"*****/
+
+/***** Kimberly B.E.'s Advice Header Section *****/
+      kimberlybe-advice-body {
+        font-family: 'Great Vibes', 'Lato', 'Kaushan Script', sans-serif;
+        background: #ffffff;
+
+
+
+      }
+
+/***** Kimberly B.E.'s Advice Intro Section - This area has a dark navy blue background with white writing*****/
+      #advice-kbe-intro {
+        font-family: 'Lado', sans-serif;
+        font-size: 18px;
+        background:linear-gradient(to right,#0c0555, #040123, #120876);
+        color: #ffffff;
+        height:auto;
+        width: auto;
+        margin: 20px 0 20px 0;
+        padding: 2px 10px 2px 10px;
+        border-radius: 10px;
+        border: 3px solid #0889a0;
+        box-shadow: 5px 5px 2px #f63440;
+
+
+
+      }
+
+
+
+
+/***** Kimberly B.E.'s Advice Main Section*****/
+
+      .kimberlybe-advice  {
+        text-align: justify;
+        margin-left: 20px;
+        margin-right: 20px;
+        padding-left: 20px;
+        padding-right: 20px;
+      }
+
+
+      .kimberlybe-advice h1 {
+        font-family: 'Great Vibes', sans-serif;
+        color: #f63440;
+        font-weight: bold;
+        font-size: 42px;
+        text-align: center;
+        text-shadow: 2px 2px 4px #cccccc;
+
+
+      }
+
+      .kimberlybe-advice h4 {
+        font-family: 'Kaushan Script', sans-serif;
+        color:#f63440 ;
+        font-size:22px;
+        font-weight: bold;
+        margin-bottom: 2px;
+
+      }
+
+      kimberlybe-advice-p {
+        font-family: 'Lato', sans-serif;
+        font-size: 20px;
+        color: #1b1a1a;
+
+
+      }
+      .skillcrush {
+        font-family: 'Kaushan Script', sans-serif;
+        font-weight: bold;
+        font-size: 18px;
+        color: #f63440;
+
+      }
+
+      .wd {
+        color: #6c12b7;
+        font-weight: bold;
+
+      }
+
+      .bitbp {
+        font-weight: bold;
+        color: #0c0555;
+        font-size: 18px;
+
+      }
+
+      .small {
+        font-size: 14px;
+        font-weight: bold;
+        color: #0889a0;
+      }
+
+      .big {
+        font-size: 20px;
+        font-weight:bold;
+        text-transform: lowercase;
+        color: #0889a0;
+
+      }
+
+      .pp {
+        color: #6c12b7;
+        font-weight: bold;
+        text-shadow: 2px 2px 4px #cccccc;
+        font-style: italic;
+      }
+
+      .quote {
+        color: #ffffff;
+        background: linear-gradient(to right, #f7444f, #f5737b,#f7444f);
+        border-radius: 10px;
+        font-weight: bold;
+        font-style: italic;
+        font-size: 21px;
+        text-shadow: 2px 1px 4px #6c12b7;
+        margin-left: 50px;
+        padding: 2px 10px 0 10px;
+        border: 2px solid #0889a0;
+      }
+
+      #believe {
+        color: #040123;
+        text-shadow: -1px 0 #cccccc, 0 1px #cccccc, 1px 0 #cccccc, 0 -1px #cccccc;
+      }
+
+      #transcending {
+        color: #f63440;
+        text-shadow: -1px 0 #cccccc, 0 1px #cccccc, 1px 0 #cccccc, 0 -1px #cccccc;
+      }
+
+      #journey {
+        color: #0889a0;
+        text-shadow: -1px 0 #cccccc, 0 1px #cccccc, 1px 0 #cccccc, 0 -1px #cccccc;
+
+      }
+
+
+
+      kimberlybe-advice-ol {
+      display:block;
+      text-align: left;
+
+      }
+
+
+      kimberlybe-advice-li {
+      text-decoration-style: none;
+      color: #f63440;
+      padding-left: 25px;
+
+      }
+
+      kimberlybe-advice-li:before {
+        content:attr();
+        padding-right: 8px;
+        color: #f63440;
+      }
+
+      .share {
+        color: #6c12b7;
+        font-size: 20px;
+        font-weight: bold;
+        text-decoration: underline;
+        text-shadow: 1px #000000;
+        font-style: italic;
+
+      }
+
+/***** Kimberly B.E.'s Advice Footer Section. This background is in the turquoise/teal family with white writing*****/
+      #kimberlybe-advice-footer {
+        background:linear-gradient(to left,#0889a0, #0cbad9, #add4db);
+        font-family: 'Great Vibes', sans-serif;
+        font-size: 20px;
+        color: white;
+        font-weight: bold;
+        text-shadow: 2px 2px 4px #000000;
+        margin: 5px 0 5px 0;
+        padding: 2px 15px 1px 15px;
+        text-align: center;
+        box-shadow: 5px 5px 2px #040123;
+        border-radius: 10px;
+        border: 3px solid #f63440;
+      }
