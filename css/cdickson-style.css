@@ -1,10 +1,9 @@
 /***** Cdickson Advice ******/
 
 .cdickson-advice h1 {
-  color: blue;
+  color: green;
   padding: 40px;
   border-bottom: 5px solid grey;
-  text-transform: capitalize;
   text-align: center;
 }
 .cdickson-advice h4 {
