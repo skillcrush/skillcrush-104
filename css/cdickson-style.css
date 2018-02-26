@@ -1,0 +1,27 @@
+/***** Cdickson Advice ******/
+
+.cdickson-advice h1 {
+  color: green;
+  padding: 40px;
+  border-bottom: 5px solid grey;
+  text-align: center;
+}
+.cdickson-advice h4 {
+  font-size: 24px;
+}
+.cdickson-advice p {
+  font-size: 20px;
+  padding-bottom: 30px;
+}
+.cdickson-advice html, body {
+  height: 100%;
+}
+.cdickson-advice body {
+  display: flex;
+  flex-direction: column;
+}
+.cdickson-advice advice {
+  flex: 1 0 auto;
+}
+
+/***** end Cdickson Advice *****/
