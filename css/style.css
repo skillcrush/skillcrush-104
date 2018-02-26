@@ -36,6 +36,53 @@
 
 /***** end Nancych Advice *****/
 
+/***** CARLOS HERBERT ADVICE *****/
+.herbie-advice h1{
+  font-family: "Open Sans", sans serif;
+  font-size: 48px;
+  font-weight: bold;
+  color: 	#008080;
+}
+
+.herbie-advice p{
+  font-family: "Times New Roman", serif;
+  font-size: 16px;
+  font-weight: 300;
+  color: #3c3c3c;
+}
+/***** END CARLOS ADVICE *****/
+
+/***** SamCandanedo Advice ******/
+
+.samcandanedo-advice h1 {
+  color: pink;
+  padding: 40px;
+  border-bottom: 5px solid grey;
+  text-transform: capitalize;
+  text-align: center;
+  font-size: 50px;
+}
+.samcandanedo-advice h4 {
+  font-size: 24px;
+  color: blue;
+}
+.samcandanedo-advice p {
+  font-size: 20px;
+  padding-bottom: 30px;
+}
+.samcandanedo-advice html, body {
+  height: 100%;
+}
+.samcandanedo-advice body {
+  display: flex;
+  flex-direction: column;
+}
+.samcandanedo-advice {
+  flex: 1 0 auto;
+}
+
+/***** SamCandanedo Advice *****/
+
 /***** AMANDA OTTOSEN ADVICE *****/
 .amandaottosen-advice h1{
   font-family: 'Bangers', cursive;
