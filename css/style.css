@@ -27,6 +27,22 @@
 
 /***** end Nancych Advice *****/
 
+/***** CARLOS HERBERT ADVICE *****/
+.herbie-advice h1{
+  font-family: "Open Sans", sans serif;
+  font-size: 48px;
+  font-weight: bold;
+  color: 	#008080;
+}
+
+.herbie-advice p{
+  font-family: "Times New Roman", serif;
+  font-size: 16px;
+  font-weight: 300;
+  color: #3c3c3c;
+}
+/***** END CARLOS ADVICE *****/
+
 /***** SamCandanedo Advice ******/
 
 .samcandanedo-advice h1 {
