@@ -1,12 +1,12 @@
+/******Bryn's css styles***/
+
 font-family: 'Shadows Into Light', cursive;
 font-family: 'Permanent Marker', cursive;
 
 html{
   width: 100%;
 }
-button {
-  border: 3px, dotted, grey;
-}
+
 span {
   font-family: 'Permanent Marker', cursive;
   font-size: 20px;
@@ -34,7 +34,9 @@ background: linear-gradient(to right, #3CD3AD, #4CB8C4); /* W3C, IE 10+/ Edge, F
    text-align:center;
  }
 
+
 .advice-first{
+  border: 3px groved black:
   line-height: 30px;
   text-align: center;
 
@@ -61,5 +63,6 @@ footer {
   text-decoration: none;
   text-align:center;
   text-shadow: 15%;
+  font-style: oblique;
 
 }
