@@ -1,4 +1,65 @@
 font-family: 'Shadows Into Light', cursive;
-font-family: 'Cardo', serif;
-font-family: 'Boogaloo', cursive;
 font-family: 'Permanent Marker', cursive;
+
+html{
+  width: 100%;
+}
+button {
+  border: 3px, dotted, grey;
+}
+span {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 20px;
+
+}
+
+header {
+  padding-bottom: 40px;
+  font-family: 'Shadows Into Light', cursive;
+  text-align: center;
+  color: #F1F1F1;
+  background: background: #4CB8C4;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #3CD3AD, #4CB8C4);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #3CD3AD, #4CB8C4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+ section {
+    margin: 0;
+  	padding: 2%;
+  	width: 96%;
+   background: teal;
+   color: white;
+   font-family: 'Shadows Into Light', cursive;
+   text-align:center;
+ }
+
+.advice-first{
+  line-height: 30px;
+  text-align: center;
+
+
+}
+.advice-second {
+  line-height: 30px;
+  text-align: center;
+}
+.advice-third {
+  line-height: 30px;
+  text-align: center;
+}
+.magic {
+  font-style: italic;
+  font-weight: bolder;
+  font-size: 25px;
+  background: #FEAC5E;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+footer {
+  text-decoration: none;
+  text-align:center;
+  text-shadow: 15%;
+
+}
