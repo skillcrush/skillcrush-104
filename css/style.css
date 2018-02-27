@@ -1,3 +1,5 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
 /****Marlene's advice*****/
 .marlene-advice h1{
    font-family:  noto-serif
@@ -33,11 +35,90 @@
    text-align:  center
    }
 
+/***** Jeannine Advice ******/
+.jeannine-advice h1 {
+  color: pink;
+  font-size: 16px;
+  text-align: center;
+
+}
 
 
+/***** Nancych Advice ******/
 
+.nancych-advice h1 {
+  color: blue;
+  padding: 40px;
+  border-bottom: 5px solid grey;
+  text-transform: capitalize;
+  text-align: center;
+}
+.nancych-advice h4 {
+  font-size: 24px;
+}
+.nancych-advice p {
+  font-size: 20px;
+  padding-bottom: 30px;
+}
+.nancych-advice html, body {
+  height: 100%;
+}
+.nancych-advice body {
+  display: flex;
+  flex-direction: column;
+}
+.nancych-advice advice {
+  flex: 1 0 auto;
+}
 
+/***** end Nancych Advice *****/
 
+/***** CARLOS HERBERT ADVICE *****/
+.herbie-advice h1{
+  font-family: "Open Sans", sans serif;
+  font-size: 48px;
+  font-weight: bold;
+  color: 	#008080;
+}
+
+.herbie-advice p{
+  font-family: "Times New Roman", serif;
+  font-size: 16px;
+  font-weight: 300;
+  color: #3c3c3c;
+}
+/***** END CARLOS ADVICE *****/
+
+/***** SamCandanedo Advice ******/
+
+.samcandanedo-advice h1 {
+  color: pink;
+  padding: 40px;
+  border-bottom: 5px solid grey;
+  text-transform: capitalize;
+  text-align: center;
+  font-size: 50px;
+}
+.samcandanedo-advice h4 {
+  font-size: 24px;
+  color: blue;
+}
+.samcandanedo-advice p {
+  font-size: 20px;
+  padding-bottom: 30px;
+}
+.samcandanedo-advice html, body {
+  height: 100%;
+}
+.samcandanedo-advice body {
+  display: flex;
+  flex-direction: column;
+}
+.samcandanedo-advice {
+  flex: 1 0 auto;
+}
+
+/***** SamCandanedo Advice *****/
 
 /***** AMANDA OTTOSEN ADVICE *****/
 .amandaottosen-advice h1{
@@ -67,6 +148,36 @@
   font-weight: normal;
   color: white;
 }
+
+/** Eric L's Stle**/
+
+.ericlahoda-intro h1 {
+  font-family: 'Concert One';
+  font-size: 44px;
+  text-align: center;
+  text-transform: capitalize;
+  background-color: #FFBA19;
+  margin: 100px 0px 100px 0px;
+}
+.ericlahoda-code {
+  text-decoration: underline;
+  color: #4074E8;
+  font-weight: bold;
+}
+.ericlahoda-advice h4 {
+  font-family: 'Concert One', sans-serif;
+  font-size: 36px;
+  margin-top: 100px;
+}
+
+.ericlahoda-advice p {
+  font-family: 'Barlow Condensed', sans-serif;
+  color: white;
+  font-size: 24px;
+  text-align: left;
+  background-color: #4074E8
+}
+
 
 /********katistewart's STYLE********/
 
@@ -9791,6 +9902,45 @@ Text-align: center;
 }
 /*End Leigh's advice */
 
+/* Lindsey R's Advice */
+
+.lindsey_r_advice {
+  background-color: silver;
+}
+
+
+.lindsey_r_advice h1 {
+  color: DarkViolet;
+  font-family: "Verdana", serif;
+  font-size: 26px;
+  text-align: right;
+  text-transform: none;
+  margin-right: 20px;
+  margin-top: 25px;
+}
+
+.lindsey_r_advice p {
+  color: black;
+  font-family: "Helvetica", sans-serif;
+  text-align: right;
+  margin-right: 20px;
+  margin-top: 10px;
+ }
+
+.lindsey_r_advice h4 {
+  color: black;
+  font-family: "Helvetica", sans-serif;
+  font-style: italic;
+  font-size: 18px;
+  text-align: right;
+  margin-bottom: 0px;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+
+.lindsey_r_advice footer {
+  margin-top: 20px;
+ }
 /***** Nancy's Advice *****/
 .nancys-advice header a {
   color: White;
