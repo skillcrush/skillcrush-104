@@ -33,14 +33,16 @@ background: linear-gradient(to right, #3CD3AD, #4CB8C4); /* W3C, IE 10+/ Edge, F
    font-family: 'Shadows Into Light', cursive;
    text-align:center;
  }
+p {
+  border-style:dotted;
+  background-color: grey;
+  border-radius: 25%;
 
+}
 
 .advice-first{
-  border: 3px groved black:
   line-height: 30px;
   text-align: center;
-
-
 }
 .advice-second {
   line-height: 30px;
@@ -51,6 +53,7 @@ background: linear-gradient(to right, #3CD3AD, #4CB8C4); /* W3C, IE 10+/ Edge, F
   text-align: center;
 }
 .magic {
+  width: 100%;
   font-style: italic;
   font-weight: bolder;
   font-size: 25px;
@@ -60,9 +63,13 @@ background: linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E); /* W3C, IE 10+
 
 }
 footer {
+  background: teal;
   text-decoration: none;
   text-align:center;
   text-shadow: 15%;
   font-style: oblique;
 
+}
+footer.p {
+  border-style: none;
 }
