@@ -1,0 +1,16 @@
+body {
+  background: purple;
+}
+
+h1 {
+	color: green;
+	border: 2px #ebebeb;
+}
+li {
+  color: red;
+}
+
+h4 {
+  background: yellow;
+  color: blue;
+}
