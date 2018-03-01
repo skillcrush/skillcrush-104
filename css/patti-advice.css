@@ -17,7 +17,8 @@ body.pattig-advice {
 	text-decoration:none;
 	border-radius:3px;
 	float:right;
-	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif ;
+	text-transform: uppercase;
 	}
 .pattig-advice h1 {
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif ;
@@ -38,7 +39,7 @@ body.pattig-advice {
     font-weight:400;
     letter-spacing:0.02em;
     margin:0 0 20px;
-	color: #3a3c4;
+	color: #F5DBEF;
 	font-size: 32px;
 	text-align:left;
 	padding-top: 20px;
