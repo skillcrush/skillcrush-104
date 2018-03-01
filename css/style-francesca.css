@@ -1,7 +1,7 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
 /****Marlene's advice*****/
-.marlene-advice h1{
+.advice-francesca h1{
    font-family:  noto-serif
    font-size:  48px;
    font-weight:  bold;
@@ -10,14 +10,14 @@
    margin:  25px;
    text-align: center;
 }
-.marlene-advice h2{
+.advice-francesca h2{
    font-family:  noto-sans;
    font-size:  36px;
    font-weight:  bold;
    color:  blue;
    margin:  35px;
 }
-.marlene-advice p{
+.advice-francesca p{
    font-family:  noto-sans;
    font-size:  24px;
    font-weight: regular;
@@ -26,7 +26,7 @@
    margin-left: 150px;
    text-align:  left;
    }
-.marlene-advice footer p{
+.advice-francesca footer p{
    font-family:  noto-sans
    font-size:  12px;
    font-weight: regular;
@@ -36,7 +36,7 @@
    }
 
 /***** Jeannine Advice ******/
-.jeannine-advice h1 {
+.advice-francesca h1 {
   color: pink;
   font-size: 16px;
   text-align: center;
@@ -46,28 +46,28 @@
 
 /***** Nancych Advice ******/
 
-.nancych-advice h1 {
+.advice-francesca h1 {
   color: blue;
   padding: 40px;
   border-bottom: 5px solid grey;
   text-transform: capitalize;
   text-align: center;
 }
-.nancych-advice h4 {
+.advice-francesca h4 {
   font-size: 24px;
 }
-.nancych-advice p {
+.advice-francesca p {
   font-size: 20px;
   padding-bottom: 30px;
 }
-.nancych-advice html, body {
+.advice-francesca html, body {
   height: 100%;
 }
-.nancych-advice body {
+.advice-francesca body {
   display: flex;
   flex-direction: column;
 }
-.nancych-advice advice {
+.advice-francesca advice {
   flex: 1 0 auto;
 }
 
