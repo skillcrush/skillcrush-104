@@ -1,3 +1,49 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/****Marlene's advice*****/
+.marlene-advice h1{
+   font-family:  noto-serif
+   font-size:  48px;
+   font-weight:  bold;
+   color:  white;
+   background-color:  blue;
+   margin:  25px;
+   text-align: center;
+}
+.marlene-advice h2{
+   font-family:  noto-sans;
+   font-size:  36px;
+   font-weight:  bold;
+   color:  blue;
+   margin:  35px;
+}
+.marlene-advice p{
+   font-family:  noto-sans;
+   font-size:  24px;
+   font-weight: regular;
+   color:  black;
+   margin-bottom:  10px;
+   margin-left: 150px;
+   text-align:  left;
+   }
+.marlene-advice footer p{
+   font-family:  noto-sans
+   font-size:  12px;
+   font-weight: regular;
+   color:  black;
+   margin-top:  50px;
+   text-align:  center
+   }
+
+/***** Jeannine Advice ******/
+.jeannine-advice h1 {
+  color: pink;
+  font-size: 16px;
+  text-align: center;
+
+}
+
+
 /***** Nancych Advice ******/
 
 .nancych-advice h1 {
@@ -26,6 +72,53 @@
 }
 
 /***** end Nancych Advice *****/
+
+/***** CARLOS HERBERT ADVICE *****/
+.herbie-advice h1{
+  font-family: "Open Sans", sans serif;
+  font-size: 48px;
+  font-weight: bold;
+  color: 	#008080;
+}
+
+.herbie-advice p{
+  font-family: "Times New Roman", serif;
+  font-size: 16px;
+  font-weight: 300;
+  color: #3c3c3c;
+}
+/***** END CARLOS ADVICE *****/
+
+/***** SamCandanedo Advice ******/
+
+.samcandanedo-advice h1 {
+  color: pink;
+  padding: 40px;
+  border-bottom: 5px solid grey;
+  text-transform: capitalize;
+  text-align: center;
+  font-size: 50px;
+}
+.samcandanedo-advice h4 {
+  font-size: 24px;
+  color: blue;
+}
+.samcandanedo-advice p {
+  font-size: 20px;
+  padding-bottom: 30px;
+}
+.samcandanedo-advice html, body {
+  height: 100%;
+}
+.samcandanedo-advice body {
+  display: flex;
+  flex-direction: column;
+}
+.samcandanedo-advice {
+  flex: 1 0 auto;
+}
+
+/***** SamCandanedo Advice *****/
 
 /***** AMANDA OTTOSEN ADVICE *****/
 .amandaottosen-advice h1{
@@ -9889,4 +9982,3 @@ body.nancys-advice {
 }
 
 /***** END Nancy's Advice *****/
-
