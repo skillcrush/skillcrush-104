@@ -1,0 +1,37 @@
+/***** Francesca CSS style *****/
+
+body .francesca-advice {
+  color: #2874A6;
+	background-color: #fff;
+	margin:0 auto;
+	width:800px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+a:link{
+	color: #ADD8E6;
+}
+
+a:visited {
+	color: #2874A6;
+}
+
+
+.francesca-advice h1 {
+	font-size: 35px;
+  color: #922B21;
+  text-transform: capitalize;
+  text-decoration: underline;
+  text-align: center;
+}
+
+.francesca-advice h4 {
+	font-size: 20px;
+  text-transform: uppercase;
+  color: #D35400;
+}
+
+.francesca-advice p{
+	font-size: 20px;
+	padding: 0px 0px 0px 0px;
+}
