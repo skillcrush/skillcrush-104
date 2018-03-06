@@ -1,0 +1,32 @@
+/****** Gigis Advice ******/
+
+.gigi-advice h1 {
+  color: #FFB2E4;
+  font-size: 30px;
+  font-family: 'Pacifico', cursive;
+  border-bottom: 1px dotted black;
+  text-align: center;
+  text-transform: none;
+  padding-bottom: 20px;
+}
+
+.advice h4 {
+  font-family:'Lora';
+  font-weight: 700;
+  font-size: 18px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+.advice p {
+  font-family: 'Lora';
+  font-weight: 200;
+  padding-bottom: 10px;
+  font-size: 15px;
+  text-align: center;
+}
+.gigi-advice {
+  background: #D4FCFF;
+}
+.gigi-advice footer {
+  text-align: center;
+}
