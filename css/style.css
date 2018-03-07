@@ -35,6 +35,15 @@
    text-align:  center
    }
 
+/****Traci's advice*****/
+.traci-advice h1 {
+font-family: sans-serif;
+font-size: 30px;
+font-weight: bold;
+color: pink;
+text-align: center;
+}
+
 /***** Jeannine Advice ******/
 .jeannine-advice h1 {
   color: pink;
