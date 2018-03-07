@@ -1,0 +1,18 @@
+/***** Renee's Style ****/
+.renee-advice h1{
+  text-align: center;
+  color: coral;
+  font-family: cursive;
+  font-size: 32px;
+}
+
+.renee-advice h4{
+  color: teal;
+  font-family: Arial;
+  font-size: 24px;
+}
+
+.renee-advice p{
+  font-size: 18px;
+  line-height: 25px;
+}
