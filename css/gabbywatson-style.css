@@ -1,0 +1,25 @@
+.gabbywatson-advice {
+    text-align: center;
+    background: light-grey;
+}
+
+.gabbywatson-advice h1 {
+    color: #363d23;
+    text-transform: uppercase;
+    font-family: 'Cormorant Garamond';
+}
+
+.gabbywatson-advice h4 {
+    color:  #363d23;
+    font-family: 'Raleway';
+    font-size: 24px;
+    padding: 5px;
+    font-variant: small-caps;
+}
+
+.gabbywatson-advice p {
+    color:  #252525;
+    font-family: 'Cormorant Garamond';
+    font-size: 18px;
+    padding: 5px;
+}
