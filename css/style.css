@@ -1,5 +1,23 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/****Mau's advice*****/
+.mau-advice h1{
+  font-size: 25px;
+  font-family: candara;
+  text-transform: lowercase;
+}
+
+.bold{
+  color: black;
+  text-decoration: underline;: 
+}
+
+
+.change{
+  text-transform: capitalize;
+}
+
+
 /****Marlene's advice*****/
 .marlene-advice h1{
    font-family:  noto-serif
