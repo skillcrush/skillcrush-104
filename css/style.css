@@ -9991,3 +9991,23 @@ body.nancys-advice {
 }
 
 /***** END Nancy's Advice *****/
+
+/***** ZACH DUNLAP'S ADVICE *****/
+.zachdunlap-advice p{
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: normal;
+}
+
+.zachdunlap-advice span {
+  font-weight: bolder;
+  color: red;
+}
+
+.zachdunlap-advice h2 {
+  color: #000000;
+}
+
+.zachdunlap-advice h1 {
+  text-align: center;
+  font-family: 'Source Sans Pro', sans-serif;
+}
