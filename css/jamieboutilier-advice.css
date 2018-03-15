@@ -1,0 +1,24 @@
+
+
+body {
+background: #E3999B;
+font-family: 'Aclonica', sans-serif;
+}
+
+body h1 {
+  font-family: 'Rammetto One', cursive;
+  text-align: center;
+}
+
+.advice h4 {
+  font-family: 'Rammetto One', cursive;
+  font-size: 25px;
+  color: #308573;
+}
+
+
+span {
+  font-family: 'Rammetto One', cursive;
+  color: #308573;
+  font-style: italic;
+}
