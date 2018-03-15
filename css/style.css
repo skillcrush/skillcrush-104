@@ -1764,6 +1764,14 @@ body.troypratt-advice footer {
 }
 /* -- End Jvillars's Styles */
 
+/* DWs Styles*/
+
+.dw-advice {
+    font-color: darkgreen;
+    font-family: sans-serif;
+    background-color: antiquewhite;
+}
+
 /** Debra's Styles **/
 .debra-advice {
     width: 100%;
