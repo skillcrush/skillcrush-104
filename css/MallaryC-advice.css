@@ -1,0 +1,59 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/****Mallary's advice*****/
+
+.MallaryC-advice{
+  background-color: #98FB98;
+}
+
+.advice {
+  background-color: #B0E0E6;
+  margin: 55px;
+  padding-bottom: 25px;
+  padding-top: 2px;
+}
+
+h1 {
+  font-family: 'Rock Salt', cursive;
+  margin-left: 25px;
+}
+
+h4 {
+  font-family: 'Pacifico', cursive;
+
+}
+
+p{
+  font-family: 'Sue Ellen Francisco', cursive;
+  font-size: 25px;
+  font-weight: bold;
+  margin-left: 55px;
+  margin-top: 10px;
+  margin-right: 55px;
+  margin-bottom: 15px;
+}
+
+span {
+  font-family: 'Love Ya Like A Sister', cursive;
+  font-size: 25px;
+  font-weight: bold;
+  color: #FF4500;
+}
+
+#first {
+  margin-left: 725px;
+  margin-right: 25px;
+  font-size: 35px;
+}
+
+#second {
+  margin-left: 425px;
+  margin-right: 25px;
+  font-size: 35px;
+}
+
+#one {
+  margin-left: 75px;
+    font-family: 'Rock Salt', cursive;
+    color: #000000
+}
