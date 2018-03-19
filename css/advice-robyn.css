@@ -1,0 +1,23 @@
+
+/** ROBYN'S STYLES **/
+
+header, img {
+    min-width: 100%;
+}
+
+h1 {
+		color: aqua;
+		font-family: Valairya;
+		font-size: 70px;
+	}
+
+h4 {
+		color: blue;
+  	font-family: Georgia;
+		margin-left: 100px;
+	}
+
+p {
+		color: black;
+    font-family: Clemente;
+	}
