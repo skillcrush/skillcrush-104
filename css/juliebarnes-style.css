@@ -1,0 +1,34 @@
+/****Julie Barnes Advice Style*****/
+
+.juliebarnes-advice h1 {
+  color: deeppink;
+  padding: 40px;
+  border-bottom: 10px solid black;
+  text-transform: capitalize;
+  text-align: center;
+  font-size: 50px;
+}
+.juliebarnes-advice h3 {
+  font-size: 28px;
+  color: black;
+  text-transform: capitalize;
+  text-align: center;
+}
+.juliebarnes-advice h4 {
+  font-size: 24px;
+  color: mediumpurple;
+}
+.juliebarnes-advice p {
+  font-size: 20px;
+  padding-bottom: 30px;
+}
+.juliebarnes-advice html, body {
+  height: 100%;
+}
+.juliebarnes-advice body {
+  display: flex;
+  flex-direction: column;
+}
+.juliebarnes-advice {
+  flex: 1 0 auto;
+}
