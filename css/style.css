@@ -9982,3 +9982,22 @@ body.nancys-advice {
 }
 
 /***** END Nancy's Advice *****/
+
+/***** Sue Sue's Advice *****/
+.advice-suesue h1{
+  font-family: 'Source Sans Pro', serif;
+  text-align: center;
+  font-color: skyblue;
+  font-size: 20px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.advice-suesue p{
+  font-family: 'Source Sans Pro' serif;
+  text-align: center;
+  font-color: navy;
+  font-size: 18px;
+  font-weight: lighter;
+}
+
+/***** END Sue Sue's Advice *****/
