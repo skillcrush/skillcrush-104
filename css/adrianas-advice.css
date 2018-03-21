@@ -1,0 +1,19 @@
+.adrianas-advice{
+  background-image: url("../img/adrianas-background.jpg");
+  width: 1200px;
+  margin: auto;
+  }
+
+h1{
+  padding-top: 40px;
+  padding-bottom: 30px;
+  font-size: 30px;
+}
+
+h4{
+  font-size: 18px;
+}
+
+p{
+  font: 15px;
+}
