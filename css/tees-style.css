@@ -1,34 +1,67 @@
-.tees-sage-advice {
-	width: 100%;
-	background-color: azure;
-}
+/** Add a comment at the beginning of your CSS styles with your name**/
 
-a {
-	text-decoration: none;
-	color: teal;
-	font-family: fantasy;
-}
-
+/****Tee's advice*****/
 h1 {
-	font-size: 3em;
-	color: aquamarine;
-	font-family: fantasy;
-	text-transform: uppercase;
-	text-align: center;
-	padding: 0 10%;
+   font-family: 'Frijole', cursive;
+   font-size:  48px;
+   font-weight:  bold;
+   color:  #800040;
+   margin:  25px;
+   text-align: center;
+ }
+
+h2 {
+   font-family: 'Frijole', cursive;
+   font-size:  30px;
+   font-weight: normal;
+   color:  #33001a;
+   text-align: center;
+   margin:  15px;
 }
 
 h4 {
-	font-size: 2em;
-	font-family: 'Helvetica', sans-serif;
-	color: aqua;
-	text-align: center;
+  font-family: 'Frijole', regular;
+  font-size: 20px;
+  font-weight: normal;
+  text-align: center;
 }
 
+.tees-advice {
+  width: 1200px;
+}
+
+.advice-one,
+.advice-two,
+.advice-three {
+    float: left;
+    width: 400px;
+    height: auto;
+}
 
 p {
-	font-size: 1.5em;
-	font-family: serif;
-	color: darkblue;
-	padding: 0 10%;
+   font-family: 'Marvel', sans-serif;
+   font-size:  24px;
+   font-weight: normal;
+   color:  black;
+   padding: 0 20px;
+   line-height: 30px;
+   text-align: center;
+ }
+
+footer p {
+   font-family: 'Marvel', sans-serif;
+   font-size:  12px;
+   font-weight: normal;
+   color:  black;
+   margin-top:  50px;
+   text-align:  center;
+   clear: both;
 }
+
+.emphasis {
+  font-style: italic;
+  font-weight: bolder;
+  color:  #800040;
+  text-decoration: underline;
+}
+
