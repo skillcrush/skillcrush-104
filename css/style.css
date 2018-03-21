@@ -35,6 +35,15 @@
    text-align:  center
    }
 
+/****Traci's advice*****/
+.traci-advice h1 {
+font-family: sans-serif;
+font-size: 30px;
+font-weight: bold;
+color: pink;
+text-align: center;
+}
+
 /***** Jeannine Advice ******/
 .jeannine-advice h1 {
   color: pink;
@@ -1754,6 +1763,14 @@ body.troypratt-advice footer {
     font-style: italic;
 }
 /* -- End Jvillars's Styles */
+
+/* DWs Styles*/
+
+.dw-advice {
+    font-color: darkgreen;
+    font-family: sans-serif;
+    background-color: antiquewhite;
+}
 
 /** Debra's Styles **/
 .debra-advice {
@@ -10001,3 +10018,23 @@ body.nancys-advice {
 }
 
 /***** END Sue Sue's Advice *****/
+
+/***** ZACH DUNLAP'S ADVICE *****/
+.zachdunlap-advice p{
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: normal;
+}
+
+.zachdunlap-advice span {
+  font-weight: bolder;
+  color: red;
+}
+
+.zachdunlap-advice h2 {
+  color: #000000;
+}
+
+.zachdunlap-advice h1 {
+  text-align: center;
+  font-family: 'Source Sans Pro', sans-serif;
+}

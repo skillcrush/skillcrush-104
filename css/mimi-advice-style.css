@@ -1,0 +1,20 @@
+.mimi-advice {
+  background-color: lightgrey;
+}
+h1, h4 {
+  color: steelblue;
+  text-align: center;
+}
+h4 {
+  font-size: 20px;
+}
+.advice {
+  border: 1px solid black;
+  padding: 0 100px;
+}
+span {
+  font-weight: bold;
+}
+footer {
+  padding-left: 600px;
+}
