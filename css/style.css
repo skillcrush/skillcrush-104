@@ -5727,3 +5727,20 @@ Jess Wentworth Styles
 }
 
 /*End of Ace's styles*/
+
+/*Regina's styles*/
+
+.regina-advice h1{
+    background: white;
+    color:deeppink;
+}
+.regina-advice h4{
+    color: deeppink;
+    background: white;
+}
+.regina-advice p{
+    background: white;
+}
+.regina-advice body{
+    background: white;
+}
