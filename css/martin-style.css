@@ -1,0 +1,17 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/*---------- Martin's Styles ----------*/
+.martin-slack-advice h4 {
+  color: DarkSlateGrey;
+  font-family: Garamond, sans-serif;
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+.martin-slack-advice p {
+  color: #bababa;
+  font-family: Trebuchet, sans-serif;
+}
+.martin-slack-advice footer {
+background-color: purple;
+}
+/*---------- End of Martin's Styles ----------*/

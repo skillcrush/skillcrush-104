@@ -1,0 +1,48 @@
+/***** Kessiah's Advice Styles *****/
+body {
+	background: #ffe7db;
+	background-size: cover;
+	text-align: center;
+	font-family: 'Questrial', sans-serif;
+	color: #08575e;
+	margin: 100px;
+}
+
+h1 {
+	font-family: 'Overlock', sans-serif;
+	font-size: 90px;
+	font-weight: 900;
+	line-height: 100px;
+	font-style: italic;
+	margin-bottom: 10px;
+}
+
+h2 {
+	font-family: 'Questrial', sans-serif;
+	font-size: 30px;
+	font-weight: 900;
+	line-height: 50px;
+}
+
+h4 {
+	font-family: 'Overlock', sans-serif;
+	font-size: 30px;
+	line-height: 40px;
+	font-style: italic;
+	margin-bottom: 20px;
+}
+
+p {
+	text-align: left;
+	font-size: 18px;
+	color: black;
+	line-height: 28px;
+}
+
+footer p {
+	text-align: center;
+	font-size: 14px;
+	font-weight: 900;
+}
+
+/***** END KESSIAH'S STYLES *****/

@@ -1,0 +1,129 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/** Shannon Styles **/
+
+
+html,
+html * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Lora, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
+.advice-shannon header {
+    padding: 20px;
+    text-align: center;
+    color: #493267;
+    font-size: 25px;
+    font-weight: 200;
+
+}
+
+
+.advice-shannon {
+    margin-left: auto;
+    margin-right: auto;
+    background: #e6f4f8;
+    padding: 20px;
+    text-align: center;
+
+}
+
+.advice-shannon footer {
+    background-color: #96a9a6;
+    text-align: left;
+    padding: 20px 0 0 0;
+}
+
+
+.advice-shannon h4 {
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.advice-shannon p {
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 50px;
+}
+
+
+.info-box1, .info-box2 {
+    color: #FFFFFF;
+    padding: 20px;
+}
+
+.info-box1 {
+    background-color: #b9a88e;
+
+}
+
+.info-box2 {
+    background-color: #2D2D35;
+
+}
+
+.col {
+    width: 100%;
+}
+
+.row:before, .row:after {
+    content: "";
+    display: table;
+}
+
+.row:after {
+    clear: both;
+}
+
+/*Tablet View*/
+
+@media (min-width: 768px){
+
+    .advice-shannon {
+        max-width: 778px;
+    }
+
+
+    .advice-shannon h1 {
+        font-size: 35px;
+    }
+
+
+    .col-md-one-half {
+        width: 50%;
+        text-align: left;
+    }
+
+    .col {
+        float: left;
+        padding: 10px;
+    }
+
+    .info-box1, .info-box2 {
+        max-height: 500px;
+    }
+
+}
+
+/*Desktop View*/
+
+@media (min-width: 1024px){
+
+    .advice-shannon {
+        max-width: 1200px;
+    }
+
+    .advice-shannon h1 {
+        font-size: 40px;
+        margin-bottom: 20px;
+    }
+
+    .info-box1, .info-box2 {
+        max-height: 390px;
+    }
+
+}

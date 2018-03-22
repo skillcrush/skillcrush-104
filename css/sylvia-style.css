@@ -1,0 +1,27 @@
+.sylvia-advice {
+    background-color: #FFFCCC;
+    text-align: center;
+}
+
+.sylvia-advice a {
+    text-decoration: none;
+    color: #AECC8F;
+}
+
+.sylvia-advice h1 {
+  color: #990000;
+}
+.sylvia-advice h4 {
+   color: #ff1a1a;
+ }
+
+.sylvia-advice h1, h4 {
+    font-family: 'Chelsea Market', cursive;
+}
+
+.sylvia-advice p {
+    font-family: 'Lato', sans-serif;
+    color: #595959;
+    padding-left: 5%;
+	  padding-right: 5%;
+}

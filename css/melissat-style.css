@@ -1,0 +1,125 @@
+html {
+	width: 100%;
+}
+
+.melissataddonio-advice {
+	background: #F76163;
+  font-family: 'Lato', sans-serif;
+	font-size: 16px;
+  color: #111111;
+	margin: 0;
+	padding: 2%;
+	width: 96%;
+}
+
+header {
+	margin: 0 auto;
+	position: relative;
+	width: 96%;
+}
+
+h1,
+.important {
+  font-family: 'Bungee', cursive;
+	font-size: 2.25em;
+  line-height: 1.75em;
+  color: #800040;
+	margin-bottom: 0;
+}
+
+h2 {
+	font-size: 1.25em;
+}
+
+.advice {
+	margin: 0 auto;
+	width: 96%;
+}
+
+.tip {
+	background: #fffff8;
+	border-radius: 50px 50px 50px 50px;
+	margin: 20px auto;
+	padding: 5% 8%;
+	width: 84%;
+  line-height: 1.65em;
+}
+
+.top-tip {
+	position: relative;
+	z-index: 2;
+  border-radius: 5px 50px 5px 50px;
+}
+
+
+.bottom-tip {
+	padding-bottom: 5%;
+  border-radius: 50px 5px 50px 5px;
+}
+
+.bottom-tip .important {
+
+	margin-bottom: 0;
+	padding-bottom: 0;
+	text-align: center;
+}
+
+
+
+a {
+	background: rgba(255,255,255,0.5);
+	border-radius: 5px;
+	color: #000;
+	display: block;
+	margin: 60px auto 0;
+	padding: 15px;
+	text-decoration: none;
+}
+
+a:hover {
+	background: rgba(255,255,255,1);
+}
+
+footer {
+	color: #fffff8;
+	font-size: .8em;
+	text-align: center;
+	margin-top: 60px;
+	width: 100%;
+}
+
+footer a {
+	font-size: 1rem;
+	margin: 80px auto;
+	max-width: 50%;
+}
+
+
+/* TABLET STYLES */
+
+@media all and (min-width: 768px) {
+
+	.tip {
+		margin: 20px auto;
+		padding: 3% 4%;
+		width: 75%;
+	}
+
+
+	footer {
+		clear: both;
+		padding-top: 50px;
+	}
+}
+
+
+/* DESKTOP STYLES */
+
+@media all and (min-width: 1024px) {
+
+  .tip {
+    margin: 20px auto;
+    padding: 3% 4%;
+    width: 65%;
+  }
+}

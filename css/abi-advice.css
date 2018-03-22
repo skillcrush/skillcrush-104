@@ -1,0 +1,62 @@
+@@font-face {
+  font-family: 'Roboto', sans-serif;
+font-family: 'Barlow Semi Condensed', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Open Sans Condensed', sans-serif;
+font-family: 'Anton', sans-serif;
+}
+
+body {
+  background-color: #fdfdfd;
+}
+
+footer {
+  clear: both;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Anton';
+  font-size: 24pt;
+  color: #2f2f2f;
+  text-align: center;
+}
+
+h4 {
+  font-family: 'Open Sans Condensed';
+  font-size: 20pt;
+  color: navy;
+  text-align: center;
+  border-bottom: thin solid grey;
+}
+
+p {
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+}
+
+.advice {
+  width: 95%;
+  background-color: inherit;
+}
+
+#no-idea {
+  font-family: 'Roboto';
+
+}
+
+#one-day {
+  font-family: 'Barlow Semi Condensed';
+
+}
+
+#google {
+  font-family: 'Montserrat';
+}
+
+#touch-type {
+  font-family: 'Raleway'
+}

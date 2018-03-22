@@ -1,0 +1,23 @@
+section {
+	width: 800px;
+	margin: 100px auto;
+}
+section h1,
+section p {
+	text-align: left;
+	font: 600 16px 'Open Sans', sans-serif;
+	color: #000000;
+}
+section h1 {
+	font: 32px 'Open Sans';
+	font-weight: bold;
+}
+section p {
+	font: 16px 'Open Sans';
+	color: #000000;
+}
+
+section h4 {
+	font: 600 16px 'Open Sans', sans-serif;
+	color: #000000;
+}

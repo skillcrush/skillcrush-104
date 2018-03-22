@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="../css/style.css">
+
+	<!-- replace Skillcrush with your name here -->
+	<title>Jazz's Advice For Newbies</title>
+</head>
+
+<!-- replace skillcrush with your name here -->
+<body class="jazz-advice">
+	<header>
+		<a href="../index.html">Back to Main Page</a>
+		<h1>Hi my name is Jazz and I have some advice for you!</h1>
+	</header>
+
+	<section>
+		<div class="jazz-advice">
+			<h4>Patience</h4>
+
+				<p>Don't give up, I haven't gotten through this far and been super frustrated. Just keep going.</p>
+
+			<h4>Do it right, take your time.</h4>
+
+				<p>Pretty self-explanitory. If you get so frustrated you just skip a step or say "I'll learn it later" or "It doesn't look that hard" or whatever, you're only hurting yourself. Do it until you can do it right.</p>
+
+		</div>
+    </section>
+
+	<footer>
+		<!-- replace Skillcrush with your name here -->
+    <p>&copy; Copyright Jazz 2017.</p>
+	</footer>
+</body>
+</html>

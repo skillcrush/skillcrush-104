@@ -1,0 +1,43 @@
+/** Ashley's Styles Start **/
+html {
+  width: 100%;
+}
+.smashkap-advice {
+    background-color: #eaf7fb;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #0a2832;
+}
+
+.full-width {
+  font-family: 'Oranienbaum', serif;
+  font-size: 24px;
+  text-align: center;
+}
+
+.advice {
+  font-size: 18px;
+  text-align: center;
+  padding: 8px;
+  color: #857a95;
+}
+
+h4 {
+  font-family: 'Oranienbaum', serif;
+  font-size: 20px;
+  color: #1c6b87;
+}
+
+footer {
+  width: 100%;
+  clear: both;
+  text-align: center;
+  color: #196079;
+}
+
+/** Ashley's Styles End **/

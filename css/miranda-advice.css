@@ -1,0 +1,58 @@
+body {
+    max-width: 500px;
+    margin: 40px auto;
+}
+
+a {
+    font-family: 'Lato', sans-serif;
+    text-decoration: none;
+    color: #101010;
+}
+
+a:hover {
+    color: orange;
+}
+
+h1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 600;
+    text-align: center;
+    max-width: 400px;
+    margin: 70px auto 50px auto;
+    color: orchid;
+}
+
+h4 {
+    font-family: 'Lato', sans-serif;
+    text-align: left;
+    font-size: 1.3em;
+    font-weight: 400;
+    text-transform: uppercase;
+    padding: 20px 0 0 20px;
+}
+
+span {
+    font-family: 'Lato', sans-serif;
+    text-align: left;
+    font-size: 1.5em;
+    font-weight: 700;
+    padding-right: 10px;
+}
+
+.content {
+    background: turquoise;
+    padding: 20px 40px;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+    color: #FFF;
+    font-size: 1.1em;
+    line-height: 1.5em;
+}
+
+footer p {
+    color: #8C8085;
+    font-size: 1em;
+    margin-top: 30px;
+}

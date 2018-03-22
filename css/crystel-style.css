@@ -1,0 +1,27 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+/** Crystel's Styles **/
+.crystelcabrera-advice {
+	background-color: lightblue;
+  margin-left:20px;
+  margin-right: 20px;
+  font-family: sans-serif;
+}
+
+.crystelcabrera-advice h4 {
+	color: purple;
+  font-family:sans-serif;
+	background-color: none;
+}
+header h1{
+	color: purple;
+}
+.advice p{
+	color: #4d4d4d;
+}
+
+footer {
+	background-color: purple;
+	color: white;
+  font-size: 12px;
+}
+/** end Crystel's Styles **/

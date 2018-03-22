@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link href="https://fonts.googleapis.com/css?family=Amiri|Poppins" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="../css/style.css">
+
+	<!-- replace Skillcrush with your name here -->
+	<title>Joanne's Advice For Newbies</title>
+</head>
+
+<!-- replace skillcrush with your name here -->
+<body class="joanapereira-advice">
+	<header>
+		<a href="../index.html">Back to Main Page</a>
+		<h1>Hi I am Joana</h1>
+		<h2>I have some advice for you!</h2>
+	</header>
+
+	<section>
+		<div class="advice">
+			<h4>Failure will come to you countless times during this course</h4>
+			<p>It is unavoidable.</p>
+				
+		</div>
+    </section>
+
+	<footer>
+		<!-- replace Skillcrush with your name here -->
+    <p>&copy; Copyright Joana Pereira 2017.</p>
+	</footer>
+</body>
+</html>

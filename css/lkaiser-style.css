@@ -1,0 +1,58 @@
+body {
+	/*background: url("http://i1308.photobucket.com/albums/s602/lysautumn/photo-1442595481287-848a497a678a_zpsccl3xfal.jpg") repeat fixed center center / cover;*/
+	width: 100%;
+	background: #8aa9db;
+}
+
+.advice {
+	background-color: #000; /*rgba(204, 204, 217, 0.5);*/
+	padding: 20px;
+	margin:80px;
+	border-radius:20px;
+}
+
+h1 {
+	color: #000;
+	font-family: El Messiri;
+	font-size: 40px;
+	margin-top: 10px;
+	padding-top:30px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+h1 span {
+	color:#fff;
+}
+
+h2 {
+	font-family: El Messiri;
+	border-bottom:3px solid #fff;
+	text-transform:uppercase;
+	color:#fff;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  width:100%;
+  padding-top: 10px ;
+  text-align:justify;
+  color:#fff;
+}
+
+p span {
+	color:red;
+	font-weight:bold;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  padding:10px;
+}
+
+a:hover {
+  font-weight: 900;
+  border-radius:10px;
+  background-color:#fff;
+}

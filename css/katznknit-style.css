@@ -1,0 +1,32 @@
+
+/** Katznknit advice styling **/
+
+body {
+	background-color: #cccccc;
+}
+
+.katznknit-advice h1 {
+	color: #404040;
+	font-family: 'Lato', sans-serif;
+	font-size: 46px;
+	font-weight: normal;
+}
+
+.katznknit-advice h4 {
+	color: #404040;
+	font-family: 'Lato', sans-serif;
+	font-size: 26px;
+}
+
+.katznknit-advice p {
+	color: #000000;
+	font-family: 'Lato', sans-serif;
+	font-size: 16px;
+	}
+
+.katznknit-advice .footer {
+	padding-top: 20px;
+	text-align: center;
+	text-size: 12px;
+}
+

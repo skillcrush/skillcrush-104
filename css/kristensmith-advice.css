@@ -1,0 +1,40 @@
+
+/** Kristen Smith's Styles**/
+.kristensmith-advice {
+  padding: 100px;
+}
+
+.kristensmith-advice a{
+	font-family: Arial, sans-serif;
+	color: gray;
+  font-size: 1em;
+	text-transform: uppercase;
+}
+
+.kristensmith-advice h1 {
+	font-family: Arial, sans-serif;
+	color: black;
+  font-size: 2em;
+	text-transform: uppercase;
+}
+
+.kristensmith-advice h4 {
+	font-family: Arial, sans-serif;
+	color: salmon;
+  font-size: 1.5em;
+	line-height: 1em;
+}
+
+.kristensmith-advice p {
+	font-family: Arial, sans-serif;
+	color: salmon;
+  font-size: 1.2em;
+	line-height: 1em;
+	padding-bottom: 100px;
+}
+
+.kristensmith-advice footer p{
+	background-color: white;
+	color: gray;
+}
+/**End of Kristen Smith's Styles**/

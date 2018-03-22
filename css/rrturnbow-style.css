@@ -1,0 +1,46 @@
+#back_to_main {
+	font-family: 'Lato', sans-serif;
+	padding-bottom: 2%;
+  padding-top: 2%;
+  padding-left: 10%;
+}
+
+h1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    font-size: 50px;
+    color: lightgreen;
+    text-align: center;
+    padding-top: 2%;
+    margin-bottom: -2%;
+}
+
+#padding_top_header {
+	padding-top: 5%;
+  padding-bottom: 2%;
+	text-align: center;
+}
+
+h4 {
+	font-weight: 200;
+	font-family: 'Lato', sans-serif;
+	color: darkgreen;
+    font-size: x-large;
+    text-align: left;
+}
+
+section {
+    padding-left: 15%;
+    padding-right: 15%;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: large;
+}
+
+footer {
+	font-family: 'Lato', sans-serif;
+	text-align: left;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    padding-left: 10%;
+}

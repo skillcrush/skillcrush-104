@@ -1,0 +1,39 @@
+.puja-advice {
+  color: #222;
+  margin: 20px;
+  padding:20px 40px;
+  background: #f1f0ec;
+}
+
+.puja-advice a {
+  color:##1c2837;
+}
+
+.puja-advice h1 {
+  color: #505778;
+	font-size: 30px;
+  padding-bottom: 10px;
+  border-bottom: 3px solid #ddd;
+}
+
+.puja-advice h4 {
+	font-size: 20px;
+	color: #505769;
+  text-transform: uppercase;
+}
+
+.puja-advice p {
+  margin-bottom:30px;
+  font-style:italic;
+  font-family: 'Georgia', sans-serif;
+  color: black;
+}
+
+.puja-advice section {
+	padding: 10px;
+}
+
+.puja-advice footer p{
+	color: #3d424f;
+	text-align: right;
+}

@@ -1,0 +1,12 @@
+body{
+  background-color: lightgreen;
+}
+
+.brianna-advice h1, h4{
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
+}
+
+.brianna-advice p{
+  font-family: 'Georgia', serif;
+}

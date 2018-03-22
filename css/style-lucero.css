@@ -1,0 +1,40 @@
+
+/*****Lucero's Sytle*****/
+
+
+.lucero-advice {
+  font-family: "Open Sans Condensed", sans-serif;
+}
+
+.lucero-advice img{
+  display: block;
+  margin: auto;
+  max-width: 100%;
+}
+.lucero-advice h1 {
+  font-family: "Amatic SC", serif;
+  background-color: #e5e5e5;
+  color:#061c85;
+  font-size: 28px;
+  text-align: center;
+  text-transform: capitalize;
+  padding: 20px;
+  border-radius: 10px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.lucero-advice h4 {
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 2.5%;
+  margin-bottom: 0;
+}
+
+.lucero-advice p {
+  font-size: 18px;
+  margin-left: 2.5%;
+  margin-bottom: 5%;
+}
+
+/******End Lucero's Style*****/

@@ -1,0 +1,19 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+.ems-advice h1 {
+	font-family: times;
+	text-align: center;
+}
+
+.ems-advice h4 {
+	font-family: times;
+	text-align: center;
+	color: IndianRed;
+	font-size: 40px;
+}
+
+.ems-advice p {
+	font-family: times;
+	text-align: center;
+	font-size: 22px;
+}

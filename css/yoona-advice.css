@@ -1,0 +1,34 @@
+/**Yoona's Styles===============*/
+.yoona-advice{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  background-color: #FFEBCD;
+  color: #222; 
+}
+
+.yoona-advice header h1{
+  font-size: 2.5em;
+  border-bottom: 2px dashed #FF0000;
+}
+  
+.yoona-advice header, footer{
+  text-transform: lowercase;
+  font-style: italic;
+
+
+}
+.yoona-advice h4{
+  font-weight: 700;
+  font-size: 1.25em;
+  color: #20B2AA;
+
+}
+
+.yoona-advice footer{
+  clear:both;
+	background-color: #FFEBCD;
+  border-top: 2px dotted #FF0000;
+  font-size: .85em;
+  font-weight: bold;
+}
+/**End of Yoona's Styles======*/

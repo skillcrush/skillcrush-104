@@ -1,0 +1,60 @@
+
+/*Natalie Advice Styles*/
+
+html{
+    background-color: #fcf4d9;
+    font-size: 18px;
+}
+
+header{
+  text-align: center;
+  border-bottom: dotted #ffb85f 10px;
+  padding-bottom: 20px;
+}
+
+body{
+  width: 66%;
+  margin: auto;
+  margin-top: 30px;
+  font-family: 'Merriweather', serif;
+}
+
+.advice{
+    padding-top: 20px;
+}
+
+h1{
+  color: #462066;
+  font-family: 'Clicker Script', cursive;
+  font-size: 4em;
+  line-height: .5em;
+
+}
+
+h2{
+  color: #00aaa0;
+  font-family: 'Clicker Script', cursive;
+  line-height: .5em;
+  font-size: 2.5em;
+}
+
+h4{
+  color: #462066;
+  font-size: 2em;
+  font-family: 'Clicker Script', cursive;
+}
+
+p{
+  color: #1a202c;
+  font-size: 1em;
+
+}
+
+section{
+  padding-bottom: 3em;
+
+}
+
+footer{
+  text-align: center;
+}
