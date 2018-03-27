@@ -10053,8 +10053,19 @@ body.nancys-advice {
   color: red;
 }
 
-<<<<<<< HEAD
 /*End of Ace's styles*/
+
+
+.zachdunlap-advice h2 {
+  color: #000000;
+}
+
+.zachdunlap-advice h1 {
+  text-align: center;
+  font-family: 'Source Sans Pro', sans-serif;
+    
+    
+}
 
 /*Regina's styles*/
 
@@ -10072,13 +10083,5 @@ body.nancys-advice {
 .regina-advice body{
     background: white;
 }
-=======
-.zachdunlap-advice h2 {
-  color: #000000;
-}
+/*end of Regina's styles*/
 
-.zachdunlap-advice h1 {
-  text-align: center;
-  font-family: 'Source Sans Pro', sans-serif;
-}
->>>>>>> master
