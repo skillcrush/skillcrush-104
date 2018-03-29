@@ -10053,6 +10053,9 @@ body.nancys-advice {
   color: red;
 }
 
+/*End of Ace's styles*/
+
+
 .zachdunlap-advice h2 {
   color: #000000;
 }
@@ -10060,4 +10063,25 @@ body.nancys-advice {
 .zachdunlap-advice h1 {
   text-align: center;
   font-family: 'Source Sans Pro', sans-serif;
+    
+    
 }
+
+/*Regina's styles*/
+
+.regina-advice h1{
+    background: white;
+    color:deeppink;
+}
+.regina-advice h4{
+    color: deeppink;
+    background: white;
+}
+.regina-advice p{
+    background: white;
+}
+.regina-advice body{
+    background: white;
+}
+/*end of Regina's styles*/
+
