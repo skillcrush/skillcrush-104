@@ -10067,6 +10067,24 @@ body.nancys-advice {
     
 }
 
+.brenna-advice h1 {
+  color: #060;
+  text-align: center;
+}
+
+.brenna-advice h3 {
+  text-align: center;
+}
+
+.brenna-advice .advice p {
+  text-align: justify;
+}
+
+.brenna-advice .advice p:last-of-type {
+  color: #060;
+  font-weight: 700;
+}
+
 /*Regina's styles*/
 
 .regina-advice h1{
