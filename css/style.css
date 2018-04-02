@@ -10103,3 +10103,24 @@ body.nancys-advice {
 }
 /*end of Regina's styles*/
 
+/* Kim Ingrams Styles*/
+
+
+.kimingram {
+  font-style: cursive;
+  text-align: center;
+  background-color: PALETURQUOISE;
+}
+
+.kimingram h1 {
+  font-size: 20px;
+  text-transform: lowercase;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.kimingram p {
+  font-size: 18px;
+  font-style: serif;
+}
+
