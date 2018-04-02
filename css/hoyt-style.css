@@ -1,0 +1,46 @@
+/*-----layout style-----*/
+body.hoyt-advice {
+  background: #ece2c6;
+  color: #6e6352;
+  font-family: georgia, sans-serif;
+}
+
+.hoyt-advice header, .hoyt-advice section, .hoyt-advice footer {
+  margin: 20px auto;
+  width: 600px;
+}
+
+/*-----heading styles-----*/
+.hoyt-advice h1, .hoyt-advice h4 {
+    font-family: helvetica, serif;
+    font-weight: bold;
+    letter-spacing: 1px;
+  }
+
+.hoyt-advice h1 {
+  color: #1f284c;
+  font-size: 36px;
+}
+
+.hoyt-advice h4 {
+  color: #2d4472;
+  font-size: 24px;
+}
+
+/*-----text styles-----*/
+
+.hoyt-advice p {
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.hoyt-advice a {
+  color: #2d4472;
+  font-family: helvetica, serif;
+  font-size: 12px;
+}
+
+.hoyt-advice footer p {
+  font-size: 12px;
+  text-align: center;
+}

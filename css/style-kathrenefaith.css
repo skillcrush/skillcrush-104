@@ -1,0 +1,18 @@
+ .kathrenefaith-advice h1 {
+   font-family: 'Press Start 2P', cursive;
+   text-align: center;
+   padding: 60px;
+   background-color: lightgrey;
+  }
+
+  .kathrenefaith-advice p {
+   font-family: 'Roboto', sans-serif;
+   font-weight: bold;
+   padding-bottom: 25px;
+ }
+
+ .kathrenefaith-advice h4 {
+   font-family: 'Pacifico', cursive;
+   font-size: 25px;
+   background-color: lightyellow;
+  }

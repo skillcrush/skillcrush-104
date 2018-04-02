@@ -1,0 +1,33 @@
+/** Erin's Stylesheet**/
+
+body {
+	background-color: #c9d6d1;
+}
+.erinnunley-advice h1 {
+	color: #b21257;
+	font-family: 'Lora', sans-serif;
+	font-size: 50px;
+	font-weight: bold;
+	text-align: center;
+}
+.erinnunley-advice h4 {
+	color: #0c98b2;
+	font-family: 'Lora', sans-serif;
+	font-size: 32px;
+	text-align: center;
+}
+
+.erinnunley-advice p {
+	color: #ff006d;
+	font-family: 'Comic Sans', sans-serif;
+	font-size: 20px;
+	text-align: justify;
+}
+
+.erinnunley-advice footer {
+	color: #ffe819;
+	padding-top: 20px;
+	text-align: center;
+	text-size: 12px;
+
+}

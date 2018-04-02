@@ -1,0 +1,31 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  margin: 30px 20px 0 20px;
+  width: 1200px;
+  }
+
+h1, h2 {
+  font-family: 'Merriweather', serif;
+}
+h1 {
+  color: #0059b3;
+  font-size: 25px;
+  text-align: center;
+  word-spacing: 2px;
+}
+h4 {
+  color:  #7979d2;
+  font-size: 20px;
+  text-align: center;
+}
+span {
+  color: #ff3333;
+  font-style: italic;
+  font-weight: bolder;
+}
+footer p {
+  color: #7979d2;
+  text-align: center;
+  font-size: 14px;
+}

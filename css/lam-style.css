@@ -1,0 +1,35 @@
+/*--- Lea Anns's Styles ---*/
+
+.leaann-advice {
+	text-align:center;
+}
+
+.leaann-advice h1 {
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 24px;
+	color: blueviolet;
+	padding-bottom: 50px;
+	padding-top: 50px;	
+}
+
+.leaann-advice h4 {
+	font-size: 24px;
+	margin-bottom: 20px;
+    font-style: italic;
+    color: fuchsia
+}
+
+.leaann-advice p {	
+	line-height: 40px;
+	font-size: 18px;
+}
+.leaann-advice footer p {
+  background-color: #404040;
+  color: floralwhite;
+  text-decoration: none;
+  border-radius: 50px;
+  padding: 10px 0px;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}

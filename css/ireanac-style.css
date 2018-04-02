@@ -1,0 +1,37 @@
+.ireanacook-advice {
+  background: linear-gradient(300deg, #FF5D1C, #FF3D47, #7531FF) fixed;
+}
+
+.ireanacook-advice header a {
+  text-decoration: none;
+}
+
+.ireanacook-advice h1 {
+  font-family: 'Merriweather', serif;
+  text-align: center;
+  text-transform: none;
+  letter-spacing: 1px;
+  font-variant: small-caps;
+}
+
+.ireanacook-advice h4 {
+  font-family: 'Merriweather', serif;
+  font-size: 24px;
+  font-variant: small-caps;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.ireanacook-advice p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  line-height: 22px;
+}
+
+.ireanacook-advice footer {
+  margin-top: 60px;
+}
+
+.ireanacook-advice footer p {
+  font-size: 11px;
+}

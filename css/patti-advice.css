@@ -1,0 +1,63 @@
+/* CSS Document */
+/* patti g's advice styles 2018 */
+body.pattig-advice {
+	background-color:#541538;
+	}
+.pattig-advice header {
+		background-color:#8b3b60;
+		padding:2em;
+		margin:0;
+		display:block;
+		width:100%;
+	}
+.pattig-advice a {
+	color:#f5913b;
+	background-color:#323140;
+	padding:10px;
+	text-decoration:none;
+	border-radius:3px;
+	float:right;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif ;
+	text-transform: uppercase;
+	}
+.pattig-advice h1 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif ;
+    font-weight:400;
+    letter-spacing:0.02em;
+    margin:0 0 20px;
+	font-size: 50px;
+	text-align:left;
+	width:80%;
+	clear:both;
+	margin-top:20px;
+	text-shadow: 2px 2px #5A3249;
+	color:#fff;
+}
+
+.pattig-advice h4 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif ;
+    font-weight:400;
+    letter-spacing:0.02em;
+    margin:0 0 20px;
+	color: #F5DBEF;
+	font-size: 32px;
+	text-align:left;
+	padding-top: 20px;
+}
+
+.pattig-advice p {
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size:18px;
+    line-height:24px;
+    font-weight:300;
+    margin-bottom:20px;
+	color:#fff;
+}
+
+.pattig-advice footer {
+	padding: 20px;
+	text-align: center;
+	text-size: 12px;
+	background-color:#f5913b;
+}
+/* end pattig's styles 2018

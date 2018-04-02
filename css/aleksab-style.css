@@ -1,0 +1,22 @@
+.aleksab-advice{
+    background-color: #B9DB91;
+    color: #DB7258;
+}
+h1{
+    text-align:center;
+    text-transform: uppercase
+}
+h4{
+    font-size: 20px;
+}
+.left-box{
+    width: 600px;
+    padding: 30px;
+    display: inline-block;
+    vertical-align: top;
+}
+.right-box{
+    width: 600px;
+    padding: 30px;
+    display: inline-block;
+}
