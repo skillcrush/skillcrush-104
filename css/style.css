@@ -8812,7 +8812,7 @@ font-size: 20px;
 	font-family:'Quicksand', sans-serif;
 }
 
-.advice-heatherh h1, p, h4 {
+.advice-heatherh h1 p h4 {
 	font-family: 'Quicksand', sans-serif;
 	color: #e6ffe6;
 }
@@ -8823,7 +8823,7 @@ font-size: 20px;
 }
 
 /** Katherine's Style**/
-.advice-katherine h1, p, h4, a {
+.advice-katherine h1 p h4 a {
 	font: Verdana, sans-serif;
 	font-size: 14px;
 	color: black;
@@ -10070,6 +10070,7 @@ body.nancys-advice {
   font-family: 'Source Sans Pro', sans-serif;
 
 
+
 }
 
 .brenna-advice h1 {
@@ -10088,6 +10089,7 @@ body.nancys-advice {
 .brenna-advice .advice p:last-of-type {
   color: #060;
   font-weight: 700;
+
 }
 
 /*Regina's styles*/
@@ -10104,7 +10106,7 @@ body.nancys-advice {
     background: white;
 }
 .regina-advice body{
-    background: white;
+  background: white;
 }
 /*end of Regina's styles*/
 
@@ -10128,6 +10130,7 @@ body.nancys-advice {
   font-size: 18px;
   font-style: serif;
 }
+
 
 /****COARTNEY FREELAND'S STYLES*****/
 .coartneyfreeland-advice {
@@ -10164,3 +10167,83 @@ body.nancys-advice {
 }
 
 /*****END COARTNEY FREELAND STYLES*****/
+
+/***** Erica Joan's Advice *****/
+.erica-joan-advice .full-width {
+      width: 750px;
+      margin: auto 240px;
+}
+.erica-joan-advice #back-button {
+      font-family: "Bevan";
+      color: #000000;
+      text-transform: capitalize;
+}
+.erica-joan-advice h1, .erica-joan-advice h2, .erica-joan-advice h3, .erica-joan-advice h4, .erica-joan-advice p{
+  font-family: 'Open Sans', sans-serif;
+  text-align: left;
+  margin: 10px 0;
+  padding: 0 0;
+}
+
+
+.erica-joan-advice h1, .erica-joan-advice h1 a{
+  color: cadetblue;
+  font-size: 30px;
+  text-transform: capitalize;
+  letter-spacing: normal;
+}
+
+.erica-joan-advice h2{
+  color: purple;
+  font-size: 25px;
+  letter-spacing: normal;
+}
+
+.erica-joan-advice .title-top h3{
+  font-size: 45px;
+  font-weight: 100;
+}
+
+.erica-joan-advice .title-top p{
+  color: lightgrey;
+  font-size: 18px;
+  font-weight: 100;
+}
+
+.erica-joan-advice img{
+      margin: 10px 0px;
+}
+
+.erica-joan-advice .title-bottom p{
+  font-size: 18px;
+  font-weight: 100;
+  font-style: italic;
+  color: #404040;
+  padding-bottom: 20px;
+  width: 750px;
+}
+
+.erica-joan-advice .summary p, .erica-joan-advice #tip-1 p, .erica-joan-advice #tip-2 p, .erica-joan-advice #tip-3 p, .erica-joan-advice #tip-4 p {
+  font-size: 18px;
+  font-weight: 100;
+  color: #404040;
+  padding-top: 20px;
+  width: 750px;
+  text-align: justify;
+}
+
+.erica-joan-advice .summary  #top-line {
+  border-top: .5px solid lightgrey;
+}
+
+.erica-joan-advice h4 {
+  font-size: 22px;
+  padding-top: 20px;
+}
+
+.erica-joan-advice #footer {
+  text-align: right;
+  padding: 50px;
+}
+
+/***** End of Erica Joan's Styles *****/
