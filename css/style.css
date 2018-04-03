@@ -10063,8 +10063,8 @@ body.nancys-advice {
 .zachdunlap-advice h1 {
   text-align: center;
   font-family: 'Source Sans Pro', sans-serif;
-    
-    
+
+
 }
 
 .brenna-advice h1 {
@@ -10124,3 +10124,20 @@ body.nancys-advice {
   font-style: serif;
 }
 
+/***** Ania's ADVICE *****/
+.ania-advice h1{
+  font-family: "Open Sans", sans serif;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  color: 	#FF69B4;
+  margin: 40px;
+}
+
+.ania-advice2 p{
+  font-family: "Times New Roman", serif;
+  font-size: 16px;
+  font-weight: 300;
+  color:  #00001a;
+}
+/***** END Ania's ADVICE *****/
