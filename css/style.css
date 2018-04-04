@@ -536,33 +536,38 @@ color: blue;
 /*--- Lesley's Styles ---*/
 .lesleyhogg-advice {
 	font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  display: grid;
 }
 
 .lesleyhogg-advice h1 {
 	font-family: 'Montserrat', sans-serif;
 	color: #000;
-	font-size: 24px;
+	font-size: 1.8rem;
 	text-align: center;
 	background-color: skyblue;
-	padding: 30px 0;
+	padding: 2% 0;
 	margin-bottom: 0;
 }
 
+.lesleyhogg-advice section {
+  display: grid;
+}
+
 .lesleyhogg-advice div {
-	height: 160px;
 	background-color: lightblue;
-	margin-top: 0;
-	padding: 30px 0;
+	margin: 0;
+	padding: 15% 5%;
 }
 
 .lesleyhogg-advice h4 {
-	font-size: 18px;
+	font-size: 1.2rem;
 	color: #000;
-	margin-bottom: 10px;
+	margin-bottom: 2%;
 }
 
 .lesleyhogg-advice p {
-	font-size: 16px;
+	font-size: 1rem;
 	color: dimgray;
 }
 
@@ -572,7 +577,7 @@ color: blue;
 }
 
 .lesleyhogg-advice footer {
-	padding-top: 20px;
+	padding-top: 1.5rem;
 }
 
 .lesleyhogg-advice footer p {
@@ -8807,7 +8812,7 @@ font-size: 20px;
 	font-family:'Quicksand', sans-serif;
 }
 
-.advice-heatherh h1, p, h4 {
+.advice-heatherh h1 p h4 {
 	font-family: 'Quicksand', sans-serif;
 	color: #e6ffe6;
 }
@@ -8818,7 +8823,7 @@ font-size: 20px;
 }
 
 /** Katherine's Style**/
-.advice-katherine h1, p, h4, a {
+.advice-katherine h1 p h4 a {
 	font: Verdana, sans-serif;
 	font-size: 14px;
 	color: black;
@@ -10083,6 +10088,7 @@ body.nancys-advice {
 .brenna-advice .advice p:last-of-type {
   color: #060;
   font-weight: 700;
+
 }
 
 /*Regina's styles*/
@@ -10099,7 +10105,7 @@ body.nancys-advice {
     background: white;
 }
 .regina-advice body{
-    background: white;
+  background: white;
 }
 /*end of Regina's styles*/
 
