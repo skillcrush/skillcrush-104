@@ -10070,7 +10070,7 @@ body.nancys-advice {
   font-family: 'Source Sans Pro', sans-serif;
 
 
-<<<<<<< HEAD
+
 }
 
 .brenna-advice h1 {
@@ -10089,8 +10089,7 @@ body.nancys-advice {
 .brenna-advice .advice p:last-of-type {
   color: #060;
   font-weight: 700;
-=======
->>>>>>> c970b3c315a280047a9078a7bc6132486b27055d
+
 }
 
 /*Regina's styles*/
@@ -10131,6 +10130,44 @@ body.nancys-advice {
   font-size: 18px;
   font-style: serif;
 }
+
+
+/****COARTNEY FREELAND'S STYLES*****/
+.coartneyfreeland-advice {
+  background-color: #94bdbd;
+}
+.coartneyfreeland-advice .advice-cf{
+  width: auto;
+  margin-top: 40px;
+}
+.coartneyfreeland-advice h1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-transform: capitalize;
+  text-align: center;
+  letter-spacing: 1px;
+  
+}
+.coartneyfreeland-advice h4 {
+  text-align: left;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 24px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+.coartneyfreeland-advice p {
+  text-align: left;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+.coartneyfreeland-advice footer p {
+  text-align: center;
+  font-weight: bolder;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/*****END COARTNEY FREELAND STYLES*****/
+
 /***** Erica Joan's Advice *****/
 .erica-joan-advice .full-width {
       width: 750px;
@@ -10208,4 +10245,5 @@ body.nancys-advice {
   text-align: right;
   padding: 50px;
 }
+
 /***** End of Erica Joan's Styles *****/
