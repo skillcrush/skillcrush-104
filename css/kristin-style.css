@@ -1,0 +1,28 @@
+body{
+  margin-left: 400px;
+  width: 500px;
+
+}
+h1 {
+  font-family: 'Didot', serif;
+  font-weight: 700;
+  font-size: 50px;
+  letter-spacing: 6px;
+  width: 600px;
+  color: orange;
+}
+h4{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+  margin-bottom: -15px;
+  color: #696969;
+}
+p{
+  font-family: 'open sans', sans-serif;
+  font-size: 20px;
+}
+h2{
+    color: #515151;
+    font-family: 'Abril Fatface', sans-serif;
+}
