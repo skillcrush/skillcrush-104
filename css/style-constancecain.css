@@ -1,0 +1,30 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+/** Constance's advice **/
+.constancecain-advice h1{
+  color: #781214;
+  font-size: 48px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.constancecain-advice h4 {
+  color: #005b7f;
+  font-size: 36px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.constancecain-advice p {
+	color: #464646;
+	font-size: 24px;
+	text-align: center;
+}
+
+.constancecain-advice a {
+	color: #464646;
+}
+
+
+
+
+ 

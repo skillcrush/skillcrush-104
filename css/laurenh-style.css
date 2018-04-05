@@ -1,0 +1,42 @@
+/*Lauren's Style*/
+.laurenh-advice{
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 18px;
+  background-color: #ccffff;
+  color: #660066; 
+  font-weight: bold;
+  text-align: center;
+}
+
+.laurenh-advice header h1{
+  font-size: 48px;
+  border-bottom: 5px dotted #800060;
+  text-align: center;
+  font-family: 'Amita', cursive;
+}
+.laurenh-advice header{
+    font-weight: bold;
+  }
+.laurenh-advice footer{
+  font-variant: small-caps;
+  font-weight: bold;
+}
+.laurenh-advice h4{
+  font-weight: 700;
+  font-size: 1.25em;
+  color: #330033;
+  font-family: 'Amita', cursive;
+
+}
+.laurenh-advice h3{
+    font-size: 12px;
+
+}
+
+.laurenh-advice footer{
+  clear:both;
+	background-color: #ccffff;
+  font-size: 14px;
+  font-weight: bold;
+}
+/*End of Lauren's Style*/
