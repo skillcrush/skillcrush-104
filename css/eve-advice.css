@@ -10275,15 +10275,8 @@ body.nancys-advice {
 .eve-advice {
   font-family: 'Lato', sans-serif;
   font-family: 'Playfair Display', serif;
-  background-color: black;
-  color: white;
-}
-
-.slowly {
-  width: 45%;
-  float: left;
-  padding-left: 40px;
-  padding-bottom: 300px;
+  background-color: #f2f2f2;
+  color: black;
 }
 
 header h1{
@@ -10292,24 +10285,47 @@ header h1{
   font-size: 24px;
   text-align: center;
   text-transform: uppercase;
+  background-color: white;
+  margin: 40px 100px 0 100px;
+  padding: 10px 20px 10px 20px;
 }
 
-.slowly h4{
+.text{
+  width: 45%;
+  float: left;
+}
+
+.text p{
+  font-family: 'Lato', sans-serif;
+}
+
+.text h4{
   font-family: 'Playfair Display', serif;
   font-weight: bold;
   font-size: 20px;
   text-align: left;
   text-transform: uppercase;
-  color: white;
 }
 
-.slowly p{
-  font-family: 'Lato', sans-serif;
+.slowly{
+  background-color: white;
+  padding: 10px 20px 10px 20px;
+  margin-left: 100px;
+  margin-top: 40px;
+}
+
+.skill{
+  background-color: white;
+  padding: 10px 20px 10px 20px;
+  margin-left: 100px;
+  margin-top: 40px;
+  margin-bottom: 40px;
 }
 
 .paper-gif{
   width: 45%;
   float: left;
+  margin-top: 20px;
 }
 
 .paper-gif img{
