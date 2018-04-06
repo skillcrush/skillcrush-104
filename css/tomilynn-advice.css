@@ -1,0 +1,24 @@
+
+body{
+  background-color: white;
+}
+
+
+header{
+  font-family: 'Dancing Script', cursive;
+  font-size: 30px;
+  padding: 10px;
+  color: ##f000ff;
+}
+
+p{
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 26px;
+  color: #00ffea;
+}
+
+h4{
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 32px;
+  color: #582C4D;
+}
