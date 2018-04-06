@@ -10279,7 +10279,7 @@ body.nancys-advice {
   color: black;
 }
 
-header h1{
+.eve-advice h1{
   font-family: 'Playfair Display', serif;
   font-weight: bold;
   font-size: 24px;
@@ -10290,16 +10290,16 @@ header h1{
   padding: 10px 20px 10px 20px;
 }
 
-.text{
+.eve-advice-text{
   width: 45%;
   float: left;
 }
 
-.text p{
+.eve-advice-text p{
   font-family: 'Lato', sans-serif;
 }
 
-.text h4{
+.eve-advice-text h4{
   font-family: 'Playfair Display', serif;
   font-weight: bold;
   font-size: 20px;
@@ -10307,14 +10307,14 @@ header h1{
   text-transform: uppercase;
 }
 
-.slowly{
+.eve-advice-slowly{
   background-color: white;
   padding: 10px 20px 10px 20px;
   margin-left: 100px;
   margin-top: 40px;
 }
 
-.skill{
+.eve-advice-slowly{
   background-color: white;
   padding: 10px 20px 10px 20px;
   margin-left: 100px;
@@ -10322,17 +10322,17 @@ header h1{
   margin-bottom: 40px;
 }
 
-.paper-gif{
+.eve-advice-paper-gif{
   width: 45%;
   float: left;
   margin-top: 20px;
 }
 
-.paper-gif img{
+.eve-advice-paper-gif img{
   width: 300px;
 }
 
-footer {
+.eve-advice footer {
     font-family: 'Lato', sans-serif;
     font-size: 14px;
     clear: both;
