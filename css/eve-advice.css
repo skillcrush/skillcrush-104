@@ -50,14 +50,25 @@
   margin-bottom: 40px;
 }
 
+.eve-advice-skill{
+  background-color: white;
+  padding: 10px 20px 10px 20px;
+  margin-left: 100px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
 .eve-advice-paper-gif{
   width: 45%;
   float: left;
+  padding-left: 100px;
+  padding-top: 20px;
   margin-top: 20px;
 }
 
 .eve-advice-paper-gif img{
   width: 300px;
+  padding-bottom: 35px;
 }
 
 .eve-advice footer {
