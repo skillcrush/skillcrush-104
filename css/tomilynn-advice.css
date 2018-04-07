@@ -1,24 +1,32 @@
 
 body{
-  background-color: white;
+  background-color:#20B2AA;
+
 }
 
 
 header{
-  font-family: 'Dancing Script', cursive;
-  font-size: 30px;
-  padding: 10px;
-  color: ##f000ff;
+  font-family: 'Merriweather', serif;
+  font-size: 18px;
+  padding: 30px;
+  color:#C0C0C0;
+  text-align: center;
+
+}
+h3{
+  font-family: 'Merriweather', serif;
+  font-size: 18px;
 }
 
 p{
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Merriweather', serif;
   font-size: 26px;
-  color: #00ffea;
-}
+  color: #C0C0C0;
+  margin: 15px;
 
+}
 h4{
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Merriweather', serif;
   font-size: 32px;
-  color: #582C4D;
+  color: #C0C0C0;
 }
