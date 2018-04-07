@@ -1,0 +1,51 @@
+
+
+.orto-advice {
+  margin: auto;
+  width: 600px;
+  text-align: justify;
+}
+
+/***** HEADER *****/
+
+.orto-advice a {
+  text-align: center;
+  font-family: 'Josefin Slab', serif;
+  margin-top: 10px;
+  color: #0DB2A4;
+}
+
+.orto-advice h1 {
+  font-family: 'Poiret One', cursive;
+  background-color: #FF9D72;
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
+
+/***** MAIN *****/
+
+.advice h4 {
+  font-family: 'Poiret One', cursive;
+  letter-spacing: 1px;
+  font-size: 18px;
+  background-color: #0DB2A4;
+  padding: 8px;
+  color: white;
+}
+
+.advice p {
+  font-family: 'Josefin Slab', serif;
+  padding: 5px 15px;
+  font-size: 18px;
+  line-height: 25px;
+  background-color: #FF9D72;
+  letter-spacing: 2px;
+  color: #FFF0E8;
+}
+
+/***** FOOTER *****/
+
+footer {
+  text-align: center;
+}
