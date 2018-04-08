@@ -76,7 +76,7 @@
 
 /****Marlene's advice*****/
 .marlene-advice h1{
-   font-family:  noto-serif
+   font-family:  noto-serif;
    font-size:  48px;
    font-weight:  bold;
    color:  white;
@@ -101,7 +101,7 @@
    text-align:  left;
    }
 .marlene-advice footer p{
-   font-family:  noto-sans
+   font-family:  noto-sans;
    font-size:  12px;
    font-weight: regular;
    color:  black;
@@ -385,58 +385,86 @@ text-align: center;
 
 /******* END SJOY' ADVICE *****/
 
-/* kailey wontorski's styles */
-.kaileywontorski-advice {
-  background-color: #98A886;
+/***** JGORDON STYLE *****/
+.jgordon-advice {
+  font-family: sans-serif;
+  background-color: #6666ff;
+  color: #FFFFFF;
+  font-size: 24px;
 }
-
-.kaileywontorski-advice header a{
-  text-decoration: none;
-  font-family: 'Cormorant Garamond', serif;
-  color: #465C69;
-  margin-left: 40px;
-  font-size: 22px;
-}
-
-.kaileywontorski-advice header a:hover {
-  color: black;
-  background-color: #FFFFFC;
-  background-clip: content-box;
-  margin-left: 30px;
-}
-
-.kaileywontorski-advice h1 {
-  color: #FFFFFC;
-  margin: 0 30 30 30px;
-  text-transform: none;
-  font-family: 'Playfair Display', serif;
-  font-size: 32px;
-  letter-spacing: 0px;
-  text-align: center;
-}
-
-.kaileywontorski-advice h4 {
-  text-transform: capitalize;
-  padding: 10px;
-  color:#465C69;
-  font-family: 'Cormorant Garamond', serif;
-  font-size: 28px;
-}
-
-.kaileywontorski-advice p {
-  line-height: 40px;
-  color: #363457;
-  font-family: 'Catamaran', sans-serif;
-  font-size: 19px;
-}
-
-.kaileywontorski-advice footer p {
-  color: #000000;
+.jgordon-advice header a
+{
   font-weight: bold;
-  font-family: 'Playfair Display', serif;
-  font-size: 18px;
+}
+.jgordon-advice h1
+{
+  font-family: 'Verdana';
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  text-transform: lowercase;
+}
+.jgordon-advice h2
+{
+  font-size: 24px;
+  color: #ffff66;
+  text-transform: uppercase;
+}
+.jgordon-advice p
+{
+  font-size: 16px;
+  text-align: justify;
 }
 
+/* kailey wontorski's styles */
+ .kaileywontorski-advice {
+   background-color: #98A886;
+ }
+
+ .kaileywontorski-advice header a{
+   text-decoration: none;
+   font-family: 'Cormorant Garamond', serif;
+   color: #465C69;
+   margin-left: 40px;
+   font-size: 22px;
+ }
+
+ .kaileywontorski-advice header a:hover {
+   color: black;
+   background-color: #FFFFFC;
+   background-clip: content-box;
+   margin-left: 30px;
+ }
+
+ .kaileywontorski-advice h1 {
+   color: #FFFFFC;
+   margin: 0 30 30 30px;
+   text-transform: none;
+   font-family: 'Playfair Display', serif;
+   font-size: 32px;
+   letter-spacing: 0px;
+   text-align: center;
+ }
+
+ .kaileywontorski-advice h4 {
+   text-transform: capitalize;
+   padding: 10px;
+   color:#465C69;
+   font-family: 'Cormorant Garamond', serif;
+   font-size: 28px;
+ }
+
+ .kaileywontorski-advice p {
+   line-height: 40px;
+   color: #363457;
+   font-family: 'Catamaran', sans-serif;
+   font-size: 19px;
+ }
+ .kaileywontorski-advice footer p {
+   color: #000000;
+   font-family: 'Playfair Display', serif;
+   font-size: 18px;
+  }
 /* end of kaileywontorski's style's */
 
 
@@ -444,28 +472,22 @@ text-align: center;
 .sally-d-advice {
   font: sans-serif;
 }
-
 .sally-d-advice h1 {
-  background-color: purple;
-  color: white;
-  font-size: 25px;
-  text-align: center;
-  text-transform: capitalize;
-  padding: 50px 0;
-}
-
+   background-color: purple;
+   color: white;
+   font-size: 25px;
+   text-transform: capitalize;
+   padding: 50px 0;
+ }
 .sally-d-advice h4 {
-  background-color: yellow;
-  font-size: 22px;
-  font-weight: bold;
+ background-color: yellow;
+ font-size: 22px;
+ font-weight: bold;
 }
 
 .sally-d-advice p {
-  font-size: 16px;
   font-weight: lighter;
-  text-align: justify;
 }
-
 /******* END SALLY D ADVICE *****/
 
 /*****STATZ STYLE*****/
@@ -1767,7 +1789,7 @@ body.troypratt-advice footer {
 }
 
 /* Dan's Styles */
-* .dans-advice {
+*.dans-advice {
 	font-family: 'Merriweather', serif;
 	width: 90%;
 	max-width: 1200px;
@@ -1869,7 +1891,7 @@ body.troypratt-advice footer {
 /* DWs Styles*/
 
 .dw-advice {
-    font-color: darkgreen;
+    color: darkgreen;
     font-family: sans-serif;
     background-color: antiquewhite;
 }
@@ -2129,12 +2151,12 @@ body.troypratt-advice footer {
     font-size: 22px;
 }
 .angelafoster-advice p {
-	font-color: #566573;
+	color: #566573;
 	text-align: left;
 }
 .angelafoster-advice .copyright {
 	font-size: 80%;
-	font-color: white;
+	color: white;
 	margin-top: 50px;
 	text-align: center;
 }
@@ -8767,7 +8789,7 @@ font-size: 20px;
 
 .AskAlicia-advice h4{
 	text-indent: 30px;
-	weight:342;
+	font-weight: 34px;
 }
 
 .AskAlicia-advice h4::first-letter {
@@ -10106,7 +10128,7 @@ body.nancys-advice {
 .advice-suesue h1{
   font-family: 'Source Sans Pro', serif;
   text-align: center;
-  font-color: skyblue;
+  color: skyblue;
   font-size: 20px;
   padding-top: 30px;
   padding-bottom: 30px;
@@ -10114,7 +10136,7 @@ body.nancys-advice {
 .advice-suesue p{
   font-family: 'Source Sans Pro' serif;
   text-align: center;
-  font-color: navy;
+  color: navy;
   font-size: 18px;
   font-weight: lighter;
 }
