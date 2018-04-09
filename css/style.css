@@ -10343,3 +10343,24 @@ body.nancys-advice {
 }
 
 /***** End of Erica Joan's Styles *****/
+
+/*** C's advice styling ***/
+.crose-advice {
+  font-family: serif;
+}
+.crose-advice h1 {
+  font-size: 20px;
+
+}
+
+.crose-advice h4 {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+}
+
+.crose-advice p {
+  font-size: 18px;
+}
+
+/*** End C's advice styling ***/
