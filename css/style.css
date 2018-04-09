@@ -1,5 +1,79 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/****JaRay's advice*****/
+.jere-advice {
+		background: transparent linear-gradient(to bottom, #5ab9ea, #84ceeb, #5680e9, #8860d0);
+    padding: 5px;
+	  max-width: 960px;
+	  width: 95%;
+	  margin: 20px auto;
+}
+
+.jere-advice a{
+  	color: #5680e9;
+    font-family: 'Oswald', sans-serif;
+  	text-decoration: none;
+}
+
+ .jere-advice h1 {
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size:  48px;
+    font-weight:  bold;
+    color: #ffffff;
+    margin:  25px;
+    text-align: center;
+  }
+
+.jere-advice h4 {
+  font-family: 'Pathway Gothic One', sans-serif;
+  font-size: 20px;
+  font-weight: normal;
+  text-align: center;
+  color: #8860d0;
+}
+
+.poems {
+  display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+	margin: 5px 0;
+}
+
+.advice-one,
+.advice-two,
+.advice-three {
+  background: #ffffff;
+  float: left;
+  width: 400px;
+  height: auto;
+  flex: 1;
+	border: 1px solid #5ab9ea;
+	margin: 8px;
+	padding: 10px;
+	&:first-child { margin-left: 0; }
+	&:last-child { margin-right: 0; }
+}
+
+.jere-advice p {
+   font-family: 'Oswald', sans-serif;
+   font-size:  16px;
+   font-weight: normal;
+   color:  #5ab9ea;
+   padding: 0 10px;
+   line-height: 25px;
+   text-align: center;
+ }
+
+.jere-advice footer p {
+   font-family: 'Oswald', sans-serif;
+   font-size:  12px;
+   font-weight: normal;
+   color:  #c1c8e4;
+   margin-top:  50px;
+   text-align:  center;
+   clear: both;
+}
+
 /****Marlene's advice*****/
 .marlene-advice h1{
    font-family:  noto-serif;
@@ -10167,7 +10241,7 @@ body.nancys-advice {
   text-transform: capitalize;
   text-align: center;
   letter-spacing: 1px;
-  
+
 }
 .coartneyfreeland-advice h4 {
   text-align: left;
@@ -10269,3 +10343,24 @@ body.nancys-advice {
 }
 
 /***** End of Erica Joan's Styles *****/
+
+/*** C's advice styling ***/
+.crose-advice {
+  font-family: serif;
+}
+.crose-advice h1 {
+  font-size: 20px;
+
+}
+
+.crose-advice h4 {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+}
+
+.crose-advice p {
+  font-size: 18px;
+}
+
+/*** End C's advice styling ***/
