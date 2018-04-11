@@ -10364,3 +10364,20 @@ body.nancys-advice {
 }
 
 /*** End C's advice styling ***/
+
+/***** Ania's advice *****/
+.ania-advice {
+  text-align: center;
+}
+
+.ania-advice h1 {
+  font-size: 20px;
+  align: center;
+  color: #800080;
+}
+
+.ania-advice h4 {
+  font-size: 16px;
+  align: center;
+}
+=======
