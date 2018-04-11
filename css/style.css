@@ -10167,7 +10167,7 @@ body.nancys-advice {
   text-transform: capitalize;
   text-align: center;
   letter-spacing: 1px;
-  
+
 }
 .coartneyfreeland-advice h4 {
   text-align: left;
@@ -10269,3 +10269,17 @@ body.nancys-advice {
 }
 
 /***** End of Erica Joan's Styles *****/
+
+/*Dorene Hartford's Styles*/
+
+.dorenehartford-advice {
+  background color: #433FBF
+}
+
+.dorenehartford-advice h4 {
+  font-size: 22px;
+  font-weight: 150;
+  color: #BF3F7F
+}
+
+/*End of Dorene Hartford's Styles*/
