@@ -1,0 +1,46 @@
+.lenabalta-advice a{
+  font-family: Oswald;
+  font-size: 20px;
+  color: #6600cc;
+  text-decoration: none;
+  background-color: #f2e6ff;
+  padding: 5px;
+  float: left;
+  margin: 50px;
+  border: 5px solid #6600cc;
+  }
+  body{
+  background-color: #e6ccff;
+  }
+  header h1{
+  font-family: Volkhov;
+  font-size: 45px;
+  width: 600px;
+  margin: auto;
+  text-align: justify;
+  color: #6600cc;
+  text-shadow: 2px 2px 5px #8c8c8c;
+  border: 8px solid #6600cc;
+  padding: 5px;
+  background-color: #f2e6ff;
+  }
+.advice h4{
+  font-family: Volkhov;
+  font-size: 30px;
+  text-align: center;
+ color: #6600cc;
+  }
+.advice p{
+  font-family: Roboto;
+  font-size: 20px;
+  text-align: center;
+  text-align: justify;
+  color: #400080;
+  margin: 0 200px;
+ }
+footer p{
+ font-family: Roboto;
+ font-size: 15px;
+ color: #400080;
+ text-align: center;
+}
