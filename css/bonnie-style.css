@@ -1,0 +1,40 @@
+/*
+ Copyright 2014 Adobe Systems Incorporated.  All rights reserved.
+
+Purpose-
+Css for vmq bars
+*/
+
+.bonnies-advice {
+  align: center;
+  text-align: center;
+  background-image: url('../img/bunnies.png');
+  color: rebeccapurple;
+  font-family: monospace;
+  font-size: 35px;
+  margin: 50px;
+  width: 1200px;
+}
+
+.bonnies-advice-content{
+  align: center;
+  border-color: pink;
+  border-style: solid;
+  border-width: thick;
+  float: left;
+  margin-right: 90px;
+  padding: -30px 0px 0px 0px;
+  text-align: left;
+  width: 500px;
+
+}
+
+.bonnies-advice h1{
+  clear: both;
+  width: 1150px;
+}
+
+#bonnies-advice-return{
+  float: left;
+  font-size: 15px;
+}
