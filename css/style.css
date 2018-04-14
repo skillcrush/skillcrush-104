@@ -1,5 +1,53 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/**** Sara S advice****/
+
+.saras-advice {
+	background: #f3eabf;
+	padding: 10px;
+}
+
+.saras-advice h1 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 48px;
+	color: #645e8e;
+	text-align: center;
+	letter-spacing: 2px;
+}
+
+.saras-advice h4 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 30px;
+	color: #94d8a6;
+	text-align: center;
+	letter-spacing: 2px;
+}
+
+.saras-advice .advice p {
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+	color: 	#645e8e;
+	text-align: justify;
+}
+
+.saras-advice footer {
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+	color: 	#94d8a6;
+	text-align: center;
+}
+
+.saras-advice a{
+  	color: #5680e9;
+    font-family: 'Raleway', sans-serif;
+  	text-decoration: none;
+		padding: 20px; 
+	}
+
+
+
+
+
 /****JaRay's advice*****/
 .jere-advice {
 		background: transparent linear-gradient(to bottom, #5ab9ea, #84ceeb, #5680e9, #8860d0);
