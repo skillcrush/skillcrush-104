@@ -10412,3 +10412,42 @@ body.nancys-advice {
 }
 
 /*** End C's advice styling ***/
+
+/* Hillary's advice styling */
+
+.hillarylc-advice body {
+  color: #0D1714;
+  font-family: sans-serif;
+}
+
+.hillarylc-advice .advice {
+  text-align: center;
+}
+
+.hillarylc-advice header a:hover {
+  color: pink;
+}
+
+.hillarylc-advice header h1 {
+  text-transform: none;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+.hillarylc-advice span {
+  text-transform: uppercase;
+  color: #365439;
+  text-decoration: underline;
+}
+
+.hillarylc-advice .advice h2 {
+  color: pink;
+}
+
+.hillarylc-advice .advice p {
+  font-size: 20px;
+}
+
+.hillarylc-advice .copyright {
+  color: pink;
+}
