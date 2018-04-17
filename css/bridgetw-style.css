@@ -1,0 +1,28 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/**Bridget W. Styles **/
+
+h1, h4 {
+  font-family: 'Karma', serif;
+}
+
+h1 {
+  color: #9146a7;
+}
+
+h4 {
+  color: #41d3bd;
+  font-size: 125%
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1, .advice {
+  text-align: center;
+}
+
+#copyright {
+  font-size: 75%;
+}
