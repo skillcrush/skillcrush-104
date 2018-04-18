@@ -41,7 +41,7 @@
   	color: #5680e9;
     font-family: 'Raleway', sans-serif;
   	text-decoration: none;
-		padding: 20px; 
+		padding: 20px;
 	}
 
 
@@ -10450,4 +10450,10 @@ body.nancys-advice {
 
 .hillarylc-advice .copyright {
   color: pink;
+}
+
+.rcubo-advice h4 {
+  color: #00056B;
+  font-weight: bold;
+  font-size: 36px;	
 }
