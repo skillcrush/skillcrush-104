@@ -1,0 +1,29 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+.teeba-advice h1 {
+	font-family: Nunito;
+	text-align: center;
+}
+
+.teeba-advice h4 {
+	font-family: Nunito;
+	text-align: center;
+	color: purple;
+	font-size: 36px;
+}
+
+.teeba-advice p {
+	font-family: lora;
+	text-align: center;
+	font-size: 24px;
+}
+
+.teeba-advice {
+	background-color: #e1cfd3;
+}
+
+.teeba-advice .footer p {
+	font-family: lora;
+	font-size: 18px;
+	text-align: left;
+}
