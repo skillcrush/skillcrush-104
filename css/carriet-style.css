@@ -10451,3 +10451,24 @@ body.nancys-advice {
 .hillarylc-advice .copyright {
   color: pink;
 }
+
+/***** Carrie T's Styling ******/
+.carrietannahills-advice {
+	font-family: sans-serif;
+	color:grey;
+	text-align: center
+}
+
+.carrietannahills-advice h1 {
+	font-size:30px;
+	color: #4cb1ff;
+	}
+
+.carrietannahills-advice h4 {
+	font-size: 20px;
+}
+
+.carrietannahills-advice p {
+	font-size: 18px;
+}
+/****** End Carrie T's Styling *****/
