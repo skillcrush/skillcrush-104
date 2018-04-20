@@ -1,27 +1,5 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
-/***** Carrie T's Styling ******/
-.carrietannahills-advice {
-	font-family: sans-serif;
-	color:grey;
-	text-align: center
-}
-
-.carrietannahills-advice h1 {
-	font-size:30px;
-	color: #4cb1ff;
-	}
-
-.carrietannahills-advice h4 {
-	font-size: 20px;
-}
-
-.carrietannahills-advice p {
-	font-size: 18px;
-}
-/****** End Carrie T's Styling *****/
-
-
 /**** Sara S advice****/
 
 .saras-advice {
@@ -10473,3 +10451,12 @@ body.nancys-advice {
 .hillarylc-advice .copyright {
   color: pink;
 }
+<<<<<<< HEAD
+=======
+
+.rcubo-advice h4 {
+  color: #00056B;
+  font-weight: bold;
+  font-size: 36px;
+}
+>>>>>>> master
