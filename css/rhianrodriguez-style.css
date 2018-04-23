@@ -1,0 +1,37 @@
+/*****Rhian Rodriguez*****/
+
+
+.rhianrodriguez-advice body {
+    font-size: 45px;
+    color:#275bad;
+    background-color:purple;
+
+}
+.rhianrodriguez-advice h1{
+   font-family:'Shrikhand', cursive;
+    font-size:45px;
+    color:rgb(91, 30, 148);
+    text-align: center;
+}
+.rhianrodriguez-advice h4{
+    font-family:'sans serif';
+    font-size:40px;
+    color:blue;
+    text-align:center;
+}
+.rhianrodriguez-advice p{
+    font-family:'Shrikhand', cursive;
+    font-size:30px;
+    color:rgb(17, 17, 78) ;
+    text-align: center;
+}
+.rhianrodriguez-advice header {
+    font-family:'sans serif';
+    font-size:15px;    
+}
+.rhianrodriguez-advice footer p{
+    font-family:'sans serif';
+    color:black;
+    font-size;15px;
+}
+/*****Rhian Rodriguez*****/
