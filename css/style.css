@@ -10467,6 +10467,52 @@ body.nancys-advice {
   color: pink;
 }
 
+/* TENI'S ADVICE STYLES */
+
+.teni-advice {
+  font-family: 'Open Sans', sans-serif;
+  background: linear-gradient(#d6d5fe, #d6d5fe, #aaaafd) fixed;
+}
+
+.teni-advice .advice {
+  background: rgba(255, 255, 255, 0.4);
+  box-shadow: 0px 0px 5px #8789c5;
+  margin: 20px auto 20px auto;
+  padding: 20px;
+  width: 900px;
+  height: auto;
+  overflow: auto;
+  clear: both;
+}
+
+.teni-advice h1 {
+  color: #64688c;
+  font-family: 'Nova Slim', cursive;
+  font-size: 24px;
+  font-weight: normal;
+  letter-spacing: 5px;
+  padding: auto;
+  text-align: center;
+  text-transform: none;
+}
+
+.teni-advice h2 {
+  color: #64688c;
+  font-family: 'Nova Slim', cursive;
+  font-size: 40px;
+  font-weight: normal;
+  letter-spacing: 5px;
+  padding: auto;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.teni-advice p {
+  color: #0f0f0f;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 24px;
+}
 .rcubo-advice h4 {
   color: #00056B;
   font-weight: bold;
