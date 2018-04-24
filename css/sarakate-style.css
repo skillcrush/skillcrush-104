@@ -1,0 +1,42 @@
+
+/***Sara Kate's Advice***/
+
+.sarakate-advice {
+	margin: 20px 60px 0px 60px;
+}
+
+.sarakate-advice a {
+	color: #adad85;
+	font-family: 'Josefin Sans', sans-serif;
+  font-size: 16px;
+}
+
+.sarakate-advice h1 {
+  color: #ff8080;
+  font-family: 'Sacramento', cursive;
+  font-size: 46px;
+  text-align: center;
+}
+
+.sarakate-advice h4 {
+  color: #000000;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 28px;
+  text-align: center;
+}
+
+.sarakate-advice p {
+  color: #5c5c3d;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 20px;
+  text-align: justify;
+}
+
+.sarakate-advice footer p {
+  color: #adad85;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 16px;
+  padding-top: 20px;
+}
+
+/***End Sara Kate's Advice***/
