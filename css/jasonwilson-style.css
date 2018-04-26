@@ -1,0 +1,33 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+h1 {
+	margin:35px 0 30px 25px;
+}
+
+h4{
+	margin:15px 0;
+}
+
+.jasonwilson-advice {
+	width: 90%;
+	margin: 5% auto;
+	text-align: center;
+}
+
+.jasonwilson-advice a, h1{
+	font-family: Garamond;
+	text-align: center;
+}
+
+.advice h4, p {
+	font-family: Garamond;
+	text-align: center;
+}
+
+.advice  h4 {
+	color: IndianRed;
+	font-size: 36px;
+}
+
+.advice  p {
+	font-size: 24px;
+}
