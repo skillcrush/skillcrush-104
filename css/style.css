@@ -97,9 +97,17 @@
   flex: 1;
 	border: 1px solid #5ab9ea;
 	margin: 8px;
-	padding: 10px;
-	&:first-child { margin-left: 0; }
-	&:last-child { margin-right: 0; }
+  padding: 10px;
+}
+.advice-one:first-child,
+.advice-two:first-child,
+.advice-three:first-child{ 
+  margin-left: 0; 
+}
+.advice-one:last-child,
+.advice-two:last-child,
+.advice-three:last-child{ 
+  margin-left: 0; 
 }
 
 .jere-advice p {
@@ -10396,7 +10404,7 @@ body.nancys-advice {
 /*Dorene Hartford's Styles*/
 
 .dorenehartford-advice {
-  background color: #433FBF
+  background-color: #433FBF
 }
 
 .dorenehartford-advice h4 {
@@ -10523,23 +10531,41 @@ body.nancys-advice {
 .mikaylah-advice h1 {
 	color: aliceblue;
 	font-size: 36px;
-	font-weight: Bold;
+  font-weight: Bold;
 }
 
 .mikaylah-advice h4 {
-	color: cornflowerblue;
-	font-size: 24px;
-	font-weight: bold;
-	text-transform: uppercase;
+  color: cornflowerblue;
+  font-size: 24px;
+  font-weight: bold;
+  text-transform: uppercase;
 }
 
 .mikaylah-advice p {
-	color: darkslategray;
-	font-size: 16px;
+  color: darkslategray;
+  font-size: 16px;
 }
 
 .mikaylah-advice footer p {
-	font-size: 8px;
+  font-size: 8px;
 }
 
 /***** end MiKayla H Advice *****/
+
+/***** Ania's advice *****/
+.ania-advice {
+  text-align: center;
+}
+
+.ania-advice h1 {
+  font-size: 20px;
+  text-align: center;
+  color: #800080;
+}
+
+.ania-advice h4 {
+  font-size: 16px;
+  text-align: center;
+}
+
+
