@@ -101,13 +101,13 @@
 }
 .advice-one:first-child,
 .advice-two:first-child,
-.advice-three:first-child{ 
-  margin-left: 0; 
+.advice-three:first-child{
+  margin-left: 0;
 }
 .advice-one:last-child,
 .advice-two:last-child,
-.advice-three:last-child{ 
-  margin-left: 0; 
+.advice-three:last-child{
+  margin-left: 0;
 }
 
 .jere-advice p {
@@ -10568,4 +10568,9 @@ body.nancys-advice {
   text-align: center;
 }
 
+/*****Angela Reeder Advice*****/
+.angelar-advice h1{color:#7c448c;font-size:32px;}
+.angelar-advice h4{font-size:24px;}
+.angelar-advice p{font-size:18px;}
+/*****End Angela Reeder Advice*****/
 
