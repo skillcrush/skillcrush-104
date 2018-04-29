@@ -1,5 +1,33 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/****** rezika advice ******/
+.rezika-advice {
+  background-color: #00e6c0;
+  width: 1000px;
+  padding: 5% 10%;
+  }
+
+
+
+  .rezika-advice header {
+    text-align: center;
+    text-decoration-line: underline;
+  }
+
+  .rezika-advice h4{
+    font-size: 150%;
+    font-style: oblique;
+  }
+
+  
+
+  .rezika-advice p {
+    font-family: fantasy;
+    text-align: center;
+    line-height: 30px;
+  }
+
+
 /**** Sara S advice****/
 
 .saras-advice {
