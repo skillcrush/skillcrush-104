@@ -1,5 +1,43 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/**** Michelle Coffee advice****/
+
+.michellecoffee-advice {
+	padding: 15px;
+}
+
+.michellecoffee-advice h1 {
+	color: #f06242;
+	font-family: Montserrat, sans-serif;
+	font-size: 36px;
+	text-align: center;
+}
+
+.michellecoffee-advice h4 {
+	color: black;
+	font-family: Montserrat, sans-serif;
+	font-size:  24px;
+	font-style: italic;
+	text-align: center;
+}
+
+.michellecoffee-advice p {
+	color: black;
+	font-family: Lato, sans-serif;
+	font-size:  18px;
+	text-align: center;
+}
+
+.mcfooter {
+	color: black;
+	font-family: Lato, sans-serif;
+	font-size:  12px;
+	text-align: center;
+}
+
+/**** End Michelle Coffee advice****/
+
+
 /**** Sara S advice****/
 
 .saras-advice {
@@ -10573,4 +10611,3 @@ body.nancys-advice {
 .angelar-advice h4{font-size:24px;}
 .angelar-advice p{font-size:18px;}
 /*****End Angela Reeder Advice*****/
-
