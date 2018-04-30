@@ -19,7 +19,7 @@
     font-style: oblique;
   }
 
-  
+
 
   .rezika-advice p {
     font-family: fantasy;
@@ -10602,3 +10602,7 @@ body.nancys-advice {
 .angelar-advice p{font-size:18px;}
 /*****End Angela Reeder Advice*****/
 
+/* Kat's advice! */
+.kat-advice {
+  background: lavender;
+}
