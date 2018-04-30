@@ -10578,5 +10578,12 @@ body.nancys-advice {
 /**Mel90's advice**/
 .mel90-advice {
 	text-align: center;
-	color: AliceBlue;
+	color: Blue;
+	font-size: 20px;
+}
+.advice {
+	background-color: lightblue;
+}
+header {
+	background-color: IndianRed;
 }
