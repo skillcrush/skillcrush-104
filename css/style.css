@@ -19,7 +19,7 @@
     font-style: oblique;
   }
 
-  
+
 
   .rezika-advice p {
     font-family: fantasy;
@@ -10502,6 +10502,8 @@ body.nancys-advice {
 .hillarylc-advice .copyright {
   color: pink;
 }
+/********* HEAD *******/
+
 
 /* TENI'S ADVICE STYLES */
 
@@ -10602,3 +10604,24 @@ body.nancys-advice {
 .angelar-advice p{font-size:18px;}
 /*****End Angela Reeder Advice*****/
 
+/****** carrie t's styling *******/
+
+.carrietanahill-advice {
+	font-family: sans-serif;
+	font-color: grey;
+	font-size: 20px;
+	text-align: center;
+}
+
+.carrietannahill-advice h1{
+		font-size: 30px;
+		font-color: #4c9fff;
+		font-weight: bold;
+}
+
+.carrietannahill-advice h4{
+		font-size: 24px;
+		font-color: #003B7F;
+}
+
+/******** End of carrie t's styling ******/
