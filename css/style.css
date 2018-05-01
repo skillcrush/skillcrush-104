@@ -1,5 +1,40 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/***** Robert Cook's advice *****/
+.robertcook-advice {
+	background-color: #2E8B57;
+	width: 1200px;
+	margin: 0 auto;
+}
+#robertcook-page-return {
+	font-family: 'Dancing Script', cursive;
+	color: black;
+}
+#robertcook-advice-headline {
+	font-family: 'Dancing Script', cursive;
+	text-align: center;
+	padding: 0 75px;
+	line-height: 75px;
+	font-size: 35px;
+}
+.robertcook-advice-third-width {
+	font-family: 'Dancing Script', cursive;
+	width: 350px;
+	float: left;
+	padding: 25px;
+	text-align: center;
+	font-size: 17px;
+}
+#robertcook-confidence h4, #robertcook-internet h4, #robertcook-practice h4 {
+	font-family: 'Dancing Script', cursive;
+	font-size: 30px;
+}
+#robertcook-advice-footer {
+	clear: both;
+	text-align: center;
+}
+
+
 /****** rezika advice ******/
 .rezika-advice {
   background-color: #00e6c0;
