@@ -26,6 +26,42 @@
     text-align: center;
     line-height: 30px;
   }
+/**** Michelle Coffee advice****/
+
+.michellecoffee-advice {
+	padding: 15px;
+}
+
+.michellecoffee-advice h1 {
+	color: #f06242;
+	font-family: Montserrat, sans-serif;
+	font-size: 36px;
+	text-align: center;
+}
+
+.michellecoffee-advice h4 {
+	color: black;
+	font-family: Montserrat, sans-serif;
+	font-size:  24px;
+	font-style: italic;
+	text-align: center;
+}
+
+.michellecoffee-advice p {
+	color: black;
+	font-family: Lato, sans-serif;
+	font-size:  18px;
+	text-align: center;
+}
+
+.mcfooter {
+	color: black;
+	font-family: Lato, sans-serif;
+	font-size:  12px;
+	text-align: center;
+}
+
+/**** End Michelle Coffee advice****/
 
 
 /**** Sara S advice****/
@@ -10613,13 +10649,13 @@ body.nancys-advice {
 
 .carrietannahill-advice h1{
 		font-size: 30px;
-		font-color: #4c9fff;
+		color: #4c9fff;
 		font-weight: bold;
 }
 
 .carrietannahill-advice h4{
 		font-size: 24px;
-		font-color: #003B7F;
+		color: #003B7F;
 }
 
 /******** End of carrie t's styling ******/
