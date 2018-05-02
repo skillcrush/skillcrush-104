@@ -1,5 +1,40 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/***** Robert Cook's advice *****/
+.robertcook-advice {
+	background-color: #2E8B57;
+	width: 1200px;
+	margin: 0 auto;
+}
+#robertcook-page-return {
+	font-family: 'Dancing Script', cursive;
+	color: black;
+}
+#robertcook-advice-headline {
+	font-family: 'Dancing Script', cursive;
+	text-align: center;
+	padding: 0 75px;
+	line-height: 75px;
+	font-size: 35px;
+}
+.robertcook-advice-third-width {
+	font-family: 'Dancing Script', cursive;
+	width: 350px;
+	float: left;
+	padding: 25px;
+	text-align: center;
+	font-size: 17px;
+}
+#robertcook-confidence h4, #robertcook-internet h4, #robertcook-practice h4 {
+	font-family: 'Dancing Script', cursive;
+	font-size: 30px;
+}
+#robertcook-advice-footer {
+	clear: both;
+	text-align: center;
+}
+
+
 /****** rezika advice ******/
 .rezika-advice {
   background-color: #00e6c0;
@@ -19,13 +54,49 @@
     font-style: oblique;
   }
 
-  
+
 
   .rezika-advice p {
     font-family: fantasy;
     text-align: center;
     line-height: 30px;
   }
+/**** Michelle Coffee advice****/
+
+.michellecoffee-advice {
+	padding: 15px;
+}
+
+.michellecoffee-advice h1 {
+	color: #f06242;
+	font-family: Montserrat, sans-serif;
+	font-size: 36px;
+	text-align: center;
+}
+
+.michellecoffee-advice h4 {
+	color: black;
+	font-family: Montserrat, sans-serif;
+	font-size:  24px;
+	font-style: italic;
+	text-align: center;
+}
+
+.michellecoffee-advice p {
+	color: black;
+	font-family: Lato, sans-serif;
+	font-size:  18px;
+	text-align: center;
+}
+
+.mcfooter {
+	color: black;
+	font-family: Lato, sans-serif;
+	font-size:  12px;
+	text-align: center;
+}
+
+/**** End Michelle Coffee advice****/
 
 
 /**** Sara S advice****/
@@ -10602,8 +10673,6 @@ body.nancys-advice {
 .angelar-advice p{font-size:18px;}
 /*****End Angela Reeder Advice*****/
 
-
-
 /***** Evelyn Groenwold Advice*****/
 .evelyn-groenwold-advice .half-width {width: 50%}
 
@@ -10620,3 +10689,30 @@ body.nancys-advice {
 .evelyn-groenwold-advice footer {padding: 20px 0 0 0; width: 100%; float: center; overflow: auto; text-align: center; font-family: 'Josefin Slab', serif; color: grey; font-size: 18px;}
 
 /***** End Evelyn Groenwold Advice*****/
+
+
+/****** carrie t's styling *******/
+
+.carrietanahill-advice {
+	font-family: sans-serif;
+	font-color: grey;
+	font-size: 20px;
+	text-align: center;
+}
+
+.carrietannahill-advice h1{
+		font-size: 30px;
+		color: #4c9fff;
+		font-weight: bold;
+}
+
+.carrietannahill-advice h4{
+		font-size: 24px;
+		color: #003B7F;
+}
+
+/******** End of carrie t's styling ******/
+/* Kat's advice! */
+.kat-advice {
+  background: lavender;
+}
