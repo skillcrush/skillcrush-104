@@ -10602,3 +10602,22 @@ body.nancys-advice {
 .angelar-advice p{font-size:18px;}
 /*****End Angela Reeder Advice*****/
 
+
+
+/***** Evelyn Groenwold Advice*****/
+.evelyn-groenwold-advice .half-width {width: 600px;}
+.evelyn-groenwold-advice .less-width {width: 50%;}  
+
+.evelyn-groenwold-advice body {float: center; overflow: auto;}
+
+.evelyn-groenwold-advice div {float: left; overflow: auto; padding: 20px 0 0 0; }
+
+.evelyn-groenwold-advice h1 {font-family: 'Josefin Slab', serif; color: grey; font-size: 18px; text-align: center; text-transform: lowercase; padding: 10px 0;}
+
+.evelyn-groenwold-advice a {color: grey; font-size: 14px; font-family: 'Josefin Slab', serif;}
+
+.evelyn-groenwold-advice li {list-style: none; text-align: left; font-family: 'Josefin Slab', serif; color: grey; font-size: 18px; line-height: 70px; margin: -10px 0 0 0;}
+
+.evelyn-groenwold-advice footer {padding: 20px 0 0 0; width: 100%; float: center; overflow: auto; text-align: center; font-family: 'Josefin Slab', serif; color: grey; font-size: 18px;}
+
+/***** End Evelyn Groenwold Advice*****/
