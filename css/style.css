@@ -10502,8 +10502,6 @@ body.nancys-advice {
 .hillarylc-advice .copyright {
   color: pink;
 }
-/********* HEAD *******/
-
 
 /* TENI'S ADVICE STYLES */
 
@@ -10625,3 +10623,7 @@ body.nancys-advice {
 }
 
 /******** End of carrie t's styling ******/
+/* Kat's advice! */
+.kat-advice {
+  background: lavender;
+}
