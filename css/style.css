@@ -19,13 +19,49 @@
     font-style: oblique;
   }
 
-  
+
 
   .rezika-advice p {
     font-family: fantasy;
     text-align: center;
     line-height: 30px;
   }
+/**** Michelle Coffee advice****/
+
+.michellecoffee-advice {
+	padding: 15px;
+}
+
+.michellecoffee-advice h1 {
+	color: #f06242;
+	font-family: Montserrat, sans-serif;
+	font-size: 36px;
+	text-align: center;
+}
+
+.michellecoffee-advice h4 {
+	color: black;
+	font-family: Montserrat, sans-serif;
+	font-size:  24px;
+	font-style: italic;
+	text-align: center;
+}
+
+.michellecoffee-advice p {
+	color: black;
+	font-family: Lato, sans-serif;
+	font-size:  18px;
+	text-align: center;
+}
+
+.mcfooter {
+	color: black;
+	font-family: Lato, sans-serif;
+	font-size:  12px;
+	text-align: center;
+}
+
+/**** End Michelle Coffee advice****/
 
 
 /**** Sara S advice****/
@@ -10602,3 +10638,28 @@ body.nancys-advice {
 .angelar-advice p{font-size:18px;}
 /*****End Angela Reeder Advice*****/
 
+/****** carrie t's styling *******/
+
+.carrietanahill-advice {
+	font-family: sans-serif;
+	font-color: grey;
+	font-size: 20px;
+	text-align: center;
+}
+
+.carrietannahill-advice h1{
+		font-size: 30px;
+		color: #4c9fff;
+		font-weight: bold;
+}
+
+.carrietannahill-advice h4{
+		font-size: 24px;
+		color: #003B7F;
+}
+
+/******** End of carrie t's styling ******/
+/* Kat's advice! */
+.kat-advice {
+  background: lavender;
+}
