@@ -10576,6 +10576,15 @@ body.nancys-advice {
 
 /***Mel90-advice***/
 .mel90-advice {
-	font-size: 27px;
+	font-size: 20px;
 	font-family: fantasy;
+	background-color: #4A61FF;
+}
+.mel90-advice h1 {
+	font-family: sans-serif;
+	color: #F2CA00;
+}
+.mel90-advice h4 {
+	font-size: 25px;
+	color: #F2CA00;
 }
