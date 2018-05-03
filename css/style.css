@@ -1,5 +1,10 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/**** drawnalex-fab-advice ***/
+#drawnalex-fab-advice p {
+	color: purple;
+}
+
 /***** Robert Cook's advice *****/
 .robertcook-advice {
 	background-color: #2E8B57;
