@@ -1,0 +1,49 @@
+
+
+font-face {
+f
+font-family: 'Work Sans', sans-serif;
+font-family: 'Cabin', sans-serif;}
+
+body {width: 1000px;
+      padding: 100px;
+      }
+
+header h1 {
+    text-align: center;
+    font-family: 'Work sans', sans-serif;
+		Font-weight: black;
+    font-size: 42px;
+    color: black;
+    font-variant:small-caps;
+		word-spacing: 0px;
+      }
+main h2 {
+	  font-family: 'Work Sans', sans-serif;
+    font-size: 32px;
+    font-weight: normal;
+    color: blue		;
+    line-height: 48px;
+	  word-spacing: 0px;
+    margin: 0 auto;
+    font-variant:small-caps;
+		padding-top: 25px;
+    }
+body p {
+    font-family: 'cabin', sans-serif;
+    font-size: 14pt;
+		font-weight: 200;
+    color:black;
+    line-height: 24px;
+		margin: 5px;
+		padding-left: 16px;
+}
+ footer p {
+     font-family: 'cabin', sans-serif;
+     font-size: 10pt;
+     font-weight: 200;
+     color:blue;
+     line-height: 24px;
+     margin: 5px;
+     padding-left: 16px;
+}
