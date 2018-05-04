@@ -10737,3 +10737,25 @@ body.nancys-advice {
 .kat-advice {
   background: lavender;
 }
+
+/****** karie k's styling *******/
+
+.kariek-advice {
+	font-family: 'open sans', sans-serif;
+	font-color: #000;
+	font-size: 20px;
+	text-align: center;
+}
+
+.kariek-advice h1{
+		font-size: 36px;
+		color: #indianred;
+		font-weight: bold;
+}
+
+.kariek-advice h4{
+		font-size: 24px;
+		color: #5b5b5b;
+}
+
+/******** End of karie k's styling ******/
