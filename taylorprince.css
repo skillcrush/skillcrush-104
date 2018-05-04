@@ -1,0 +1,36 @@
+/** Taylor's STYLES **/
+.taylorprince-advice body {
+	background-color #A9D0F5";
+	font-family: ', fantasy', sans-serif;
+	padding: 20px 0 20px 15px;
+	font-weight: 700px;
+	text-align: left;
+}
+
+.taylorprince-advice p {
+	margin-left: 40px;
+	font-family: 'fantasy', sans-serif;
+	font-size: 14px;
+	text-align: left;
+	font-color: black;
+	padding: 25px;
+	;
+}
+
+.taylorprince-advice h3 {
+	font-color: black;
+	font-size: 18px;
+	font-family: impact;
+	font-weight: 700px;
+	margin-left: 40px
+	padding: 10px;
+
+}
+.taylorprince-advice h1 {
+	font-family: 'impact', sans-serif;
+	font-color: black;
+	text-align: left;
+	padding: 20px;
+}
+
+/**End Taylor's Styles **/
