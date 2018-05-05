@@ -1,5 +1,21 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/***** Baylee Snead's advice*****/
+
+.bayleesnead-advice h4 {
+  font-family: cursive;
+  font-size: 18px;
+  text-align: left;
+  font-weight: bold;
+}
+
+.bayleesnead-advice h1 {
+  font-family: cursive;
+  font-size: 30px;
+  text-align: left;
+  font-weight: bold;
+}
+
 /***** Rhonda Hernandez's advice *****/
 
 .rhondaH-advice h4 {
@@ -16,7 +32,7 @@
     font-size: 30px;
     text-align:left;
     font-weight:bold;
-    
+
 }
 
 
