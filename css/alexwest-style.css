@@ -1,0 +1,37 @@
+/******ALEXWEST-THOUGHTS******/
+
+.alexwest-advice { 
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.alexwest-advice h1 {
+  color: #F7F0F5;
+  font-size: 37px;
+}
+
+.alexwest-advice h4 {
+  font-family: Helvetica;
+  text-align: center;
+  color: #FFCB47;
+  font-size: 30px;
+}
+
+.alexwest-advice p {
+  font-family: Helvetica;
+  text-align: center;
+  color: #ffffff;
+  font-size: 24px;
+}
+
+.alexwest-advice {
+  background-image: url('https://www.photocase.com/photos/1316852-old-blue-loneliness-dye-background-picture-wood-small-photocase-stock-photo-large.jpeg');
+  background-repeat: repeat;
+  background-position: left;
+}
+
+.alexwest-advice {
+  font-family: Helvetica;
+  font-size: 18px;
+  text-align: left;
+}
