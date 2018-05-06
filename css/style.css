@@ -10694,6 +10694,43 @@ body.nancys-advice {
 .angelar-advice p{font-size:18px;}
 /*****End Angela Reeder Advice*****/
 
+/***** ellenoliveira Advice *****/
+.ellenoliveira-advice {
+		background: #d8d8d8
+		}
+
+.ellenoliveira-advice h1 {
+	font-size: 28px;
+	font-family: 'Playfair Display', serif;
+  text-align: center;
+  color: #468499;
+}
+
+.ellenoliveira-advice h3 {
+	font-size: 24px;
+	font-family: 'Petit Formal Script', cursive;
+  text-align: center;
+	line-height: 24px;
+  color: #994684;
+}
+
+.ellenoliveira-advice p {
+	font-size: 20px;
+	font-family: 'Montserrat', sans-serif;
+	text-align: justify;
+	line-height: 24px;
+	color: #849946;
+}
+
+.ellenoliveira-advice footer p {
+	font-size: 12px;
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+	color: #468499;
+}
+
+/***** end ellenoliveira Advice *****/
+
 /***** Evelyn Groenwold Advice*****/
 .evelyn-groenwold-advice .half-width {width: 50%}
 
