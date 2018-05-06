@@ -10835,3 +10835,14 @@ body.nancys-advice {
 .kat-advice {
   background: lavender;
 }
+/* Nicolemichelle88's styles */
+.nicolemichelle88-advice h1, h4{
+  text-align: center;
+  font-family: sans-serif;
+  color: thistle;
+}
+
+.nicolemichelle88-advice {
+  background-color: dimgrey;
+  color: papayawhip;
+}
