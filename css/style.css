@@ -1,5 +1,66 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+
+/***** Precious Mack's advice styles ******/
+
+.precious-advice .flex-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color:#FAFAD2;
+  border-top: solid navy 15px;
+}
+
+.precious-advice h1 {
+  font-family: 'EB Garamond', serif;
+  color: navy;
+}
+
+.advice-container {
+  background-color: coral;
+  display: flex column wrap;
+  align-self: flex-start;
+  height: auto;
+  padding-bottom: 50px;
+}
+
+.precious-advice p {
+  font-family: 'EB Garamond', serif;
+  margin: 0 30px 0 30px;
+  color: #303030;
+  font-size: 20px;
+}
+
+.precious-advice h4 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 30px;
+  flex-wrap: wrap;
+  color: navy;
+}
+
+.bottom-container {
+  background-color: #FAFAD2;
+  height: 90px;
+  border-bottom: solid navy 15px;
+  padding-bottom: 15px;
+}
+
+.copyright-container {
+  padding-top: 30px;
+  float: left;
+  width: 80%;
+}
+
+.copyright-container p {
+  font-family: 'EB Garamond', serif;
+}
+
+.link-container{
+  float: left;
+  padding-top: 30px;
+}
+/****** End Precious Mack advice styles ******/
+
 /***** Rhonda Hernandez's advice *****/
 
 .rhondaH-advice h4 {
@@ -16,7 +77,7 @@
     font-size: 30px;
     text-align:left;
     font-weight:bold;
-    
+
 }
 
 
@@ -10694,6 +10755,43 @@ body.nancys-advice {
 .angelar-advice p{font-size:18px;}
 /*****End Angela Reeder Advice*****/
 
+/***** ellenoliveira Advice *****/
+.ellenoliveira-advice {
+		background: #d8d8d8
+		}
+
+.ellenoliveira-advice h1 {
+	font-size: 28px;
+	font-family: 'Playfair Display', serif;
+  text-align: center;
+  color: #468499;
+}
+
+.ellenoliveira-advice h3 {
+	font-size: 24px;
+	font-family: 'Petit Formal Script', cursive;
+  text-align: center;
+	line-height: 24px;
+  color: #994684;
+}
+
+.ellenoliveira-advice p {
+	font-size: 20px;
+	font-family: 'Montserrat', sans-serif;
+	text-align: justify;
+	line-height: 24px;
+	color: #849946;
+}
+
+.ellenoliveira-advice footer p {
+	font-size: 12px;
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+	color: #468499;
+}
+
+/***** end ellenoliveira Advice *****/
+
 /***** Evelyn Groenwold Advice*****/
 .evelyn-groenwold-advice .half-width {width: 50%}
 
@@ -10736,4 +10834,15 @@ body.nancys-advice {
 /* Kat's advice! */
 .kat-advice {
   background: lavender;
+}
+/* Nicolemichelle88's styles */
+.nicolemichelle88-advice h1, h4{
+  text-align: center;
+  font-family: sans-serif;
+  color: thistle;
+}
+
+.nicolemichelle88-advice {
+  background-color: dimgrey;
+  color: papayawhip;
 }
