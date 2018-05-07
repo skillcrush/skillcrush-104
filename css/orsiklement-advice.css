@@ -1,0 +1,44 @@
+/** Orsi's Styles**/
+
+.orsiklement-advice h1 {
+	font-family: 'pangolin';
+	text-align: center;
+  color: #59b300;
+	font-size: 33px;
+	font-weight: bold;
+
+}
+
+.orsiklement-advice h4 {
+	font-family: 'Lobster';
+	text-align: center;
+	color: Red;
+	font-size: 28px;
+}
+
+.orsiklement-advice p {
+	font-family: 'indie flower';
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+}
+.orsiklement-advice span{
+		color: #59b300;
+		font-weight: bold;
+}
+
+.orsiklement-advice {
+	background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfzZxwAFLM0ZHL0pkzs2jJzuyHDLqJaE5vq9Be5Q9rB2lc_tdd');
+	background-position: right;
+		background-repeat:no-repeat;
+		padding-bottom: 640px;
+		padding-left: 60px;
+
+}
+
+.orsiklement-advice .footer p {
+	font-family: 'roboto';
+	font-size: 18px;
+	text-align: left;
+	margin-top: 30px;
+}
