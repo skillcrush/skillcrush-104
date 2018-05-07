@@ -1,5 +1,20 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/***** Theodore Wonderlik's styles *****/
+.theodorewonderlik-advice {
+  background-color: black;
+}
+
+.theodorewonderlik-advice h1 {
+  font-family: 'Cormorant Garamond', serif;
+  color: white;
+}
+
+.theodorewonderlik-advice p,li,a {
+  font-family: 'Proza Libre', sans-serif;
+  color:white;
+}
+
 
 /***** Precious Mack's advice styles ******/
 
@@ -4696,6 +4711,7 @@ body.kristinlinde-advice footer {
   border-bottom: 1px solid #DDDDDD;
   padding-bottom: 5px;
 }
+
 
 .lyndileighwk-advice h1{
   color: DarkSlateGray;
