@@ -1,5 +1,31 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/****** Carrie Snow's Styles ******/
+
+.carriesnow-advice p {
+  font-family: 'Lobster', cursive;
+  color: darkslategray;
+  text-align: center;
+}
+
+.carriesnow-advice h4{
+  font-size: 30px;
+  color: darkseagreen;
+  font-weight: bolder;
+  font-family: 'Abril Fatface', cursive;
+  text-align: center;
+}
+
+.carriesnow-advice h1{
+  font-size: 34px;
+  color: darkred;
+  font-weight: bolder;
+  font-family: 'Abril Fatface', cursive;
+  text-align: center;
+}
+
+
+/******* End Carrie Snow's Syles *****?????
 
 /***** Precious Mack's advice styles ******/
 
