@@ -1,0 +1,25 @@
+.terirogers-advice {
+  background: #ffe1d6;
+}
+.terirogers-advice h1 {
+
+  color: #ec4758;
+  font-family: Helvetica, Arial, sans-serif;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.terirogers-advice h4, p {
+  color: #b70e4d;
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+}
+
+ .terirogers-advice .advice {
+
+
+ 
+  border: 10px dotted pink;
+  text-align: justify;
+
+}
