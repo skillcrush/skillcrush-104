@@ -1,5 +1,186 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+
+/***** Precious Mack's advice styles ******/
+
+.precious-advice .flex-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color:#FAFAD2;
+  border-top: solid navy 15px;
+}
+
+.precious-advice h1 {
+  font-family: 'EB Garamond', serif;
+  color: navy;
+}
+
+.advice-container {
+  background-color: coral;
+  display: flex column wrap;
+  align-self: flex-start;
+  height: auto;
+  padding-bottom: 50px;
+}
+
+.precious-advice p {
+  font-family: 'EB Garamond', serif;
+  margin: 0 30px 0 30px;
+  color: #303030;
+  font-size: 20px;
+}
+
+.precious-advice h4 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 30px;
+  flex-wrap: wrap;
+  color: navy;
+}
+
+.bottom-container {
+  background-color: #FAFAD2;
+  height: 90px;
+  border-bottom: solid navy 15px;
+  padding-bottom: 15px;
+}
+
+.copyright-container {
+  padding-top: 30px;
+  float: left;
+  width: 80%;
+}
+
+.copyright-container p {
+  font-family: 'EB Garamond', serif;
+}
+
+.link-container{
+  float: left;
+  padding-top: 30px;
+}
+/****** End Precious Mack advice styles ******/
+
+/***** Rhonda Hernandez's advice *****/
+
+.rhondaH-advice h4 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    text-align:left;
+    font-weight:bold;
+
+}
+
+
+.rhondaH-advice h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+    text-align:left;
+    font-weight:bold;
+
+}
+
+
+
+/***** Robert Cook's advice *****/
+.robertcook-advice {
+	background-color: #2E8B57;
+	width: 1200px;
+	margin: 0 auto;
+}
+#robertcook-page-return {
+	font-family: 'Dancing Script', cursive;
+	color: black;
+}
+#robertcook-advice-headline {
+	font-family: 'Dancing Script', cursive;
+	text-align: center;
+	padding: 0 75px;
+	line-height: 75px;
+	font-size: 35px;
+}
+.robertcook-advice-third-width {
+	font-family: 'Dancing Script', cursive;
+	width: 350px;
+	float: left;
+	padding: 25px;
+	text-align: center;
+	font-size: 17px;
+}
+#robertcook-confidence h4, #robertcook-internet h4, #robertcook-practice h4 {
+	font-family: 'Dancing Script', cursive;
+	font-size: 30px;
+}
+#robertcook-advice-footer {
+	clear: both;
+	text-align: center;
+}
+
+
+/****** rezika advice ******/
+.rezika-advice {
+  background-color: #00e6c0;
+  width: 1000px;
+  padding: 5% 10%;
+  }
+
+
+
+  .rezika-advice header {
+    text-align: center;
+    text-decoration-line: underline;
+  }
+
+  .rezika-advice h4{
+    font-size: 150%;
+    font-style: oblique;
+  }
+
+
+
+  .rezika-advice p {
+    font-family: fantasy;
+    text-align: center;
+    line-height: 30px;
+  }
+/**** Michelle Coffee advice****/
+
+.michellecoffee-advice {
+	padding: 15px;
+}
+
+.michellecoffee-advice h1 {
+	color: #f06242;
+	font-family: Montserrat, sans-serif;
+	font-size: 36px;
+	text-align: center;
+}
+
+.michellecoffee-advice h4 {
+	color: black;
+	font-family: Montserrat, sans-serif;
+	font-size:  24px;
+	font-style: italic;
+	text-align: center;
+}
+
+.michellecoffee-advice p {
+	color: black;
+	font-family: Lato, sans-serif;
+	font-size:  18px;
+	text-align: center;
+}
+
+.mcfooter {
+	color: black;
+	font-family: Lato, sans-serif;
+	font-size:  12px;
+	text-align: center;
+}
+
+/**** End Michelle Coffee advice****/
+
+
 /**** Sara S advice****/
 
 .saras-advice {
@@ -10574,3 +10755,94 @@ body.nancys-advice {
 .angelar-advice p{font-size:18px;}
 /*****End Angela Reeder Advice*****/
 
+/***** ellenoliveira Advice *****/
+.ellenoliveira-advice {
+		background: #d8d8d8
+		}
+
+.ellenoliveira-advice h1 {
+	font-size: 28px;
+	font-family: 'Playfair Display', serif;
+  text-align: center;
+  color: #468499;
+}
+
+.ellenoliveira-advice h3 {
+	font-size: 24px;
+	font-family: 'Petit Formal Script', cursive;
+  text-align: center;
+	line-height: 24px;
+  color: #994684;
+}
+
+.ellenoliveira-advice p {
+	font-size: 20px;
+	font-family: 'Montserrat', sans-serif;
+	text-align: justify;
+	line-height: 24px;
+	color: #849946;
+}
+
+.ellenoliveira-advice footer p {
+	font-size: 12px;
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+	color: #468499;
+}
+
+/***** end ellenoliveira Advice *****/
+
+/***** Evelyn Groenwold Advice*****/
+.evelyn-groenwold-advice .half-width {width: 50%}
+
+.evelyn-groenwold-advice body {float: center; overflow: auto;}
+
+.evelyn-groenwold-advice div {float: left; overflow: auto; padding: 20px 0 0 0;}
+
+.evelyn-groenwold-advice h1 {font-family: 'Josefin Slab', serif; color: grey; font-size: 18px; text-align: center; text-transform: lowercase; padding: 10px 0;}
+
+.evelyn-groenwold-advice a {color: grey; font-size: 14px; font-family: 'Josefin Slab', serif;}
+
+.evelyn-groenwold-advice li {list-style: none; text-align: left; font-family: 'Josefin Slab', serif; color: grey; font-size: 2vw; line-height: 8vh;}
+
+.evelyn-groenwold-advice footer {padding: 20px 0 0 0; width: 100%; float: center; overflow: auto; text-align: center; font-family: 'Josefin Slab', serif; color: grey; font-size: 18px;}
+
+/***** End Evelyn Groenwold Advice*****/
+
+
+/****** carrie t's styling *******/
+
+.carrietanahill-advice {
+	font-family: sans-serif;
+	font-color: grey;
+	font-size: 20px;
+	text-align: center;
+}
+
+.carrietannahill-advice h1{
+		font-size: 30px;
+		color: #4c9fff;
+		font-weight: bold;
+}
+
+.carrietannahill-advice h4{
+		font-size: 24px;
+		color: #003B7F;
+}
+
+/******** End of carrie t's styling ******/
+/* Kat's advice! */
+.kat-advice {
+  background: lavender;
+}
+/* Nicolemichelle88's styles */
+.nicolemichelle88-advice h1, h4{
+  text-align: center;
+  font-family: sans-serif;
+  color: thistle;
+}
+
+.nicolemichelle88-advice {
+  background-color: dimgrey;
+  color: papayawhip;
+}
