@@ -10886,3 +10886,49 @@ body.nancys-advice {
   background-color: dimgrey;
   color: papayawhip;
 }
+.ladysakura-advice body {
+  background-color: #ffb3d9;
+}
+
+.ladysakura-advice header {
+  position: relative;
+  margin: auto;
+  display: block;
+  margin-top: 8%;
+  width: 600px;
+  height: 100px;
+  background: none;
+}
+
+.ladysakura-advice h1 {
+  font-family: 'Broadway', cursive;
+  font-size: 36px;
+  font-weight: 200;
+}
+
+.ladysakura-advice h2 {
+  font-family: 'Montserrat', cursive;
+  font-size: 28px;
+  color: #ffffff;
+}
+
+.ladysakura-advice h3 {
+  font-family: 'Lobster', cursive;
+  font-size: 36px;
+  font-weight: 200;
+}
+.ladysakura-advice p{
+  font-family: 'Arial';
+  color: #ffffff;
+  font-size: 24px;
+}
+
+.ladysakura-advice{
+  position: relative;
+  margin: auto;
+  display: block;
+  margin-top: 8%;
+  width: 600px;
+  height: 340px;
+  background: none;
+}
