@@ -10886,9 +10886,6 @@ body.nancys-advice {
   background-color: dimgrey;
   color: papayawhip;
 }
-.ladysakura-advice body {
-  background-color: #ffb3d9;
-}
 
 .ladysakura-advice header {
   position: relative;
@@ -10901,9 +10898,11 @@ body.nancys-advice {
 }
 
 .ladysakura-advice h1 {
-  font-family: 'Broadway', cursive;
-  font-size: 36px;
+  font-family: 'Lobster', bold;
+  font-size: 32px;
   font-weight: 200;
+  text-align: center;
+  text-transform: none;
 }
 
 .ladysakura-advice h2 {
@@ -10916,6 +10915,8 @@ body.nancys-advice {
   font-family: 'Lobster', cursive;
   font-size: 36px;
   font-weight: 200;
+  color: #9966ff;
+  text-align: center;
 }
 .ladysakura-advice p{
   font-family: 'Arial';
@@ -10929,6 +10930,6 @@ body.nancys-advice {
   display: block;
   margin-top: 8%;
   width: 600px;
-  height: 340px;
-  background: none;
+  height: 400px;
+  background: #ffb3d9;
 }
