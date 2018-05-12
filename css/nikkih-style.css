@@ -1,0 +1,16 @@
+/* Base Styles */
+
+body {
+    width: 1000px;
+    margin: auto;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.heading {
+    font-family: 'Open Sans', sans-serif;
+}
+
+p {
+    font-family: 'PT Sans', sans-serif;
+}
