@@ -10912,3 +10912,45 @@ body.nancys-advice {
   background-color: dimgrey;
   color: papayawhip;
 }
+
+/*****AMANDAK Advice*****/
+
+.amandak-advice {
+	background: #F9CBEB;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Titan One', cursive;
+}
+
+.section1-advice, .section2-advice {
+	width: 590px;
+	height: auto;
+	float: left;
+	padding: 10px 30px;
+}
+
+p {
+	font-size: 16px;
+	line-height: 24px;
+	padding: 0 30px;
+}
+
+h4 {
+	color: #353434;
+	font-size: 21px;
+	text-decoration: underline;
+}
+
+footer {
+	height: 50px;
+	border-top: 2px solid #591473;
+	margin: 0;
+	clear: both;
+	text-align: center;
+	padding-top: 20px;
+}
+
+/*****End of Amandak advice*****/
