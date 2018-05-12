@@ -40,6 +40,32 @@
   color: #603D3D;
 }
 
+/****** Carrie Snow's Styles ******/
+
+.carriesnow-advice p {
+  font-family: 'Lobster', cursive;
+  color: darkslategray;
+  text-align: center;
+}
+
+.carriesnow-advice h4{
+  font-size: 30px;
+  color: darkseagreen;
+  font-weight: bolder;
+  font-family: 'Abril Fatface', cursive;
+  text-align: center;
+}
+
+.carriesnow-advice h1{
+  font-size: 34px;
+  color: darkred;
+  font-weight: bolder;
+  font-family: 'Abril Fatface', cursive;
+  text-align: center;
+}
+
+
+/******* End Carrie Snow's Syles *****?????
 
 /***** Precious Mack's advice styles ******/
 
@@ -10854,7 +10880,7 @@ body.nancys-advice {
 
 .carrietanahill-advice {
 	font-family: sans-serif;
-	font-color: grey;
+	color: grey;
 	font-size: 20px;
 	text-align: center;
 }
