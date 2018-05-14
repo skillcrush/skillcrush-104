@@ -29,6 +29,73 @@
 
 .rachelkamath-advice footer {
   font-variant: small-caps;
+/***** start jovietrotta-advice styles *****/
+.jovietrotta-advice {
+  background-color: white;
+}
+
+.jovietrotta-advice a {
+  color: lime;
+  font-size: 10px;
+  font-family: 'Libre Barcode 39';
+  padding-left: 20px;
+}
+
+.jovietrotta-advice h1 {
+  font-size: 23px;
+  text-align: center;
+  font-family: arial;
+  text-transform: uppercase;
+}
+
+.jovietrotta-advice h4 {
+  font-size: 20px;
+  text-align: center;
+  font-family: arial;
+  color: black;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.jovietrotta-advice section p {
+  padding-left: 225px;
+  padding-right: 225px;
+  text-align: justify;
+  font-size: 15px;
+}
+
+.jovietrotta-advice footer {
+  font-size: 10px;
+  text-align: center;
+  font-family: arial;
+  text-transform: uppercase;
+  font-weight: bolder;
+  border-top-color: lime;
+}
+
+.jovietrotta-advice footer p {
+  line-height: 0px;
+}
+
+.jovietrotta-advice .icons {
+  font-size: 40px;
+}
+
+/***** end jovietrotta-advice styles *****/
+
+/***** Theodore Wonderlik's styles *****/
+.theodorewonderlik-advice {
+  background-color: black;
+}
+
+.theodorewonderlik-advice h1 {
+  font-family: 'Cormorant Garamond', serif;
+  color: white;
+}
+
+.theodorewonderlik-advice p,li,a {
+  font-family: 'Proza Libre', sans-serif;
+  color:white;
 }
 
 /***** mollie-advice styles *****/
@@ -71,6 +138,32 @@
   color: #603D3D;
 }
 
+/****** Carrie Snow's Styles ******/
+
+.carriesnow-advice p {
+  font-family: 'Lobster', cursive;
+  color: darkslategray;
+  text-align: center;
+}
+
+.carriesnow-advice h4{
+  font-size: 30px;
+  color: darkseagreen;
+  font-weight: bolder;
+  font-family: 'Abril Fatface', cursive;
+  text-align: center;
+}
+
+.carriesnow-advice h1{
+  font-size: 34px;
+  color: darkred;
+  font-weight: bolder;
+  font-family: 'Abril Fatface', cursive;
+  text-align: center;
+}
+
+
+/******* End Carrie Snow's Syles *****?????
 
 /***** Precious Mack's advice styles ******/
 
@@ -4767,6 +4860,7 @@ body.kristinlinde-advice footer {
   border-bottom: 1px solid #DDDDDD;
   padding-bottom: 5px;
 }
+
 
 .lyndileighwk-advice h1{
   color: DarkSlateGray;
@@ -10885,7 +10979,7 @@ body.nancys-advice {
 
 .carrietanahill-advice {
 	font-family: sans-serif;
-	font-color: grey;
+	color: grey;
 	font-size: 20px;
 	text-align: center;
 }
@@ -10917,3 +11011,45 @@ body.nancys-advice {
   background-color: dimgrey;
   color: papayawhip;
 }
+
+/*****AMANDAK Advice*****/
+
+.amandak-advice {
+	background: #F9CBEB;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Titan One', cursive;
+}
+
+.section1-advice, .section2-advice {
+	width: 590px;
+	height: auto;
+	float: left;
+	padding: 10px 30px;
+}
+
+p {
+	font-size: 16px;
+	line-height: 24px;
+	padding: 0 30px;
+}
+
+h4 {
+	color: #353434;
+	font-size: 21px;
+	text-decoration: underline;
+}
+
+footer {
+	height: 50px;
+	border-top: 2px solid #591473;
+	margin: 0;
+	clear: both;
+	text-align: center;
+	padding-top: 20px;
+}
+
+/*****End of Amandak advice*****/
