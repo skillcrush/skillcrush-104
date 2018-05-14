@@ -15,6 +15,72 @@
   color:white;
 }
 
+/***** mollie-advice styles *****/
+
+.mollie-advice {
+    padding-left: 80px;
+    padding-right: 80px;
+    background-color: #84776F;
+    line-height: 40px;
+    font-family:'Josefin Sans', sans-serif;
+}
+
+.mollie-advice h1 {
+    text-align: center;
+    font-size: 22px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 60px;
+    font-weight: 700;
+    color: #DD9792;
+    line-height: 30px;
+    font-family:'Josefin Sans', sans-serif;
+}
+
+.mollie-advice h4 {
+    color: #F9EAE1;
+    font-size: 18px;
+    text-align: left;
+    font-family:'Josefin Sans', sans-serif;
+}
+
+.mollie-advice p {
+  justify-content: center;
+  font-weight: 400;
+  color: #D1BE9C;
+}
+
+.mollie-advice footer p {
+  padding-top: 50px;
+  color: #603D3D;
+}
+
+/****** Carrie Snow's Styles ******/
+
+.carriesnow-advice p {
+  font-family: 'Lobster', cursive;
+  color: darkslategray;
+  text-align: center;
+}
+
+.carriesnow-advice h4{
+  font-size: 30px;
+  color: darkseagreen;
+  font-weight: bolder;
+  font-family: 'Abril Fatface', cursive;
+  text-align: center;
+}
+
+.carriesnow-advice h1{
+  font-size: 34px;
+  color: darkred;
+  font-weight: bolder;
+  font-family: 'Abril Fatface', cursive;
+  text-align: center;
+}
+
+
+/******* End Carrie Snow's Syles *****?????
 
 /***** Precious Mack's advice styles ******/
 
@@ -10830,7 +10896,7 @@ body.nancys-advice {
 
 .carrietanahill-advice {
 	font-family: sans-serif;
-	font-color: grey;
+	color: grey;
 	font-size: 20px;
 	text-align: center;
 }
@@ -10862,3 +10928,45 @@ body.nancys-advice {
   background-color: dimgrey;
   color: papayawhip;
 }
+
+/*****AMANDAK Advice*****/
+
+.amandak-advice {
+	background: #F9CBEB;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Titan One', cursive;
+}
+
+.section1-advice, .section2-advice {
+	width: 590px;
+	height: auto;
+	float: left;
+	padding: 10px 30px;
+}
+
+p {
+	font-size: 16px;
+	line-height: 24px;
+	padding: 0 30px;
+}
+
+h4 {
+	color: #353434;
+	font-size: 21px;
+	text-decoration: underline;
+}
+
+footer {
+	height: 50px;
+	border-top: 2px solid #591473;
+	margin: 0;
+	clear: both;
+	text-align: center;
+	padding-top: 20px;
+}
+
+/*****End of Amandak advice*****/
