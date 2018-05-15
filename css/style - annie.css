@@ -1,46 +1,5 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
-/**annies-advice styles**/
-
-.annies-advice{
-  background: #ededed;
-  font-family: 'Yantramanav', sans-serif;
-  
-}
-
-.annies-advice a{
-  color:#2c2a2c;
-  text-align: center;
-}
-
-.annies-advice h1{
-  color:#71384c;
-  font-family: 'Tinos', serif;
-  font-weight: bold;
-  text-align:center;
-
-}
-
-.annies-advice h4{
-  color: #2c2a2c;
-  font-family: 'Tinos', serif;
-  font-weight: bold;
-
-}
-
-.annies-advice p{
-  color: #232323;
-
-}
-
-.annies-advice footer{
-  color: #232323;
-  border-color: #71384c;
-
-}
-
-/**end annies-advice styles**/
-
 /***** start jovietrotta-advice styles *****/
 .jovietrotta-advice {
   background-color: white;
