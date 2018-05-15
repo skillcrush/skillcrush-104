@@ -1,0 +1,32 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/***** Nomi's advice styles *****/
+
+.nomivos-advice {
+  padding: 0 80px;
+  background-color: #00cc99;
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+.nomivos-advice h1 {
+  text-align: center;
+  color: #126272;
+}
+
+.nomivos-advice h4 {
+  color: #900C3F;
+  padding: 40px 0 0 0;
+}
+
+.nomivos-advice .advice {
+  padding: 40px 0;
+}
+
+.nomivos-advice p {
+  padding: 20px 0;
+  line-height: 25px;
+}
+
+.nomivos-advice footer {
+  font-variant: small-caps;
+}
