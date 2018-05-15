@@ -10954,3 +10954,63 @@ footer {
 }
 
 /*****End of Amandak advice*****/
+
+/***** Jenn's Advice*****/
+
+.jennseide-advice h1 {
+	font-family: 'Arial';
+	color: purple;
+	text-align: center;
+	font-size: 60px;
+}
+
+.jennseide-advice h4 {
+	font-family: 'Raleway' ;
+	color: black;
+	text-align: center;
+	font-size: 30px;
+}
+
+.jennseide-advice p {
+	font-family: 'arial', sans-serif;
+	text-align: center;
+	font-size: 20px;
+	padding-left: 125px;
+	padding-right: 125px;
+	line-height: 30px;
+}
+
+.jennseide-advice a {
+	font-family: 'Montserrat', sans-serif;
+	color: purple;
+	text-align: center;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+.jennseide-advice p {
+	color: GhostWhite;
+	text-align: center;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+.jennseide-advice div p {
+	padding: 40px;
+	border-bottom-left-radius: 20px;
+	border-top-right-radius: 20px;
+	background-color: purple;
+	margin: 0px, 150px, 0px, 150px;
+}
+
+.jennseide-advice {
+	background-color: skyblue;
+	padding: 50px;
+	margin: 0px, 150px, 0px, 150px;
+	margin-top: -50px;
+}
+
+.jennseide-advice .footer p{
+	font-size: 12px;
+
+/***** Jenn's Advice*****/
