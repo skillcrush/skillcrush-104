@@ -95,7 +95,9 @@
   color: white;
 }
 
-.theodorewonderlik-advice p,li,a {
+.theodorewonderlik-advice p,
+.theodorewonderlik-advice li,
+.theodorewonderlik-advice a {
   font-family: 'Proza Libre', sans-serif;
   color:white;
 }
