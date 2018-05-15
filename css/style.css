@@ -29,6 +29,8 @@
 
 .rachelkamath-advice footer {
   font-variant: small-caps;
+}
+
 /***** start jovietrotta-advice styles *****/
 .jovietrotta-advice {
   background-color: white;
@@ -96,6 +98,43 @@
 .theodorewonderlik-advice p,li,a {
   font-family: 'Proza Libre', sans-serif;
   color:white;
+}
+/** fred's advice **/
+
+.freds-advice {
+    background-color: #d9dde3;
+}
+
+.freds-advice h1 {
+    font-family: 'squada one';
+    font-size: 42px;
+    color: #f64e39;
+    text-align: left;
+    padding-left: 80px;
+}
+
+.freds-advice h3 {
+  font-family: 'squada one';
+  font-size: 36px;
+  color: #f86b5a;
+  text-align: left;
+  padding-left: 80px;
+}
+
+.freds-advice h4 {
+  font-family: 'squada one';
+  font-size: 24px;
+  color: #4271b8;
+  text-align: left;
+  padding-left: 150px;
+}
+
+.freds-advice p {
+  font-family: 'rockwell';
+  font-size: 16px;
+  color: #0c1522;
+  text-align: left;
+  padding-left: 150px;
 }
 
 /***** mollie-advice styles *****/
