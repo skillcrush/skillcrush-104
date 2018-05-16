@@ -1,4 +1,4 @@
-webguypro-advice {
+.webguypro-advice {
     background-color: #bbc085;
     padding: 0 40px;
     font-family: 'Lora', serif;
@@ -11,7 +11,7 @@ webguypro-advice {
 }
 
 .webguypro-advice header {
-      height: 800px;
+      height: 150px;
 
 }
 .webguypro-advice h4 {
