@@ -29,6 +29,8 @@
 
 .rachelkamath-advice footer {
   font-variant: small-caps;
+}
+
 /***** start jovietrotta-advice styles *****/
 .jovietrotta-advice {
   background-color: white;
@@ -93,9 +95,48 @@
   color: white;
 }
 
-.theodorewonderlik-advice p,li,a {
+.theodorewonderlik-advice p,
+.theodorewonderlik-advice li,
+.theodorewonderlik-advice a {
   font-family: 'Proza Libre', sans-serif;
   color:white;
+}
+/** fred's advice **/
+
+.freds-advice {
+    background-color: #d9dde3;
+}
+
+.freds-advice h1 {
+    font-family: 'squada one';
+    font-size: 42px;
+    color: #f64e39;
+    text-align: left;
+    padding-left: 80px;
+}
+
+.freds-advice h3 {
+  font-family: 'squada one';
+  font-size: 36px;
+  color: #f86b5a;
+  text-align: left;
+  padding-left: 80px;
+}
+
+.freds-advice h4 {
+  font-family: 'squada one';
+  font-size: 24px;
+  color: #4271b8;
+  text-align: left;
+  padding-left: 150px;
+}
+
+.freds-advice p {
+  font-family: 'rockwell';
+  font-size: 16px;
+  color: #0c1522;
+  text-align: left;
+  padding-left: 150px;
 }
 
 /***** mollie-advice styles *****/
@@ -11000,6 +11041,29 @@ body.nancys-advice {
 .kat-advice {
   background: lavender;
 }
+
+/****** karie k's styling *******/
+
+.kariek-advice {
+	font-family: 'open sans', sans-serif;
+	color: #000;
+	font-size: 20px;
+	text-align: center;
+}
+
+.kariek-advice h1{
+		font-size: 36px;
+		color: indianred;
+		font-weight: bold;
+}
+
+.kariek-advice h4{
+		font-size: 24px;
+		color: #5b5b5b;
+}
+
+/******** End of karie k's styling ******/
+
 /* Nicolemichelle88's styles */
 .nicolemichelle88-advice h1, h4{
   text-align: center;
