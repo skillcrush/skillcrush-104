@@ -1,5 +1,17 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/*** mily's styles ***/
+
+.mily-advice {
+  font-family:'Abril Fatface', cursive;
+  text-align: center;
+}
+
+.mily-advice p {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+
 /***** mollie-advice styles *****/
 
 .mollie-advice {
