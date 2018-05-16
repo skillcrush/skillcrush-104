@@ -1,5 +1,20 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/***** Hannah's advice styles *****/
+.hannahlamb-advice {
+  background-color: lightskyblue;
+  font-family: Arial;
+}
+
+.hannahlamb-advice h1 {
+  text-align: center;
+  color: white;
+}
+
+.hannahlamb-advice h4 {
+  color: white;
+}
+
 /***** Rachel's advice styles *****/
 
 .rachelkamath-advice {
