@@ -29,6 +29,8 @@
 
 .rachelkamath-advice footer {
   font-variant: small-caps;
+}
+
 /***** start jovietrotta-advice styles *****/
 .jovietrotta-advice {
   background-color: white;
@@ -93,9 +95,48 @@
   color: white;
 }
 
-.theodorewonderlik-advice p,li,a {
+.theodorewonderlik-advice p,
+.theodorewonderlik-advice li,
+.theodorewonderlik-advice a {
   font-family: 'Proza Libre', sans-serif;
   color:white;
+}
+/** fred's advice **/
+
+.freds-advice {
+    background-color: #d9dde3;
+}
+
+.freds-advice h1 {
+    font-family: 'squada one';
+    font-size: 42px;
+    color: #f64e39;
+    text-align: left;
+    padding-left: 80px;
+}
+
+.freds-advice h3 {
+  font-family: 'squada one';
+  font-size: 36px;
+  color: #f86b5a;
+  text-align: left;
+  padding-left: 80px;
+}
+
+.freds-advice h4 {
+  font-family: 'squada one';
+  font-size: 24px;
+  color: #4271b8;
+  text-align: left;
+  padding-left: 150px;
+}
+
+.freds-advice p {
+  font-family: 'rockwell';
+  font-size: 16px;
+  color: #0c1522;
+  text-align: left;
+  padding-left: 150px;
 }
 
 /***** mollie-advice styles *****/
@@ -11000,6 +11041,29 @@ body.nancys-advice {
 .kat-advice {
   background: lavender;
 }
+
+/****** karie k's styling *******/
+
+.kariek-advice {
+	font-family: 'open sans', sans-serif;
+	color: #000;
+	font-size: 20px;
+	text-align: center;
+}
+
+.kariek-advice h1{
+		font-size: 36px;
+		color: indianred;
+		font-weight: bold;
+}
+
+.kariek-advice h4{
+		font-size: 24px;
+		color: #5b5b5b;
+}
+
+/******** End of karie k's styling ******/
+
 /* Nicolemichelle88's styles */
 .nicolemichelle88-advice h1, h4{
   text-align: center;
@@ -11020,30 +11084,30 @@ body.nancys-advice {
 	text-align: center;
 }
 
-h1 {
+.amandak-advice h1 {
 	font-family: 'Titan One', cursive;
 }
 
-.section1-advice, .section2-advice {
+.amandak-advice .section1-advice, .section2-advice {
 	width: 590px;
 	height: auto;
 	float: left;
 	padding: 10px 30px;
 }
 
-p {
+.amandak-advice p {
 	font-size: 16px;
 	line-height: 24px;
 	padding: 0 30px;
 }
 
-h4 {
+.amandak-advice h4 {
 	color: #353434;
 	font-size: 21px;
 	text-decoration: underline;
 }
 
-footer {
+.amandak-advice footer {
 	height: 50px;
 	border-top: 2px solid #591473;
 	margin: 0;
@@ -11053,3 +11117,49 @@ footer {
 }
 
 /*****End of Amandak advice*****/
+.ladysakura-advice header {
+  position: relative;
+  margin: auto;
+  display: block;
+  margin-top: 8%;
+  width: 600px;
+  height: 100px;
+  background: none;
+}
+
+.ladysakura-advice h1 {
+  font-family: 'Lobster', bold;
+  font-size: 32px;
+  font-weight: 200;
+  text-align: center;
+  text-transform: none;
+}
+
+.ladysakura-advice h2 {
+  font-family: 'Montserrat', cursive;
+  font-size: 28px;
+  color: #ffffff;
+}
+
+.ladysakura-advice h3 {
+  font-family: 'Lobster', cursive;
+  font-size: 36px;
+  font-weight: 200;
+  color: #9966ff;
+  text-align: center;
+}
+.ladysakura-advice p{
+  font-family: 'Arial';
+  color: #ffffff;
+  font-size: 24px;
+}
+
+.ladysakura-advice{
+  position: relative;
+  margin: auto;
+  display: block;
+  margin-top: 8%;
+  width: 600px;
+  height: 400px;
+  background: #ffb3d9;
+}
