@@ -1,4 +1,52 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+/***** Bryan Herbert's advice *****/
+
+.bryanherbert-advice {
+  background-color:#fff3e6;
+  
+}
+
+.bryanherbert-advice h1 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 45px;
+  line-height: 40px;
+  margin: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+  font-variant: small-caps; 
+  
+}
+
+.bryanherbert-advice h4 {
+  font-family: 'Nunito', sans-serif;
+  font-size: 25px;
+  text-align: left;
+  font-variant: small-caps;
+
+}
+
+.bryanherbert-advice p {
+  font-family: 'Nunito', sans-serif;
+  font-size: 20px;
+  line-height: 12px;
+  text-align: left;
+
+}
+
+.bryanherbert-advice-italic {
+  color: firebrick;
+  font-style: italic;
+}
+
+.bryanherbert-advice-footer p {
+  color: firebrick;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  font-style: italic;
+  padding-top: 75px;
+  text-align: center;
+  
+}
 
 /***** Jen's advice styles *****/
 .jens-advice {
