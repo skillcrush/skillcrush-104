@@ -1,5 +1,39 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/*** Demaris' advice styles ***/
+.demarisbeyene-advice {
+  padding: 0 80px;
+  background-color:#9B9986;
+  font-family: Didot;
+}
+
+.demarisbeyene-advice h1 {
+ text-align: center;
+ color: #EF4575;
+}
+
+.demarisbeyene-advice h4 {
+   color: #1E1E20;
+   padding: 40px 0 0 0;
+}
+
+.demarisbeyene-advice .advice {
+  padding: 40px 0;
+}
+
+.demarisbeyene-advice p {
+  padding: 20px 0;
+  line-height: 25px 0;
+}
+
+.demarisbeyene-advice footer {
+  font-variant: small-caps;
+}
+
+/*** End Demaris' advice styles ***/
+
+
+
 /***** Rachel's advice styles *****/
 
 .rachelkamath-advice {
