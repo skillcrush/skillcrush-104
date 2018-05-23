@@ -1,81 +1,40 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
-/***** Bryan Herbert's advice *****/
 
-.bryanherbert-advice {
-  background-color:#fff3e6;
-  
+/*** Demaris' advice styles ***/
+.demarisbeyene-advice {
+  padding: 0 80px;
+  background-color:#9B9986;
+  font-family: Didot;
 }
 
-.bryanherbert-advice h1 {
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-size: 45px;
-  line-height: 40px;
-  margin: 50px;
-  padding-bottom: 50px;
-  text-align: center;
-  font-variant: small-caps; 
-  
+.demarisbeyene-advice h1 {
+ text-align: center;
+ color: #EF4575;
 }
 
-.bryanherbert-advice h4 {
-  font-family: 'Nunito', sans-serif;
-  font-size: 25px;
-  text-align: left;
+.demarisbeyene-advice h4 {
+   color: #1E1E20;
+   padding: 40px 0 0 0;
+}
+
+.demarisbeyene-advice .advice {
+  padding: 40px 0;
+}
+
+.demarisbeyene-advice p {
+  padding: 20px 0;
+  line-height: 25px 0;
+}
+
+.demarisbeyene-advice footer {
   font-variant: small-caps;
-
 }
 
-.bryanherbert-advice p {
-  font-family: 'Nunito', sans-serif;
-  font-size: 20px;
-  line-height: 12px;
-  text-align: left;
+/*** End Demaris' advice styles ***/
 
-}
 
-.bryanherbert-advice-italic {
-  color: firebrick;
-  font-style: italic;
-}
 
-.bryanherbert-advice-footer p {
-  color: firebrick;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 18px;
-  font-style: italic;
-  padding-top: 75px;
-  text-align: center;
-  
-}
 
-/***** Jen's advice styles *****/
-.jens-advice {
-  background-color: MediumSeaGreen;
-}
-
-.jens-advice h1 {
-  font-family: 'Arial', sans-serif;
-  font-variant: small-caps;
-  text-align: center;
-  color: white;
-}
-
-.jens-advice h4 {
-  font-size: 30px;
-}
-
-.jens-advice h4,
-.jens-advice p {
-  font-family: 'Verdana', sans-serif;
-  color: #000066;
-}
-
-.jens-advice footer {
-  font-family: 'Arial', sans-serif;
-  font-variant: small-caps;
-  text-align: center;
-  color: white; 
-}
 /***** Rachel's advice styles *****/
 
 .rachelkamath-advice {
