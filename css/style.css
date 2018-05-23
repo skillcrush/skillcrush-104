@@ -11163,3 +11163,36 @@ body.nancys-advice {
   height: 400px;
   background: #ffb3d9;
 }
+
+/****Elizabeth Booker Style*****/
+
+.ebooker-advice{
+  background: cornflowerblue;
+  font-family: 'Kavivanar', cursive;
+}
+
+.ebooker-advice H1{
+  color: navy;
+  font-size: 38px;
+  font-family: 'Modern Antiqua', cursive;
+  text-align: center;
+  position: relative;
+  margin: auto;
+  display: block;
+  margin-top: 8%;
+  width: 900px;
+
+}
+
+.ebooker-advice p{
+  color: DarkSlateGray;
+  font-size: 24px;
+  text-align: justify;
+}
+
+.ebooker-advice h4{
+  color: pink;
+  font-size: 28px;
+  font-weight: bolder;
+  font-family: 'Indie Flower', cursive;
+}
