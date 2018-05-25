@@ -11240,6 +11240,26 @@ body.nancys-advice {
   background: #ffb3d9;
 }
 
+/**** PattiR's advise ****/
+.pattir-advice  h1 {
+	font-family: 'Kavivanar', cursive;
+	font-size: 36px;
+	color: #002966;
+	text-align: center;
+}
+
+.pattir-advice h4 {
+	font-family: 'Sura', serif;
+	font-size: 24px;
+	color: #990099;
+}
+
+.pattir-advice p {
+	font-family: 'Sura', serif;
+	font-size: 18px;
+	color: #666699;
+}
+	
 /****Nancy's Advice *again* *****/
 
 .nancys-advice-again header a {
