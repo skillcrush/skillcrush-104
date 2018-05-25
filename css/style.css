@@ -1,6 +1,4 @@
-/** Add a comment at the beginning of your CSS styles with your name**/
-
-/**** Arlettas Advice ***/
+/**** Arlettas Advice ****/
 
 .arlettas-advice h1,h2 {
 	font-family: 'Homemade Apple', cursive;
@@ -11,6 +9,7 @@
 
 .advice p {
 	text-align: center;
+
 	background-color: #FEDCD2;
 	margin: 20px;
 	padding: 10px;
@@ -18,8 +17,5 @@
 	font-size: 20px;
 }
 
-img {
-	text-align:center;
-}
-
 /**** End of Arlettas Advice ****/
+
