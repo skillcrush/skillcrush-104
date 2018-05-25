@@ -11205,3 +11205,177 @@ body.nancys-advice {
 }
 
 /*****End of Amandak advice*****/
+
+.ladysakura-advice header {
+  position: relative;
+  margin: auto;
+  display: block;
+  margin-top: 8%;
+  width: 600px;
+  height: 100px;
+  background: none;
+}
+
+.ladysakura-advice h1 {
+  font-family: 'Lobster', bold;
+  font-size: 32px;
+  font-weight: 200;
+  text-align: center;
+  text-transform: none;
+}
+
+.ladysakura-advice h2 {
+  font-family: 'Montserrat', cursive;
+  font-size: 28px;
+  color: #ffffff;
+}
+
+.ladysakura-advice h3 {
+  font-family: 'Lobster', cursive;
+  font-size: 36px;
+  font-weight: 200;
+  color: #9966ff;
+  text-align: center;
+}
+.ladysakura-advice p{
+  font-family: 'Arial';
+  color: #ffffff;
+  font-size: 24px;
+}
+
+.ladysakura-advice{
+  position: relative;
+  margin: auto;
+  display: block;
+  margin-top: 8%;
+  width: 600px;
+  height: 400px;
+  background: #ffb3d9;
+}
+
+/**** PattiR's advise ****/
+.pattir-advice  h1 {
+	font-family: 'Kavivanar', cursive;
+	font-size: 36px;
+	color: #002966;
+	text-align: center;
+}
+
+.pattir-advice h4 {
+	font-family: 'Sura', serif;
+	font-size: 24px;
+	color: #990099;
+}
+
+.pattir-advice p {
+	font-family: 'Sura', serif;
+	font-size: 18px;
+	color: #666699;
+}
+	
+/****Nancy's Advice *again* *****/
+
+.nancys-advice-again header a {
+  color: White;
+}
+
+body.nancys-advice-again {
+  background-image: url('https://i.imgur.com/dIQ5Nim.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Quattrocento', serif;
+  margin: 0 auto;
+}
+.nancys-advice-again section {
+  max-width: 800px;
+  margin: 0 auto;
+  justify-content: center;
+  text-align: justify;
+  line-height: 24px;
+}
+
+.nancys-advice-again h1,h4 {
+  font-family: 'Quattrocento', serif;
+  text-align: center;
+  font-weight: bolder;
+  color: black;
+}
+
+.nancys-advice-again h1 {
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+
+.nancys-advice-again h4 {
+  font-family: 'Tangerine', cursive;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.nancys-advice-again p {
+  font-size: 16px;
+  font-weight: 300;
+  padding-bottom: 20px;
+}
+
+/***** END Nancy's Advice *****/
+
+/***** Jenn's Advice*****/
+
+.jennseide-advice h1 {
+	font-family: 'Arial';
+	color: purple;
+	text-align: center;
+	font-size: 60px;
+}
+
+.jennseide-advice h4 {
+	font-family: 'Raleway' ;
+	color: black;
+	text-align: center;
+	font-size: 30px;
+}
+
+.jennseide-advice p {
+	font-family: 'arial', sans-serif;
+	text-align: center;
+	font-size: 20px;
+	padding-left: 125px;
+	padding-right: 125px;
+	line-height: 30px;
+}
+
+.jennseide-advice a {
+	font-family: 'Montserrat', sans-serif;
+	color: purple;
+	text-align: center;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+.jennseide-advice p {
+	color: GhostWhite;
+	text-align: center;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+.jennseide-advice div p {
+	padding: 40px;
+	border-bottom-left-radius: 20px;
+	border-top-right-radius: 20px;
+	background-color: purple;
+	margin: 0px, 150px, 0px, 150px;
+}
+
+.jennseide-advice {
+	background-color: skyblue;
+	padding: 50px;
+	margin: 0px, 150px, 0px, 150px;
+	margin-top: -50px;
+}
+
+.jennseide-advice .footer p{
+	font-size: 12px;
+
+/***** Jenn's Advice*****/
