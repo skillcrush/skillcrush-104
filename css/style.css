@@ -215,6 +215,18 @@
   padding-left: 150px;
 }
 
+/*** mily's styles ***/
+
+.mily-advice {
+  font-family:'Abril Fatface', cursive;
+  text-align: center;
+}
+
+.mily-advice p {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+
 /***** mollie-advice styles *****/
 
 .mollie-advice {
