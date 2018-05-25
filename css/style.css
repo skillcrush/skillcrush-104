@@ -1,5 +1,81 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+/***** Bryan Herbert's advice *****/
 
+.bryanherbert-advice {
+  background-color:#fff3e6;
+
+}
+
+.bryanherbert-advice h1 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 45px;
+  line-height: 40px;
+  margin: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+  font-variant: small-caps;
+
+}
+
+.bryanherbert-advice h4 {
+  font-family: 'Nunito', sans-serif;
+  font-size: 25px;
+  text-align: left;
+  font-variant: small-caps;
+
+}
+
+.bryanherbert-advice p {
+  font-family: 'Nunito', sans-serif;
+  font-size: 20px;
+  line-height: 12px;
+  text-align: left;
+
+}
+
+.bryanherbert-advice-italic {
+  color: firebrick;
+  font-style: italic;
+}
+
+.bryanherbert-advice-footer p {
+  color: firebrick;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  font-style: italic;
+  padding-top: 75px;
+  text-align: center;
+
+}
+
+/***** Jen's advice styles *****/
+.jens-advice {
+  background-color: MediumSeaGreen;
+}
+
+.jens-advice h1 {
+  font-family: 'Arial', sans-serif;
+  font-variant: small-caps;
+  text-align: center;
+  color: white;
+}
+
+.jens-advice h4 {
+  font-size: 30px;
+}
+
+.jens-advice h4,
+.jens-advice p {
+  font-family: 'Verdana', sans-serif;
+  color: #000066;
+}
+
+.jens-advice footer {
+  font-family: 'Arial', sans-serif;
+  font-variant: small-caps;
+  text-align: center;
+  color: white;
+}
 /***** Rachel's advice styles *****/
 
 .rachelkamath-advice {
@@ -29,6 +105,8 @@
 
 .rachelkamath-advice footer {
   font-variant: small-caps;
+}
+
 /***** start jovietrotta-advice styles *****/
 .jovietrotta-advice {
   background-color: white;
@@ -93,9 +171,48 @@
   color: white;
 }
 
-.theodorewonderlik-advice p,li,a {
+.theodorewonderlik-advice p,
+.theodorewonderlik-advice li,
+.theodorewonderlik-advice a {
   font-family: 'Proza Libre', sans-serif;
   color:white;
+}
+/** fred's advice **/
+
+.freds-advice {
+    background-color: #d9dde3;
+}
+
+.freds-advice h1 {
+    font-family: 'squada one';
+    font-size: 42px;
+    color: #f64e39;
+    text-align: left;
+    padding-left: 80px;
+}
+
+.freds-advice h3 {
+  font-family: 'squada one';
+  font-size: 36px;
+  color: #f86b5a;
+  text-align: left;
+  padding-left: 80px;
+}
+
+.freds-advice h4 {
+  font-family: 'squada one';
+  font-size: 24px;
+  color: #4271b8;
+  text-align: left;
+  padding-left: 150px;
+}
+
+.freds-advice p {
+  font-family: 'rockwell';
+  font-size: 16px;
+  color: #0c1522;
+  text-align: left;
+  padding-left: 150px;
 }
 
 /***** mollie-advice styles *****/
@@ -11000,6 +11117,29 @@ body.nancys-advice {
 .kat-advice {
   background: lavender;
 }
+
+/****** karie k's styling *******/
+
+.kariek-advice {
+	font-family: 'open sans', sans-serif;
+	color: #000;
+	font-size: 20px;
+	text-align: center;
+}
+
+.kariek-advice h1{
+		font-size: 36px;
+		color: indianred;
+		font-weight: bold;
+}
+
+.kariek-advice h4{
+		font-size: 24px;
+		color: #5b5b5b;
+}
+
+/******** End of karie k's styling ******/
+
 /* Nicolemichelle88's styles */
 .nicolemichelle88-advice h1, h4{
   text-align: center;
@@ -11099,3 +11239,50 @@ body.nancys-advice {
   height: 400px;
   background: #ffb3d9;
 }
+
+/****Nancy's Advice *again* *****/
+
+.nancys-advice-again header a {
+  color: White;
+}
+
+body.nancys-advice-again {
+  background-image: url('https://i.imgur.com/dIQ5Nim.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Quattrocento', serif;
+  margin: 0 auto;
+}
+.nancys-advice-again section {
+  max-width: 800px;
+  margin: 0 auto;
+  justify-content: center;
+  text-align: justify;
+  line-height: 24px;
+}
+
+.nancys-advice-again h1,h4 {
+  font-family: 'Quattrocento', serif;
+  text-align: center;
+  font-weight: bolder;
+  color: black;
+}
+
+.nancys-advice-again h1 {
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+
+.nancys-advice-again h4 {
+  font-family: 'Tangerine', cursive;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.nancys-advice-again p {
+  font-size: 16px;
+  font-weight: 300;
+  padding-bottom: 20px;
+}
+
+/***** END Nancy's Advice *****/
