@@ -3,7 +3,7 @@
 
 .bryanherbert-advice {
   background-color:#fff3e6;
-  
+
 }
 
 .bryanherbert-advice h1 {
@@ -13,8 +13,8 @@
   margin: 50px;
   padding-bottom: 50px;
   text-align: center;
-  font-variant: small-caps; 
-  
+  font-variant: small-caps;
+
 }
 
 .bryanherbert-advice h4 {
@@ -45,7 +45,7 @@
   font-style: italic;
   padding-top: 75px;
   text-align: center;
-  
+
 }
 
 /***** Jen's advice styles *****/
@@ -74,7 +74,7 @@
   font-family: 'Arial', sans-serif;
   font-variant: small-caps;
   text-align: center;
-  color: white; 
+  color: white;
 }
 /***** Rachel's advice styles *****/
 
@@ -11260,3 +11260,49 @@ body.nancys-advice {
 	color: #666699;
 }
 	
+/****Nancy's Advice *again* *****/
+
+.nancys-advice-again header a {
+  color: White;
+}
+
+body.nancys-advice-again {
+  background-image: url('https://i.imgur.com/dIQ5Nim.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Quattrocento', serif;
+  margin: 0 auto;
+}
+.nancys-advice-again section {
+  max-width: 800px;
+  margin: 0 auto;
+  justify-content: center;
+  text-align: justify;
+  line-height: 24px;
+}
+
+.nancys-advice-again h1,h4 {
+  font-family: 'Quattrocento', serif;
+  text-align: center;
+  font-weight: bolder;
+  color: black;
+}
+
+.nancys-advice-again h1 {
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+
+.nancys-advice-again h4 {
+  font-family: 'Tangerine', cursive;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.nancys-advice-again p {
+  font-size: 16px;
+  font-weight: 300;
+  padding-bottom: 20px;
+}
+
+/***** END Nancy's Advice *****/
