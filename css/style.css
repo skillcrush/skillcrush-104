@@ -11377,5 +11377,26 @@ body.nancys-advice-again {
 
 .jennseide-advice .footer p{
 	font-size: 12px;
-
+}
 /***** Jenn's Advice*****/
+.relandlogan-advice {
+  background: ivory;
+  margin: auto;
+}
+.relandlogan-advice h1 {
+  font-family: 'Lobster';
+  font-size:48px;
+  color: navy;
+}
+
+.relandlogan-advice h4{
+  font-family: 'Lobster';
+  font-size: 24px;
+  color: navy;
+}
+
+.relandlogan-advice p{
+  font-family: 'georgia';
+  font-size: 14px;
+  color: gray;
+}
