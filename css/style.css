@@ -11239,3 +11239,25 @@ body.nancys-advice {
   height: 400px;
   background: #ffb3d9;
 }
+
+.relandlogan-advice {
+  background: ivory;
+  margin: auto;
+}
+.relandlogan-advice h1 {
+  font-family: 'Lobster';
+  font-size:48px;
+  color: navy;
+}
+
+.relandlogan-advice h4{
+  font-family: 'Lobster';
+  font-size: 24px;
+  color: navy;
+}
+
+.relandlogan-advice p{
+  font-family: 'georgia';
+  font-size: 14px;
+  color: gray;
+}
