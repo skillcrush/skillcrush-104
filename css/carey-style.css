@@ -1,0 +1,86 @@
+/** Carey's styles */
+
+header {
+	margin-bottom: 30px;
+}
+
+header a, a:visited, a:link {
+	color: #000;
+	margin: 4px 30px 30px;
+    padding: 15px;
+    border: 1px solid;
+    text-decoration: none;
+}
+
+.intro {
+	background-color: pink;
+	margin-left:auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+#carey{
+	font-size: 24px,
+	font-style: bold;
+}
+
+body {
+	background-color: #fff;
+	padding: 15px;
+	margin: auto;
+
+}
+
+.intro p{
+	font-family: helvetica, sans-serif;		
+	font-size: 16px
+}
+
+h1 {
+	font-family: 'Barrio', cursive;
+	font-size: 40px
+}
+
+/*advice columns*/
+
+.advice{
+	padding: 25px;
+	margin-bottom: 10px;
+}
+
+.column{
+	margin:auto;
+	width: 50%;
+	float:left;
+
+}
+
+.advice h4{
+	font-family: 'Barrio', cursive;
+	font-size: 16px;
+
+}
+
+.advice p{
+		font-family: helvetica, sans-serif;
+		font-size: 12px;
+		margin: 0 10;
+		width: 75%;
+}
+
+
+
+#focus {
+		font-family: 'Barrio', cursive;
+		font-size: 16px;
+
+}
+
+
+
+footer p{
+	font-weight: bold;
+	font-size: 10px;
+	text-align: center;
+
+}

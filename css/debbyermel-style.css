@@ -1,0 +1,68 @@
+
+html,
+body {
+  font-size: 16px;
+  color: #2C423F;
+}
+
+header {text-align: center;}
+
+.debora-intro {color:#907b84;}
+
+h1 {font-size: 2em;}
+h2 {font-size: 1.5em;}
+h4 {
+	font-family: 'Montaga', sans-serif;
+    font-size: 1.3em;
+    font-weight: 500;
+    color:#210124;
+    margin:0px;
+} 
+
+p {font-size: 1em;}
+
+.debora-advice {
+	padding: 10px 10px;
+	background-color: #C5C5C5;
+}
+
+.debora-list-container {
+	background-color: #829191;
+	width: 100%;
+	padding: 5px;
+}
+
+
+ol { 
+	font-style:italic;
+    font-family:Georgia, Times, serif; 
+    font-size:1.3em; 
+}
+
+ol li { list-style: none;}
+
+ol li p {
+ padding:8px; 
+ font-style:normal; 
+ font-family: 'Josefin Sans', sans-serif; 
+ font-size: 1em; 
+ border-left: 1px solid #999; 
+}
+
+ol li p em { display:block; }
+
+#nested-dlist li { 
+	list-style:none;
+	padding-bottom:  10px;
+	margin-top: 0px;
+}
+
+a {
+	text-decoration: none;
+	font-size: 1em;
+	color: #666d74;
+}
+a:hover { color:#fff; }
+
+#footer-debora {text-align: center;} 
+

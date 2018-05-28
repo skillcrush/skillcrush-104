@@ -1,0 +1,141 @@
+/*---- Angie's Styles ----*/
+
+body, html {
+	height: 100%;
+}
+
+header {
+	font-family: 'Vidaloka', serif;
+	font-weight: bold;
+	letter-spacing: 1px;
+	padding: 35% 10%;
+	text-align: center;
+	color: white;
+	font-size: 2em;
+}
+
+h5 {
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	letter-spacing: 7px;
+	text-align: center;
+	margin: 30px, 0;
+}
+
+.parallax {
+	background-image: url("https://placeimg.com/640/480/tech");
+	height: 100%;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.parallax1 {
+	height: 70%;
+	background-color: white;
+	font-size:20px;
+	text-align: center;
+}
+
+.content1 {
+	margin: 5% 7%;
+	padding: 10px;
+}
+
+.parallax2 {
+	background-image: url("https://placeimg.com/640/480/nature");
+	height: 50%;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.parallax3 {
+	height: 55%;
+	background-color: white;
+	font-size:20px;
+	text-align: center;
+}
+
+.content3 {
+	margin: 5% 7%;
+	padding: 10px;
+}
+
+.parallax4 {
+	background-image: url("https://placeimg.com/640/480/tech");
+	height: 50%;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.parallax5 {
+	height: 60%;
+	background-color: white;
+	font-size:20px;
+	text-align: center;
+}
+
+.content5 {
+	margin: 5% 7%;
+	padding: 10px;
+}
+
+.haiku {
+	margin: 5%;
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+}
+
+h2 {
+	font-family: 'Vidaloka', serif;
+}
+
+p {
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+}
+
+ul {
+	font-family: 'Lato', sans-serif;
+	list-style: none;
+}
+
+li {
+	padding: .5% .5%;
+}
+
+.link {
+	font-family: 'Lato', sans-serif;
+	text-decoration: none;
+	border: 1px solid gray;
+	padding: 15px;
+	color: gray;
+}
+
+a:hover {
+	background-color: gray;
+	color: white;
+}
+
+footer {
+	text-align: center;
+}
+
+/* Turn off parallax scrollng for tablets and phones. Increase/decrease the pixels if needed */
+
+@media only screen and (max-device-width: 1024px) {
+	.parallax {
+		background-attachment: scroll;
+	}
+}
+
+
+
+
+
+/*---- END Angie's Styles ----*/

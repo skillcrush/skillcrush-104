@@ -1,0 +1,16 @@
+/***** Laura's styles *****/
+header h1 {
+    color: blue;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+}
+.advice h4 {
+    color: red;
+    font-family: 'Droid Serif', serif;
+    font-size: 24px;
+}
+.advice p {
+    color: green;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+}

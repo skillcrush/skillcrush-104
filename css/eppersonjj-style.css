@@ -1,0 +1,10 @@
+/*eppersonjj styles*/
+.eppersonjj-advice {
+	font-family: tahoma, sans-serif;
+	font-size: 16px;
+	color: aqua;
+	background-color:#b30047;
+}
+.eppersonjj-advice span {
+	font-weight: bold;
+}

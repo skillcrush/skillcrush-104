@@ -1,0 +1,71 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/** Heather's Styles **/
+html {
+  background: #130b6e; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(left top, #c10056, #130b6e); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(bottom right, #c10056, #130b6e); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(bottom right, #c10056, #130b6e); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to bottom right, #c10056, #130b6e); /* Standard syntax */
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  width: 100%;
+  height: 100%;
+}
+
+.hn-advice {
+  width: 80%;
+  height: auto;
+  padding: 20px;
+  margin: auto;
+}
+
+.hn-advice h1 {
+    font-family: 'Abril Fatface', cursive;
+    text-align: center;
+    font-size: 2.5em;
+    color: #fff;
+    letter-spacing: 2px;
+    padding-bottom: 20px;
+    border-bottom: 1px dotted #fff;
+    line-height: 1.25em;
+
+}
+
+.hn-advice h4 {
+    text-align: left;
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.5em;
+    color: #e3e3e3;
+    line-height: 1.25em;
+    padding: 10px 0px 0px 0px;
+}
+
+.hn-advice p {
+  font-family: 'Lato', sans-serif;
+  font-size: 1em;
+  color: #fff;
+}
+
+.hn-advice a {
+  font-family: 'Oswald', sans-serif;
+  font-size: 0.75em;
+  color: #e3e3e3;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.hn-advice footer {
+    border-top: 1px dotted #fff;
+    margin-top: 50px;
+}
+
+.hn-advice footer p {
+    font-family: 'Oswald', sans-serif;
+    font-size: 0.75em;
+    color: #e3e3e3;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+/* End Heather's Styles */

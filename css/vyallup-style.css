@@ -1,0 +1,49 @@
+.vyallup-advice {
+  max-width: 85%;
+  margin: 20px auto;
+  text-align: left;
+  font-family: Verdana, 'sans-serif';
+  font-size: 1em;
+  background-color: #f7f9f9;
+  color: #555;
+}
+
+.vyallup-quote {
+  max-width: 85%;
+  margin: 20px auto;
+}
+
+a {
+  display: block;
+  text-decoration: none;
+  color: #3498db;
+}
+
+a:hover {
+  color: #e67e22;
+}
+
+blockquote {
+  font-size: 1.2em;
+}
+
+h1 {
+  font-size: 1.7em;
+  font-family: Futura, 'sans-serif';
+}
+
+h4 {
+  text-transform: uppercase;
+  font-family: Futura, 'sans-serif';
+  color: #e67e22;
+}
+
+p {
+  font-size: 1.1em;
+}
+
+footer {
+  margin-top: 50px;
+  text-align: center;
+  font-size: 0.8em;
+}

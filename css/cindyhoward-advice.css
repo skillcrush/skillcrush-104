@@ -1,0 +1,49 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+body {
+  font-size: 16px;
+}
+
+header {
+  background-color: #A57F45;
+  padding-bottom: 3px;
+  padding: 5px;
+  width: 98%;
+}
+
+h1 {
+  font-size: 36px;
+}
+ h4 {
+   font-size: 24px;
+ }
+content {
+  height: 100px;
+}
+
+.one {
+  background-color: #476990;
+  border: 1px solid black;
+  display: flex;
+  float: left;
+  height: 400px;
+  padding: 7px;
+  width: 48%;
+
+}
+
+.two {
+  background-color: #214772;
+  border-right: 1px solid black;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  display: inline-block;
+  height: 400px;
+  padding: 7px;
+  width: 48%;
+
+}
+
+footer {
+  background-color: #A57F45;
+}
+/**cindyhoward Styles**/

@@ -1,0 +1,57 @@
+
+/**  Ashley's custom styles **/
+
+.ashleymacq-advice html, body {
+  background-color: #f2f2f2;
+  color: #374048;
+  text-align: center;
+  font-size: 24px;
+  margin: 2%;
+  height: 100%;
+  width: 100%;
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+button {
+  background-color: #ff6666;
+  color: #f2f2f2;
+  text-decoration: none;
+  display: inline-block;
+  float: left;
+  margin: 20px 0 0 20px;
+  font-size: 24px;
+
+
+}
+
+h1 {
+  font-family: 'Slabo 27px', serif;
+  color: #248f8f;
+  border:10px solid #248f8f;
+  padding:2%;
+  margin: 2% 20%;
+  display: block;
+}
+
+h4 {
+  font-family: 'Slabo 27px', serif;
+  color: #248f8f;
+  text-transform: uppercase;
+
+}
+
+h3 {
+  font-family: 'Slabo 27px', serif;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ff6666;
+
+}
+
+p {
+  padding: 20px
+  line-height: 16px;
+  width: 50%;
+  margin: auto;
+}

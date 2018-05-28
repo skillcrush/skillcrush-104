@@ -1,0 +1,70 @@
+/** Ngaire's awesome styles **/
+
+body {
+  width: 90%;
+}
+
+p, a {
+  font-family: 'Palanquin Dark', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  margin-bottom: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: pink;
+  text-decoration: line-through;
+  text-decoration-color: rebeccapurple;
+  text-decoration-style: wavy;
+}
+
+.advice {
+  margin-bottom: 5em;
+}
+
+.ngaire-advice {
+  background-color: #D8E8D8;
+}
+
+.advice p {
+  font-family: 'Julius Sans One', sans-serif;
+  color: #4169E1;
+  font-size: 5em;
+  margin-bottom: 30px;
+}
+
+.sentence-two {
+  color: #FF7F50;
+}
+
+.sentence-three {
+  color: #FF69B4;
+}
+
+.sentence-four {
+  color: #DAA520;
+}
+
+.sentence-five {
+  color: #8A2BE2;
+}
+
+.author {
+  color: #000000;
+  font-family: 'Palanquin Dark', sans-serif;
+  font-weight: 400;
+  font-size: 2em;
+  line-height: 2em;
+  text-align: right;
+  margin-right: 1em;
+  padding: 0 10px;
+}
+
+.author:hover {
+  background-color: #4169E1;
+  text-decoration: none;
+}

@@ -1,0 +1,12 @@
+/*Ruben's Styles*/
+
+.ruben-advice p {
+  color: aqua;
+  background-color: black;
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+.ruben-advice h4, h1 {
+  color: gold;
+}

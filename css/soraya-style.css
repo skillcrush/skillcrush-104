@@ -1,0 +1,30 @@
+/******SORAYA'S ADVICE******/
+
+.soraya-advice h1 {
+  color: Pink;
+  font-family: Open Sans, sans-serif;
+  font-size: 28px;
+  text-align: center;
+}
+
+.soraya-advice h4 {
+  color: #000000;
+  font-family: Raleway, sans-serif;
+  font-size: 24px;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+
+.soraya-advice p {
+  color: Gray;
+  font-family: Montserate, sans-serif;
+  font-size: 20px;
+}
+
+.soraya-advice footer p {
+  color: light gray;
+  font-family: Open Sans, sans-serif;
+  font-size: 16px;
+  padding-top: 30px;
+}
+/******END SORAYA'S ADVICE******/

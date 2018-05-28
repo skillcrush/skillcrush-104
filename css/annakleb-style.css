@@ -1,0 +1,17 @@
+/**Anna's CSS Styles**/
+
+.annaklebine-advice {
+	background-color: #b38cf2;
+	font-color: #000000;
+	font-family: Arial, Verdana, sans-serif;
+}
+
+h1 {
+	font-size: 200%;
+}
+
+p {
+	width: 500px;
+	border: 2px solid #000000;
+	padding: 10px;
+}

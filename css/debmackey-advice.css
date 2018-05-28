@@ -1,0 +1,30 @@
+h1 {
+	color: yellow;
+	font-family: Arial;
+	font-size: 30px;
+	}
+
+h4 {
+	color: blue;
+    	font-family: Arial;
+			font-size: 25px;
+	margin-left: 100px;
+	}
+
+p {
+	color: purple;
+    	font-family:Georgia;
+			font-size: 13px;
+	}
+
+body {
+	background-color: white;
+	}
+
+#footer {
+	border-radius: 5px;
+	padding: 10px 10px 10px 10px;
+	color: gainsboro;
+	font-family: Arial;
+	font-size: 14px;
+	}

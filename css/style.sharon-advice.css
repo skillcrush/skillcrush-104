@@ -1,0 +1,30 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/** Sharon's Styles **/
+.sharon-advice {
+    background-color: #326677;
+    width: 100%;
+    font-family: sans-serif;
+    margin: 0 auto;
+}
+.sharon-advice a {
+    text-decoration: none;
+    color: black;
+    font-weight: regular;
+}
+.sharon-advice h1 {
+    color: #F6F7B1;
+    font-weight: bold;
+    text-align: left;
+}
+.sharon-advice h4 {
+    font-family: sans-serif;
+    font-size: 22px;
+    text-align: center;
+    color: #000000;
+}
+.sharon-advice p {
+    color:#ffffff;
+    text-align: left;
+}
+/** End Sharon's Styles **/

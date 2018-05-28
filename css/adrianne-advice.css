@@ -1,0 +1,37 @@
+/** Add a comment at the beginning of your CSS styles with your name **/
+/*Adrianne advice styling*/
+
+body {
+  color:#fff;
+  padding: 25px;
+  margin: 0 auto;
+  background-color: #867986;
+  font-family: sans-serif;
+}
+h1, h2 {
+  font-family:'Architects Daughter', cursive;
+  text-align: center;
+}
+h1 {
+  margin-top: 10px;
+  font-size: 50px;
+  color: #70dbdb;
+}
+h2 {
+  font-size: 40px;
+  margin: 10px;
+}
+p {
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 15px;
+  padding-left: 10px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  font-weight: green;
+}
+
+/**End Adrianne **/

@@ -1,0 +1,39 @@
+body {
+  background: #EDEDED;
+  font-family: sans-serif;
+  margin: 0 auto;
+  padding: 50px 110px;
+}
+
+.kays-advice h1 {
+  color: #00A593 ;
+  margin-top: 70px;
+}
+
+.kays-advice h4 {
+  color: #00655a ;
+}
+
+.kays-advice p {
+  line-height: 40px;
+}
+
+.kays-advice a {
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #00a593;
+  padding: 7px;
+  text-decoration: none;
+}
+
+.kays-advice a:hover {
+  background: #00655a;
+  text-decoration: none;
+}
+
+
+}

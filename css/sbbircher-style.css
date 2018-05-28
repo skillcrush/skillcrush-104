@@ -1,0 +1,44 @@
+/*------------Sarah's Styles ------------*/
+
+.sbbircher-advice {
+  background-color: #ffffff;
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #000000;
+  margin: 5px auto;
+  width: 960px;
+}
+
+.sbbircher-advice  h1 {
+  background-color: #69cbcc;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 48px;
+  height: 100px;
+  line-height: 48px;
+  padding: 20px;
+}
+
+.sbbircher-advice  h4 {
+  background-color: #bfe1e8;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 21px;
+  padding: 30px; 20px;
+  text-transform: uppercase;
+}
+
+.sbbircher-advice  p {
+  font-size: 16px;
+  padding: 0 20px;
+}
+
+.sbbircher-advice  footer {
+  border-top: 3px solid #ccccff;
+  line-height: 16px;
+  margin-top: 30px;
+}
+
+.sbbircher-advice  footer p {
+  font-size: 12px;
+}
+
+
+/*------------ End Stacey's Styles ------------*/

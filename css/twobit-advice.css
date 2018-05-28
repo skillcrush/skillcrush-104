@@ -1,0 +1,36 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/** TwoBit's Styles **/
+.twobit-advice {
+    width: 100%;
+    background-color: ghostwhite;
+    font-family: sans-serif;
+    margin: 0 auto;
+    
+}
+.twobit-advice a {
+    text-decoration: none;
+    color: #0066ff;
+    font-weight: bold;
+}
+.twobit-advice h1 {
+    color: #00008B;
+    font-weight: bold;
+    text-align: left;
+}
+.twobit-advice h4 {
+    font-family: sans-serif;
+    font-size: 22px;
+    text-align: left;
+    color: #ff6600;
+}
+.twobit-advice p {
+    color:#00008B;
+    text-align: left;
+}
+.twobit-advice footer {
+    color: #00008B; 
+    text-align: center;
+    font-size: 13px;
+    font-style: italic;
+}

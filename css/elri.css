@@ -1,0 +1,36 @@
+body{
+	font-family: Georgia, serif;
+	color: #3f1951;
+	font-size: 18px;
+}
+
+header {
+	background-color: #f2f4ce;
+}
+
+header span {
+	font-family: Arial, sans-serif;
+	text-transform: uppercase;
+	font-style: italic;
+	font-size: 60px;
+
+}
+
+a {
+	text-decoration: none;
+	color: #505050;
+}
+section span{
+	text-transform: uppercase;
+	font-style: italic;
+}
+
+footer {
+	background-color: #f2f4ce;
+	height: 50px;
+}
+
+footer p{
+	padding-top: 15px;
+	font-size: 15px;
+}

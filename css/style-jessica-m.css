@@ -1,0 +1,153 @@
+/***** Jessica-M's Style Sheet *****/
+/***** ABOUT *****/
+
+a {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 22px;
+  text-decoration: none;
+  color: #828282;
+}
+
+a:hover {
+    color: #72b648;
+}
+
+#advice {
+  width: auto;
+  height : 1090px;
+  border-bottom: solid;
+  border-color: #000000;
+}
+
+header h1 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  color: #58595B;
+  line-height: 43px;
+  padding-left: 37px;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 22px;
+  text-decoration: none;
+  color: #828282;
+}
+
+.advice-info p {
+  padding-bottom: 0px;
+}
+
+.four-fifths-width {
+  height: 412px;
+  width: 950px;
+  float: left;
+}
+
+.bracket {
+  width: 60px;
+  height: 412px;
+  display: inline-block;
+  float: left;
+  margin-bottom: 50px;
+}
+
+.advice-wording-section {
+  width: 515px;
+  height: 412px;
+  display: inline-block;
+  float: left;
+}
+
+.giant-bracket {
+  font-family:'Playfair Display', serif;
+  font-weight: 700;
+  font-size: 455px;
+  line-height: 295px;
+  margin-left: 20px;
+  color: #bbbdc0;
+}
+
+.advice-vertical {
+  font-size: 40px;
+  margin-left: 93px;
+  margin-top: -200px;
+  transform: rotate(270deg);
+  white-space: nowrap;
+  display: block;
+  color: #ffffff;
+}
+
+.advice-info {
+  width: 525px;
+  height: 412px;
+  float: left;
+  padding-left: 90px;
+}
+
+/***** JUST KEEP CODING *****/
+.dark-purple-blue {
+  color: #262261;
+  font-size: 29.7px;
+  line-height: 23px;
+}
+
+/***** STEP BY STEP *****/
+.true-purple {
+  color: #652C90;
+  font-size: 29.7px;
+  line-height: 17px;
+}
+
+/***** TAKE YOUR TIME *****/
+.bright-purple {
+  color: #91268F;
+  font-size: 29.7px;
+  line-height: 17px;
+}
+
+/***** BELIEVE IN YOURSELF *****/
+.warm-purple {
+  color: #9E1E62;
+  font-size: 29.7px;
+  line-height: 17px;
+}
+
+/***** TRUST THE PROCESS *****/
+.cool-red {
+  color: #D91B5B;
+  font-size: 29.7px;
+  line-height: 17px;
+}
+
+/***** PARTICIPATE *****/
+.red {
+  color: #ED1C24;
+  font-size: 29.7px;
+  line-height: 17px;
+}
+
+/***** TAKE BREAKS *****/
+.red-orange {
+  color: #F05A28;
+  font-size: 29.7px;
+  line-height: 17px;
+}
+
+/***** JUST BREATHE *****/
+.orange {
+  color: #F7931D;
+  font-size: 29.7px;
+  line-height: 17px;
+}
+
+footer {
+  width: 100%;
+  float: left;
+  padding-left: 37px;
+}

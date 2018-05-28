@@ -1,0 +1,42 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/** Janet's Styles **/
+
+.janetmorris-advice body {
+	padding: 50px;
+	font-family: sans-serif;
+	background-color: lightgray;
+}
+.janetmorris-advice h1 {
+	color: #605670;
+	text-align: left;
+	font-size: 30px;
+	font-family: sans-serif;
+	margin: 10px 100px 10px 100px;
+	padding: 20px;
+}
+.janetmorris-advice h4 {
+	color: #605670;
+	font-size: 30px;
+	font-family: sans-serif;
+	line-height: 35px;
+	margin: 10px 100px 10px 100px;
+	padding: 10px;
+}
+
+.janetmorris-advice p {
+	color: #605670;
+	text-align: left;
+	font-size: 20px;
+	line-height: 25px;
+	margin: 10px 150px 10px 150px;
+	padding: 25px;
+}
+
+.janetmorris-advice footer {
+	padding: 10px;
+	font-size: 8px;
+}
+
+/** End of Janet's Styles **/
+

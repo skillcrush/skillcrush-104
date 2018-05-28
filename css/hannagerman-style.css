@@ -1,0 +1,24 @@
+body {
+	font-family: verdana, sans-serif;
+}
+
+h1{ 
+text-transform: caps;
+text-align: center;
+ }
+
+ h4{ 
+ color: grey; 
+}
+
+ p{
+ 	font-size: 12px;
+ }
+
+ footer{
+ 	color: white;
+ 	background-color: grey;
+ 	text-align: center;
+ 	line-height: 15px; 
+ 	padding: 5px;
+ }

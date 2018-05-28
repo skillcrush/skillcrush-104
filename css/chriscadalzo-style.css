@@ -1,0 +1,100 @@
+body 	{
+		background-color: #2e294e;
+		margin: 0px;
+		}
+
+
+ #content {
+		font-family: 'Special Elite', sans-serif;
+		max-width: 550px;
+		margin-top: 50px;
+		margin-left: auto;
+		margin-right: auto;
+		text-align: center;
+		}
+
+/*    fonts:
+
+    font-family: 'Special Elite', cursive;
+    font-family: 'Jacques Francois Shadow', cursive;
+*/
+
+    h1, h2, h3, h4, p {margin: 0px;}
+
+    a 		{
+    		color: #ffffff;
+    		text-decoration: none;
+        font-family: 'Special Elite', cursive;
+    		}
+
+    a:hover {color: #c5d86d;}
+
+
+    h1 		{
+    		color: #ffffff;
+    		font-family: 'Sacramento', cursive;
+    		font-size: 100px;
+    		line-height: 130px;
+    		padding-bottom: 0px;
+    		}
+
+    h2    {
+      color: #ffffff;
+      font-family: 'Special Elite', cursive;
+      font-size: 30px;
+      line-height: 40px;
+      padding-bottom: 0px;
+    }
+
+    h4    {
+      color: #2e294e;
+      font-family: 'Sacramento', cursive;
+      font-size: 80px;
+      line-height: 50px;
+      padding-bottom: 0px;
+    }
+
+    p    {
+      color: #fff;
+      font-family: 'Special Elite', cursive;
+      font-size: 20px;
+      line-height: 25px;
+      padding-top: 50px;
+    }
+
+     #banner {
+        background-color: #03B5AA;
+        /*background: transparent linear-gradient(to bottom, #1b998b, #c5d86d);*/
+        padding: 50px 15% 30px 15%;
+        margin: 30px -50px ;
+    		}
+
+     #journey {
+       	background-color: #D3326D;
+        padding: 50px 15% 30px 15%;
+        margin: 30px -50px ;
+       	}
+
+     #one {
+        background-color: #c5d86d;
+        padding: 50px 15% 30px 15%;
+        margin: 30px -50px ;
+        }
+
+      #two {
+        background-color: #8D2D7C;
+        padding: 50px 15% 30px 15%;
+        margin: 30px -50px ;
+        }
+
+      #three {
+        background-color: #1b998b;
+        padding: 50px 15% 30px 15%;
+        margin: 30px -50px ;
+        }
+
+      #milestones {
+        background-color: #000729;
+        padding: 50px 15% 30px 15%;
+        margin: 30px -50px ;
+        }
