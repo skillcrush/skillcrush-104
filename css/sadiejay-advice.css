@@ -1,0 +1,271 @@
+
+/* http://meyerweb.com/eric/tools/css/reset/
+	v2.0 | 20110126
+	License: none (public domain)
+*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, q, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+q, q {
+	quotes: none;
+}
+q:before, q:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+/** Clearfix **/
+.clearfix:before,
+.clearfix:after {
+	content: " ";
+	display: table;
+	table-layout: fixed;
+}
+
+.clearfix:after {
+	clear: both;
+}
+/** end CSS reset **/
+
+/* FONTS */
+
+@import url('https://fonts.googleapis.com/css?family=Raleway|Source+Sans+Pro');
+
+/*
+font-family: 'Source Sans Pro', sans-serif;
+font-family: 'Raleway', sans-serif;
+
+*/
+
+/* MAIN STYLES */
+header,
+footer,
+section,
+aside,
+time,
+article {
+	display: block;
+}
+a {
+	text-decoration: none;
+}
+
+b,
+strong {
+	font-weight: bold;
+	font-weight: 700;
+}
+dfn,
+cite,
+em,
+i {
+	font-style: italic;
+}
+p {
+	font-size: 16px;
+	font-size: 1em;
+	line-height: 1.75;
+  font-family: 'Source Sans Pro', sans-serif;
+	letter-spacing: -0.01em;
+	margin: 1em auto;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin: 2em 0 .5em;
+	font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+	letter-spacing: -0.034em;
+}
+h1 {
+	font-size: 24px;
+	font-size: 1.5em;
+	line-height: 2.25;
+}
+h2 {
+	font-size: 20px;
+	font-size: 1.25em;
+	line-height: 2;
+}
+h3 {
+	font-size: 18px;
+	font-size: 1.125em;
+	line-height: 1.75;
+}
+h4 {
+	font-size: 16px;
+    font-size: 1em;
+}
+ h5 {
+	 font-size: 16px;
+	 font-size: 1em;
+	 text-transform: uppercase;
+}
+ul {
+	list-style: disc;
+	margin: 1em 0 1em 1.125em;
+}
+q {
+	margin: 2em;
+	padding: 0 1em;
+}
+q p {
+	font: 1.6em/1.6 'Raleway', sans-serif;
+}
+q p:before {
+	content: '“';
+	font: 1.5em/1 'Raleway', sans-serif;
+	margin-left: -.6em;
+	padding-right: .25em;
+}
+q p:after {
+	content: '”';
+	font: 1.5em/1 'Raleway', sans-serif;
+	margin-right: -1em;
+	padding-left: .25em;
+}
+q footer {
+	font: 1.25em/1 'Raleway', sans-serif;
+}
+q footer:before {
+	content: '—';
+}
+figure, img {
+	max-width: 100%;
+	height: auto;
+}
+iframe {
+	width: 100%;
+}
+input {
+	font: 1em 'Source Sans Pro', sans-serif;
+	line-height: 2;
+	height: 2.3125em;
+	border: 1px solid #BFBFBF;
+	margin: 0;
+	padding: 0.3em 0.625em;
+	background: #fff;
+	vertical-align: middle;
+}
+input[type="button"],
+input[type="submit"] {
+	font: 700 1.125em/3.5 'Source Sans Pro', sans-serif;
+	color: #fff;
+	background: #FF8C42;
+	border: none;
+	padding: 0 2em;
+}
+button,
+html input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+	cursor: pointer;
+}
+/* End MAIN STYLES */
+
+/* BODY STYLES */
+html,
+body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+}
+body {
+	display: -webkit-box;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+  flex-direction: column;
+	background: #fff;
+	border-top: 6px solid #FF8C42;
+	color: #3b3b3b;
+  font-family: 'Source Sans Pro', sans-serif;
+	font-size: 16px;
+	font-size: 1em;
+	line-height: 1.65;
+	letter-spacing: -0.01em;
+}
+
+#page {
+	width: 90%;
+	max-width: 960px;
+	margin: 0 auto;
+}
+.page-header {
+	border-bottom: 1px solid #bfbfbf;
+	padding-bottom: 0.5em;
+	padding-top: 2.3125em;
+	overflow: hidden;
+}
+.page-header a:hover {
+  color: #FF8C42;
+}
+
+footer a, a :visited {
+  color: #3b3b3b;
+}
+
+footer p a:hover {
+  color: #FF8C42;
+}
+
+/* media queries */
+@media (min-width: 768px) {
+
+	main section {
+		display: -webkit-box;
+		display: -moz-box;
+		display: -ms-flexbox;
+		display: -webkit-flex;
+		display: flex;
+		flex-flow: row nowrap;
+		justify-content: space-between;
+	}
+	.main-content {
+		flex-grow: 1;
+	}
+}
+/* End BODY STYLES */
