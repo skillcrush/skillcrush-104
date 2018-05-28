@@ -1,0 +1,49 @@
+body {
+  background-color: #ecf0eb;
+}
+.rebs-advice-2018 h1 {
+    font-family: 'Montserrat', sans-serif;
+    color: #626262;
+    text-align: center;
+}
+.tips {
+    color:#88a550;
+    font-family: 'Open Sans', sans-serif;
+    margin: 10px 100px 10px 100px;
+    text-transform: uppercase;
+    padding: 10px;
+    font-size: 2em;
+    text-align: center;
+}
+.about-me {
+    color:#88a550;
+    font-family: 'Open Sans', sans-serif;
+    margin: 10px 100px 10px 100px;
+    text-align: center;
+    padding: 10px;
+    font-size: 1.5em;
+    font-style: italic;
+}
+.rebs-advice p {
+    margin: 10px 150px 10px 150px;
+    border-radius: 30px;
+    border-style: dashed;
+    background-color: #626262;
+    color: white;
+    padding: 25px;
+    font-size: 1.5em;
+    text-align: left;
+}
+footer p {
+  text-align: center;
+  color: #fbcd4b;
+}
+user agent stylesheet
+h4 {
+    display: block;
+    -webkit-margin-before: 1.33em;
+    -webkit-margin-after: 1.33em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+  }
