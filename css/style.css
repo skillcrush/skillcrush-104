@@ -1,9 +1,32 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+/*****Debbie Donovan's Styles*****/
+.debbiedonovan-advice {
+  background-color: silver;
+}
+.debbiedonovan-advice h1 {
+  font-family: sans-serif;
+  color: brown;
+  font-size: 45px;
+  line-height: 40px;
+  margin: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+.debbiedonovan-advice h2 {
+  color: brown;
+
+}
+.debbiedonovan-advice p {
+  font-family: sans-serif;
+  font-size: 15px;
+  padding-left: 25px;
+}
+
 /***** Bryan Herbert's advice *****/
 
 .bryanherbert-advice {
   background-color:#fff3e6;
-  
+
 }
 
 .bryanherbert-advice h1 {
@@ -13,8 +36,8 @@
   margin: 50px;
   padding-bottom: 50px;
   text-align: center;
-  font-variant: small-caps; 
-  
+  font-variant: small-caps;
+
 }
 
 .bryanherbert-advice h4 {
@@ -45,7 +68,7 @@
   font-style: italic;
   padding-top: 75px;
   text-align: center;
-  
+
 }
 
 /***** Jen's advice styles *****/
@@ -74,7 +97,7 @@
   font-family: 'Arial', sans-serif;
   font-variant: small-caps;
   text-align: center;
-  color: white; 
+  color: white;
 }
 /***** Rachel's advice styles *****/
 
