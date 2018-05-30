@@ -48,6 +48,36 @@
 
 }
 
+/***** Mary K's advice styles *****/
+
+.maryk-advice {
+  background-color: #fff;
+  color: #444;
+  font-family: 'Lato', 'Arial', sans-serif;
+  font-size: 18px;
+  word-spacing: 2px;
+  font-weight: 300;
+  text-rendering: optimizeLegibility;
+  overflow-x: hidden;
+}
+
+.maryk-advice h1, h4 {
+  text-transform: uppercase;
+  font-weight: 380;
+}
+
+.maryk-advice h1 {
+  font-size: 50px;
+}
+
+.maryk-advice h4 {
+  color: #444;
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+
+
+
 /***** Jen's advice styles *****/
 .jens-advice {
   background-color: MediumSeaGreen;
