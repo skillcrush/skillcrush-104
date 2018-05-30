@@ -1,0 +1,36 @@
+/** Sharvani's Styles **/
+.sarahw-advice {
+  width: 100%;
+  background-color: pink;
+  font-family: sans-serif;
+  margin: 0 auto;
+
+}
+
+.sarahw-advice a {
+  text-decoration: none;
+  color: #0066ff;
+  font-weight: bold;
+}
+
+.sarahw-advice h1 {
+  color: #00008B;
+  font-weight: bold;
+  text-align: left;
+}
+
+.sarahw-advice h4 {
+  font-family: sans-serif;
+  font-size: 22px;
+  text-align: left;
+  color: #ff6600;
+}
+
+.sarahw-advice p {
+  color:#00008B;
+  text-align: left;
+}
+
+.sarahw-advice footer {
+  color: #00008B;
+}
