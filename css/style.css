@@ -11435,3 +11435,35 @@ body.nancys-advice-again {
   font-size: 14px;
   color: gray;
 }
+
+/***** Marta Kuersten Wolaver's advice *****/
+.mkw-advice {
+	background-color: #66a0ff;
+	font-size: 20px;
+}
+
+.mkw-advice h1{
+	color: #696c70;
+	font-weight: bold;
+	font-size: 120%;
+	font-family: 'Garamond';
+}
+
+.mkw-advice h4 {
+	color: #eaedf2;
+	font-size: 100%;
+	font-family: 'Garamond', 'serif';
+	text-transform: uppercase;
+}
+
+.mkw-advice p{
+	color: #252a33;
+	font-size: 90%;
+	font-family: 'Garamond', 'serif';
+}
+
+.mkw-advice footer{
+	color: #696c70;
+	text-transform: lowercase;
+	font-family: 'Arial', 'sans-serif';
+}
