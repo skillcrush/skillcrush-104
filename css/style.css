@@ -32,6 +32,81 @@
 
 /*** End Demaris' advice styles ***/
 
+
+/***** Bryan Herbert's advice *****/
+ 
+.bryanherbert-advice {
+  background-color:#fff3e6;
+  
+ 
+.bryanherbert-advice h1 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 45px;
+  line-height: 40px;
+  margin: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+  font-variant: small-caps; 
+}
+ 
+.bryanherbert-advice h4 {
+ font-family: 'Nunito', sans-serif;
+ font-size: 25px; text-align: left;
+ font-variant: small-caps;
+ }
+ 
+.bryanherbert-advice p {
+  font-family: 'Nunito', sans-serif;
+  font-size: 20px;
+  line-height: 12px;
+ text-align: left;
+ }
+ 
+.bryanherbert-advice-italic {
+  color: firebrick;
+ font-style: italic;
+ }
+ 
+.bryanherbert-advice-footer p {
+  color: firebrick;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  font-style: italic;
+  padding-top: 75px;
+  text-align: center;
+ }
+ 
+ 
+/***** Jen's advice styles *****/
+.jens-advice {
+  background-color: MediumSeaGreen;
+}
+
+ 
+.jens-advice h1 {
+  font-family: 'Arial', sans-serif;
+  font-variant: small-caps;
+  text-align: center;
+  color: white;
+}
+ 
+.jens-advice h4 {
+ font-size: 30px;
+}
+ 
+.jens-advice h4,
+.jens-advice p {
+  font-family: 'Verdana', sans-serif;
+  color: #000066;
+}
+ 
+.jens-advice footer {
+  font-family: 'Arial', sans-serif;
+  font-variant: small-caps;
+  text-align: center;
+  color: white; 
+}
+
 /***** Rachel's advice styles *****/
 
 .rachelkamath-advice {
