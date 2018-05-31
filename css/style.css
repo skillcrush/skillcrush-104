@@ -1,9 +1,40 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+/***Gary Spongebob's advice***/
+
+.garyspongebob-advice {
+  background-color: #FFA02E;
+}
+
+.garyspongebob-advice h1 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 40px;
+  line-height: 50px;
+  text-align: center;
+}
+
+.garyspongebob-advice h4 {
+  color: #000000;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  line-height: 15px;
+}
+
+.garyspongebob-advice p {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 20px;
+  line-height: 40px;
+}
+
+.garyspongebob-advice footer {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  text-align: center;
+}
 /***** Bryan Herbert's advice *****/
 
 .bryanherbert-advice {
   background-color:#fff3e6;
-  
+
 }
 
 .bryanherbert-advice h1 {
@@ -13,8 +44,8 @@
   margin: 50px;
   padding-bottom: 50px;
   text-align: center;
-  font-variant: small-caps; 
-  
+  font-variant: small-caps;
+
 }
 
 .bryanherbert-advice h4 {
@@ -45,7 +76,7 @@
   font-style: italic;
   padding-top: 75px;
   text-align: center;
-  
+
 }
 
 /***** Jen's advice styles *****/
@@ -74,7 +105,7 @@
   font-family: 'Arial', sans-serif;
   font-variant: small-caps;
   text-align: center;
-  color: white; 
+  color: white;
 }
 /***** Rachel's advice styles *****/
 
