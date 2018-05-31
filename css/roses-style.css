@@ -1,0 +1,35 @@
+.roses-advice {
+    background: teal;
+}
+
+body { 
+    color: whitesmoke;
+    font-family: 'Sunflower', sans-serif;
+}
+
+.advice {
+    border: 2px solid white;
+    padding: 20px 20px;
+}
+
+h1, .advice, footer {
+    text-align:center;
+}
+
+h1 {
+    color:gainsboro;
+}
+
+h4 {
+    color: gainsboro;
+    border: 1px solid whitesmoke;
+}
+
+footer {
+    color:gainsboro;
+}
+
+header a {
+    color: whitesmoke;
+    font-family: 'Sunflower', sans-serif;
+}
