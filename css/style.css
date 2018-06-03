@@ -11272,7 +11272,7 @@ body.nancys-advice {
 	font-size: 18px;
 	color: #666699;
 }
-	
+
 /****Nancy's Advice *again* *****/
 
 .nancys-advice-again header a {
@@ -11431,4 +11431,24 @@ body.nancys-advice-again {
 	color: #696c70;
 	text-transform: lowercase;
 	font-family: 'Arial', 'sans-serif';
+}
+
+/***** Jools' advise *****/
+.advice-jools {
+  background-color: #99ccff;
+  font-size: 25px;
+  font-family: 'Arial';
+  text-align: center;
+}
+
+.advice-jools h1, h4 {
+  font-weight: bold;
+}
+
+.advice-jools p {
+  font-size: 20px;
+}
+
+.advice-jools footer p {
+  font-size: 12px;
 }
