@@ -103,6 +103,31 @@
 
 }
 
+/***** Katie's advice styles *****/
+
+.katiedaniels-advice {
+  text-align: center;
+  font: Georgia;
+  background-color: #8533ff;
+}
+
+.kd-advice {
+  margin-right: 40px;
+  margin-left: 40px;
+  padding: 5px;
+  line-height: 20px;
+}
+
+.katiedaniels-advice h1 {
+  font-size: 28px;
+  color: white;
+}
+
+#katiedaniels-footer {
+  font-style: italic;
+  margin: 60px;
+}
+
 /***** Mary K's advice styles *****/
 
 .maryk-advice {
@@ -130,8 +155,6 @@
   font-size: 25px;
   margin-bottom: 20px;
 }
-
-
 
 /***** Jen's advice styles *****/
 .jens-advice {
