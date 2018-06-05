@@ -11302,7 +11302,7 @@ body.nancys-advice {
 	font-size: 18px;
 	color: #666699;
 }
-	
+
 /****Nancy's Advice *again* *****/
 
 .nancys-advice-again header a {
@@ -11462,6 +11462,38 @@ body.nancys-advice-again {
 	text-transform: lowercase;
 	font-family: 'Arial', 'sans-serif';
 }
+
+.melissamanousos-advice {
+  background-color: rgba(1, 147, 241, 0.71);
+  color: rgb(102, 17, 198);
+  font-family: Arial, sans-serif;
+}
+
+.melissamanousos-advice h1 {
+  text-align: center;
+}
+
+.melissamanousos-advice section .advice p {
+  margin-left: 50px;
+}
+
+.melissamanousos-advice h4 {
+  color: #fff;
+  font-size: 120%;
+}
+
+.melissamanousos-advice a:active,
+.melissamanousos-advice a:hover,
+.melissamanousos-advice a:link   {
+  color: rgb(128, 65, 199);
+}
+
+.melissamanousos-advice footer {
+  text-align: center;
+  margin-top: 70px;
+  padding: 15px;
+  background-color: rgb(72, 135, 210);
+
 /***LizzyB's Advice***/
 
 .lizzyb-advice {
