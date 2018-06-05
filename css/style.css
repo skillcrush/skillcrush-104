@@ -11462,3 +11462,41 @@ body.nancys-advice-again {
 	text-transform: lowercase;
 	font-family: 'Arial', 'sans-serif';
 }
+/***LizzyB's Advice***/
+
+.lizzyb-advice {
+  font-family: sunflower;
+}
+
+.lizzyb-advice header {
+  background: lavender;
+}
+
+.lizzyb-advice .tip {
+  padding: 15px 50px 30px 50px;
+}
+
+.lizzyb-advice h1 {
+  text-align: center;
+  font-family: cinzel;
+  font-size: 32px;
+  padding: 40px 50px 60px 50px;
+}
+
+.lizzyb-advice h4 {
+  font-family: cinzel;
+  font-size: 24px;
+}
+
+.lizzyb-advice hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 1em 10em;
+  padding: 0;
+}
+
+.lizzyb-advice footer {
+  font-family: cinzel;
+}
