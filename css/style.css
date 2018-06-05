@@ -11541,6 +11541,26 @@ body.nancys-advice-again {
 	font-family: 'Arial', 'sans-serif';
 }
 
+/***** Jools' advise *****/
+.advice-jools {
+  background-color: #99ccff;
+  font-size: 25px;
+  font-family: 'Arial';
+  text-align: center;
+}
+
+.advice-jools h1, h4 {
+  font-weight: bold;
+}
+
+.advice-jools p {
+  font-size: 20px;
+}
+
+.advice-jools footer p {
+  font-size: 12px;
+}  
+  
 .melissamanousos-advice {
   background-color: rgba(1, 147, 241, 0.71);
   color: rgb(102, 17, 198);
@@ -11571,6 +11591,7 @@ body.nancys-advice-again {
   margin-top: 70px;
   padding: 15px;
   background-color: rgb(72, 135, 210);
+}
 
 /***LizzyB's Advice***/
 
