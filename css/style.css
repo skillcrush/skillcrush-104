@@ -103,6 +103,36 @@
 
 }
 
+/***** Mary K's advice styles *****/
+
+.maryk-advice {
+  background-color: #fff;
+  color: #444;
+  font-family: 'Lato', 'Arial', sans-serif;
+  font-size: 18px;
+  word-spacing: 2px;
+  font-weight: 300;
+  text-rendering: optimizeLegibility;
+  overflow-x: hidden;
+}
+
+.maryk-advice h1, h4 {
+  text-transform: uppercase;
+  font-weight: 380;
+}
+
+.maryk-advice h1 {
+  font-size: 50px;
+}
+
+.maryk-advice h4 {
+  color: #444;
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+
+
+
 /***** Jen's advice styles *****/
 .jens-advice {
   background-color: MediumSeaGreen;
@@ -11486,4 +11516,74 @@ body.nancys-advice-again {
 	color: #696c70;
 	text-transform: lowercase;
 	font-family: 'Arial', 'sans-serif';
+}
+
+.melissamanousos-advice {
+  background-color: rgba(1, 147, 241, 0.71);
+  color: rgb(102, 17, 198);
+  font-family: Arial, sans-serif;
+}
+
+.melissamanousos-advice h1 {
+  text-align: center;
+}
+
+.melissamanousos-advice section .advice p {
+  margin-left: 50px;
+}
+
+.melissamanousos-advice h4 {
+  color: #fff;
+  font-size: 120%;
+}
+
+.melissamanousos-advice a:active,
+.melissamanousos-advice a:hover,
+.melissamanousos-advice a:link   {
+  color: rgb(128, 65, 199);
+}
+
+.melissamanousos-advice footer {
+  text-align: center;
+  margin-top: 70px;
+  padding: 15px;
+  background-color: rgb(72, 135, 210);
+
+/***LizzyB's Advice***/
+
+.lizzyb-advice {
+  font-family: sunflower;
+}
+
+.lizzyb-advice header {
+  background: lavender;
+}
+
+.lizzyb-advice .tip {
+  padding: 15px 50px 30px 50px;
+}
+
+.lizzyb-advice h1 {
+  text-align: center;
+  font-family: cinzel;
+  font-size: 32px;
+  padding: 40px 50px 60px 50px;
+}
+
+.lizzyb-advice h4 {
+  font-family: cinzel;
+  font-size: 24px;
+}
+
+.lizzyb-advice hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 1em 10em;
+  padding: 0;
+}
+
+.lizzyb-advice footer {
+  font-family: cinzel;
 }
