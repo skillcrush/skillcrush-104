@@ -11406,4 +11406,12 @@ body.nancys-advice-again {
   background-color: #f2e6e9;
   margin: auto;
   font-family: 'Didact Gothic', sans-serif;
+  width: 1000px;
+}
+.lovinahe-advice a {
+  font-style: italic;
+  font-size: 12px;
+}
+.lovinahe-advice header {
+  
 }
