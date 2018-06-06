@@ -88,17 +88,17 @@ top: 50%;
 /* pimg - */
 
 .pimg1{
-  background-image: url('../aryvidot_advice/img/image1.jpeg');
+  background-image: url('https://gratisography.com/thumbnails/gratisography-444-thumbnail.jpg');
   min-height: 100%;
 }
 
 .pimg2{
-  background-image: url('../aryvidot_advice/img/image2.jpeg');
+  background-image: url('https://www.insidehighered.com/sites/default/server_files/styles/large-copy/public/media/iStock-477979994.jpg?itok=dR9bUQeq');
   min-height: 400px;
 }
 
 .pimg3{
-  background-image: url('../aryvidot_advice/img/image3.jpeg');
+  background-image: url('https://images.wallpaperscraft.com/image/compass_vintage_arrows_97371_1920x1080.jpg');
   min-height: 400px;
 }
 
