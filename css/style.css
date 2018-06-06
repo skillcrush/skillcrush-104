@@ -1,4 +1,59 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+
+/***** Lukas Vézina's Advices *****/
+.lukas-advice{
+  background-color: #FCFCFC;
+  font-family: 'Raleway', sans-serif;
+  max-width: 1200px;
+  margin: auto;
+  text-align: center;
+}
+
+.lukas-advice h1{
+  color: #02111B;
+  font-family: 'Oswald';
+  text-align: center;
+  font-size: 40px;
+  text-transform: capitalize;
+  padding: 20px 30px;
+}
+
+.lukas-advice h4{
+  color: #30292F;
+  font-family: 'Oswald';
+  font-size: 30px;
+}
+
+.lukas-advice p{
+  color: #5D737E;
+  font-size: 20px;
+  max-width: 600px;
+  margin: auto;
+}
+
+.lukas-advice header {
+  font-family: 'Raleway';
+  padding: 10px;
+  text-align: right;
+  text-decoration: none;
+}
+
+.lukas-advice a {
+  color: #5D737E;
+  font-size: 15px;
+  text-decoration: none;
+}
+
+.lukas-advice footer{
+  font-size: 15px;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.lukas-advice footer p{
+  font-size: 15px;
+}
+
 /***** Bryan Herbert's advice *****/
 
 .bryanherbert-advice {
@@ -46,6 +101,59 @@
   padding-top: 75px;
   text-align: center;
 
+}
+
+/***** Katie's advice styles *****/
+
+.katiedaniels-advice {
+  text-align: center;
+  font: Georgia;
+  background-color: #8533ff;
+}
+
+.kd-advice {
+  margin-right: 40px;
+  margin-left: 40px;
+  padding: 5px;
+  line-height: 20px;
+}
+
+.katiedaniels-advice h1 {
+  font-size: 28px;
+  color: white;
+}
+
+#katiedaniels-footer {
+  font-style: italic;
+  margin: 60px;
+}
+
+/***** Mary K's advice styles *****/
+
+.maryk-advice {
+  background-color: #fff;
+  color: #444;
+  font-family: 'Lato', 'Arial', sans-serif;
+  font-size: 18px;
+  word-spacing: 2px;
+  font-weight: 300;
+  text-rendering: optimizeLegibility;
+  overflow-x: hidden;
+}
+
+.maryk-advice h1, h4 {
+  text-transform: uppercase;
+  font-weight: 380;
+}
+
+.maryk-advice h1 {
+  font-size: 50px;
+}
+
+.maryk-advice h4 {
+  color: #444;
+  font-size: 25px;
+  margin-bottom: 20px;
 }
 
 /***** Jen's advice styles *****/
@@ -11272,7 +11380,7 @@ body.nancys-advice {
 	font-size: 18px;
 	color: #666699;
 }
-	
+
 /****Nancy's Advice *again* *****/
 
 .nancys-advice-again header a {
@@ -11399,4 +11507,127 @@ body.nancys-advice-again {
   font-family: 'georgia';
   font-size: 14px;
   color: gray;
+}
+
+/***** Marta Kuersten Wolaver's advice *****/
+.mkw-advice {
+	background-color: #66a0ff;
+	font-size: 20px;
+}
+
+.mkw-advice h1{
+	color: #696c70;
+	font-weight: bold;
+	font-size: 120%;
+	font-family: 'Garamond';
+}
+
+.mkw-advice h4 {
+	color: #eaedf2;
+	font-size: 100%;
+	font-family: 'Garamond', 'serif';
+	text-transform: uppercase;
+}
+
+.mkw-advice p{
+	color: #252a33;
+	font-size: 90%;
+	font-family: 'Garamond', 'serif';
+}
+
+.mkw-advice footer{
+	color: #696c70;
+	text-transform: lowercase;
+	font-family: 'Arial', 'sans-serif';
+}
+
+/***** Jools' advise *****/
+.advice-jools {
+  background-color: #99ccff;
+  font-size: 25px;
+  font-family: 'Arial';
+  text-align: center;
+}
+
+.advice-jools h1, h4 {
+  font-weight: bold;
+}
+
+.advice-jools p {
+  font-size: 20px;
+}
+
+.advice-jools footer p {
+  font-size: 12px;
+}  
+  
+.melissamanousos-advice {
+  background-color: rgba(1, 147, 241, 0.71);
+  color: rgb(102, 17, 198);
+  font-family: Arial, sans-serif;
+}
+
+.melissamanousos-advice h1 {
+  text-align: center;
+}
+
+.melissamanousos-advice section .advice p {
+  margin-left: 50px;
+}
+
+.melissamanousos-advice h4 {
+  color: #fff;
+  font-size: 120%;
+}
+
+.melissamanousos-advice a:active,
+.melissamanousos-advice a:hover,
+.melissamanousos-advice a:link   {
+  color: rgb(128, 65, 199);
+}
+
+.melissamanousos-advice footer {
+  text-align: center;
+  margin-top: 70px;
+  padding: 15px;
+  background-color: rgb(72, 135, 210);
+}
+
+/***LizzyB's Advice***/
+
+.lizzyb-advice {
+  font-family: sunflower;
+}
+
+.lizzyb-advice header {
+  background: lavender;
+}
+
+.lizzyb-advice .tip {
+  padding: 15px 50px 30px 50px;
+}
+
+.lizzyb-advice h1 {
+  text-align: center;
+  font-family: cinzel;
+  font-size: 32px;
+  padding: 40px 50px 60px 50px;
+}
+
+.lizzyb-advice h4 {
+  font-family: cinzel;
+  font-size: 24px;
+}
+
+.lizzyb-advice hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 1em 10em;
+  padding: 0;
+}
+
+.lizzyb-advice footer {
+  font-family: cinzel;
 }
