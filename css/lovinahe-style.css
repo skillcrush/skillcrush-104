@@ -11412,6 +11412,19 @@ body.nancys-advice-again {
   font-style: italic;
   font-size: 12px;
 }
-.lovinahe-advice header {
-  
+.lovinahe-advice h1 {
+  box-sizing: border-box;
+  text-align: center;
+  margin-top: 60px;
+  margin-bottom: 40px;
+  letter-spacing: normal;
+  color: #322423;
+}
+.lovinahe-advice h4 {
+  font-style: italic;
+  font-size: 20px;
+  color: #4F4237;
+}
+.lovinahe-advice footer {
+  margin-top: 150px;
 }
