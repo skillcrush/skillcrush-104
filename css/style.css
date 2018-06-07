@@ -53,6 +53,39 @@
 .lukas-advice footer p{
   font-size: 15px;
 }
+/***** Eileen's advice *****/
+.eileen-advice {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: LightSlateGray;
+}
+/* container to hold the background color */
+.eileen-advice .surround {
+  padding: 15px 50px;
+  border: 1px solid gray;
+  border-radius: 30px;
+  margin: 40px;
+  background: LightGrey;
+}
+/* added font family and letter-spacing to prevent css override lower in this file */
+.eileen-advice h1 {
+  font-family: Arial, sans-serif;
+  letter-spacing: normal;
+  text-transform: capitalize;
+  margin-top: 50px;
+}
+.eileen-advice h2 {
+  color: black;
+}
+.eileen-advice .go-ahead {
+  font-size: 24px;
+  font-style: italic;
+  margin: 50px 10px;
+}
+
 
 /***** Bryan Herbert's advice *****/
 
