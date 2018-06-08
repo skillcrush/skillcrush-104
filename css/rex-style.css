@@ -1,0 +1,37 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/***** Rex's Style *****/
+body {
+  background: #036245;
+}
+h1{
+  font-family: cursive;
+  font-size: 43px;
+  text-align: center;
+}
+
+div {
+  float: left;
+  width: 600px;
+  height: 600px;
+}
+h4 {
+  font-family: cursive;
+  font-size: 24px;
+  color: #e0bf89;
+  text-align: center;
+}
+
+p {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+  color: #98be79;
+}
+
+footer{
+  background: #456145;
+  text-align: center;
+  font-size: 12px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #45ffff;
+}
