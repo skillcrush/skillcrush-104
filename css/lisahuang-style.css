@@ -1,0 +1,30 @@
+html, body, li{
+	font-family: 'Arvo', serif;
+	font-size: 18px;
+	color: #AA4465;
+	background-color: #FFA69E;
+}
+
+h4 {
+	color: #DDFFF7;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+h1 {
+	font-family: 'Suez One', serif;
+	font-size: 24px;
+	text-transform: capitalize;
+	color: #462255;
+}
+
+.advice {
+	max-width: 1100px;
+	margin: 0 auto;
+	padding-bottom: 10px;
+}
+
+footer {
+	margin-top: 20px;
+	border-top: 1px solid #600080;
+}

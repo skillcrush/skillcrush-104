@@ -1,0 +1,36 @@
+h1 {
+	color: aqua;
+	font-family: Georgia;
+	font-size: 70px;
+	}
+
+ul {
+	color: white;
+    	font-family:Georgia;
+	margin-left: 100px;
+	}
+
+ol {
+	color: white;
+    	font-family:Georgia;
+	}
+
+body {
+	background: url("http://i20.photobucket.com/albums/b221/SonyaFira/backyardsunset_zpslwo2km6p.png") repeat fixed center center / cover  rgba(0, 0, 0, 0);
+	width: 960px;
+    	margin: auto;
+	}
+
+#advice {
+	border-radius: 5px;
+	padding: 10px 10px 10px 10px; 
+	background: rgba(153, 50, 204, 0.6);
+	color: white;
+	font-family:Georgia;
+	}
+
+#credits {
+	color: white;
+    	font-family:Georgia;
+	text-align: center;
+	}

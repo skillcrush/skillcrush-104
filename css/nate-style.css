@@ -1,0 +1,33 @@
+/** Nate's Style **/
+.nate-advice {
+	width: 500px;
+	margin: 2em auto;
+	padding: 2em;
+	border: 1px solid grey;
+	border-radius: 10px;
+	background: #fff;
+}
+
+.nate-advice h1, p {
+	font-family: Georgia, serif;
+	font-weight: normal;
+	color: #333;
+}
+.nate-advice h4 {
+	font-family: Helvetica, Arial, sans-serif;
+	color: salmon;
+	font-weight: 300;
+	font-size: 1.25em;
+	line-height: .75em;
+	margin-bottom: 0;
+    margin-top: 1.5em;
+}
+
+.nate-advice footer {
+	background: #fff;
+}
+.nate-advice footer p {
+	font-size: small;
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: 300;
+} 

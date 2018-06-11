@@ -1,0 +1,26 @@
+.jennimacklin-advice {
+  margin: 5%;
+}
+.jennimacklin-advice h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: #009999;
+  text-align: center;
+}
+
+.jennimacklin-advice h4 {
+  font-family: 'Monserrat', sans-serif;
+  font-size: 1.4em;
+  color: navy;
+  text-align: center;
+}
+.jennimacklin-advice p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.jennimacklin-advice footer {
+  text-align: center;
+  background-color: #f2f2f2;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}

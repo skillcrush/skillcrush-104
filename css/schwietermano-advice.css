@@ -1,0 +1,75 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/** Ozge's Styles **/
+body {
+  background-color: #c6bcb6;
+  font: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 16px;
+
+}
+
+header a {
+    text-decoration:none;
+    color: #563f46;
+    font-size: 16px;
+}
+header span {
+  font-size: 42px;
+  font-family: Snell Roundhand;
+  color:#563f46;
+  text-shadow: 4px 4px 0px rgba(0,0,0,0.1);
+  font: 200 75px/1.3 'Oleo Script', Helvetica, sans-serif;
+}
+
+header h1 {
+  padding: 0.25em;
+  text-align: center;
+  font: 100 50px/1.3 'Oleo Script', Helvetica, sans-serif;
+  color: #2b2b2b;
+}
+
+.advice {
+    width: 100%;
+    background-color: #c6bcb6;
+    margin: 0 auto;
+    border : 0.14em solid #625750;
+}
+
+.advice h1 {
+    color: #625750;
+    font-weight: bold;
+    text-align: center;
+}
+.advice h2 {
+    color: #625750;
+    font-weight: lighter;
+    text-align: center;
+    font-size: 1.75em;
+}
+
+.advice h4 {
+    font-family: sans-serif;
+    font-size: 22px;
+    text-align: left;
+    color: #391326;
+    font-size: 1.35em;
+    padding-left: 0.2em;
+    font-variant: small-caps;
+  }
+
+  .advice h5 {
+      font-family: sans-serif;
+      font-size: 1.1em;
+      text-align: center;
+      color: #96897f;
+      font-size: 1em;
+      padding-bottom: 1.25em;
+  }
+
+.advice p {
+    color:#50394c;
+    text-align: left;
+  /*  margin: 10px 0px;*/
+  	font-size: 1.25em;
+    padding: 0 0 8px 8px;
+}

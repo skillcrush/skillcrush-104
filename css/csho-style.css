@@ -1,0 +1,57 @@
+/** Add a comment at the beginning of your CSS styles with your name **/
+
+
+/** Chris Shomaker styles **/
+
+.cshomaker-advice h1 {
+  color: #4aa9c7;
+  margin-top:30px;
+  padding-top:20px;
+  padding-bottom:20px;
+  margin-bottom:0px;
+  font-size:28px;
+  border-top:3px solid white;
+  border-bottom:3px solid white;
+}
+
+.cshomaker-advice h4 {
+  font-size: 1.5em;
+  font-family: 'Open Sans', sans-serif;
+  color:#3a3a3a;
+}
+
+.cshomaker-advice {
+  border: 10px outset white;
+  background-color:#e4e4e4;
+  margin: 20px;
+  padding:20px 40px;
+}
+
+.cshomaker-advice p {
+  margin-bottom:40px;
+  font-style:italic;
+  font-family: 'Open Sans', sans-serif;
+  color:#3a3a3a;
+}
+
+.cshomaker-advice a {
+  color: #4aa9c7;
+  text-transform: uppercase;
+  text-decoration:none;
+  font-size: 13px;
+}
+
+.cshomaker-advice header {
+  text-align:center;
+}
+
+.cshomaker-advice div {
+  margin:0 40px 40px 40px;
+  padding:40px;
+}
+
+.cshomaker-advice footer {
+  font-size: 12px;
+}
+
+/** END CHRIS SHOMAKER'S STYLE **/

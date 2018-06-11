@@ -1,0 +1,111 @@
+/* General Styles */
+
+html, body {
+  background-image: url('https://db.tt/qNM5HPr1');
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+body {
+  padding-top: 70px;
+  color: #fff;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  padding: 0;
+  margin: 0;
+}
+
+#wrapper {
+  min-height: 100%;
+  position: relative;
+}
+
+
+
+
+/* Navigation */
+
+.navbar {
+  background-color: rgba(0, 0, 0, 0.5);
+  border: none;
+}
+
+.navbar-default .navbar-brand {
+  font-family: 'Poiret One', cursive;
+  color: #fff;
+}
+
+.navbar-default .navbar-brand:hover {
+  color: #fff;
+}
+
+.navbar-text {
+  background-color: white;
+  padding: 8px 7px;
+  margin: 7px 0;
+  text-transform: uppercase;
+  font-weight: bold;
+  border-radius: 4px;
+  transition: .5s;
+}
+
+.navbar-text:hover {
+  color: white;
+  text-decoration: none;
+  background-color: rgba(255, 255, 255, 0.7);;
+  transition: .5s;
+}
+
+
+
+
+/* Main Content */
+
+.jumbotron {
+  background-color: rgba(0, 0, 0, 0.0);
+  padding-bottom: 50px;
+}
+
+.jumbotron h1 {
+  width: 50%;
+  margin: 5px 0px 15px 0px;
+  padding: 5px 0px;
+}
+
+.jumbotron h3 {
+  padding: 5px 0 10px 0;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.jumbotron p {
+  font-size: 14px;
+}
+
+.well {
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+
+
+
+
+/* Footer */
+
+#footer {
+  background-color: rgba(0, 0, 0, 0.3);
+  color: #eee;
+  width: 100%;
+  height: 50px;
+  position: absolute;
+  bottom: 0;
+  left:0;
+}
+
+#footer p {
+  padding: 5px;
+  margin: 3px;
+}

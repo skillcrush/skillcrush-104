@@ -1,0 +1,32 @@
+/*michelle lui's styles*/
+
+.advice-mlui header a {
+    color: #35445b;
+    border: 1px solid #000000;
+    text-decoration: none;
+    padding: 0px 40px;
+}
+
+.advice-mlui h1 {
+    color: #35445b;
+    font-family: arial;
+    text-align: center;
+    font-weight: bold;
+}
+
+.advice-mlui h4 {
+    color: #515151;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: serif;
+    text-align: left;
+}
+
+.advice-mlui section p {
+    color: #000000;
+    text-align: left;
+}
+
+.advice-mlui footer p {
+    color: #35445b;
+}

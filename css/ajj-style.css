@@ -1,0 +1,105 @@
+
+/** AJJ's Styles **/
+
+body {
+    font: 600 16px 'Source Sans Pro', sans-serif;
+    color: #cc5200;
+    background: red; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(darksalmon, #ffff99); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(darksalmon, #ffff99); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(darksalmon, #ffff99); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(darksalmon, #ffff99); /* Standard syntax */
+    margin: 0 auto;
+    padding: 5%;
+}
+
+section {
+    border-bottom: 1px solid maroon;
+}
+
+header {
+    border-bottom: 1px solid maroon;
+}
+
+header a {
+    text-decoration: none;
+    color: #eee;
+    background-color: #802b00;
+    border: 1px solid maroon;
+    border-radius: 25px;
+    padding: 10px 20px;
+}
+h1 {
+    font: normal 1.65em/1.6 'Shrikhand', cursive;
+    color: #803300;
+    text-align: center;
+    margin: 7% 0;
+}
+h3 {
+    font: bold 1.2em Arial, sans-serif;
+    text-align: center;
+    color: #993d00;
+}
+
+h4 {
+    font-weight: bolder;
+    font-size: 1.4em;
+    color: #993d00;
+}
+
+.comment {
+    font-size: 1.3em;
+}
+ul {
+    border-bottom: 1px solid maroon;
+    padding: 2% 9%;
+}
+
+li {
+    padding: 1%;
+    font-size: 1.2em;
+}
+
+li a {
+    color: #b34700;
+    text-decoration: none;
+    font-family: 'Shrikhand', cursive;
+    font-weight: normal;
+}
+span {
+    font-size: .85em;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.interruption {
+    overflow: auto;
+    padding-bottom: 1.5%;
+}
+p {
+    font-family: 'Shrikhand', cursive;
+    text-align: center;
+    font-weight: 200;
+}
+
+strong {
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+img {
+    float: left;
+    margin-right: 35px;
+}
+
+.interruption p {
+    text-align: left;
+}
+
+footer {
+    color: #803300;
+    text-align: center;
+    font-size: .75em;
+    font-style: italic;
+}
+

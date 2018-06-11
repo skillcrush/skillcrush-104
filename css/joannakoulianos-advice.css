@@ -1,0 +1,33 @@
+body.joannakoulianos-advice {
+	padding: 10px;
+	width: 100%;
+	color: #333;
+}
+
+h1{
+	font-family: 'Slabo 13px', serif ;
+}
+
+h2 {
+	font-family: 'Slabo 13px', serif;
+	font-size: 1.5em;
+}
+
+p {
+	font-family: 'Asap', sans-serif;
+}
+
+a {
+	font-family: 'Asap', sans-serif;
+	text-decoration: none;
+}
+
+#container {
+	background-color: #C1F6FF;
+	padding: 10px;
+	max-width: 80%;
+}
+
+a:hover {
+	text-decoration: underline;
+}

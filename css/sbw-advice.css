@@ -1,0 +1,33 @@
+/*Start Solybarr's Styles*/
+
+
+body {
+	max-width: 85%;
+	margin:0 auto;
+	background:darkseagreen;
+	font-family: Arial, 'sans-serif';
+}
+
+
+.sbw-advice {
+	background-color: white;
+	padding: 2px;
+	font-weight: bold;
+}
+
+header h1, footer {
+
+	border:5px dashed white;
+	padding: 10px;
+	text-align: center;
+}
+
+
+section {
+	width: 90%;
+	margin:0 auto;
+
+}
+
+
+/*End Solybarr's Styles*/

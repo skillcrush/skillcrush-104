@@ -1,0 +1,35 @@
+/** Coded By Bonnie Roberts**/
+body { 
+    width: 1200px;
+}
+
+.bonnieroberts-advice h1 {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	text-align: center;
+}
+
+.bonnieroberts-advice h4 {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	text-align: center;
+	color: purple;
+	font-size: 32px;
+}
+
+.bonnieroberts-advice p {
+	font-family: Verdana, Geneva, Tahoma, sans-serif ;
+	text-align: center;
+	font-size: 16px;
+}
+
+.bonnieroberts-advice {
+	background-image: url('http://www.backgroundsy.com/file/large/blurry-particles-background.jpg');
+	background-repeat: none;
+    background-position: left;
+    background-color: lightblue;
+}
+
+.bonnieroberts-advice .footer p {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 14px;
+	text-align: center;
+}

@@ -1,0 +1,8 @@
+/** Add a comment at the beginning of your CSS styles with your name **/
+/** Libby advice styles **/
+.libby-advice{
+  color: #ac00e6;
+  font-family: "Avant Garde", sans-serif;
+  font-size: 38px;
+  border: solid 2px #000033;
+}

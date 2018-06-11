@@ -1,0 +1,58 @@
+/* Jennifer advice styles */
+
+/* Color palette
+blue:     	#0769B8;
+green:		#11B807;
+hot pink:	#E63782;
+orange: 	#B85607;
+ */
+ 
+ body {
+ 	background-color: yellow;
+ 	padding: 3%;
+ }
+
+ 
+ .header h1 {
+ 	color: #E63782;
+ 	font-family:'Brushstroke', fantasy;
+ 	font-size: 2.5em;
+ 	text-align: center;
+ }
+ 
+ h4 {
+ 	color: #0769B8;
+ 	font-family:'Brushstroke', fantasy;
+ 	font-size: 1.7em;
+  	text-align: center;
+}
+ 
+ .footer {
+	padding: 3px;
+ 	font-size: .66em;
+ 	background-color: orange;
+  	text-align: center;
+}
+
+ .footer p {
+ 	color: #fff;
+  	text-align: center;
+}
+ 
+ p {
+ 	color: #11B807;
+ 	font-family: 'Lucidatypewriter', monospace;
+ 	font-size: 1.2em;
+  	text-align: center;
+}
+ 
+.header a {
+ 	color: #B85607;
+ 	text-decoration: none;
+ 	font-family: 'Lucidatypewriter', monospace;
+ 	font-size: 1em;
+ 	text-align: right;
+ }
+ 
+
+

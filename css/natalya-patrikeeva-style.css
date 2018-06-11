@@ -1,0 +1,91 @@
+/** Natalya's Style **/
+html,body {
+	margin: 0;
+	padding: 0;
+}
+
+.jumbotron {
+  background:url('http://www.jetblue.com/img/vacations/destination/New-Orleans-960-x-420.jpg') no-repeat center center fixed;
+  height: 800px;
+  background-size: cover;
+}
+
+.container {
+  max-width: 940px;
+  margin: 0 auto;
+  padding: 0 10px;
+}
+
+.main {
+	position: relative;
+	top: 250px;
+	text-align: center;
+}
+
+.main h1 {
+	color: #ffffff;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 100;
+  font-size: 70px;
+	letter-spacing: 1.7px;
+  margin-top: 0;
+  margin-bottom: 80px;
+}
+
+.sub-main {
+  background-color: #ffffff;
+	border: 0.5px solid #333333;
+  color: #333333;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  letter-spacing: 1.3px;
+  padding: 16px 20px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.advice {
+	padding-top: 80px;
+	padding-bottom: 200px;
+}
+
+.advice .col {
+  float: left;
+  width: 33%;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+
+.advice h2 {
+	font-weight: 600;
+  font-size: 23px;
+  text-transform: uppercase;
+}
+
+.advice p {
+	font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  padding: 0 50px;
+  margin-bottom: 40px;
+}
+
+.advice a {
+	margin-right: 10px;
+	border: 0.5px solid #333333;
+}
+
+.footer {
+  background-color: #333;
+  color: #fff;
+	padding-top: 40px;
+	text-align: left;
+}
+
+.footer p {
+  font-family: 'Raleway', sans-serif;
+  text-transform: uppercase;
+  font-size: 12px;
+	padding-bottom: 5px;
+}

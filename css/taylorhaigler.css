@@ -1,0 +1,29 @@
+body {
+	width: 80%;
+	margin: auto;
+	font-family: "Garamond", sans-serif;
+    color: "dark grey";
+    font-size: 16px;
+}
+header {
+    margin-top: 30px;
+}
+a {
+    color: black;
+    font-weight: bold;
+}
+a:hover {
+    color: green;
+}
+h4 {
+    font-size: 2em;
+    color: teal;
+}
+
+p {
+    text-align: justify;
+}
+
+footer {
+    padding: 20px 0px;
+}

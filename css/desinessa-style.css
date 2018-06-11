@@ -1,0 +1,13 @@
+.desinessa-advice {
+    width: 60%;
+    background-color:floralwhite;
+    padding:40px;
+    font-family: sans-serif;}
+.desinessa-advice header {}
+.desinessa-advice header a {text-decoration: none; font-size: 70%; }
+.desinessa-advice h1 {font-style: normal; font-weight: 100; font-size: 350%; margin: 40px 0 40px 0;}
+.desinessa-advice h4 {font-family: cursive; color: cadetblue; font-size: 200%; margin: 30px 0 10px 0;}
+.desinessa-advice .advice {}
+.desinessa-advice p {line-height: 130%;}
+.desinessa-advice footer {margin: 40px 0 0 0; border-top: cadetblue solid 1px; }
+.desinessa-advice footer p {font-size: 70%; color: cadetblue;}

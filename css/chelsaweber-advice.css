@@ -1,0 +1,52 @@
+#back_to_main {
+	font-family: 'Lato', sans-serif;
+	text-align: left;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    padding-left: 10%;
+}
+
+h1 {
+    font-family: 'helvitica', sans-serif;
+    font-weight: 700;
+    font-size: 90px;
+    color: lightpink;
+    text-align: center;
+    padding-top: 10%;
+    margin-bottom: -2%;
+}
+
+#padding_top_header {
+	padding-top: 10%;
+	text-align: center;
+	background-image: url('http://66.media.tumblr.com/tumblr_lzki8wc8n31r8x8h2o1_500.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 70%;
+    padding-bottom: 12%;
+}
+
+
+h4 {
+	font-weight: 300;
+	font-family: 'Lato', sans-serif;
+	color: lightsteelblue;
+    font-size: x-large;
+    text-align: center;
+}
+
+section {
+    padding-left: 15%;
+    padding-right: 15%;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: large;
+}
+
+footer {
+	font-family: 'Lato', sans-serif;
+	text-align: left;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    padding-left: 10%;
+}

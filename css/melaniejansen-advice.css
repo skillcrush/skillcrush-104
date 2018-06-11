@@ -1,0 +1,26 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+/** Melanie's Styles **/
+
+.melaniejansen-advice {
+	background-color: #dcdcdc;
+	font-family: sans-serif;
+	color: a9a9a9;
+}
+.melaniejansen-advice a {
+	color:black;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.melaniejansen-advice h1 {
+	color: #ff4500;
+}
+
+.melaniejansen-advice h4 {
+	color: #00baff;
+}
+
+.melaniejansen-advice footer p {
+	color: #ff4500;
+}
+/** End Melanie's Styles **/

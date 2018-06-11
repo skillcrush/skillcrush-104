@@ -1,0 +1,52 @@
+body.zoraida-advice {
+    width: 96%;
+    margin: auto;
+    font-family: 'Unna', serif;
+    font-size: 16px;
+}
+
+.zoraida-advice button {
+    background: lightgray;
+    border: none;
+    height: 30px;
+    box-shadow: 3px 3px gray;
+}
+
+.zoraida-advice button a {
+    text-decoration: none;
+    color: #1C755D;
+    font-size: 14px;
+}
+
+.zoraida-advice button a:hover {
+    color: #F21E24;
+}
+
+.zoraida-advice button:hover {
+    background: white;
+    border: gray 1px solid;
+}
+
+.zoraida-advice h1,
+.zoraida-advice h4,
+.zoraida-advice button a {
+    font-family: 'Sansita', sans-serif;
+}
+
+.zoraida-advice h1 {
+    color: #1C755D;
+    font-size: 36px;
+}
+.zoraida-advice h4 {
+    color: #F21E24;
+    font-size: 24px;
+    margin-bottom: 5px;
+}
+
+.zoraida-advice p {
+    font-size: 18px;
+}
+
+.zoraida-advice footer {
+    font-style: italic;
+}

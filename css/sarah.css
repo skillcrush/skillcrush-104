@@ -1,0 +1,36 @@
+/** Sarah's Style **/
+
+
+.sarah-advice {
+    width: 90%;
+    background-color: #f0f0f0;
+    font-family: 'Georgia', 'serif';
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+.sarah-advice a {
+    text-decoration: none;
+    color: #c0ded9;
+    font-weight: bold;
+}
+.sarah-advice h1 {
+    color: #3b3a30;
+    font-weight: bold;
+    text-align: center;
+}
+.sarah-advice h4 {
+    font-family: sans-serif;
+    font-size: 22px;
+    text-align: center;
+    color: #3b3a30;
+}
+.sarah-advice p {
+    color: #3b3a30;
+    text-align: left;
+}
+.sarah-advice footer {
+    color: #c0ded9;
+    text-align: right;
+    font-size: 16px;
+}

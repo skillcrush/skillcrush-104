@@ -1,0 +1,33 @@
+
+
+/** Kelsey's Styles **/
+.kelseyfecho-advice {
+  background-color: #fff0f2;
+}
+
+.kelseyfecho-advice h1 {
+	font-family: Helvetica;
+	color: #020202;
+}
+
+.kelseyfecho-advice p {
+	font-family: Garamond;
+	font-size: 1em;
+	color: #333333;
+}
+
+.kelseyfecho-advice a {
+	text-decoration: none;
+	font-family: Garamond;
+	color: #222222;
+}
+
+.kelseyfecho-advice h4 {
+	font-family: Garamond;
+	color: #000000
+}
+
+.kelseyfecho-advice footer {
+	color: #ffffff;
+	font-size: 0.75em;
+}

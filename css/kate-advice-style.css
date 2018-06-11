@@ -1,0 +1,15 @@
+.kate-advice body {
+  background-color: #e6e6fa;
+}
+.kate-advice h4 {
+  text-align: center;
+  color: #ff0000;
+}
+.kate-advice p {
+  text-align: left
+}
+
+.kate-advice h3 {
+  text-weight: bold;
+  text-color: #ffffff;
+}

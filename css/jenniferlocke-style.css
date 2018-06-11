@@ -1,0 +1,42 @@
+/***** Main Styles *****/
+
+body {
+    width: 85%;
+    margin: 10px auto;
+    background-color: #C1C8C4;
+}
+
+h1 {
+    font-family: 'Share Tech Mono', monospace;
+    text-transform: uppercase;
+    color: #551B14;
+    text-align: center;
+    font-weight: bold;
+}
+
+a {
+    color: #85756E;
+    text-decoration: none;
+}
+
+h4 {
+    font-family: 'Share Tech Mono', monospace;
+    font-variant: small-caps;
+    color: #551B14;
+    font-size: 24px;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    color: #3B1F2B;
+    font-size: 18px;
+}
+
+span {
+    font-weight: bold;
+}
+
+footer p {
+    text-align: center;
+    font-size: 14px;
+}

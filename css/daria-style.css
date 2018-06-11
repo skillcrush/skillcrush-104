@@ -1,0 +1,39 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/* === Daria's Style === */
+
+.daria-advice {
+	font-family: 'Oswald';
+	font-weight: 400;
+	font-size: 1em;
+	background-image: url("http://www.psdgraphics.com/file/blurry-lights.jpg");
+	color: #59626d;
+}
+.daria-advice h1{
+	color: #ff0000;
+	font-style: italic;
+	text-align: center;
+	margin-bottom: 90px;
+}
+.daria-advice h4 {
+	font-size: 1.5em;
+	color: #886f68;
+	text-align: center;
+}
+
+p {
+
+	width: 70%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+footer{
+
+	margin-top: 90px;
+	font-weight: bold;
+}
+
+
+
+

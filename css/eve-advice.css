@@ -1,0 +1,79 @@
+/* Eve's style */
+
+.eve-advice {
+  font-family: 'Lato', sans-serif;
+  font-family: 'Playfair Display', serif;
+  background-color: #f2f2f2;
+  color: black;
+}
+
+.eve-advice h1{
+  font-family: 'Playfair Display', serif;
+  font-weight: bold;
+  font-size: 24px;
+  text-align: center;
+  text-transform: uppercase;
+  background-color: white;
+  margin: 40px 100px 0 100px;
+  padding: 10px 20px 10px 20px;
+}
+
+.eve-advice-text{
+  width: 45%;
+  float: left;
+}
+
+.eve-advice-text p{
+  font-family: 'Lato', sans-serif;
+}
+
+.eve-advice-text h4{
+  font-family: 'Playfair Display', serif;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.eve-advice-slowly{
+  background-color: white;
+  padding: 10px 20px 10px 20px;
+  margin-left: 100px;
+  margin-top: 40px;
+}
+
+.eve-advice-slowly{
+  background-color: white;
+  padding: 10px 20px 10px 20px;
+  margin-left: 100px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.eve-advice-skill{
+  background-color: white;
+  padding: 10px 20px 10px 20px;
+  margin-left: 100px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.eve-advice-paper-gif{
+  width: 45%;
+  float: left;
+  padding-left: 100px;
+  padding-top: 20px;
+  margin-top: 20px;
+}
+
+.eve-advice-paper-gif img{
+  width: 300px;
+  padding-bottom: 35px;
+}
+
+.eve-advice footer {
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    clear: both;
+    padding-left: 20px;
+}

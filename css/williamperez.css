@@ -1,0 +1,22 @@
+body {
+  background-color: gray;
+}
+h1,h2 {
+  text-align: center;
+}
+.one {
+  background-color: red;
+  font-size: 18px;
+}
+.two {
+  background-color: blue;
+  font-size: 18px;
+}
+.three {
+  background-color: yellow;
+  font-size: 18px;
+}
+footer {
+  text-align: center;
+  background-color: #fff;
+}

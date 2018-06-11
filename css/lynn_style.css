@@ -1,0 +1,32 @@
+/* LCWorthy advice styling  */
+.lcworthy-advice {
+	background-color: #B0F7E8;
+}
+.lcworthy-advice h1{
+	color: #E9662C;
+	font-size: 28px;
+	font-family: "Times New Roman", Georgia, Serif;
+    text-align: center;
+}
+
+.lcworthy-advice  h4{
+	color: #350CE8;
+	font-size: 22px;
+	font-family: "Times New Roman", Georgia, Serif;
+}
+
+.lcworthy-advice p{
+	color: #824500;
+	font-family: "Times New Roman", Georgia, Serif;
+	font-size: 14px;
+	
+	
+}
+
+.lcworthy-advice div {
+	border-width: 2px;
+	border-style: solid;
+}
+
+/**End Lynn W **/
+

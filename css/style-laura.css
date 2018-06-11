@@ -1,0 +1,36 @@
+/** Add a comment at the beginning of your CSS styles with your name **/
+
+
+
+/* Laura's Styles */
+.lauragardner-advice{
+    width: 100%;
+    background-color: #e9e9e9;
+}
+
+.lauragardner-advice h1{
+    color: #f87060;
+    font-family: serif;
+}
+
+.lauragardner-advice h4{
+    color: #3f403e;
+    font-size: 24px;
+}
+
+.lauragardner-advice p{
+    color: #3f403e;
+}
+
+.lauragardner-advice footer{
+    background-color: #3f403e;
+}
+
+.lauragardner-advice footer p{
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.lauragardner-advice footer a{
+    color: #ffffff;
+}

@@ -1,0 +1,70 @@
+/* shanamoore-style.css */
+
+html, body, h1, h2, h4, p, header, section, footer {
+  padding: 0; 
+  border: 0;
+  margin: 0;
+  font: inherit;
+  font-size: 100%;
+}
+
+h1{
+  font-family: "Helvetica Neue", Helvetica, sans-serif;  
+  font-size: 70px;
+  font-weight: bold;
+  text-align: center;
+}
+
+h2{
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 30px; 
+  font-weight: 200;
+  text-align: center;
+  width: 700px;
+  margin: 0 auto 0 auto;
+}
+
+h2 strong {
+  font-weight: 400;
+}
+
+header {
+  background-color: #CCFFCC;
+}
+
+.tagline {
+  padding: 20px 0 20px 0;
+  border: 1px solid #555555;
+}
+
+h4 {
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 28px;
+  font-weight: normal;
+  text-align: center;
+  border: 1px solid #555555;
+  background-color: #FFFF99;
+}
+
+p {
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  text-align: center;
+  padding: 20px 0 20px 0; 
+  width: 700px;
+  margin: 0 auto 0 auto;
+}
+
+p strong {
+  font-weight: 700;
+}
+
+footer {
+  background-color: #CCFFCC;
+  text-align: center;
+  padding: 50px 0 50px 0;
+  border: 1px solid #555555;
+
+}
+
+
+

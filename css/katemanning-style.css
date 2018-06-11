@@ -1,0 +1,25 @@
+/** Kate M.'s Style **/
+.katemanning-advice {
+    background: url('https://c1.staticflickr.com/4/3109/3235135608_08555f4f27_b.jpg') center center no-repeat;
+    background-size: cover;
+    color: darkred;
+    font-family: 'century gothic', 'calibri', sans-serif;
+    font-style: italic;
+    margin: 50px 0px 300px 0px;
+    padding: 50px;
+    text-align:center;
+}
+
+.katemanning-advice header {
+  text-align: left;
+}
+
+.katemanning-advice h1 {
+  font-family: cursive;
+}
+
+.katemanning-advice h4 {
+  font-size: 14pt;
+  color: black;
+}
+/** end Kate M.'s Style **/

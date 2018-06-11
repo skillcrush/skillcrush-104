@@ -1,0 +1,693 @@
+/** Add a comment at the beginning of your CSS styles with your name **/
+
+/**Kim's Styles**/
+
+.kim-advice h1 {
+	font-family:'Arial', sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	}
+
+.kim-advice .advice h4 {
+	font-family: 'Helvetica';
+	font-size: 14px;
+	font-weight: bold;
+	}
+	
+.kim-advice .advice p {
+	font-family: 'Arial';
+	font-size: 10px;
+	}
+/**End Kim's Styles**/
+
+/** Sarah Bagley's styles **/
+
+.sarahbagley-advice h1 {
+	font-family: 'Crushed', cursive;
+	color: Teal;
+	text-align: center;
+	font-size: 60px;
+}
+
+.sarahbagley-advice .sarahbagleymore-advice h4 {
+	font-family: 'Crushed', cursive;
+	color: Teal;
+	text-align: center;
+	font-size: 30px;
+	padding-top: 10px;
+}
+
+.sarahbagley-advice .sarahbagleymore-advice p {
+	font-family: 'Muli', sans-serif;
+	text-align: center;
+	font-size: 20px;
+	padding-left: 150px;
+	padding-right: 150px;
+	line-height: 30px;
+}
+
+.sarahbagley-advice a {
+	font-family: 'Muli', sans-serif;
+	color: Teal;
+	text-align: center;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+.sarahbagley-advice p {
+	font-family: 'Muli', sans-serif;
+	color: Gray;
+	text-align: center;
+	font-size: 20px;
+	text-decoration: none;
+	padding-bottom: 40px;
+}
+
+/** End of Sarah Bagley's styles **/
+
+/** Kenise's styles **/
+.kenise-advice .advice h1 {
+	font-family: 'Roboto Condensed', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+	margin-left: 40px;
+	margin-top:20px;
+	margin-bottom:15px;
+}
+
+.kenise-advice .advice p {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 16px;
+    width: 600px;
+	margin-left: 40px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.kenise-advice .advice h4 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    color: rgb(216, 35, 42);
+	margin-left: 40px;
+	margin-top: 20px;
+	margin-bottom: 15px;
+	border-bottom: 1px solid #DDDDDD;
+	padding-bottom: 5px;
+}
+.kenise-advice .advice ul {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 16px;
+    width: 600px;
+	margin-left: 30px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	}
+
+.kenise-advice .advice li {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 16px;
+    width: 600px;
+	margin-left: 40px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.kenise-advice .advice a {
+	text-decoration: none;
+}
+
+.kenise-advice .advice footer {
+	text-align: center;
+}
+/**End Kenise's Style**/
+
+.kennedy-advice{
+	color: lightblue;
+	font-size: 18px;
+	text-align: center;
+	background-size: cover;
+	background-position: center;
+	color: blue;
+	font-family: helvetica;
+	background: orange;
+}
+
+/**Keri's Advice Style**/
+.keri-stoller-advice {
+	font-family: Georgia, sans-serif;
+	margin: 50px;
+	background-color: #B2AFB3;
+}
+
+.keri-stoller-advice .main-page {
+	text-decoration: none;
+	font-style: italic;
+	color: purple;
+}
+
+.keri-stoller-advice h1 {
+	font-size: 3em;
+	text-align: center;
+}
+
+.keri-stoller-advice .advice {
+	margin: 10px auto;
+}
+
+.keri-stoller-advice h4 {
+	text-align: left;
+	font-size: 1.5em;
+	font-weight: bolder;
+	text-decoration: underline;
+	color: #C3E30B;
+	margin: 0px;
+	padding: 0px;
+}
+
+.keri-stoller-advice p {
+	font-family: sans-serif;
+
+}
+
+.keri-stoller-advice footer {
+	text-align: right;
+	font-style: italic;
+	font-size: .75em;
+	font-weight: lighter;
+	color: purple;
+}
+/**End of Keri's Advice Style**/
+
+
+/** Yo it's Randle **/
+.randle-advice body {
+	padding: 50px;
+	font-family: helvetica;
+}
+
+.randle-advice h1, h4 {
+	margin: 10px 100px 10px 100px;
+	color: salmon;
+}
+
+.randle-advice h1 {
+	padding: 20px;
+	font-size: 3em;
+}
+
+.randle-advice h4 {
+	padding: 10px;
+	font-size: 2em;
+}
+
+.randle-advice p {
+	margin: 10px 150px 10px 150px;
+	border-radius: 20px;
+	background-color: salmon;
+	color: white;
+	padding: 25px;
+	font-size: 1.5em;
+}
+
+.margaret-advice body {
+	padding: 20px;
+	}
+
+.margaret-advice h1 {
+	padding: 10px;
+	font-size: 40px;
+	color: royalblue;
+	font-family: courier;
+	text-align: Center;
+	}
+
+.margaret-advice h4 {
+	font-size: 30px;
+	color: darkpink;
+	font-family: courier;
+	text-align: center;
+	}
+
+.margaret-advice p {
+	font-size: 20px;
+	padding: 10px;
+	font-family: courier;
+	margin-left: 20px;
+	}
+
+/** Skillcrush styles **/
+.skillcrush-advice .advice h4 {
+	border-bottom: 1px solid #DDDDDD;
+	padding-bottom: 5px;
+}
+
+.lyndileighwk-advice h1{
+	color: DarkSlateGray;
+}
+.lyndileighwk-advice .advice h4 {
+	border-bottom: 1px solid #DDDDDD;
+	padding-bottom: 5px;
+}
+.lyndileighwk-advice #wrap{
+	width: 600px;
+	margin: auto;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.lyndileighwk-advice p{
+	font-weight: lighter;
+	color: DimGray
+}
+
+.deblevy-advice .advice h1 {
+	font-family: 'Roboto Condensed', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+	margin-left: 40px;
+	margin-top:20px;
+	margin-bottom:15px;
+}
+
+.deblevy-advice .advice p {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 16px;
+    width: 600px;
+	margin-left:40px;
+	margin-top:15px;
+	margin-bottom:15px;
+}
+
+.deblevy-advice .advice h4 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    color: rgb(216, 35, 42);
+	margin-left: 40px;
+	margin-top:20px;
+	margin-bottom:15px;
+}
+
+.deblevy-advice .advice ol {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 16px;
+    width: 600px;
+	margin-left:30px;
+	margin-top:15px;
+	margin-bottom:15px;
+	}
+
+.deblevy-advice .advice li {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 16px;
+    width: 600px;
+	margin-left:40px;
+	margin-top:15px;
+	margin-bottom:15px;
+}
+
+/**CSS styles for kimsanders advice page **/
+.kimsanders-advice-main {
+	background-image: url(http://mrg.bz/KVxRhK);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	font-family:"Verdana";
+}
+
+.kimsanders-advice {
+  background:#7f7f7f;
+  background:rgba(255,255,255,0.7);
+  padding: 0px 25px;
+}
+
+.kimsanders-advice h1 {
+	font-style: italic;
+	font-size: 35px;
+	color: #000066;
+	text-align: center;
+}
+
+.kimsanders-advice h4 {
+	font-size: 25px;
+	color: #000065;
+}
+
+.kimsanders-advice p {
+	font-size: 18px;
+	color: #000065;
+}
+/**End styles for kimsanders **/
+
+/** Steve's styles **/
+.steveb-advice .advice h2 {
+	font-family: sans-serif;
+	border-bottom: 1px solid #DDDDDD;
+	padding-bottom: 5px;
+}
+.steveb-advice h1 {
+	font-family: sans-serif;
+}
+.steveb-advice p {
+	font-family: sans-serif;
+}
+.steveb-advice a {
+	font-family: sans-serif;
+}
+
+.rosskinney-advice  h1  {
+	background-color: orange;
+	border-bottom: 11px solid blue;
+	padding-bottom: 5px;
+
+}
+
+.rosskinney-advice  {
+	background-color: orange
+
+}
+
+.rosskinney-advice .ross-footer  {
+	background-color: blue
+
+}
+
+.rosskinney-advice a:link {text-decoration:none;}
+
+/**amira keepin' it simple**/
+.amira-advice .advice h4{
+    background-color: #8cd9b8;
+    color: #aba3e0;
+    font-size: 30px;
+}
+
+div.sarahgreer-advice {
+    font-family: 'Julius Sans One', sans-serif;
+    color: #2F3632;
+    box-shadow: .1em .1em .5em #2F3632;
+    padding: 2em;
+    width:  60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1.sarahgreer-advice {
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 2em;
+    color: #2F3632;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+h2.sarahgreer-advice {
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 1em;
+    color: #2F3632;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-style: italic;
+}
+
+h4.sarahgreer-advice {
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 1.6em;
+    color: #2F3632;
+}
+
+p.sarahgreer-advice {
+    font-family: 'Julius Sans One', sans-serif;
+    font-weight: 200;
+    font-size: 1.24em;
+    line-height: 1.3em;
+    text-align: justify
+}
+
+p.sarahgreercopy-advice {
+    color: #2F3632;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: .8em;
+}
+
+/** Emily Chen styles **/
+.emilychen-advice {
+	font-family: Montserrat;
+	max-width: 960px;
+	margin: auto auto;
+	background-color: #FAFFE5
+}
+
+.emilychen-advice h1 {
+	font-size: 2em;
+}
+
+.emilychen-advice h4 {
+	font-size: 1.4em;
+}
+
+/*Cristy Koebler styles */
+.cristykoebler-advice header h1{
+	text-align: center;
+	font-family: serif;
+  	color: Crimson;
+}
+
+.cristykoebler-advice .advice h4 {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.cristykoebler-advice footer {
+	text-align: center;
+}
+
+/** Hi all, this is Jessica's advice style**/
+.jmg-advice   {
+color: #008599;
+background-color: navajowhite;
+text-align: center;
+width: 550px;
+margin-left: 35px;
+padding-left: 25px;
+padding-right: 25px;
+border: 14px mediumvioletred solid;
+}
+
+.jess-advice {
+background: cornsilk;
+border: 30px solid mediumvioletred;
+padding: 5px;
+
+}
+
+.jess-header {
+color: mediumblue;
+}
+
+.evebee-advice {
+background-color: lightgreen;
+color: darkgreen;
+font-weight: bold;
+}
+
+#amycphoto {
+    height: 300px;
+    border-radius: 50%;
+    margin-left: 300px;
+}
+.amych1 {
+    font-family: serif;
+    color: gray;
+    text-align: center;
+}
+.amycp {
+    color: gray;
+    text-align: center;
+}
+.amych4 {
+    text-align: center;
+    font-weight: 800;
+    font-size: 30px;
+}
+#amycwrapper {
+    width: 900px;
+    background-color: pink;
+    margin: 0px auto;
+}
+
+/**Alex's Advice Style**/
+
+.alex-advice {
+	background-color: lightgreen;
+}
+
+.alex-advice h1 {
+	background-color: white;
+	border-radius: 5px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 55%;
+	border: solid green 4px;
+	padding: 20px;
+}
+
+.alex-advice .advice h4 {
+	color: #003300;
+	text-decoration: condensed;
+	font-size: 150%;
+	font-weight: normal;
+}
+
+.advice-item {
+	background-color:white;
+	border: solid 2px green;
+	padding: 5px;
+	border-radius: 10px;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/**End of Alex's Advice Style**/
+
+/*This is Melissa's contribution*/
+.melissay-advice .advice h4 {
+	font-size: 50px;
+}
+
+.melissay-advice .advice p {
+	background-color: indigo;
+	color: white;
+	margin: 10px 200px;
+	font-size: 25px;
+	border-radius: 5px;
+}
+
+.melissay-advice footer {
+	margin: 10px auto;
+	text-align: center;
+}
+/*End of Melissa's contribution*/
+
+/*Michelle B's contribution*/
+.michelleb-advice{
+background-color: white;
+color: silver;
+font-size: 20px;
+font-family: arial;
+text-align: left;
+margin: 20px;
+width: 700px;
+text-decoration: none;
+}
+.michelle-advice{
+color: lightblue;
+font-size: 22px;
+}
+/*End of Michelle B's contribution*/
+
+/**** Chrissyg's advice styles start here ****/
+.chrissyg-advice {  
+	border: 1px solid white;
+	background-color:#3cc;
+	color:#036;
+	font-family: 'Montserrat', sans-serif;
+	margin: 20px;
+	padding:20px 40px;
+}
+
+.chrissyg-advice h1 {
+	color: white;
+	text-transform: uppercase;
+	margin-top:30px;
+	padding-top:20px;
+	padding-bottom:20px;
+	margin-bottom:0px;
+	font-size:26px;
+	border-top:1px solid white;
+	border-bottom:1px solid white;
+}
+
+.chrissyg-advice h2 {
+	font-size:21px;
+	margin-top:0px;
+	padding-top:0px;
+}
+
+.chrissyg-advice p {
+	margin-bottom:40px;
+	font-style:italic;
+}
+
+.chrissyg-advice a {
+	color:#036;
+	text-transform: uppercase;
+	text-decoration:none;
+	font-size: 13px;
+}
+
+.chrissyg-advice header {
+	text-align:center;
+}
+
+.chrissyg-advice div {
+	margin:0 40px 40px 40px; padding:40px;
+}
+
+.chrissyg-advice footer {
+	font-size: 12px;
+}
+/**** End of Chrissyg's advice styles ****/
+
+/* Neilda's Advice Style */
+.neildapacquing-advice {  
+	background-image: url('http://alikgriffin.com/sites/default/files/Malibu_Pier_01.jpg');
+	background-size: 100%;
+    background-repeat: no-repeat;
+	color:#036;
+	font-family: 'Montserrat', sans-serif;
+	margin: 20px;
+	padding:20px 40px;
+}
+
+.neildapacquing-advice h1 {
+	color: white;
+	text-transform: uppercase;
+	margin-top:30px;
+	padding-top:20px;
+	padding-bottom:20px;
+	margin-bottom:0px;
+	font-size:26px;
+	border-top:1px solid white;
+	border-bottom:1px solid white;
+}
+
+.neildapacquing-advice h2 {
+	font-size:21px;
+	margin-top:0px;
+	padding-top:0px;
+}
+
+.neildapacquing-advice p {
+	margin-bottom:40px;
+	font-style:italic;
+}
+
+.neildapacquing-advice a {
+	color:#036;
+	text-transform: uppercase;
+	text-decoration:none;
+	font-size: 13px;
+}
+
+.neildapacquing-advice header {
+	text-align:center;
+}
+
+.neildapacquing-advice div {
+	margin:0 40px 40px 40px; padding:40px;
+}
+
+.neildapacquing-advice footer {
+	font-size: 12px;
+}
+
+/* End Neilda's Advice Style */

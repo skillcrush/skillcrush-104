@@ -1,0 +1,40 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/** Sara's Styles **/
+.sarag-advice {
+    width: 100%;
+    background-color: #grey;
+    font-family: 'Poppins', sans-serif;
+    margin: 0 auto;
+    
+}
+.sarag-advice a {
+    text-decoration: none;
+    color: slategrey;
+}
+.sarag-advice h1 {
+    color: #8303ad;
+    font-weight: 700;
+    text-align: center;
+}
+.sarag-advice h4 {
+    font-family: sans-serif;
+    font-size: 22px;
+    text-align: left;
+    color: #e03081;
+    font-weight: 600;
+    padding-left: 2%;
+}
+.sarag-advice p {
+    color:#dark slategrey;
+    text-align: justify;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.sarag-advice footer {
+    color: #00008B; 
+    text-align: center;
+    font-size: 13px;
+    font-style: italic;
+}
+

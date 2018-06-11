@@ -1,0 +1,48 @@
+body {
+  background-color: #B2B2B2;
+}
+
+footer {
+  background-color: #0097A3;
+  bottom: 0;
+  color: #F9F500;
+  clear: both;
+  font-size: 18px;
+  text-align: center;
+  padding: 5px;
+  margin: -8px;
+  position: fixed;
+  width: 100%;
+}
+
+h1, h2, h4 {
+  color: #F9F500;
+  text-shadow: 3px 3px 3px #0097A3;
+}
+
+a:link, a:visited, a:hover, a:active {
+  text-decoration: none;
+  color: #F9F500;
+  text-shadow: 3px 3px 3px #0097A3;
+}
+
+a:hover {
+  font-size: 20px;
+}
+
+p {
+  padding-left: 10px;
+}
+
+.advice {
+  border: black solid 2px;
+  border-radius: 24px;
+  background-color: #669E9E;
+}
+
+.advice2 {
+  border: black solid 2px;
+  border-radius: 24px;
+  background-color: #09B3A3;
+  margin-top: 22px;
+}

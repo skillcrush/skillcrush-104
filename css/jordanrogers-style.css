@@ -1,0 +1,31 @@
+body {
+	background: url('http://www.designbolts.com/wp-content/uploads/2012/12/Gold-Scale-White-Seamless-Pattern.jpg') repeat;
+}
+
+.jordanrogers-advice {
+	width: 70%;
+	margin: auto;
+	padding: 30px;
+	font-family: Verdana;
+}
+
+h1 {
+	border: 3px dashed black;
+	font-size: 36px;
+	text-align: center;
+	padding: 20px;
+	background: lightgreen;
+	font-variant: small-caps;
+}
+
+h4 {
+	background: lightblue;
+	text-decoration: underline;
+	font-variant: small-caps;
+	font-size: 22px;
+	padding: 5px;
+}
+
+.advice {
+	background: white;
+}

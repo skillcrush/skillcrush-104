@@ -1,0 +1,31 @@
+.bjim-advice {
+    background: #0A4766 url(https://drive.google.com/uc?id=0B_oQ8QiaYlIJbXFHcWNDbjNLbnc) no-repeat center center fixed;
+    background-size: cover;
+    text-align: left;
+    font-family: serif;
+    font-weight: normal;
+    line-height: 34px;
+}
+
+.bjim-advice h1 {
+    text-align: center;
+    margin-bottom: 25px;
+    font-size: 28px;
+
+}
+
+.bjim-advice h4 {
+    font-size: 26px;
+   
+}
+
+.bjim-advice footer {
+    margin: 100px 0 0 100px;
+}
+
+section {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background: rgba(255,255,255,0.2);
+}

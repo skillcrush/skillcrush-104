@@ -1,0 +1,39 @@
+/** SarahM's Styles **/
+.sarahm-advice {
+    width: 100%;
+    background-color: #efe9f4;
+    font-family: 'Cabin', sans-serif;
+    padding: 30px;
+    margin: 20px;
+
+}
+.sarahm-advice a {
+    text-decoration: none;
+    color: #08b2e3;
+    font-weight: bold;
+}
+
+.sarahm-advice h1 {
+    color: #333333;
+    text-align: left;
+    font-weight: bold;
+    font-size: 28px;
+}
+.sarahm-advice-main h4 {
+    color: #ee6352;
+    font-size: 22px;
+    text-align: left;
+}
+.sarahm-advice-main p {
+    color:#067BC2;
+    text-align: left;
+    max-width: 500px;
+}
+.sarahm-advice footer {
+    background-color: #08b2e3;
+    color: #333333;
+    text-align: left;
+    font-size: 16px;
+    padding-left: 20px;
+    margin: 0;
+}

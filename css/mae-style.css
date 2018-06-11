@@ -1,0 +1,25 @@
+/** Add a comment at the beginning of your CSS styles with your name **/
+
+/** Mae's CSS **/
+
+
+h1, h4 {
+  color: brown;
+}
+
+
+p {
+  font-family: Georgia, serif;
+  color: green;
+}
+
+* {
+	font-family: Arial, sans-serif;
+	color: navy;
+	padding: 0 auto;
+}
+
+
+footer {
+	font-style: italic;
+}

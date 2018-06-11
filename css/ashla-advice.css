@@ -1,0 +1,15 @@
+html{
+  font-family: 'Open Sans', sans-serif;
+}
+
+body{
+  background-color: lightgrey;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.advice h4 {
+  font-size: 1.5em;
+  color: purple;
+  text-decoration:underline; 
+
+}

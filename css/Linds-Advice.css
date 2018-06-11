@@ -1,0 +1,16 @@
+/** Add a comment at the beginning of your CSS styles with your name **/
+
+/**Linds's Styles **/
+.Linds-advice h1 {
+	font-family: 'tahoma', sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	color: #ff33ff;
+}
+.Linds-advice p{
+	font-family: 'tahoma', sans-serif;
+	font-size: 18px;
+}
+a	{
+	text-decoration: none;
+}

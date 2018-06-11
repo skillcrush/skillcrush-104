@@ -1,0 +1,61 @@
+
+/** Amanda D's Styles **/
+
+.asd-advice {
+    width: 100%;
+    background-color: #f0ffff;
+    font-family: sans-serif;
+	color:#404040
+}
+
+.asd-advice a {
+    text-decoration: none;
+    color: #ff7f50;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.asd-advice header {
+	height: 350px;
+    background: url("https://s18.postimg.org/l21ofjimx/header_img.png") left no-repeat;
+	background-color: #19B2B8;
+	padding-left: 30px;
+	margin-bottom: 30px;
+    margin-top: 0;
+}
+
+.asd-advice h1 {
+    color: white;
+    font-weight: bold;
+    text-align: right;
+    font-size: 35px;
+    padding-top: 150px;
+    padding-right: 30px;
+
+}
+
+.asd-advice h4 {
+    font-size: 22px;
+    text-align: left;
+    text-transform: uppercase;
+    color: #ff7f50;
+    margin-bottom: 0;
+}
+
+.asd-advice p {
+	margin-top: 0;
+    text-align: left;
+    line-height: 1em;
+}
+
+.asd-advice footer {
+    text-align: center;
+    font-size: 13px;
+    font-style: italic;
+    width: 100%;
+    height: 100px;
+	background-color: #19B2B8; 
+
+}
+
+/** END Amanda D's Styles **/

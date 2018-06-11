@@ -1,0 +1,20 @@
+/** Add a comment at the beginning of your CSS styles with your name **/
+/**Beth Stevic advice styling **/
+.bethstevic-advice {
+  color: darkblue;
+  background: limegreen;
+  font-family:georgia;
+  text-align: center
+}
+h4{
+	color: purple;
+}
+p{
+	color: black;
+}
+.advice {
+  border: 4px solid Aquamarine;
+  padding: 10px;
+  margin: 40px;
+  text: center;
+}

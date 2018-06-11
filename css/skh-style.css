@@ -1,0 +1,45 @@
+header {
+  width: 94%;
+  margin: 20px auto 0px;
+}
+
+a {
+  font: 14px 'Lato', sans-serif;
+  color: black;
+  text-align: left;
+  text-decoration: underline;
+}
+
+header h1 {
+	font: 36px 'Oswald', sans-serif;
+  color: #454545;
+  text-align: center;
+}
+
+section {
+	width: 94%;
+	margin: 50px auto;
+}
+section h4,
+section p {
+	text-align: center;
+	color: #454545;
+}
+
+section h4 {
+  font: 22px 'Oswald', sans-serif;
+  text-transform: uppercase;
+}
+
+p {
+	font: 18px 'Lato', sans-serif;
+}
+
+footer {
+  width: 94%;
+  margin: auto;
+}
+
+footer p {
+  font-size: 14px;
+}

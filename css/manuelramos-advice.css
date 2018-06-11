@@ -1,0 +1,37 @@
+/** Sue Tang's Styles Start **/
+
+.manuelramos-template {
+    width: 100%;
+  background-color: #521247;
+  font-family: serif;
+  margin: auto;
+    
+}
+.manuelramos-template a {
+    text-decoration: none;
+    color: #0066ff;
+    font-weight: bold;
+}
+.manuelramos-template h1 {
+    color: #00008B;
+    font-weight: bold;
+    text-align: left;
+}
+.manuelramos-template h4 {
+    font-family: sans-serif;
+    font-size: 22px;
+    text-align: left;
+    color: #ff6600;
+}
+.manuelramos-template p {
+    color:#00008B;
+    text-align: left;
+}
+.manuelramos-template footer {
+    color: #00008B;
+    text-align: center;
+    font-size: 13px;
+    font-style: italic;
+}
+
+/** Sue Tang's Styles End **/

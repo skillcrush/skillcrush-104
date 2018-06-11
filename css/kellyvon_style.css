@@ -1,0 +1,32 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+
+
+/**Kelly Von's Styles**/
+.kellyvon-advice {
+	background:  #ffffe6
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+  text-align: center;
+}
+.kellyvon-advice div {
+	width: 60%;
+	margin: auto;
+	padding: 0;
+}
+
+.kellyvon-advice h1 {
+	font-family:  'Montesserat', sans-serif;
+	font-size: 30px;
+	color: #ff3399;
+	text-align: center;
+}
+
+.kellyvon-advice h4{
+	color: #00b3b3;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.kellyvon-advice p {
+	text-align: justify;;

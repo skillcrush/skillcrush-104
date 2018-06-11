@@ -1,0 +1,51 @@
+* {
+  font-family: "Courier New", Courier, monospace;
+  color: 	#778899;
+  background-color: #	#fffaf0;
+}
+.hdoucet-advice {
+  margin: auto;
+  width: 90%;
+}
+.hdoucet-advice h4 {
+  color: #fffafa;
+  font-size: 20px;
+  background-color: #778899;
+  width: 40%;
+  height: auto;
+  padding: 10px;
+  padding-left: 20px;
+}
+.hdoucet-advice header {
+  width: 90%;
+  height: 100px;
+  background-color: #ffa500;
+
+}
+.hdoucet-advice h1 {
+  background-color: #778899;
+  color: #fffafa;
+  margin: auto;
+  margin-top: 20px;
+  padding: 20px;
+}
+.hdoucet-advice p, li {
+  font-size: 18px;
+  width: 85%;
+  margin-left: 15px;
+}
+.hdoucet-advice a {
+  text-decoration: none;
+  padding: 20px;
+  margin-top: 60px;
+}
+.hdoucet-advice a:hover {
+  color: #ffa500;
+  font-weight: bold;
+}
+.hdoucet-advice h3 {
+  font-size: 24px;
+  color: #ffa500;
+  font-weight: bold;
+  text-align: center;
+}

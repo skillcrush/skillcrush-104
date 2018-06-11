@@ -1,0 +1,26 @@
+/** Add a comment at the beginning of your CSS styles with your name **/
+
+/* amber lovell advice styling  */
+body{
+	color: powderblue;
+	background-color: #555;
+	font-family: 'Glegoo', serif;
+	margin: 10%;
+	text-align: center;
+}
+
+
+h1{
+	font-size: 1.6rem;
+}
+
+h4 {
+	font-size: 1.2rem;
+}
+
+p {
+	font-size: 1rem;
+	padding: 0;
+}
+
+/**End amberlovell **/

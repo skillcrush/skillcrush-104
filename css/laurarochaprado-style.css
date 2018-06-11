@@ -1,0 +1,78 @@
+/** Laura Rocha Prado advice styling **/
+
+/** Mimicking Skillcrush styling **/
+
+.background-image {
+	background: url("https://skillcrush.com/wp-content/themes/skillcrush3.0-child/img/backgrounds/login-page-bg.png") no-repeat center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+body {
+	margin-top: 30px;
+	color: #848484;
+	font-family: "Montserrat", Arial, sans-serif;
+}
+
+/** Header **/
+header {
+	margin-bottom: 30px;
+}
+
+header a, a:visited, a:link {
+	color: #727176;
+	text-transform: uppercase;
+	margin: 4px 30px 30px;
+    padding: 15px;
+    border: 1px solid;
+    text-decoration: none;
+}
+
+/** Jumbotron **/
+.jumbotron {
+	margin: 0 -10px 0 -10px;
+    padding: 40px 250px 40px 250px;
+    text-align: center;
+    background-color: #f16059;
+}
+
+.jumbotron h1 {
+	color: #ffffff;
+    letter-spacing: -1px;
+    margin: 0.358em 0 0.448em;
+    text-transform: uppercase;
+}
+
+#laura {
+	color: #C93535;
+}
+
+/** Advice Section **/
+h2 {
+	letter-spacing: 0;
+}
+
+p {
+	font-family: "Open Sans", sans-serif;
+	font-size:18px;
+}
+
+.row {
+    margin: 30px;
+}
+
+#emphasis {
+	font-weight: bold;
+	font-size: 30px;
+	text-transform: uppercase;
+	margin-top: 20px;
+}
+
+/** Footer **/
+footer p {
+	font-weight: bold;
+	font-size: 14px;
+	text-align: center;
+}

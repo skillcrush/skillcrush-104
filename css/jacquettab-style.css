@@ -1,0 +1,22 @@
+/****jacquetta stylesheet****/
+
+body {
+	background-color: mintcream;
+}
+
+p {
+	font-family: 'Dosis', sans-serif;
+}
+
+h1 {
+	font-family: 'Anton', sans-serif;
+}
+
+h4 {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #F43333;
+}
+footer {
+border-style: dotted;
+
+}

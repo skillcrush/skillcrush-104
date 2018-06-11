@@ -1,0 +1,39 @@
+
+html {
+background-color: #fdebe8;
+}
+
+h1 {
+ font-family: 'Emilys Candy', cursive;
+  color: black;
+  font-size: 25px;
+  text-align: center;
+  text-transform: capitalize;
+  padding: 20px 0;
+  border-style: double;
+}
+
+.advice h2 {
+  font-size: 25px;
+  text-align: left;
+}
+
+.advice p {
+  font-size: 25px;
+  font-weight: lighter;
+  text-align: center;
+}
+
+.quote {
+  background: pink;
+  font-family: 'Cinzel Decorative', cursive;
+  font-size: 90px;
+  border-style: double;
+  padding: 5px 0px 5px 0px;
+  float:none;
+  }
+
+  footer {
+     text-align: center;
+     font-size: 20px; 
+          }

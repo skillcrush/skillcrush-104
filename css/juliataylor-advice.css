@@ -1,0 +1,46 @@
+/*Julia's Styles*/
+
+.juliataylor-advice a {
+	color: #424242;
+	font-family: "Source Sans Pro", sans-serif;
+	font-size: 16px;
+	text-decoration: none;
+}
+
+.juliataylor-advice a:hover {
+	font-weight: bold;
+}
+
+.juliataylor-advice h1 {
+	font-family: "Slabo 27px", serif;
+	font-size: 50px;
+	color: #424242;
+	line-height: 70px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.juliataylor-advice h4 {
+	font-family: "Slabo 27px", serif;
+	font-size: 32px;
+	color: #424242;
+	margin: 0 auto;
+	padding-top: 20px;
+}
+
+.juliataylor-advice p {
+	font-family: "Source Sans Pro", sans-serif;
+	color: #424242;
+	font-size: 24px;
+}
+
+.juliataylor-advice section {
+	width: 1000px;
+	margin: 0 auto;
+	padding: 50px 0 50px 0;
+}
+
+.juliataylor-advice span {
+	font-family: "Pacifico", cursive;
+}
+ /*End Julia's Styles*/

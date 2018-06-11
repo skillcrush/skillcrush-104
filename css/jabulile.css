@@ -1,0 +1,22 @@
+/** fonts **/
+.jabulile-advice h1, h3 {
+	font-family: 'Calligraffitti', cursive;
+	text-align: center;
+}
+
+.jabulile-advice p{ 
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 18px;
+
+}
+
+/*** body ***/
+body{
+	background-color: #eeeeee;
+}
+
+
+/*** footer ***/
+footer{
+	float: right;
+}

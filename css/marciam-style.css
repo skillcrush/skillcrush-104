@@ -1,0 +1,21 @@
+body {
+    font-family: 'Slabo 27px', serif;
+    margin: 0;
+    padding: 20px;
+}
+
+header h1 {
+    text-align: center;
+}
+
+#main-advice {
+    width: 50%;
+    margin: 0 auto;
+}
+.advice h4 {
+    font-size: 1.5em;
+}
+
+footer {
+    text-align: center;
+}

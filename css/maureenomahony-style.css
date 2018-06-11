@@ -1,0 +1,56 @@
+/***** MAIN STYLES *****/
+
+
+.maureenomahony-advice {
+  background-color: #B5B5B3;
+  font-family: 'Raleway', sans-serif;
+}
+
+
+/***** HEADER *****/
+
+
+.maureenomahony-advice a {
+  font-family: 'Slabo', serif;
+}
+
+.maureenomahony-advice h1 {
+  color: #D77186;
+  font-family: 'PT Serif', serif;
+  font-size: 36px;
+  padding: 0 150px;
+  width: 1200px;
+}
+
+.maureenomahony-advice h1 span {
+  color: #D75725;
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+  font-size: 58px;
+}
+
+
+/***** SECTION *****/
+
+
+.advice {
+  background-color: #6CB7DA;
+  height: 600px;
+  width: 500px;
+  margin: 0 400px;
+  padding: 10px 20px;
+}
+
+.advice h4 {
+  background-color: #61A2DA;
+  color: #333333;
+  font-family: 'Slabo', serif;
+  font-size: 30px;
+  text-align: center;
+  width: 500px;
+}
+
+.advice p {
+  color: #333333;
+  text-align: justify;
+}

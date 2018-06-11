@@ -1,0 +1,38 @@
+/* vanessa's Styles */
+
+.vanessa-advice {
+	font-size: 1em;
+	background-color: whitesmoke;
+	color: #315659;
+	font-family: 'Merriweather', serif;
+  text-align: center;
+}
+
+.vanessa-advice h1 {
+	font-size: 4em;
+	color: #113377;
+	font-family: 'Josefin Sans', sans-serif;
+}
+.vanessa-advice #site-title a {
+    text-decoration: none;
+    display: block;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    text-transform: uppercase;
+}
+
+.vanessa-advice h2 {
+	font-size: 2em;
+	color: #113377;
+  font-family: 'Lato', sans-serif;
+}
+.vanessa-advice h4 {
+	font-size: 2em;
+	color: #331177;
+	font-family: 'Merriweather', serif;
+}
+
+.vanessa-advice .advice {
+	padding: 2em;
+
+}

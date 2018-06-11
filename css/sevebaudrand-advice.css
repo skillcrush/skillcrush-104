@@ -1,0 +1,44 @@
+body {
+    background: url("http://www.cheatsheet.com/wp-content/uploads/2014/12/keyboard.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Indie Flower', sans-serif;
+    font-size: 1.3em;
+    color: #fff;
+}
+
+.advice {
+  background-color: #068ca5;
+  opacity: 0.9;
+  padding: 60px;
+  margin: 75px;
+  border-radius: 5%;
+  border-style: solid;
+  border-color: #fff;
+}
+
+h1, h4, .footer, a {
+  font-family: 'Bahiana', cursive;
+  text-align: center;
+  color: #0af0e2;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 3.5em;
+  margin-top: 20px;
+}
+
+h4 {
+  font-size: 2em;
+}
+
+p {
+  text-align: center;
+  margin-right: 150px;
+  margin-left: 150px;
+}
+
+

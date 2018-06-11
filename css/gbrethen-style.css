@@ -1,0 +1,32 @@
+/** Add a comment at the beginning of your CSS styles with your name **/
+
+/* gbrethen advice styling  */
+.gbrethen-advice body{
+	margin:0 auto;
+	width:100%;
+}
+.gbrethen-advice h1{
+	color: #000;
+	font-size: 36px;
+	font-family: 'Roboto', sans-serif;
+	text-align:center;
+
+}
+
+.gbrethen-advice h4 {
+	color: Blue;
+	font-size: 22px;
+	font-family: 'Roboto', sans-serif;
+}
+
+.gbrethen-advice p{
+	color: #000;
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	padding: 0px 0px 0px 0px;
+}
+
+/**End gbrethen **/
+
+
+

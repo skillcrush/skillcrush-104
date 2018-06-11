@@ -1,0 +1,46 @@
+/**Gretchen's Styles**/
+.gretchenista-advice {
+	background-color: lightpink;
+	color: hotpink;
+	text-decoration: none;
+	font-family:'Open Sans', sans-serif;
+}
+
+#gretchenista-box {
+	width: 400px;
+	height: 400px;
+	margin: 50px auto auto auto;
+	background-color: gray;
+	padding: 50px;
+	border-radius: 8px;
+}
+
+.gretchenista-advice a {
+	font-size: 12px;
+	text-decoration: none;
+	color: purple;
+	font-family:'Open Sans', sans-serif;
+	}
+
+.gretchenista-advice p {
+	font-size: 12px;
+	}
+
+.gretchenista-advice h1 {
+	font-size: 16x;
+	}
+
+.gretchenista-advice .advice h4 {
+	font-size: 22px;
+	color: magenta;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin: 30px 20px 30px 70px;
+	}
+
+.gretchenista-advice .advice p {
+	font-size: 14px;
+	text-align: justify;
+	}
+
+/**End Gretchen's Styles**/

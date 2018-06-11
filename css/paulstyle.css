@@ -1,0 +1,15 @@
+/** Add a comment at the beginning of your CSS styles with your name **/
+
+/** Skillcrush styles **/
+.PaulJickling-advice header {
+	padding-bottom: 3px;
+	color: darkblue;
+	background-color:rgb(256,256,256);
+}
+
+.PaulJickling-advice section {
+	border-style: solid;
+	padding-bottom: 3px;
+	color: darkblue;
+	background-color:rgb(256,256,256);
+}

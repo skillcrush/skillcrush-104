@@ -1,0 +1,56 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/***Laura's styling**/
+
+
+.lk-header {
+	margin: 0 auto;
+	text-align: center;
+}
+
+.laurak-advice h1 {
+	color: #0099cc;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 2em;
+	}
+	
+.laurak-advice .advice {
+	margin-left: auto;
+	margin-right: auto;
+	width:40em;
+	
+}
+
+.laurak-advice li {
+	color: #5b5d6a; 
+	font-family: 'Hind', sans-serif;
+	font-size: 1.25em;
+	padding-top: 20px;
+}
+
+.lk {
+	color: #66e0ff:
+	font-family: 'Hind', sans-serif;
+	}
+	
+.laurak-advice h4 {
+ 	color:#ff6666;
+	font-size: 1.25em;
+}
+
+.laurak-advice ul {
+	list-style-type: square;
+}
+
+.laurak-advice footer {
+	font-family: 'Hind', sans-serif;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	height: 50px;
+	width: 100%;
+	color: #5b5d6a; 
+	font-size:1em;
+	text-align: center;
+	line-height:10px;
+}

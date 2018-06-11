@@ -1,0 +1,55 @@
+body {
+	background: #242424;
+	}
+	
+header {
+	background: #303030;
+	border-radius: 0px 0px 5px 5px;
+  border-bottom: solid;
+  box-shadow: -5px 5px 10px;
+	}
+header a {
+  display: inline-block;
+  text-decoration: none;
+  color: white;
+}
+header a:hover {
+  color: #995040;
+}
+h1 {
+	font-size: 45px;
+  color: #999999;
+	font-family: Baskerville;
+  font-weight: 500;
+  letter-spacing: 1.5px;
+  text-shadow: -10px 10px 20px #151515;
+  text-align: center;
+}
+.advice {
+  width: 600px;
+  margin-left: 20%;
+  margin-top: 10px;
+  border-left: solid;
+  padding-left: 20px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  background: #282828;
+  border-radius: 0px 10px 10px 0px;
+  box-shadow: -5px 5px 10px;
+}
+h4 {
+  font-family: Baskerville;
+  font-size: 25px;
+  font-style: italic;
+  font-weight: 100;
+  letter-spacing: 2px;
+  color: white;
+}
+p {
+  font-family: Baskerville;
+  font-size: 20px;
+  color: white;
+}
+footer {
+  float: right;
+}

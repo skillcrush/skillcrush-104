@@ -1,0 +1,42 @@
+/**Chris's Styles**/
+.chrismc-advice {
+	background-color: #191970;
+}
+.advice {
+	
+	color: #c0c0c0;
+	text-decoration: none;
+	font-family: Verdana, sans-serif;
+}
+
+img {
+	height: 100px;
+	width: 50px;
+
+}
+
+.advice p {
+	font-size: 14px;
+	}
+
+.chrismc-advice h1 {
+	color: teal;
+	font-size: 20;
+	border: solid white 5px;
+	border-radius: 5px;
+	text-align: center;
+	padding: 5px;
+	margin: auto;
+	}
+
+h4 {
+	font-size: 22px;
+	color: teal;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin: 30px 20px 30px 70px;
+	}
+
+
+
+/**End Chris's Styles**/

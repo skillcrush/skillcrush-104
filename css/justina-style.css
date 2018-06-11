@@ -1,0 +1,73 @@
+/* 
+* Justina Villanueva's Advice Page
+*/
+
+.justina-advice * {
+	box-sizing: border-box;
+}
+
+.justina-advice,
+.justina-advice body {
+	padding: 0;
+	margin: 0;
+}
+
+.justina-advice body {
+	font: 400 18px/1.5 Sans-Serif;
+	color: #080808;
+	background: #f8f8f8;
+}
+
+.justina-advice a,
+.justina-advice a:visited {
+	color: Blue;
+	text-decoration: none;
+}
+
+.justina-advice a:hover,
+.justina-advice a:active {
+	color: Red;
+}
+
+.justina-advice header,
+.justina-advice footer {
+	width: 100%;
+	padding: 20px;
+	margin: 0;
+	text-align: center;
+}
+
+.justina-advice section {
+	display: block;
+}
+
+.justina-advice section,
+.justina-advice .advice {
+  max-width: 700px;
+  margin: 10px auto;
+}
+
+.justina-advice header a {
+	padding: 10px;
+	border: 2px solid;
+}
+
+.justina-advice header a:before {
+	content: '\2190';
+	padding-right: 5px;
+}
+
+.justina-advice .entry-title {
+	font-size: 5em;
+	text-transform: uppercase;
+	margin-bottom: 5px;
+}
+
+.justina-advice header:after {
+	display: block;
+	content: '';
+	width: 200px;
+	margin: 5px auto;
+	border-bottom: 5px solid;
+}
+

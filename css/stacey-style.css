@@ -1,0 +1,54 @@
+/*------------ Stacey's Styles ------------*/
+
+.stacey-advice {
+  background-color: #ffe6f2;
+  color: #333;
+  font-family: 'Raleway', sans-serif;
+  margin: 5px auto;
+  width: 960px;
+}
+
+.stacey-advice a {
+  color: #333;
+  text-decoration: none;
+}
+
+.stacey-advice a:hover {
+  color: #ff007b;
+}
+
+.stacey-advice h1 {
+  background-color: #ff007b;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 48px;
+  height: 100px;
+  line-height: 48px;
+  padding: 20px;
+  text-transform: uppercase;
+}
+
+.stacey-advice h4 {
+  background-color: #ccccff;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 24px;
+  padding: 0 20px;
+  text-transform: uppercase;
+}
+
+.stacey-advice p {
+  font-size: 16px;
+  padding: 0 20px;
+}
+
+.stacey-advice footer {
+  border-top: 3px solid #ccccff;
+  line-height: 16px;
+  margin-top: 30px;
+}
+
+.stacey-advice footer p {
+  font-size: 12px;
+}
+
+
+/*------------ End Stacey's Styles ------------*/
