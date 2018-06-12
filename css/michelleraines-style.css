@@ -1,0 +1,23 @@
+/**Michelle's Styles**/
+body{
+	padding: 20px;
+	border: 3px solid #f08080;
+	background-color: #fc4445;
+	color:#3FEEE6;
+	font-family: Trebuchet MS;
+}
+
+.advice h4{
+	color: #55BCC9;
+	font-size: 45px;
+}
+
+.float-left{
+	float:left;
+	width: 50%;
+}
+
+.float-right{
+	float:right;
+	width: 50%;
+}
