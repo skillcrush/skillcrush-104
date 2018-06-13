@@ -2,38 +2,37 @@
 
 /*** Aaron A's Advice ***/
 
-.aaronandres-advice {
-  background-color: #BE2900;
+.alex-m-advice {
+  background-color: rgb(50, 186, 206);
 }
 
-.aaronandres-advice h1 {
-  font-family: 'Oswald', sans-serif;
-  font-size: 30px;
+.alex-m-advice header {
+  background-image: url("https://i.pinimg.com/originals/a2/8f/d0/a28fd0c302d8fb8b15b27450cad63971.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.alex-m-advice h1 {
+  font-family: 'PT Sans', sans-serif;
+  font-weight:700;
+  text-transform: uppercase;
   text-align: center;
-  color: #3E0D00;
-  letter-spacing: 0px;
+  color: rgb(234, 237, 247);
+  margin: 0 auto;
+  padding: 50px 300px 50px 200px;
 }
 
-.aaronandres-advice h2 {
-  font-family: 'Oswald', sans-serif;
-  font-size: 18x;
-  color: #3E0D00;
-  letter-spacing: 1px;
-  text-align: center;
+.alex-m-advice a {
+  color: rgb(181, 186, 206);
+  padding: 50px 50px 7px 7px;
 }
 
-.aaronandres-advice .advice p {
-  font-family: 'Oswald', sans-serif;
-  font-size: 20px;
-  color: #3E0D00;
-  letter-spacing: 0px;
+.alex-m-advice h4 {
+  font-family: 'PT Sans', sans-serif;
+  color: rgb(23, 0, 56)
 }
 
-.aaronandres-advice footer p {
-  font-family: 'Oswald', sans-serif;
-  font-size: 18x;
-  color: #3E1C13;
-  letter-spacing: 0px;
-  text-align: center;
-  padding-top: 60px;
+.alex-m-advice p {
+  font-family: 'PT Sans', sans-serif;
+  color: rgb(23, 0, 56)
 }
