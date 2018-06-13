@@ -11693,3 +11693,31 @@ body.nancys-advice-again {
 .lizzyb-advice footer {
   font-family: cinzel;
 }
+
+/***** Rachel Loughlin's Advice *****/
+
+.rachelloughlin-advice h1 {
+  color: navy;
+  margin: 20px;
+  text-align: center;
+  padding: 40px;
+  width: 1050px;
+  word-spacing: 5px;
+  letter-spacing: -3px;
+  background: lightblue;
+}
+
+.rachelloughlin-advice h4 {
+  color: navy;
+  margin: 20px;
+  padding: 5px;
+  text-decoration: underline;
+}
+
+.rachelloughlin-advice p {
+  color: black;
+  margin: 20px;
+  padding: 5px;
+  width: 800px;
+  padding-left: 170px;
+}
