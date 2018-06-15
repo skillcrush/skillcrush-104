@@ -1,5 +1,26 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/***** Tinybird's Advice *****/
+
+.tinybird-advice {
+  background-color: #e6e6e6;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.tinybird-advice span {
+  font-family: 'Pacifico', cursive;
+}
+
+.tinybird-advice h1 {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+
+.tinybird-advice h4, footer {
+  font-family: 'Open Sans', sans-serif;
+  color: #0099cc;
+}
+
 /***** Lukas Vézina's Advices *****/
 .lukas-advice{
   background-color: #FCFCFC;
@@ -11559,8 +11580,8 @@ body.nancys-advice-again {
 
 .advice-jools footer p {
   font-size: 12px;
-}  
-  
+}
+
 .melissamanousos-advice {
   background-color: rgba(1, 147, 241, 0.71);
   color: rgb(102, 17, 198);
