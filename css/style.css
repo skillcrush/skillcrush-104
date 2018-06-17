@@ -11713,3 +11713,41 @@ body.nancys-advice-again {
 .lizzyb-advice footer {
   font-family: cinzel;
 }
+
+/** INIT - Alice Moraes' Advice **/
+
+ .alicemoraes-advice header a {
+  text-transform: uppercase; 
+  text-decoration: none;
+  font-family: 'Play', sans-serif;
+  font-weight: 700;
+}
+.alicemoraes-advice header h1 {
+  font-family: 'Bangers', cursive;
+  text-align: center;
+  font-size: 50px;
+}
+ .alicer-advice h4 {
+  text-transform: capitalize;
+  font-family: 'Zilla Slab Highlight', cursive;
+  font-weight: 400;
+  font-size: 35px;
+ }
+ .alicer-advice p {
+  font-family: 'Sunflower', sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 35px;
+  text-align: justify;
+  margin: 15px 80px;
+  padding: 10px;
+ }
+ .alicer-advice h1 {
+  text-transform: uppercase;
+  text-align: center;
+  font-family: 'Bangers', cursive;
+  font-size: 45px;
+  margin: 50px 0;
+ }
+
+/** END - Alice Moraes' Advice **/
