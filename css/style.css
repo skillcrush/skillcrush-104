@@ -11735,7 +11735,7 @@ body.nancys-advice-again {
 /** INIT - Alice Moraes' Advice **/
 
  .alicemoraes-advice header a {
-  text-transform: uppercase; 
+  text-transform: uppercase;
   text-decoration: none;
   font-family: 'Play', sans-serif;
   font-weight: 700;
@@ -11769,3 +11769,32 @@ body.nancys-advice-again {
  }
 
 /** END - Alice Moraes' Advice **/
+
+/** Nick J's advice **/
+
+.nicks-advice {
+  width: 600px;
+  margin: 5% auto;
+  border: 2px solid dimgrey;
+  border-radius: 10px;
+  padding: 3%;
+}
+
+.nicks-advice h1 {
+  font-family: 'Work Sans', sans-serif;
+  color: darkblue;
+  text-align: center;
+  font-size: 26px;
+  padding-top: 5%;
+}
+
+.nicks-advice p {
+  font-family: 'Space Mono', monospace;
+}
+
+.nicks-advice .advice p {
+  text-align: center;
+  font-size: 18px;
+  padding: 5% 5% 0 5%;
+  line-height: 30px;
+}
