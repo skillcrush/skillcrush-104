@@ -1,5 +1,23 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/***** Jade's Advice *****/
+
+.jademacrury-advice {
+  font-family: 'Cormorant Garamond', serif;
+  color: #323040;
+  line-height: 1.5;
+  margin-left: 2%;
+  text-align: justify;
+}
+
+.jademacrury-advice h1 {
+  padding: 5%;
+  text-align: center;
+}
+
+.jademacrury-advice .advice {
+  margin-bottom: 25%;
+}
 
 /*****denfer's advice**********/
 .denfer-advice {
