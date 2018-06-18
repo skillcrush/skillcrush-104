@@ -1,0 +1,54 @@
+
+/***** Cait's Style *****/
+.advice-by-cait{
+  background-color: #EDBA15;
+  font-family: 'Georgia', serif;
+  max-width: 1200px;
+  margin: auto;
+  text-align: center;
+}
+
+.advice-by-cait h1{
+  color: #1E1D19;
+  font-family: 'Oswald';
+  text-align: center;
+  font-size: 40px;
+  text-transform: capitalize;
+  padding: 20px 30px;
+}
+
+.advice-by-cait h4{
+  color: #3A3042;
+  font-family: 'Oswald';
+  font-size: 30px;
+}
+
+.advice-by-cait p{
+  color: #1E1D19;
+  font-size: 20px;
+  max-width: 600px;
+  margin: auto;
+}
+
+.advice-by-cait header {
+  font-family: 'Georgia';
+  padding: 10px;
+  text-align: right;
+  text-decoration: none;
+}
+
+.advice-by-cait a {
+  color: #240115;
+  font-size: 15px;
+  text-decoration: none;
+}
+
+.advice-by-cait footer{
+  font-size: 15px;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.advice-by-cait footer p{
+  font-size: 15px;
+}
