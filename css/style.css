@@ -1,5 +1,13 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+
+/** Mike's Advice **/
+
+.mikebaker-advice {
+		font-family: 'Gotham', sans-serif;
+		color: gray;
+}
+
 /***** Jade's Advice *****/
 
 .jademacrury-advice {
