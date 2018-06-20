@@ -28,3 +28,9 @@ p {
     background: ivory;
     font-family: 'Merriweather', serif;
 }
+.linetwo{
+    text-align: center;
+}
+.linethree{
+    text-align: right;
+}
