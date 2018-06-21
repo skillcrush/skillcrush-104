@@ -11891,3 +11891,19 @@ body.nancys-advice-again {
   padding: 5% 5% 0 5%;
   line-height: 30px;
 }
+
+/*** Sara Coyan's Advice***/
+.saracoyan-advice {
+  width: 1200px;
+}
+.saracoyan-advice h1 {
+  color: darkblue;
+  text-align: center;
+  border: 2px solid darkblue;
+  padding: 5px;
+}
+.saracoyan-advice p {
+  font-size: 15px;
+  text-align: center;
+  padding: 5px;
+}
