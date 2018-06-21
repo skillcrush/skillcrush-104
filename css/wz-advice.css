@@ -1,0 +1,38 @@
+/**Winnie advice styling**/
+
+section{
+  margin: 60px;
+}
+body {
+  color:#fff;
+  padding: 25px;
+  background-color: #8585ad;
+  font-family: 'Maven Pro', sans-serif;
+}
+h1 {
+  font-family: 'Caveat', cursive;
+  text-align: center;
+  margin-top: 10px;
+  font-size: 50px;
+  color: #FFFFFF;
+}
+h2 {
+  font-size: 20px;
+  margin: 10px;
+  text-transform: uppercase;
+}
+p {
+  font-family: 'Maven Pro', sans-serif;
+  padding-bottom: 15px;
+  padding-left: 10px;
+}
+a {
+  text-decoration: none;
+  color: white;
+  text-transform: uppercase;
+}
+a:hover {
+  font-weight: green;
+}
+
+/**End Winnie **/
