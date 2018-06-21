@@ -11732,7 +11732,6 @@ body.nancys-advice-again {
   font-family: cinzel;
 }
 
-<<<<<<< HEAD
 /***** Svetlanas advice *****/
 
 .svetlanas-advice {
@@ -11755,7 +11754,6 @@ body.nancys-advice-again {
 .svetlanas-advice p {
     color:#00ace6;
     text-align: justify;
-=======
 /** INIT - Alice Moraes' Advice **/
 
  .alicemoraes-advice header a {
@@ -11821,5 +11819,4 @@ body.nancys-advice-again {
   font-size: 18px;
   padding: 5% 5% 0 5%;
   line-height: 30px;
->>>>>>> master
 }
