@@ -1,5 +1,27 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/**Katherine's Advice**/
+.kfultz-advice {
+	background: #CCCAFB;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.kfultz-advice h1 {
+	font-family: 'Grand Hotel', cursive;
+	text-transform: none;
+	text-align: center;
+	color: #CC0044;
+}
+
+.kfultz-advice h2 {
+	font-family: 'Grand Hotel', cursive;
+	color: #FF97A7;
+	text-align: center;
+	text-transform: none;
+}
+
+
 /***** Margaret S's Advice *****/
 .margarets-advice {
     background: #ffe2f0;
