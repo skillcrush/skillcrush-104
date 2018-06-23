@@ -1,6 +1,5 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 /******** Shamira's Advice ********/
-
 /*********************************
                BODY
 **********************************/
@@ -103,6 +102,7 @@ footer {
   color: indianred;
   clear: both;
   font-size: 12px;
+  font-weight: bold;
   letter-spacing: 5px;
   padding: 10px 20px 20px 20px;
   text-align: center;
