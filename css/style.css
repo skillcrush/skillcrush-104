@@ -1,5 +1,21 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/** JBird's advice **/
+.jbird-advice h1{
+  font-size: 46px;
+  color: #4286f4;
+}
+
+.jbird-advice h4{
+  font-size: 36px;
+  color: #b042f4;
+}
+
+.jbird-advice p{
+  font-size: 26px;
+  color: #f442d4;
+}
+
 /***** Margaret S's Advice *****/
 .margarets-advice {
     background: #ffe2f0;
@@ -12,12 +28,12 @@
     text-align: center;
     text-transform: none;
     margin-bottom: 50px;
-    
+
 }
 
 .margarets-advice p {
     margin: 5px;
-    padding: 5px;   
+    padding: 5px;
 }
 
 .margarets-advice h4, footer p {
@@ -29,7 +45,7 @@
     text-align: left;
     margin: 25px 5px 5px 5px;
     padding: 5px;
-    
+
 }
 .margarets-advice img.resize {
     max-width: 80%;
@@ -251,11 +267,11 @@
 
 
 /***** Bryan Herbert's advice *****/
- 
+
 .bryanherbert-advice {
   background-color:#fff3e6;
 }
- 
+
 .bryanherbert-advice h1 {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 45px;
@@ -263,28 +279,28 @@
   margin: 50px;
   padding-bottom: 50px;
   text-align: center;
-  font-variant: small-caps; 
+  font-variant: small-caps;
 }
- 
+
 .bryanherbert-advice h4 {
  font-family: 'Nunito', sans-serif;
- font-size: 25px; 
+ font-size: 25px;
  text-align: left;
  font-variant: small-caps;
  }
- 
+
 .bryanherbert-advice p {
   font-family: 'Nunito', sans-serif;
   font-size: 20px;
   line-height: 12px;
  text-align: left;
  }
- 
+
 .bryanherbert-advice-italic {
   color: firebrick;
  font-style: italic;
  }
- 
+
 .bryanherbert-advice-footer p {
   color: firebrick;
   font-family: Arial, Helvetica, sans-serif;
@@ -352,24 +368,24 @@
   background-color: MediumSeaGreen;
 }
 
- 
+
 .jens-advice h1 {
   font-family: 'Arial', sans-serif;
   font-variant: small-caps;
   text-align: center;
   color: white;
 }
- 
+
 .jens-advice h4 {
  font-size: 30px;
 }
- 
+
 .jens-advice h4,
 .jens-advice p {
   font-family: 'Verdana', sans-serif;
   color: #000036;
 }
- 
+
 .jens-advice footer {
   font-family: 'Arial', sans-serif;
   font-variant: small-caps;
