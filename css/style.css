@@ -86,6 +86,25 @@
 		color: gray;
 }
 
+/***** Julie's Advice *****/
+
+.juliepallo-advice {
+  background:	#2e8174;
+  font-family: sans-serif;
+  color: #d6c571;
+  margin-left: 4%;
+}
+
+.juliepallo-advice h1 {
+  font-size: 42px;
+  color: 	#143969;
+  text-align: center;
+}
+
+.juliepallo-advice h4 {
+  font-size: 20px;
+  color: #d6c571;
+}
 /***** Jade's Advice *****/
 
 .jademacrury-advice {
