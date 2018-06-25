@@ -34,12 +34,12 @@
     text-align: center;
     text-transform: none;
     margin-bottom: 50px;
-    
+
 }
 
 .margarets-advice p {
     margin: 5px;
-    padding: 5px;   
+    padding: 5px;
 }
 
 .margarets-advice h4, footer p {
@@ -51,7 +51,7 @@
     text-align: left;
     margin: 25px 5px 5px 5px;
     padding: 5px;
-    
+
 }
 .margarets-advice img.resize {
     max-width: 80%;
@@ -292,11 +292,11 @@
 
 
 /***** Bryan Herbert's advice *****/
- 
+
 .bryanherbert-advice {
   background-color:#fff3e6;
 }
- 
+
 .bryanherbert-advice h1 {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 45px;
@@ -304,28 +304,28 @@
   margin: 50px;
   padding-bottom: 50px;
   text-align: center;
-  font-variant: small-caps; 
+  font-variant: small-caps;
 }
- 
+
 .bryanherbert-advice h4 {
  font-family: 'Nunito', sans-serif;
- font-size: 25px; 
+ font-size: 25px;
  text-align: left;
  font-variant: small-caps;
  }
- 
+
 .bryanherbert-advice p {
   font-family: 'Nunito', sans-serif;
   font-size: 20px;
   line-height: 12px;
  text-align: left;
  }
- 
+
 .bryanherbert-advice-italic {
   color: firebrick;
  font-style: italic;
  }
- 
+
 .bryanherbert-advice-footer p {
   color: firebrick;
   font-family: Arial, Helvetica, sans-serif;
@@ -393,24 +393,24 @@
   background-color: MediumSeaGreen;
 }
 
- 
+
 .jens-advice h1 {
   font-family: 'Arial', sans-serif;
   font-variant: small-caps;
   text-align: center;
   color: white;
 }
- 
+
 .jens-advice h4 {
  font-size: 30px;
 }
- 
+
 .jens-advice h4,
 .jens-advice p {
   font-family: 'Verdana', sans-serif;
   color: #000036;
 }
- 
+
 .jens-advice footer {
   font-family: 'Arial', sans-serif;
   font-variant: small-caps;
@@ -11931,4 +11931,35 @@ body.nancys-advice-again {
   font-size: 18px;
   padding: 5% 5% 0 5%;
   line-height: 30px;
+}
+
+/* Benjamin's Advice */
+
+.benjaminbeckwith-advice header {
+text-align: center;
+margin-top: 30px;
+}
+
+.benjaminbeckwith-advice h1 {
+  font-family: 'IM Fell English SC', serif;
+  padding-top: 20px; 
+}
+
+.benjaminbeckwith-advice span {
+  color: white;
+}
+
+.benjaminbeckwith-advice div {
+  background:  #a3a3c2;
+  border: black solid 10px;
+  margin: auto;
+  width: auto;
+  height: 650px;
+}
+
+.benjaminbeckwith-advice p {
+  margin: 30px;
+  text-align: left;
+  font-family: 'IM Fell English SC', serif;
+  font-size: 25px;
 }
