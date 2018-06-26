@@ -1,0 +1,45 @@
+/***** Natalie K's advice *****/
+body {
+  margin: 0;
+  padding: 0;
+  }
+
+header {
+  text-align: center;
+  font-family: courier;
+  background-color: #528441;
+  padding: 10px 0 10px 0;
+}
+
+section {
+  background-color: #b8b894;
+  margin: 0;
+  padding: 0;
+}
+
+h4 {
+  font-family: courier;
+  text-align: center;
+  font-size: 28px;
+  text-decoration: underline;
+  background-color:  #996600;
+  margin-top: 0px;
+  padding: 10px;
+}
+
+p {
+  font-family: sans-serif;
+  padding: 0 10px 10px 10px;
+}
+
+footer {
+  background-color:  #cc99ff;
+  margin: 0;
+  padding: 2px;
+}
+
+header,
+footer,
+section {
+   overflow: auto;
+}
