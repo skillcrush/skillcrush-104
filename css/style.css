@@ -11891,3 +11891,22 @@ body.nancys-advice-again {
   padding: 5% 5% 0 5%;
   line-height: 30px;
 }
+
+/**Sara Coyan's Advice**/
+.saracoyan-advice {
+  width: 600px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.saracoyan-advice h1 {
+  color: darkmagenta;
+  font-size: 20px;
+  text-decoration: underline;
+}
+.saracoyan-advice p{
+  font-size: 15px;
+}
+.saracoyan-advice footer {
+  font-size: 10px;
+}
