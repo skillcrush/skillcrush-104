@@ -11866,6 +11866,28 @@ body.nancys-advice-again {
   font-family: cinzel;
 }
 
+/***** Svetlanas advice *****/
+
+.svetlanas-advice {
+	background-color: #e6fff2;
+}
+
+.svetlanas-advice h1 {
+    color: #3333cc;
+    text-align: center;
+    text-shadow: 2px 2px #ff0000;
+}
+
+.svetlanas-advice h4 {
+    font-family: arial;
+    font-size: 20px;
+    text-align: center;
+    color: #cc3399;
+}
+
+.svetlanas-advice p {
+    color:#00ace6;
+    text-align: justify;
 /** INIT - Alice Moraes' Advice **/
 
  .alicemoraes-advice header a {
