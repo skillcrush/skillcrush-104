@@ -11990,6 +11990,67 @@ body.nancys-advice-again {
 }
 
 
+/** Genevieve J's Advice **/
+
+.genevievej-advice {
+	box-sizing: border-box;
+	max-width: 768px;
+	margin: 25px auto;
+	padding: 0 50px;
+	font-family: 'Lato', Arial, sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	color: #666;
+	background: #f2ffe6;
+	text-align: left;
+}
+
+.genevievej-advice h1, .genevievej-advice h4 {
+	font-family: 'Slabo 27px', serif;
+	font-weight: normal;
+	text-transform: none;
+	letter-spacing: normal;
+	color: #000066;
+}
+
+.genevievej-advice h1 {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	font-size: 55px;
+}
+
+.genevievej-advice h4 {
+	margin-top: 50px;
+	margin-bottom: 15px;
+	text-align: left;
+	font-size: 28px;
+	color: #339966;
+}
+
+.genevievej-advice p {
+	line-height: 22px;
+}
+
+.genevievej-advice footer {
+	margin-top: 50px;
+}
+
+.genevievej-advice footer p {
+	color: #aaa;
+	font-style: italic;
+}
+
+.genevievej-advice a, .genevievej-advice a:visited {
+	font-size: 14px;
+	color: #ff80aa;
+	text-decoration: none;
+}
+
+.genevievej-advice a:hover, .genevievej-advice a:focus, .genevievej-advice a:active {
+	color: #ff3399;
+}
+
+
 /**Sara Coyan's Advice**/
 .saracoyan-advice {
   width: 600px;
@@ -12038,3 +12099,4 @@ margin-top: 30px;
   font-family: 'IM Fell English SC', serif;
   font-size: 25px;
 }
+
