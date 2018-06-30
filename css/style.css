@@ -1,4 +1,16 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+/** James Chiu's advise**/
+.jameschiu-advice {
+  background-color: firebrick;
+  text-align: center;
+}
+
+.jameschiu-advice h1 {
+  color: #000;
+}
+.jameschiu-advice h4 {
+  color: whitesmoke;
+}
 
 /***Gary Spongebob's advice***/
 
