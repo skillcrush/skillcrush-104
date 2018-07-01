@@ -1,5 +1,25 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/***lacey-has-advice***/
+.lacey-has-advice {
+  background-color: lightskyblue;
+  border-style: dotted;
+  border-width: 19px;
+  margin: 50px;
+  padding:40px;
+}
+
+.lacey-has-advice h1 {
+  font-family: Lucida;
+  text-align: center;
+}
+
+.lacey-has-advice .advice {
+margin: 50px;
+text-align: justify;
+}
+
+
 /***Gary Spongebob's advice***/
 
 .garyspongebob-advice {
