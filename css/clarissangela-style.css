@@ -1,0 +1,43 @@
+/***** Clarissa's Advice *****/
+
+.clarissangela-advice {
+    background: #FFFAE8;
+  }
+  
+  .clarissangela-advice h1 {
+    color: #062C33;
+    text-align: center;
+    font-size: 50px;
+    padding: 30px;
+  }
+  
+  .clarissangela-advice .advice {
+    padding:0 100px 0 100px;
+  }
+  
+  .clarissangela-advice .advice h4 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bolder;
+    color: #5F7479;
+    font-size: 40px;
+    text-align: center;
+    line-height: 10px;
+  }
+  
+  .clarissangela-advice .advice p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    color: #062C33;
+  }
+  
+  .clarissangela-advice .advice .break {
+    text-align: center;
+  }
+  
+  .clarissangela-advice footer p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bolder;
+    padding: 50px;
+    text-align: center;
+    color: #5F7479;
+  }
