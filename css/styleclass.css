@@ -1,0 +1,89 @@
+/*** Sandra Tedford advice  ***/
+.body sandratedford-advice {
+  padding: 80px;
+  background-color:#ffffff;
+  font-family: Didot;
+}
+
+
+/***** GRID *****/
+header {
+  width: 1200px;
+  height: 110px;
+  margin: 30px 30px;
+}
+
+header h1 {
+  
+  font-family: 'Francois One', sans-serif;
+  margin: 35px;
+
+}
+header h1 span {
+  color: #b3003b;
+}
+
+header nav {
+  float: right;
+  padding: 46px 0;
+}
+header nav ul {
+  margin: 0;
+  padding: 0;
+}
+header nav ul li {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 12px;
+  padding: 0 10px;
+  display: inline;
+}
+header nav ul li a{
+  text-decoration: none;
+  color: #000000;
+  margin: 0px 35px;
+  font-family: 'Libre Franklin', sans-serif;
+}
+
+/****** GRID *******/ 
+.greeting
+{
+  margin: 10px 10px 10px 70px;
+
+}
+
+#sandratedford-advice .full-width
+{
+width: 1200px;
+}
+#sandratedford-advice .half-width
+{
+  text-align: justify;
+  margin: 30px 20px 30px 60px;
+  margin-right: 30px;
+  width: 500px;
+  float: left;
+}
+.full-width h2
+{
+margin: 20px 20px 30px 70px;  
+}
+.full-width h3
+{
+  text-align: left;
+  margin: 30px 20px 30px 20px;
+}
+.full-width p
+{
+   text-align: justify;
+  margin: 30px 20px 30px 20px;
+}
+#footer {
+  font-variant: small-caps;
+  margin: 0px 200px;
+  text-align: center;
+  width: 900px;
+  clear: both;
+}
+
+/*** End Sandra Tedford's advice ***/
