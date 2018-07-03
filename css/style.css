@@ -12100,10 +12100,20 @@ margin-top: 30px;
   font-size: 25px;
 }
 
+/***** Kimberly Brock's Advice *****/
 
+.kimberly-brock-advice h1, h4 {
 
+font-family: 'Raleway';
+text-align: center;
+color: blue;
 
+}
 
+.kimberly-brock-advice p {
+font-family: 'Raleway';
+font-size: 15px;
+}
 
 
 
