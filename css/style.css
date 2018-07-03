@@ -12038,3 +12038,27 @@ margin-top: 30px;
   font-family: 'IM Fell English SC', serif;
   font-size: 25px;
 }
+
+/***Laura Kamark's advice***/
+.laurakamark-advice {
+  background-color: #D9D6E5;
+  font-family: "Lucida Bright", "Georgia", serif;
+}
+
+.laurakamark-advice div {
+  background-color: #D9D6E5;
+}
+
+.laurakamark-advice em {
+  font-weight: bolder;
+  font-stretch: expanded;
+}
+
+.laurakamark-advice p {
+  color: #666;
+}
+
+.laurakamark-advice h4 {
+  background-color: #666;
+  color: white;
+}
