@@ -1,0 +1,53 @@
+
+.cherylscache-advice {
+	font-family: font-family: 'Roboto', sans-serif;
+	font-size: 1em;
+	background-color: #F5F5F5;
+	text-align: left;
+	color: #555;
+}
+
+.cherylscache-advice a {
+	text-decoration: none;
+	text-align: left;
+	color: #ff4d4d;
+}
+
+.cherylscache-advice a:hover {
+	color: #ff9999;
+}
+.cherylscache-advice h1 {
+	font-weight: 300;
+	font-size: 2em;
+	text-align: center;
+	border-top: 1px solid #555;
+	padding-top: 20px;
+}
+
+.cherylscache-advice h4 {
+	font-weight: bold;
+	font-size: 1.4em;
+	text-transform: uppercase;
+	margin: 0;
+	color: #ff9999;
+}
+
+.cherylscache-advice p {
+	padding-bottom: 40px;
+	font-size: 1.3em;
+	border-bottom: 1px solid #ccc;
+}
+
+.cherylscache-advice .no-border {
+	border-bottom: none;
+}
+
+.cherylscache-advice footer {
+	width: 100%;
+	font-size: 1.3em;
+	text-align: left;
+	text-transform: uppercase;
+	color: #ff9999;
+	border-top: 1px solid #555;
+	padding-top: 10px;
+}
