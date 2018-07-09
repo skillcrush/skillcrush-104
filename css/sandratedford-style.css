@@ -1,0 +1,154 @@
+/*** Sandra Tedford advice  ***/
+.body sandratedford-advice {
+  padding: 80px;
+  background-color:#ffffff;
+  font-family: Didot;
+}
+#about, #advice
+{
+height: 50px;
+margin: 30px 0px;
+}
+#footer
+{
+height: 200px;
+overflow: auto;
+text-align: center;
+}
+
+/***** GRID *****/
+header {
+  height: 110px;
+  margin: 30px 30px;
+}
+
+header h1 {
+  float: left;
+  margin: 0px 20px;
+  padding: 38px 0;
+  font-family: 'Francois One', sans-serif;
+
+}
+header h1 span {
+  color: #b3003b;
+}
+
+header nav {
+  float: right;
+  padding: 46px 0;
+}
+header nav ul {
+  margin: 0;
+  padding: 0;
+}
+header nav ul li {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 12px;
+  padding: 0 10px;
+  display: inline;
+}
+header nav ul li a{
+  text-decoration: none;
+  color: #000000;
+  margin: 0px 35px;
+  font-family: 'Libre Franklin', sans-serif;
+}
+
+/****** GRID *******/ 
+
+.header-image {
+  height: 210;
+  float: left;
+  margin: 30px 20px 10px 50px;
+}
+.header-image img {
+  border-top: 0.5px solid #b3003b; 
+  border-bottom: 3px solid #b3003b;
+   border-right: 0.5px solid #b3003b;
+    border-right: 0.5px solid #b3003b;
+  height: auto;
+  width: 110px;
+  margin-bottom: 20px;
+}
+.sandratedford-column
+{
+  width:1200px;
+  margin: 0 auto;
+} 
+
+.sandratedford-advice-one
+    {
+    height: auto;
+    width: 540px;
+    float: left;
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+     }
+.sandratedford-advice-two
+    {
+    height: auto;
+    width: 540px;
+    float: left;
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    }
+#about h2
+  {
+  padding: 30px 0px;
+  margin: 0px 35px;
+  color: #b3003b;
+  font-family: 'Libre Franklin', sans-serif;
+}
+    }
+#advice h3 
+  {
+    margin-left: 20px;
+    line-height: 20px;
+    width: 520px;
+  }
+ #advice p
+ {
+  margin-left: 30px;
+  line-height: 22px;
+  width: 520px;
+  text-align: justify;
+ }
+
+
+/***** END OF GRID *****/
+
+.sandratedford-advice h1 {
+ text-align: left;
+ color: #000000;
+}
+
+#advice .sandratedford-advice-one {
+   width: 500px;
+   float:left;
+   margin-right: 50px;
+}
+#advice h3 {
+   color: #000000;
+   padding: 20px 30px 20px 30px;
+   }
+#advice p {
+  padding: 20px 0;
+  line-height: 15px 0;
+   }
+
+#advice .sandratedford-advice-two {
+  width: 500px;
+ }
+#footer {
+  font-variant: small-caps;
+  margin: 0px 200px;
+  width: 900px;
+  clear: both;
+}
+
+/*** End Sandra Tedford's advice ***/
