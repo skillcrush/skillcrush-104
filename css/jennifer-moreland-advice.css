@@ -1,0 +1,70 @@
+/*****jennifer-moreland-advice*****/
+.jennifer-moreland-advice {
+  background-color: #F5F5F5;
+  font-family: 'Abril Fatface', cursive;
+  font-family: 'Playfair Display', serif;
+  font-family: 'EB Garamond', serif;
+  max-width: 1200px;
+  margin: auto 35px;
+  text-align: center;
+}
+
+.jennifer-moreland-advice header {
+  color: #505050;
+  font-family: 'Playfair Display', serif;
+  text-transform: none;
+  border-bottom: 2px solid #E9967A;
+  padding-top: 30px;
+}
+
+.jennifer-moreland-advice a {
+  text-align: right;
+  font-family: 'EB Garamond', serif;
+  color: #505050;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.jennifer-moreland-advice h1 {
+  font-family: 'Abril Fatface', cursive;
+  color: #505050;
+  font-size: 24px;
+  font-weight: 200;
+  text-transform: none;
+  line-height: 26px;
+  text-align: center;
+}
+
+.jennifer-moreland-advice h4 {
+  font-family: 'Playfair Display', serif;
+  color: #505050;
+  font-size: 22px;
+  font-weight: 400px;
+  line-height: 26px;
+  word-spacing: 2px;
+  letter-spacing: 1px;
+  text-transform: none;
+  padding: 2px auto;
+}
+
+.jennifer-moreland-advice p {
+  font-family: 'EB Garamond', serif;
+  font-size: 20px;
+  font-weight: 200px;
+  text-transform: none;
+  letter-spacing: 1px;
+  word-spacing: 1px;
+  padding-top: 15px;
+  color: #505050;
+}
+
+.jennifer-moreland-advice span {
+  font-size: 16px;
+  color: #505050;
+}
+
+.jennifer-moreland-advice footer {
+  text-align: center;
+  padding-top: 0;
+  border-top: 2px solid #E9967A;
+}
