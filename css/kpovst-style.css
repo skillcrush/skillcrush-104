@@ -1,0 +1,17 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/**Kate's Advice**/
+.kpovst-advice {
+	background: lightgrey;
+	text-align: left;
+	font-family: 'Times New Roman', sans-serif;
+	color: black;
+}
+
+.kpovst-advice h1, h4 {
+	text-transform: uppercase;
+}
+
+.kpovst-advice footer p {
+	color: blue;
+}
