@@ -1,0 +1,20 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+	font-size: 15px;
+	color: red;
+}
+	
+/***** HEADER *****/
+h1 {
+    font-family: "lora", serif;
+    font-size: 30px;
+    color: #bbc985;
+}
+
+h4	{
+	font-family: "lora", serif;
+	font-size: 25px;
+	color: blue;
+}
