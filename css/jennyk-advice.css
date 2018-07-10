@@ -1,0 +1,29 @@
+
+/**Jenny's styling**/
+
+.jennyk-advice{
+	font-family: helvetica;
+	background: yellow;
+	}
+
+.jennyk-advice h1{	
+	color: blue;
+	padding-left: 12px;
+	text-align: left;
+	}
+
+.jennyk-advice h4{	
+	color: blue;
+	padding-left: 12px;
+	margin-bottom: 2px;
+	}
+	
+.jennyk-advice p{
+	color: blue;
+	padding-left: 12px;
+	margin-top: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	}
+
+/**End Jenny's styling**/
