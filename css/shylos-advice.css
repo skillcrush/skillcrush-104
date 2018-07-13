@@ -1,0 +1,31 @@
+/**Shylo's Advice Style**/
+
+.shylos-advice {
+	background-color: rgb(157, 136, 168);
+}
+
+.shylos-advice h1 {
+	background-color: white;
+	border-radius: 5px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 55%;
+	padding: 20px;
+  border: 1px solid #320036;
+  text-align: center;
+}
+
+.shylos-advice .advice h4 {
+	color: #320036;
+	text-decoration: condensed;
+	font-size: 150%;
+	font-weight: normal;
+}
+
+.shylos-advice .advice {
+  background-color: #808080;
+  border-radius: 5px;
+  padding: 5px 20px; 
+}
+/**End of Shylo's Advice Style**/
+
