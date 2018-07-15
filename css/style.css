@@ -1,5 +1,6 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+<<<<<<< HEAD
 /***Jill Bailey's Advice***/
 .jillbailey-advice {
   background-color: lightpink;
@@ -21,6 +22,63 @@
   }
 
   
+=======
+/*** imogenhudson-advice ***/
+.imogenhudson-advice {
+  background: olive;
+  border:  2mm;
+  padding: 10px;
+}
+
+.imogenhudson-advice h1 {
+  text-align: center;
+}
+
+.imogenhudson-advice h4  {
+
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.imogenhudson-advice p {
+  font-size: 18px;
+}
+
+.imogenhudson-advice footer {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  text-align: center;
+}
+
+
+
+/*** ejh-advice ***/
+.ejh-advice {
+  background: #00b8e6;
+  border:  2mm ridge;
+  padding: 10px;
+}
+
+.ejh-advice h1 {
+  font-style: italic;
+  text-align: center;
+}
+
+.ejh-advice h4  {
+  border: 2mm skyblue outset;
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.ejh-advice p {
+  font-size: 18px;
+}
+
+.ejh-advice footer {
+  font-style: italic;
+}
+
+>>>>>>> master
 /***lacey-has-advice***/
 .lacey-has-advice {
   background-color: lightskyblue;
@@ -12119,7 +12177,7 @@ margin-top: 30px;
 
 .benjaminbeckwith-advice h1 {
   font-family: 'IM Fell English SC', serif;
-  padding-top: 20px; 
+  padding-top: 20px;
 }
 
 .benjaminbeckwith-advice span {
