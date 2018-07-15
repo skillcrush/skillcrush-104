@@ -12221,3 +12221,40 @@ margin-top: 30px;
 .laurakamark-advice h4 {
   background-color: #666;
 }
+
+/***** Lynda Petruccelli's advice *****/
+
+.lyndapetruccelli-advice {
+  font-family: 'Abel', sans-serif;
+  background-color: #B2BEB5;
+}
+
+.lyndapetruccelli-advice header {
+  text-align: center;
+  margin: auto;
+}
+
+.lyndapetruccelli-advice h1 {
+  color: #00CC99;
+  font-size: 25px;
+  font-weight: bold;
+  padding-top: 20px;
+}
+
+.lyndapetruccelli-advice div {
+  height: 650px;
+  margin: auto;
+  text-align: left;
+  width: auto;
+}
+
+.lyndapetruccelli-advice h4 {
+  font-size: 20px;
+}
+
+.lyndapetruccelli-advice p {
+  font-size: 16px;
+}
+
+/***** End Lynda Petruccelli's advice *****/
+
