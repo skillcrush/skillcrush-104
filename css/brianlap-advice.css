@@ -1,0 +1,29 @@
+body {
+	background-color: black;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+blockquote {
+	color: white;
+	text-align: center;
+	padding-bottom: 20px;
+	border: 2px solid orange;
+	border-radius: 15px;
+    padding: 20px;
+
+}
+
+p {
+	color: white;
+	text-align: center;
+}
+
+span {
+	color: orange;
+}

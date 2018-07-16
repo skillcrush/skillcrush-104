@@ -1,0 +1,40 @@
+/***Brianna Roby's advice***/
+
+.briannaroby-advice {
+  background-color: #ccccff;
+}
+
+.briannaroby-advice h1 {
+  font-family:'Montez', cursive;
+  font-size: 60px;
+  letter-spacing: 2px;
+  line-height: 50px;
+  text-align: center;
+  padding-bottom: 51px;
+  border-bottom: 3px dotted #ffff99;
+}
+
+.briannaroby-advice h4 {
+  color: #000000;
+  font-family:'Playfair Display', serif;
+  font-size: 30px;
+  line-height: 15px;
+  padding-top: 15px;
+}
+
+.briannaroby-advice p {
+  font-family:'Poppins', sans-serif;
+  font-size: 20px;
+  line-height: 40px;
+}
+
+.briannaroby-advice footer {
+  font-family: 'Poppins', sans-serif;
+  font-size: 12px;
+  text-align: center;
+}
+
+.top-advice {
+  padding-bottom: 51px;
+  border-bottom: 3px dotted #ffff99;
+}
