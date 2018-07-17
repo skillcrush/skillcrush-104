@@ -1,5 +1,25 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/** Rachel Stephens Advice**/
+
+.rachelstephens-advice {
+  font-family: 'Quicksand', sans-serif;
+  color: black;
+  text-align: left;
+  background-color: #f3c486
+}
+
+.rachelstephens-advice h1 {
+  font-family: 'Anton', sans-serif;
+  color: black;
+  text-align: left;
+}
+.rachelstephens-advice h4 {
+  font-family: 'Anton', sans-serif;
+  color: black;
+  text-align: left;
+}
+
 /*** aprildavis-advice ***/
 .aprildavis-advice{
   background: #FFBCA6;
