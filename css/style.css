@@ -210,6 +210,160 @@ text-align: justify;
 }
 
 
+/*** aprildavis-advice ***/
+.aprildavis-advice{
+  background: #FFBCA6;
+  font-family: 'Amiko', sans-serif;
+}
+
+.aprildavis-advice a{
+  color: #53B29C;
+}
+
+.aprildavis-advice h1{
+  font-family: 'Mogra', cursive;
+  color: #FF8961;
+  text-transform: none;
+  }
+
+.aprildavis-advice h4{
+    font-weight: bolder;
+    font-family: 'Arima Madurai', cursive;
+    font-size: larger;
+    text-align: left;
+}
+
+
+/*** imogenhudson-advice ***/
+.imogenhudson-advice {
+  background: olive;
+  border:  2mm;
+  padding: 10px;
+}
+
+.imogenhudson-advice h1 {
+  text-align: center;
+}
+
+.imogenhudson-advice h4  {
+
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.imogenhudson-advice p {
+  font-size: 18px;
+}
+
+.imogenhudson-advice footer {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  text-align: center;
+}
+
+
+
+/*** ejh-advice ***/
+.ejh-advice {
+  background: #00b8e6;
+  border:  2mm ridge;
+  padding: 10px;
+}
+
+.ejh-advice h1 {
+  font-style: italic;
+  text-align: center;
+}
+
+.ejh-advice h4  {
+  border: 2mm skyblue outset;
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.ejh-advice p {
+  font-size: 18px;
+}
+
+.ejh-advice footer {
+  font-style: italic;
+}
+
+/***lacey-has-advice***/
+.lacey-has-advice {
+  background-color: lightskyblue;
+  border-style: dotted;
+  border-width: 19px;
+  margin: 50px;
+  padding:40px;
+}
+
+.lacey-has-advice h1 {
+  font-family: Lucida;
+  text-align: center;
+}
+
+.lacey-has-advice .advice {
+margin: 50px;
+text-align: justify;
+}
+
+
+/***Gary Spongebob's advice***/
+
+.garyspongebob-advice {
+  background-color: #FFA02E;
+}
+
+.garyspongebob-advice h1 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 40px;
+  line-height: 50px;
+  text-align: center;
+}
+
+.garyspongebob-advice h4 {
+  color: #000000;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  line-height: 15px;
+}
+
+.garyspongebob-advice p {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 20px;
+  line-height: 40px;
+}
+
+.garyspongebob-advice footer {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  text-align: center;
+}
+
+
+/**Katherine's Advice**/
+.kfultz-advice {
+	background: #CCCAFB;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.kfultz-advice h1 {
+	font-family: 'Grand Hotel', cursive;
+	text-transform: none;
+	text-align: center;
+	color: #CC0044;
+}
+
+.kfultz-advice h2 {
+	font-family: 'Grand Hotel', cursive;
+	color: #FF97A7;
+	text-align: center;
+	text-transform: none;
+}
+
+
 /***** Margaret S's Advice *****/
 .margarets-advice {
     background: #ffe2f0;
