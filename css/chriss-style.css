@@ -1,0 +1,24 @@
+/***** Chris Snyder's advice *****/
+
+.chriss-advice {
+  background: #003399;
+  color: #ffffff;
+}
+
+h1, h4 {
+font-family: "Montserrat", sans-serif;
+}
+
+.chriss-advice p {
+  font-family: "Raleway", sans-serif;
+  font-size: 16px;
+}
+
+.chriss-advice h1 {
+    font-size: 40px;
+}
+
+.chriss-advice h4 {
+    font-size: 24px;
+}
+
