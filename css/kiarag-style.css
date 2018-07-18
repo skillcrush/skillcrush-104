@@ -1,0 +1,84 @@
+/* body styles */
+body{
+	font-family: 'raleway';
+	color: #313639;
+	background-color: #c8a2c8;
+	margin: 0px;
+	padding: 0px;}
+
+section{
+	margin: 0px 80px;
+	background-color: #ffffff;
+	float: left;
+}
+
+div{
+	padding: 45px;
+}
+
+h4{
+	font-size: 32px;
+	font-weight: bold;
+	font-family: 'shrikhand';
+	color: #369295;
+	font-variant: small-caps;
+	
+}
+
+p{
+	font-size: 18px;
+	line-height: 32px;
+	text-align: justify;
+}
+
+img{
+	width: 50%;
+}
+
+
+h1{
+	font-family: 'shrikhand';
+	font-weight: bold;
+	font-size: 45px;
+	color: #86608e;
+	text-transform: capitalize;}
+
+/* HEADER */
+header{
+	background: url("https://img1.southernliving.timeinc.net/sites/default/files/styles/story_card_hero/public/image/2017/03/main/two_woman_gossiping_at_hair_salon-563965017.jpg?itok=3URVqLrb");
+	background-size: cover;
+	height: 800px;
+	
+}
+
+header h1{
+	padding: 450px 25px;
+}
+
+a{
+	text-decoration: none;
+	font-size: 18px;
+	color: #000000;
+	font-family: 'raleway';
+	padding: 60px 30px;
+}
+
+/* SECTION */
+section p{
+	padding: 0px 45px;
+}
+
+/* FOOTER */
+footer{
+	background-color: #313639;
+	height: 100px;
+	clear: both;
+}
+
+footer p{
+	padding-top: 30px;
+	text-align: center;
+	font-family: 'raleway';
+	font-size: 18px;
+	color: #ffffff;
+}
