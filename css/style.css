@@ -10886,3 +10886,26 @@ body.nancys-advice {
   background-color: dimgrey;
   color: papayawhip;
 }
+
+/**BEGIN CLARISSA STYLING**/
+
+.clariss-advice h1{
+    letter-spacing: 1px;
+    text-align: center; 
+  }
+
+.clariss-advice h4{
+  text-align: left;
+  color: #8f15d5;
+  size: 20px;
+}
+
+.clariss-advice p{
+  font-family:'Markazi Text', serif;
+  font-size: 20px;
+}
+
+.clariss-advice footer{
+  color: black;
+  text-shadow: 4px 4px 4px #aaa;
+}
