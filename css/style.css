@@ -1,5 +1,23 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/* Mims' advice */
+.mimscopeland-advice {
+  font-family: 'Verdana', sans-serif;
+  background-color: sand;
+}
+
+.mimscopeland-advice h1 {
+  color: darkseagreen;
+}
+
+.mimscopeland-advice h3 {
+  color: seagreen;
+}
+
+.mimscopeland-advice p {
+  color: darkgrey;
+}
+
 /** Rachel Stephens Advice**/
 
 .rachelstephens-advice {
