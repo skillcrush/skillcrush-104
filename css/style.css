@@ -99,6 +99,30 @@
   font-style: italic;
 }
 
+
+/* *Kaitlyn's Advice * */
+
+.kaitlynmiller-advice {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+
+.kaitlynmiller-advice h1 {
+  font-family: 'Oswald', sans-serif;
+  letter-spacing: 0; 
+}
+
+.kaitlynmiller-advice h4 {
+  text-transform: capitalize;
+}
+
+.kaitlynmiller-advice footer p{
+  color: #0c7565;
+  font-style: italic;
+}
+
+
+
 /***lacey-has-advice***/
 .lacey-has-advice {
   background-color: lightskyblue;
