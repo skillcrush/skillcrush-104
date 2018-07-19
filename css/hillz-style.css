@@ -1,0 +1,24 @@
+
+.hillz-advice {
+	background-image: url('https://images.wallpaperscraft.com/image/cactus_minimalism_flower_113381_1400x1050.jpg');
+}
+
+.hillz-advice h1 {
+ font-family: 'Shrikhand', cursive;
+ text-align: center;
+}
+
+.hillz-advice footer {
+	text-align: center;
+
+}
+
+.hillz-advice h4 {
+	font-family: 'Shrikhand', cursive;
+}
+
+.advice {
+	width: 800px;
+	padding-left: 300px;
+	text-align: center;
+}

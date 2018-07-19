@@ -1,0 +1,31 @@
+body {
+    font-family: 'Handlee', cursive;
+    font-size: 25px;
+    line-height: 34px;
+    color: #ffffff;
+    max-width: 1000px;
+    height: auto;
+    margin: auto;
+    padding: 20px;
+    background: url('https://www.tienda-medieval.com/blog/wp-content/uploads/2014/04/426573_svecha_karta_chernilnica_pero_ruka_vintazh_1680x1050_www.GdeFon.ru_.jpg') no-repeat center center fixed;
+    margin-top: 20px;
+}
+
+header span {
+    font-weight: bold;
+    font-variant: small-caps;
+}
+
+h4 {
+    color: #ffffff;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+footer {
+    font-family: 'Merriweather', serif;
+    font-size: 12px;
+    color: rgba(255, 255, 255, 0.7);
+    text-align: center;
+}

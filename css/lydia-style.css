@@ -1,0 +1,49 @@
+body, html {
+  height: 100%;
+}
+.bg { 
+  background-image: url("https://static1.squarespace.com/static/59c004d4e9bfdf14c20e76c6/5ab2b096562fa7548647b525/5ab2b23603ce646492fed515/1521660761598/Companion_detail2.jpg?format=2500w");
+
+  height: 100%; 
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  position: relative;
+}
+.child {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateY(-50%) translateX(-50%);
+}
+
+/* texts */
+h1, p, a {
+  text-align: center;
+  text-transform: uppercase;
+  color: white;
+  letter-spacing: 3px;
+  text-decoration: none;
+}
+
+h1 {
+  font-family: 'EB Garamond', serif;
+  font-size: 42px;
+  letter-spacing: 5px;
+}
+
+p {
+  font-family: 'Lato', sans-serif;
+  font-size: 12px;
+}
+
+.transparancy {
+  opacity: 0.5;
+}
+
+a:hover {
+  opacity: 0.6;
+}
+
