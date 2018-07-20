@@ -4,10 +4,14 @@
 .mimscopeland-advice {
   font-family: 'Verdana', sans-serif;
   background-color: sand;
+  padding: 40px;
 }
 
 .mimscopeland-advice h1 {
   color: darkseagreen;
+  font-family: 'Verdana', sans-serif;
+  letter-spacing: normal;
+  text-transform: none;
 }
 
 .mimscopeland-advice h3 {
