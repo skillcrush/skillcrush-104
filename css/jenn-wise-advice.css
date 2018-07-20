@@ -1,0 +1,23 @@
+
+/** Jenn Ramirez Advice **/
+
+.jenner-advice {
+  font-family: Nunito;
+  font-style: italic;
+  color: darkslategray;
+  background-color: LightSlateGray;
+  text-align: center;
+  line-height: 40px;
+}
+
+.jenner-advice h1 {
+  font-family: Montserrat;
+  color: black;
+  text-align: justify;
+}
+
+.jenner-advice h4 {
+  font-family: Montserrat;
+  color: DarkSlateGray
+  line-height: 40px;
+}
