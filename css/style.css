@@ -6,6 +6,127 @@
   color: tomato;
   }  
 
+/* Mims' advice */
+.mimscopeland-advice {
+  font-family: 'Verdana', sans-serif;
+  background-color: sand;
+  padding: 40px;
+}
+
+.mimscopeland-advice h1 {
+  color: darkseagreen;
+  font-family: 'Verdana', sans-serif;
+  letter-spacing: normal;
+  text-transform: none;
+}
+
+.mimscopeland-advice h3 {
+  color: seagreen;
+}
+
+.mimscopeland-advice p {
+  color: darkgrey;
+}
+
+/** Rachel Stephens Advice**/
+
+.rachelstephens-advice {
+  font-family: 'Quicksand', sans-serif;
+  color: black;
+  text-align: left;
+  background-color: #f3c486
+}
+
+.rachelstephens-advice h1 {
+  font-family: 'Anton', sans-serif;
+  color: black;
+  text-align: left;
+}
+.rachelstephens-advice h4 {
+  font-family: 'Anton', sans-serif;
+  color: black;
+  text-align: left;
+}
+
+/*** aprildavis-advice ***/
+.aprildavis-advice{
+  background: #FFBCA6;
+  font-family: 'Amiko', sans-serif;
+}
+
+.aprildavis-advice a{
+  color: #53B29C;
+}
+
+.aprildavis-advice h1{
+  font-family: 'Mogra', cursive;
+  color: #FF8961;
+  text-transform: none;
+  }
+
+.aprildavis-advice h4{
+    font-weight: bolder;
+    font-family: 'Arima Madurai', cursive;
+    font-size: larger;
+    text-align: left;
+}
+
+
+/*** imogenhudson-advice ***/
+.imogenhudson-advice {
+  background: olive;
+  border:  2mm;
+  padding: 10px;
+}
+
+.imogenhudson-advice h1 {
+  text-align: center;
+}
+
+.imogenhudson-advice h4  {
+
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.imogenhudson-advice p {
+  font-size: 18px;
+}
+
+.imogenhudson-advice footer {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  text-align: center;
+}
+
+
+
+/*** ejh-advice ***/
+.ejh-advice {
+  background: #00b8e6;
+  border:  2mm ridge;
+  padding: 10px;
+}
+
+.ejh-advice h1 {
+  font-style: italic;
+  text-align: center;
+}
+
+.ejh-advice h4  {
+  border: 2mm skyblue outset;
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.ejh-advice p {
+  font-size: 18px;
+}
+
+.ejh-advice footer {
+  font-style: italic;
+}
+
 /***lacey-has-advice***/
 .lacey-has-advice {
   background-color: lightskyblue;
@@ -12104,7 +12225,7 @@ margin-top: 30px;
 
 .benjaminbeckwith-advice h1 {
   font-family: 'IM Fell English SC', serif;
-  padding-top: 20px; 
+  padding-top: 20px;
 }
 
 .benjaminbeckwith-advice span {

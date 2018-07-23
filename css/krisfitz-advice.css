@@ -1,0 +1,34 @@
+h1 {
+	color: orangered;
+	font-family: Georgia;
+	font-size: 50px;
+	}
+
+body {
+	background: url("https://kittentoob.com/wp-content/uploads/2014/10/orange.jpg") repeat fixed center center / cover  rgba(0, 0, 0, 0);
+	width: 600px;
+    margin: auto;
+	}
+
+
+
+#advice	{
+	text-align: center;
+	border-radius: 5px;
+	padding: 10px 10px 10px 10px; 
+	background: rgba(153, 50, 204, 0.6);
+	color: white;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#advice h4 {
+	color: orangered;
+	font-family: Georgia;
+	font-size: 20px;
+}
+
+footer {
+	color: orangered;
+    font-family: Georgia;
+	text-align: right;
+	}
