@@ -1,5 +1,11 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/***jill-advice***/
+
+.jill-b-advice h4 {
+  color: tomato;
+  }  
+
 /* Mims' advice */
 .mimscopeland-advice {
   font-family: 'Verdana', sans-serif;
