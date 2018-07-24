@@ -1,5 +1,38 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/* TANISHA DAVEY'S ADVICE */
+
+.tanishadavey-advice h1 {
+  color: #407f7f;  
+  font-family: 'Amaranth', sans-serif;
+  font-size: 36px;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+.advice {
+  color: #003333;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 18px;  
+}
+
+.advice h4 {
+  color: #0d4d4d;
+  font-size: 24px;
+}
+
+.advice p {
+  line-height: 22px;
+}
+
+.tanishadavey-advice footer p {
+  color: #407f7f;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 14px;
+  text-align: center;
+}
+
+
 /* Karla Perez Advice */
 .karlaperez-advice {
   display: flex;
