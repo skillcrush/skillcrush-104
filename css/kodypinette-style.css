@@ -1,0 +1,14 @@
+.kodypinette-advice {
+    background-color: lightblue;
+}
+section a {
+    padding: 3px 3px 3px 3px;
+    background-color: white;
+    border-radius: 3px;
+    color: black;
+
+}
+section a:hover{
+    background-color: black;
+    color: white;
+}
