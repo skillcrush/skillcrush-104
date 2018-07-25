@@ -1,0 +1,38 @@
+/***Cierra M's styles for advice page***/
+
+/***BASE STYLE***/
+
+.cierram-advice header {
+  text-align: center;
+  color: navy;
+}
+
+.cierram-advice h4 {
+  font-size: 25px;
+  text-align: center;
+  border-bottom: 1px solid #000000;
+}
+
+.cierram-advice a {
+  background-color: goldenrod;
+}
+
+.cierram-advice p {
+  font-family: 'lato', 'helvetica', sans-serif;
+  font-size: 16px;
+  letter-spacing: .5px;
+  line-height: 27px;
+}
+
+.cierram-advice .advice {
+  margin: 70px 80px
+}
+
+.cierram-advice, .advice-one, .advice-two, .advice-three {
+  margin-bottom: 80px;
+}
+
+.cierram-advice footer {
+  text-align: center;
+  font-weight: bold;
+}
