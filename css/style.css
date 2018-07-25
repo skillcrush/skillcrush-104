@@ -1,5 +1,72 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/* Karla Perez Advice */
+.karlaperez-advice {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.karlaperez-advice h1  {
+  font-family: 'Unica One', cursive;
+  text-align: center;
+  font-size: 38px;
+  padding: 0 50px 0 50px;
+}
+
+.karlaperez-advice span {
+  color: #cc0000;
+}
+
+.karlaperez-advice h4 {
+  color: #cc0000;
+  font-family: 'Unica One', cursive;
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 0;
+}
+
+.karlaperez-advice p {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 18px;
+  width: 100%;
+  text-align: center;
+  padding: 0 100px 0 100px;
+}
+
+.karlaperez-advice footer {
+  color: #cc0000;
+  text-align: center;
+}
+
+/***jill-advice***/
+
+.jill-b-advice h4 {
+  color: tomato;
+  }  
+
+/* Mims' advice */
+.mimscopeland-advice {
+  font-family: 'Verdana', sans-serif;
+  background-color: sand;
+  padding: 40px;
+}
+
+.mimscopeland-advice h1 {
+  color: darkseagreen;
+  font-family: 'Verdana', sans-serif;
+  letter-spacing: normal;
+  text-transform: none;
+}
+
+.mimscopeland-advice h3 {
+  color: seagreen;
+}
+
+.mimscopeland-advice p {
+  color: darkgrey;
+}
+
 /** Rachel Stephens Advice**/
 
 .rachelstephens-advice {
@@ -11980,6 +12047,7 @@ body.nancys-advice-again {
   background-color: rgb(72, 135, 210);
 }
 
+
 /***LizzyB's Advice***/
 
 .lizzyb-advice {
@@ -12041,6 +12109,7 @@ body.nancys-advice-again {
 .svetlanas-advice p {
     color:#00ace6;
     text-align: justify;
+}
 /** INIT - Alice Moraes' Advice **/
 
  .alicemoraes-advice header a {
@@ -12188,7 +12257,8 @@ body.nancys-advice-again {
 .saracoyan-advice footer {
   font-size: 10px;
 }
-/* Benjamin's Advice */
+    
+/**** Benjamin's Advice *****/
 
 .benjaminbeckwith-advice header {
 text-align: center;
@@ -12241,3 +12311,41 @@ margin-top: 30px;
 .laurakamark-advice h4 {
   background-color: #666;
 }
+    
+
+/***** Lynda Petruccelli's advice *****/
+
+.lyndapetruccelli-advice {
+  font-family: 'Abel', sans-serif;
+  background-color: #B2BEB5;
+}
+
+.lyndapetruccelli-advice header {
+  text-align: center;
+  margin: auto;
+}
+
+.lyndapetruccelli-advice h1 {
+  color: #00CC99;
+  font-size: 25px;
+  font-weight: bold;
+  padding-top: 20px;
+}
+
+.lyndapetruccelli-advice div {
+  height: 650px;
+  margin: auto;
+  text-align: left;
+  width: auto;
+}
+
+.lyndapetruccelli-advice h4 {
+  font-size: 20px;
+}
+
+.lyndapetruccelli-advice p {
+  font-size: 16px;
+}
+
+/***** End Lynda Petruccelli's advice *****/
+
