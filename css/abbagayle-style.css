@@ -1,0 +1,58 @@
+.container-header {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.half-header {
+  width: 800px;
+  float: left;
+}
+
+.nav-header {
+  width: 400px;
+  float: left;
+}
+
+.quote-container {
+  width: 600px;
+  float: left;
+  clear: both;
+  margin:0;
+}
+
+header {
+      height: 800px;
+      background-image: url('https://images6.alphacoders.com/542/thumb-1920-542776.jpg');
+      background-size: cover;
+}
+
+h1 {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 65px;
+  margin: 0;
+  color: white;
+  padding: 0;
+}
+
+nav ul li{
+  float: right;
+  display: inline-block;
+}
+
+nav ul li a {
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-size: 17px;
+    color: black;
+    font-family: 'Permanent Marker', cursive;
+}
+
+h2 {
+    width: inherit;
+    clear: both;
+    font-family: 'Rokkitt', serif;
+    font-size: 30px;
+    line-height: 40px;
+    color: white;
+    padding: 20px 0 20px 25px;
+}
