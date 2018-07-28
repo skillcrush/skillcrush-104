@@ -76,7 +76,7 @@
 
 .jill-b-advice h4 {
   color: tomato;
-  }  
+  }
 
 /* Mims' advice */
 .mimscopeland-advice {
@@ -12290,7 +12290,7 @@ body.nancys-advice-again {
 .saracoyan-advice footer {
   font-size: 10px;
 }
-    
+
 /**** Benjamin's Advice *****/
 
 .benjaminbeckwith-advice header {
@@ -12344,7 +12344,7 @@ margin-top: 30px;
 .laurakamark-advice h4 {
   background-color: #666;
 }
-    
+
 
 /***** Lynda Petruccelli's advice *****/
 
@@ -12382,3 +12382,45 @@ margin-top: 30px;
 
 /***** End Lynda Petruccelli's advice *****/
 
+/***** Kai Rilliet's advice *****/
+
+.kairilliet-advice {
+  font-family: 'Lato', sans-serif;
+  background-color: antiquewhite;
+}
+
+.kairilliet-advice header {
+  text-align: center;
+  margin: auto;
+}
+
+.kairilliet-advice h1 {
+  color: slategray;
+  font-size: 21px;
+  font-weight: bold;
+  padding-top: 20px;
+}
+
+.kairilliet-advice div {
+  height: 650px;
+  margin: auto;
+  text-align: left;
+  width: auto;
+  padding: 20px 100px;
+}
+
+.kairilliet-advice h4 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  text-transform: uppercase;
+  color: darkslategray;
+}
+
+.kairilliet-advice p {
+  font-family: "Lato", sans-serif;
+  font-size: 12px;
+  color: #000000;
+  text-align: justify;
+}
+
+/***** End Kai Rilliet's advice *****/
