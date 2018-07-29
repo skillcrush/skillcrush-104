@@ -1,0 +1,37 @@
+.dstetser-advice {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.dstetser-advice h1  {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  font-size: 38px;
+  padding: 0 50px 0 50px;
+}
+
+.dstetser-advice span {
+  color: #cc0000;
+}
+
+.dstetser-advice h4 {
+  color: #cc0000;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 0;
+}
+
+.dstetser-advice p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  width: 100%;
+  text-align: center;
+  padding: 0 100px 0 100px;
+}
+
+.dstetser-advice footer {
+  color: #cc0000;
+  text-align: center;
+}
