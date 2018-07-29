@@ -31,17 +31,6 @@
   padding: 0 100px 0 100px;
 }
 
-.dstetser-advice hr {
-  display: block;
-  margin-top: 0.5em;
-  margin-bottom: 0.5em;
-  margin-left: auto;
-  margin-right: auto;
-  border-style: inset;
-  border-width: 3px;
-  background-color: #232323;
-}
-
 .dstetser-advice footer {
   color: #cc0000;
   text-align: center;
