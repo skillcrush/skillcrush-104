@@ -1,0 +1,32 @@
+
+body {
+    background-color: #e6f9ff;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.nocureforcuriousity-advice .wrapper {
+    padding: 100px;
+}
+
+
+
+
+h1, h4 {
+    color: #3d3d5c
+}
+h4 {
+    font-size: 20px;
+}
+
+p {
+    color: #595959;
+}
+
+a {
+    text-decoration: none;
+    color: #bc8f8f;
+}
+
+footer p {
+    color: #993366;
+}
