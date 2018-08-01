@@ -1,4 +1,47 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+/*****WEBER'S ADVICE*****/
+body {
+  background-color: #fbf5e0;
+  margin: 0px;
+}
+.weber-advice h1 {
+  color: #595959;
+  font-family: 'Special Elite', cursive;
+  letter-spacing: 0px;
+  padding-left: 25px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  text-transform: lowercase;
+}
+.weber-advice h2 {
+  color: #595959;
+  font-family: 'Special Elite', cursive;
+  padding-left: 25px;
+  padding-bottom: 10px;
+  text-align: left;
+}
+.weber-advice ul li {
+  color: black;
+  font-family: 'Josefin Slab', serif;
+  font-size: 22px;
+  line-height: 26px;
+  text-align: left;
+}
+.weber-advice h3 {
+  color: black;
+  font-family: 'Josefin Slab', serif;
+  padding-left: 25px;
+  padding-top: 10px;
+  text-align: left;
+}
+.weber-advice h4 {
+  color: #595959;
+  font-family: 'Special Elite', cursive;
+  padding-top: 10px;
+  padding-right: 25px;
+  text-align: right;
+  text-transform: capitalize;
+}
 /***** MEL F'S ADVICE *****/
 .mel-advice {
 background color: "lightsteelblue";
@@ -23,7 +66,7 @@ font-size: 24px;
 /* TANISHA DAVEY'S ADVICE */
 
 .tanishadavey-advice h1 {
-  color: #407f7f;  
+  color: #407f7f;
   font-family: 'Amaranth', sans-serif;
   font-size: 36px;
   letter-spacing: 1px;
@@ -33,7 +76,7 @@ font-size: 24px;
 .advice {
   color: #003333;
   font-family: 'Titillium Web', sans-serif;
-  font-size: 18px;  
+  font-size: 18px;
 }
 
 .advice h4 {
@@ -12369,7 +12412,7 @@ margin-top: 30px;
 
 .clariss-advice h1{
     letter-spacing: 1px;
-    text-align: center; 
+    text-align: center;
   }
 
 .clariss-advice h4{
