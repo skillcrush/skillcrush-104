@@ -1,0 +1,35 @@
+/** Add a comment at the beginning of your CSS styles with your name **/
+
+/**Jay's CSS Styles**/  /*font-family: 'Hanalei Fill', cursive;*/
+
+.jay-advice {
+
+	background: #00cc00;
+}
+
+.jay-advice h1 {
+
+	font-family: 'Hanalei Fill', cursive;
+	font-size: 50px;
+	text-align: center;
+
+}
+
+.jay-advice h4, .jay-advice footer {
+
+	text-align: center;
+	font-size: 30px;
+}
+
+.jay-advice p {
+
+	font-size: 24px;
+	margin: 30px 10px;
+}
+
+.jay-advice footer {
+
+	color: #0000b3;
+}
+
+/**End Jay's Styles **/
