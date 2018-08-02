@@ -1,0 +1,20 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/*AT's advice*/
+.at-advice {
+  background-color: #b3ecff;
+  text-align: left;
+  font-family: 'Times New Roman';
+}
+
+.at-advice h1 {
+  text-align: center; 
+}
+
+.at-advice footer {
+  margin-top: 280px;
+}
+
+.at-advice #first-part {
+  margin-top: 50px;
+}
