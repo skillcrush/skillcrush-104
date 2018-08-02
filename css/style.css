@@ -1,4 +1,24 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+/***** MEL F'S ADVICE *****/
+.mel-advice {
+background color: "lightsteelblue";
+}
+
+.mel-advice h1 {
+color: "darkslategrey";
+font-size: 36px;
+}
+
+.mel-advice p {
+    color: "darkslategrey";
+    font-size: 18px;
+}
+
+.mel-advice h4 {
+    color: "darkslategrey";
+font-size: 24px;
+}
+
 
 /* TANISHA DAVEY'S ADVICE */
 
@@ -12345,6 +12365,28 @@ margin-top: 30px;
   background-color: #666;
 }
 
+/**BEGIN CLARISSA STYLING**/
+
+.clariss-advice h1{
+    letter-spacing: 1px;
+    text-align: center; 
+  }
+
+.clariss-advice h4{
+  text-align: left;
+  color: #8f15d5;
+  size: 20px;
+}
+
+.clariss-advice p{
+  font-family:'Markazi Text', serif;
+  font-size: 20px;
+}
+
+.clariss-advice footer{
+  color: black;
+  text-shadow: 4px 4px 4px #aaa;
+}
 
 /***** Lynda Petruccelli's advice *****/
 
