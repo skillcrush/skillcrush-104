@@ -4,6 +4,29 @@ body {
   background-color: #fbf5e0;
   margin: 0px;
 }
+/* Maria Wright's Advice */
+.maria-wright-advice {
+  background-color: #fff;
+  font-family: Lato, sans-serif !important;
+  letter-spacing: normal;
+}
+
+.maria-wright-advice h1 {
+  font-family: Lato, sans-serif !important;
+  letter-spacing: normal;
+  text-align: center;
+}
+
+.maria-wright-advice h4 {
+  font-family: Lato, sans-serif !important;
+  letter-spacing: normal;
+  text-align: center;
+}
+
+.maria-wright-advice p {
+  font-family: Lato, sans-serif;
+  padding: 0 100px;
+}
 .weber-advice h1 {
   color: #595959;
   font-family: 'Special Elite', cursive;
