@@ -1,0 +1,40 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+/*****ZAKHAH'S ADVICE*****/
+body {
+  background: url('../img/sky-pink.jpg');
+  background-repeat: no-repeat;
+  background-size: 2400px 1000px;
+}
+
+/****** HEADER ******/
+
+h1 {
+  color: #410101;
+  font-family: 'Hanalei Fill', cursive;
+  letter-spacing: 0px;
+  padding-left: 25px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+h2 {
+  color: #410101;
+  font-family: 'Nunito Sans', sans-serif;
+  padding-left: 25px;
+  padding-bottom: 10px;
+}
+
+p {
+  color: black;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 14px;
+  padding-left: 25px;
+  padding-top: 10px; 
+}
+
+/****** FOOTER ******/
+footer p {
+  font-weight: bold;
+  text-align: center;
+}
