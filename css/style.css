@@ -12565,6 +12565,47 @@ margin-top: 30px;
   margin: auto;
 }
 
+/***** Aislinn Hall's Advice *****/
+
+.aislinnhall-advice {
+  background: #f9f9f9;
+}
+
+.aislinnhall-advice h1 {
+  font-family: Helvetica;
+  text-align: center;
+  color: #879100;
+  font-size: 26px;
+  text-transform: capitalize;
+}
+
+.aislinnhall-advice h4 {
+  color: #45505e;
+  font-family: monospace;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+.aislinnhall-advice p {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: #3c4f68;
+}
+
+.aislinnhall-advice div {
+  width: 900px;
+  margin: 0 auto;
+  background-color: white;
+  padding: 0px 10px 0px 10px;
+}
+
+.aislinnhall-advice footer p {
+  color: #879100;
+  font-family: sans-serif;
+  font-size: 14px;
+  text-align: center;
+}
+
 /***** Phil M Style *****/
 .philm-advice{
   font-family: "Roboto", sans-serif;
