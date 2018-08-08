@@ -1,21 +1,40 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+/***** ELYSE'S ADVICE *****/
+.elysevilla-advice {
+  background: #ffeefd5;
+  font-family: sans-serif;
+}
+.elysevilla-advice h1 {
+  text-align: center;
+  font-size:40px;
+  border: 2px solid #ffb133;
+  margin: 10px;
+}
+.elysevilla-adivce h4 {
+  text-decoration: underline;
+  font-size:24px;
+  font-variant:small-caps;
+}
+.elysevilla-advice p {
+  font-size: 16px;
+}
 
-/****** MACKAYLA'S ADVICE*****/ 
+/****** MACKAYLA'S ADVICE*****/
 .mackaylavan-advice{
   background: #ebd0fd;
-  padding: 80px; 
+  padding: 80px;
 
 }
 
 .mackaylavan-advice h1{
-  font-family: 'Quicksand', sans-serif; 
+  font-family: 'Quicksand', sans-serif;
   text-align: center;
 }
 .mackaylavan-advice h4{
-  font-family: 'Quicksand', sans-serif; 
+  font-family: 'Quicksand', sans-serif;
   text-align: center;
   text-decoration: underline;
-  padding: 20px; 
+  padding: 20px;
   color: #000000;
 }
 
@@ -12647,7 +12666,7 @@ margin-top: 30px;
   float: right;
   padding-top: 30px;
 }
-  
+
 .philm-advice main{
   clear: both;
 }
