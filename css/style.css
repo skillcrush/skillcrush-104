@@ -1,4 +1,29 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+
+/****** MACKAYLA'S ADVICE*****/ 
+.mackaylavan-advice{
+  background: #ebd0fd;
+  padding: 80px; 
+
+}
+
+.mackaylavan-advice h1{
+  font-family: 'Quicksand', sans-serif; 
+  text-align: center;
+}
+.mackaylavan-advice h4{
+  font-family: 'Quicksand', sans-serif; 
+  text-align: center;
+  text-decoration: underline;
+  padding: 20px; 
+  color: #000000;
+}
+
+.mackaylavan-advice p{
+  font-family: 'Quicksand', sans-serif;
+}
+
+
 /*****WEBER'S ADVICE*****/
 .maria-wright-advice body {     /* added the class so that this person's body properties wouldn't impact ALL other pages  PSM */
   background-color: #fbf5e0;
