@@ -1,0 +1,38 @@
+/** Add a comment at the beginning of your CSS styles with your name **/
+
+/**MJ's CSS Styles**/
+.MJ-advice body {
+	background-color #A9D0F5";
+	font-family: sans-serif;
+	padding: 20px 0 20px 15px;
+	font-weight: 700px;
+	text-align: left;
+}
+
+.MJ-advice p {
+	margin-left: 40px;
+	font-family: sans-serif;
+	font-size: 14px;
+	text-align: left;
+	font-color: black;
+	padding: 25px;
+	;
+}
+
+.MJ-advice h1 {
+	font-color: black;
+	font-size: 18px;
+	font-family: sans-serif;
+	font-weight: 700px;
+	margin-left: 40px
+	padding: 10px;
+
+}
+.MJ-advice h3 {
+	font-family: sans-serif;
+	font-color: black;
+	text-align: left;
+	padding: 20px;
+}
+
+/**End MJ's Styles **/
