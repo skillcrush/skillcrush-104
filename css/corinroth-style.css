@@ -1,0 +1,127 @@
+/*font-family: 'Satisfy', cursive;
+font-family: 'Just Another Hand', cursive;
+font-family: 'Caveat', cursive;
+font-family: 'Montserrat', sans-serif;*/
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: rgba(21, 61, 80, 0.72);
+}
+
+/**** GRID ****/
+.full-width {
+  width: 100%;
+  text-align: center;
+}
+
+.half-width {
+  width: 50%;
+  float: left;
+}
+
+/**** HEADER ****/
+header {
+  background: url("../img/hero.jpg");
+  background-size: cover;
+  color: #FFF8DC;
+  width: 100%;
+  height: 400px;
+}
+
+nav {
+  background: #35608C;
+  font-weight: bold;
+  float:right;
+}
+
+nav ul li {
+  list-style: none;
+  padding-right: 25px;
+}
+
+nav a {
+  color:#E26B40;
+  text-decoration: none;
+}
+
+h1 {
+  font-family: 'Caveat', cursive;
+  font-size: 90px;
+  float: left;
+  padding-left: 20px;
+}
+
+h2{
+  float: right;
+  font-size: 32px;
+  font-style: italic;
+  padding-top: 150px;
+  padding-right: 30px;
+}
+
+/**** SECTION ****/
+.advice-col-1 , .advice-col-2{
+  width:  560px;
+  padding-left: 50px;
+  text-align: center;
+}
+
+h3 {
+  clear:both;
+  color: #E26B40;
+  font-size: 30px;
+}
+
+h4 {
+  font-weight: bold;
+  color: #FFF8DC;
+  letter-spacing: .06em;
+  font-size: 18px;
+}
+
+h4#left-col {
+  padding-bottom: 15px;
+}
+
+h4#right-col {
+  font-size: 17px;
+}
+
+p {
+  color: #352311;
+  font-size: 18px;
+  line-height: 1.5em;
+}
+
+span#phrase {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.quote {
+  clear: both;
+  font-weight: bold;
+  letter-spacing: .02em;
+  color:  #E26B40;
+  font-size: 30px;
+  padding: 40px 20px 20px 20px;
+}
+
+#magic {
+  font-size: 35px;
+  font-family: 'Just Another Hand', cursive;
+  color:#FFF8DC;
+  text-transform: uppercase; 
+}
+
+.quote span {
+  color: #FFF8DC;
+  font-family: 'Satisfy', cursive;
+  font-size: 22px;
+  margin-top: 20px;
+}
+
+/****FOOTER ****/
+footer {
+  clear: both;
+  border-top: 1px solid grey;
+}
