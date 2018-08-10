@@ -1,4 +1,95 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+
+/****** MACKAYLA'S ADVICE*****/
+.mackaylavan-advice{
+  background: #ebd0fd;
+  padding: 80px;
+
+}
+
+.mackaylavan-advice h1{
+  font-family: 'Quicksand', sans-serif;
+  text-align: center;
+}
+.mackaylavan-advice h4{
+  font-family: 'Quicksand', sans-serif;
+  text-align: center;
+  text-decoration: underline;
+  padding: 20px;
+  color: #000000;
+}
+
+.mackaylavan-advice p{
+  font-family: 'Quicksand', sans-serif;
+}
+
+
+/*****WEBER'S ADVICE*****/
+.maria-wright-advice body {     /* added the class so that this person's body properties wouldn't impact ALL other pages  PSM */
+  background-color: #fbf5e0;
+  margin: 0px;
+}
+/* Maria Wright's Advice */
+.maria-wright-advice {
+  background-color: #fff;
+  font-family: Lato, sans-serif !important;
+  letter-spacing: normal;
+}
+
+.maria-wright-advice h1 {
+  font-family: Lato, sans-serif !important;
+  letter-spacing: normal;
+  text-align: center;
+}
+
+.maria-wright-advice h4 {
+  font-family: Lato, sans-serif !important;
+  letter-spacing: normal;
+  text-align: center;
+}
+
+.maria-wright-advice p {
+  font-family: Lato, sans-serif;
+  padding: 0 100px;
+}
+.weber-advice h1 {
+  color: #595959;
+  font-family: 'Special Elite', cursive;
+  letter-spacing: 0px;
+  padding-left: 25px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  text-transform: lowercase;
+}
+.weber-advice h2 {
+  color: #595959;
+  font-family: 'Special Elite', cursive;
+  padding-left: 25px;
+  padding-bottom: 10px;
+  text-align: left;
+}
+.weber-advice ul li {
+  color: black;
+  font-family: 'Josefin Slab', serif;
+  font-size: 22px;
+  line-height: 26px;
+  text-align: left;
+}
+.weber-advice h3 {
+  color: black;
+  font-family: 'Josefin Slab', serif;
+  padding-left: 25px;
+  padding-top: 10px;
+  text-align: left;
+}
+.weber-advice h4 {
+  color: #595959;
+  font-family: 'Special Elite', cursive;
+  padding-top: 10px;
+  padding-right: 25px;
+  text-align: right;
+  text-transform: capitalize;
+}
 /***** MEL F'S ADVICE *****/
 .mel-advice {
 background color: "lightsteelblue";
@@ -12515,4 +12606,120 @@ margin-top: 30px;
   font-family: 'Roboto Slab', serif;
   color: #cc3342;
   font-weight: bold;
+}
+
+/***** Rich D's Advice *****/
+
+.richdwyer-advice {
+  background: cyan;
+}
+
+.richdwyer-advice h1 {
+  font-size: 42px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.richdwyer-advice h4 {
+  font-size: 32px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.richdwyer-advice p {
+  font-size: 24px;
+  text-align: center;
+  font-variant: small-caps;
+  line-height: 32px;
+}
+
+.richdwyer-advice div {
+  background: lightcoral;
+  border: 3px silver solid;
+  width: 600px;
+  margin: auto;
+}
+
+/***** Aislinn Hall's Advice *****/
+
+.aislinnhall-advice {
+  background: #f9f9f9;
+}
+
+.aislinnhall-advice h1 {
+  font-family: Helvetica;
+  text-align: center;
+  color: #879100;
+  font-size: 26px;
+  text-transform: capitalize;
+}
+
+.aislinnhall-advice h4 {
+  color: #45505e;
+  font-family: monospace;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+.aislinnhall-advice p {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: #3c4f68;
+}
+
+.aislinnhall-advice div {
+  width: 900px;
+  margin: 0 auto;
+  background-color: white;
+  padding: 0px 10px 0px 10px;
+}
+
+.aislinnhall-advice footer p {
+  color: #879100;
+  font-family: sans-serif;
+  font-size: 14px;
+  text-align: center;
+}
+
+/***** Phil M Style *****/
+.philm-advice{
+  font-family: "Roboto", sans-serif;
+  background: #c9d8c5;
+ }
+
+.philm-advice h1{
+  font-size: 35px;
+  float: left;
+  letter-spacing: normal;
+  }
+
+.philm-advice #go-back{
+  float: right;
+  padding-top: 30px;
+}
+
+.philm-advice main{
+  clear: both;
+}
+
+.philm-advice h4{
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #191970;
+  text-align: left;
+}
+
+.philm-advice ul{
+  margin: 25px 0 50px 0;
+}
+
+.philm-advice strong{
+  font-weight: bolder;
+  color: #ff4500;
+}
+
+.philm-advice footer{
+  margin: 50px 0 0 10px;
+  font-size: 8px;
 }
