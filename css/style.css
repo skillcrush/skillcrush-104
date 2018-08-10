@@ -1,4 +1,24 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+
+/*****LAURA M'S ADVICE*****/
+.lauram-advice{
+  background-color: #D4E4F7;
+}
+.lauram-advice h1{
+  color: #341C09;
+  font-family: 'Georgia', serif;
+  font-size: 32px;
+}
+.lauram-advice h4{
+  color: #B85B14;
+  font-size: 28px;
+}
+.lauram-advice p{
+  color:#000000;
+  font-size: 24px;
+  line-height: 24px;
+}
+
 /*****WEBER'S ADVICE*****/
 body {
   background-color: #fbf5e0;
