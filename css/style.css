@@ -1,21 +1,20 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
-
-/****** MACKAYLA'S ADVICE*****/ 
+/****** MACKAYLA'S ADVICE*****/
 .mackaylavan-advice{
   background: #ebd0fd;
-  padding: 80px; 
+  padding: 80px;
 
 }
 
 .mackaylavan-advice h1{
-  font-family: 'Quicksand', sans-serif; 
+  font-family: 'Quicksand', sans-serif;
   text-align: center;
 }
 .mackaylavan-advice h4{
-  font-family: 'Quicksand', sans-serif; 
+  font-family: 'Quicksand', sans-serif;
   text-align: center;
   text-decoration: underline;
-  padding: 20px; 
+  padding: 20px;
   color: #000000;
 }
 
@@ -121,18 +120,18 @@ font-size: 24px;
   text-align: center;
 }
 
-.advice {
+.tanishadavey-advice {
   color: #003333;
   font-family: 'Titillium Web', sans-serif;
   font-size: 18px;
 }
 
-.advice h4 {
-  color: #0d4d4d;
+.tanishadavey-advice h4 {
+  color: #00ff00;
   font-size: 24px;
 }
 
-.advice p {
+.tanishadavey-advice p {
   line-height: 22px;
 }
 
@@ -12647,7 +12646,7 @@ margin-top: 30px;
   float: right;
   padding-top: 30px;
 }
-  
+
 .philm-advice main{
   clear: both;
 }
