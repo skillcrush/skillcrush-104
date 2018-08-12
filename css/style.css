@@ -1,5 +1,27 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/** AMARA'S ADVICE**/
+.amaramyricks-advice{
+  font-family: 'Century Gothic', sans-serif;
+  font-size: 20px;
+}
+
+.amaramyricks-advice h1{
+  font-size: 32px;
+}
+
+.amaramyricks-advice h4{
+  color:	#FF1493;
+  font-size: 30px;
+}
+
+.amaramyricks-advice copyright{
+  color: pink;
+  font-family: 'Century Gothic', sans-serif;
+  padding: 20px;
+}
+
+
 /****** MACKAYLA'S ADVICE*****/
 .mackaylavan-advice{
   background: #ebd0fd;
