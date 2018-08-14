@@ -1,21 +1,43 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
-/****** MACKAYLA'S ADVICE*****/ 
+/** AMARA'S ADVICE**/
+.amaramyricks-advice{
+  font-family: 'Century Gothic', sans-serif;
+  font-size: 20px;
+}
+
+.amaramyricks-advice h1{
+  font-size: 32px;
+}
+
+.amaramyricks-advice h4{
+  color:	#FF1493;
+  font-size: 30px;
+}
+
+.amaramyricks-advice copyright{
+  color: pink;
+  font-family: 'Century Gothic', sans-serif;
+  padding: 20px;
+}
+
+
+/****** MACKAYLA'S ADVICE*****/
 .mackaylavan-advice{
   background: #ebd0fd;
-  padding: 80px; 
+  padding: 80px;
 
 }
 
 .mackaylavan-advice h1{
-  font-family: 'Quicksand', sans-serif; 
+  font-family: 'Quicksand', sans-serif;
   text-align: center;
 }
 .mackaylavan-advice h4{
-  font-family: 'Quicksand', sans-serif; 
+  font-family: 'Quicksand', sans-serif;
   text-align: center;
   text-decoration: underline;
-  padding: 20px; 
+  padding: 20px;
   color: #000000;
 }
 
@@ -121,18 +143,18 @@ font-size: 24px;
   text-align: center;
 }
 
-.advice {
+.tanishadavey-advice {
   color: #003333;
   font-family: 'Titillium Web', sans-serif;
   font-size: 18px;
 }
 
-.advice h4 {
-  color: #0d4d4d;
+.tanishadavey-advice h4 {
+  color: #00ff00;
   font-size: 24px;
 }
 
-.advice p {
+.tanishadavey-advice p {
   line-height: 22px;
 }
 
@@ -12558,6 +12580,56 @@ margin-top: 30px;
 
 /***** End Kai Rilliet's advice *****/
 
+/**** Blair's Advice *****/
+
+.blairglanville-advice {
+  background-color: #cce5ff;
+}
+
+.blairglanville-advice header {
+  text-align: center;
+  margin: auto;
+}
+
+.blairglanville-advice h1 {
+  color: #260d0d;
+  font-size: 28px;
+  font-weight: lighter;
+  padding-top: 30px;
+  font-family: 'Roboto Slab', serif;
+  text-transform: inherit;
+}
+
+.blairglanville-advice div {
+  height: 650px;
+  margin: auto;
+  text-align: left;
+  width: auto;
+  padding: 10px 80px;
+}
+
+.blairglanville-advice h4 {
+  font-family: 'Open Sans Condensed', serif;
+  font-size: 24px;
+  color: #2e3838;
+  text-transform: inherit;
+  font-weight: normal;
+  text-transform: lowercase;
+}
+
+.blairglanville-advice p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  color: darkslategray;
+  text-align: justify;
+}
+
+.blairglanville-advice footer p{
+  font-family: 'Roboto Slab', serif;
+  color: #cc3342;
+  font-weight: bold;
+}
+
 /***** Rich D's Advice *****/
 
 .richdwyer-advice {
@@ -12647,7 +12719,7 @@ margin-top: 30px;
   float: right;
   padding-top: 30px;
 }
-  
+
 .philm-advice main{
   clear: both;
 }
