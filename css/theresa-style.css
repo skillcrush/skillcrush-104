@@ -1,0 +1,21 @@
+body.theresa-advice {
+    width: 96%;
+    margin: auto;
+    font-family: 'Unna', serif;
+    font-size: 16px;
+    background-color: powderblue;
+}
+
+header a {
+  color: blue;
+  font-weight: bold;
+}
+
+span {
+  font-family: 'Unna';
+  font-size: 30px;
+}
+
+footer {
+  font-weight: lighter;
+}
