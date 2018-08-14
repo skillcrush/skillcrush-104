@@ -1613,11 +1613,38 @@ text-align: center;
 	font-size: 12px;
 }
 
-
-
-
-
 /******End of katistewart's STYLE/
+
+/**** Kelly Burgess Style ********/
+.kellyburgess-advice {
+  font-family: 'PT Sans', sans-serif;
+  background: #F4ACB7; 
+
+}
+
+.kellyburgess-advice header h1 {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: none;
+}
+.kellyburgess-advice h4 {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: left;
+  text-transform: Capitalize;
+}
+
+.kellyburgess-advice p {
+  font-size: 12px;
+
+}
+
+.kellyburgess-advice footer {
+  font-size: 10px;
+
+}
 
 
 /****** robopingvin's STYLE********/
