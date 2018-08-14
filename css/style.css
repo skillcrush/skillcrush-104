@@ -1,5 +1,46 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+
+/**** EBONI B's ADVICE ****/
+
+.eboni-b-advice{
+  background-color: #182952;
+}
+
+.eboni-b-advice h1{
+  color: #e14594;
+  font-family: 'Permanent Marker';
+  font-size: 40px;
+  text-align:left;
+}
+
+.eboni-b-advice h4{
+  color:	violet;
+  font-size: 34px;
+  font-family: 'Permanent Marker';
+  text-align:left;
+}
+
+.eboni-b-advice footer{
+  color: grey;
+  font-family: 'Century Gothic', sans-serif;
+  padding: 20px;
+}
+
+.eboni-b-advice p{
+  font-family:'east sea dokdo', sans-serif;
+  font-size: 34px;
+  color: ghostwhite;
+  font-weight:lighter;
+}
+
+.eboni-b-copyright{
+  font-family:sans-serif;
+font-size:16px;
+}
+
+.eboni-b-span{color:white;
+}
 /** AMARA'S ADVICE**/
 .amaramyricks-advice{
   font-family: 'Century Gothic', sans-serif;
