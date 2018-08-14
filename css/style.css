@@ -1,4 +1,37 @@
-/** Add a comment at the beginning of your CSS styles with your name**/
+/** MEGAN'S ADVICE**/
+.megans-advice {
+    background-color: gainsboro;
+}
+
+.megans-advice header{
+  background-color: lightsteelblue;
+  padding: 30px;
+}
+
+.megans-advice h1{
+  color: DarkSlateGray;
+  font-family: 'Verdana',sans-serif;
+ font-size: 24px;
+ text-align: center;
+}
+
+.megans-advice h4{
+ color: DarkSlateGray;
+ font-family: 'Verdana',sans-serif;
+ font-size: 20px;
+}
+
+.megans-advice p{
+  font-size: 18px;
+  padding-right: 200px;
+  padding-left: 200px;
+  text-align: left;
+}
+
+.megans-advice footer{
+  background-color: lightsteelblue;
+  padding-top: 400px;
+}
 
 /** AMARA'S ADVICE**/
 .amaramyricks-advice{
