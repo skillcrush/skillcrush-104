@@ -12745,3 +12745,23 @@ margin-top: 30px;
   margin: 50px 0 0 10px;
   font-size: 8px;
 }
+
+
+/***** Kayla W's Advice *****/
+
+.kaylaw-advice h1 {
+  font-family: 'Jua', sans-serif;
+  font-size: 48px;
+  text-align: center;
+}
+
+.kaylaw-advice h4 {
+  font-family: 'Jua', sans-serif;
+  font-size: 28px;
+}
+
+.kaylaw-advice p {
+  font-family: 'Muli', serif;
+  font-size: 18px;
+  line-height: 23px;
+}
