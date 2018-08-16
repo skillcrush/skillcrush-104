@@ -1,0 +1,88 @@
+/******grid******/
+
+.michelebrown-advice {
+    width: 1200px; 
+    margin: 0 auto; 
+}
+
+#tenacity, #frustration {
+    width: 580px; 
+    float: left; 
+}
+header {
+    height: 200px;
+}
+
+/*****header and section styles*****/
+
+.michelebrown-advice {
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    background: #d9b3ff; 
+    border: 2px solid #330066; 
+    font-family: 'Corben', cursive; 
+}
+
+header a {
+    text-decoration: none; 
+    font-weight: bold;
+    font-size: 14px; 
+    letter-spacing: 2px; 
+}
+
+h1 {
+    font-size: 40x;
+    font-weight: bold; 
+    text-align: center; 
+}
+
+.advice {
+    font-family: 'Open Sans', sans-serif;
+    background: #f2e6ff;
+    height: 450px; 
+    border: 2px solid #330066; 
+}
+
+#tenacity h4 {
+    font-size: 20px; 
+    font-weight: bold; 
+    text-align: center; 
+    padding-right: 20px; 
+    font-family: 'Corben', cursive; 
+}
+
+#tenacity p {
+    font-size: 16px; 
+    text-align: left; 
+    font-weight: normal; 
+    padding-left: 20px; 
+    padding-right: 20px; 
+}
+
+#frustration h4 {
+    font-size: 20px; 
+    font-weight: bold; 
+    text-align: center; 
+    font-family: 'Corben', cursive; 
+}
+
+#frustration p {
+    font-size: 16px; 
+    text-align: left; 
+    font-weight: normal; 
+    padding-left: 40px;  
+}
+
+
+/*****footer styles*****/
+
+footer {
+    background: #ffffff;
+    text-align: center; 
+    font-size: 14px; 
+    font-weight: bold; 
+    padding-left: 20px; 
+    padding-top: 20px; 
+}
