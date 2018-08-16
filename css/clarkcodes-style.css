@@ -1,0 +1,42 @@
+/*HEADER*/
+
+body {
+	background: cornflowerblue;
+}
+
+header h1 {
+	font-family: "Verdana", sans-serif;
+	text-align: center;
+}
+
+
+/*IMAGE*/
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+/*ADVICE SECTION*/
+
+.advice h4 {
+	font-family: "Arial", sans-serif;
+	font-size: 24px;
+	padding: 5px 5px 5px 5px;
+	text-align: center;
+}
+
+.advice p {
+	font-family: "Helvetica", sans-serif;
+	margin: 30px 80px;
+	padding: 5px 5px 5px 5px;
+	text-align: center;
+}
+
+/*FOOTER*/
+
+footer p {
+	text-align: center;
+}
