@@ -1,0 +1,24 @@
+/***** TANYA CHEEK'S ADVICE *****/
+.tanya-cheek-advice {
+  background: #0000ff;
+  font-family: 'Hanalei Fill', cursive;
+  }
+.tanya-cheek-advice h1 {
+  font-size: 72px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #000080;
+  }
+.tanya-cheek-advice h4 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 40px;
+  color: #00ff00;
+    }
+.tanya-cheek-advice p {
+  color: #ff00aa;
+  font-size: 36px;
+}
+.home{
+  color: #ff0000;
+}
