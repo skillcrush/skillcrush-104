@@ -1,3 +1,41 @@
+/**LB'S ADVICE**/
+.laurenbench-advice {
+  background-color: #EDE9F5;
+  font-family: 'Playfair Display', serif;
+  font-weight: 400;
+  font-size: 16pt;
+  color: black;
+  text-align: center;
+  padding: 100px;
+}
+
+.laurenbench-advice a {
+  color: white;
+}
+.laurenbench-advice h1 {
+  color: #DDCDE2;
+  font-family: 'Playfair Display', serif;
+  font-weight: 400;
+  font-size: 20pt;
+  letter-spacing: normal;
+  text-transform: none;
+  padding: 100 0 0 0px;
+}
+
+.laurenbench-advice h4 {
+  color: black;
+  font-size: 40pt;
+  font-weight: 900;
+}
+
+.laurenbench-advice footer p {
+  font-size: 12pt;
+  color: #DDCDE2;
+  padding: 100px;
+}
+/**LB ADVICE END**/
+
+
 /* RICHROKS' ADVICE */
 .richroks-advice {
   background-color: #FAFAFA;
