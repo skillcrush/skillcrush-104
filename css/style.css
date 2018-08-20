@@ -1,4 +1,30 @@
-/** Add a comment at the beginning of your CSS styles with your name**/
+/***** Katesimone's Advice *****/
+.katesimone-advice {
+  background-color: #708090;
+  font-family: 'Asap', sans-serif;
+  font-size: 18px;
+  color: #ffffff;
+  padding: 20px;
+}
+.katesimone-advice header {
+  font-family: 'Abril Fatface', cursive;
+  text-align: center;
+  color: #ffffff;
+  word-spacing: -2px;
+  letter-spacing: -1px;
+  padding: 20px;
+}
+.katesimone-advice h4 {
+  color: #ffffff;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 20px;
+  letter-spacing: 3px;
+}
+.katesimone-advice p {
+  text-align: justify;
+  border-top: 1px solid #ffffff;
+}
+
 /***** ELENA'S ADVICE *****/
 .elena-advice {
     width: 1200px;
@@ -77,6 +103,7 @@
   padding: 100px;
 }
 /**LB ADVICE END**/
+>>>>>>> master
 
 /* RICHROKS' ADVICE */
 .richroks-advice {
