@@ -1,3 +1,4 @@
+<<<<<<< HEAD:css/anton-style.css
 /** Add a comment at the beginning of your CSS styles with your name**/
 /** Anton's Advice **/
 body .antonlo-advice {  
@@ -17,8 +18,116 @@ header {
 
 /** Weber **/
 body {
+=======
+/** MEGAN'S ADVICE**/
+.megans-advice {
+    background-color: gainsboro;
+}
+
+.megans-advice header{
+  background-color: lightsteelblue;
+  padding: 30px;
+}
+
+.megans-advice h1{
+  color: DarkSlateGray;
+  font-family: 'Verdana',sans-serif;
+ font-size: 24px;
+ text-align: center;
+}
+
+.megans-advice h4{
+ color: DarkSlateGray;
+ font-family: 'Verdana',sans-serif;
+ font-size: 20px;
+}
+
+.megans-advice p{
+  font-size: 18px;
+  padding-right: 200px;
+  padding-left: 200px;
+  text-align: left;
+}
+
+.megans-advice footer{
+  background-color: lightsteelblue;
+  padding-top: 400px;
+}
+
+/** AMARA'S ADVICE**/
+.amaramyricks-advice{
+  font-family: 'Century Gothic', sans-serif;
+  font-size: 20px;
+}
+
+.amaramyricks-advice h1{
+  font-size: 32px;
+}
+
+.amaramyricks-advice h4{
+  color:	#FF1493;
+  font-size: 30px;
+}
+
+.amaramyricks-advice copyright{
+  color: pink;
+  font-family: 'Century Gothic', sans-serif;
+  padding: 20px;
+}
+
+
+/****** MACKAYLA'S ADVICE*****/
+.mackaylavan-advice{
+  background: #ebd0fd;
+  padding: 80px;
+
+}
+
+.mackaylavan-advice h1{
+  font-family: 'Quicksand', sans-serif;
+  text-align: center;
+}
+.mackaylavan-advice h4{
+  font-family: 'Quicksand', sans-serif;
+  text-align: center;
+  text-decoration: underline;
+  padding: 20px;
+  color: #000000;
+}
+
+.mackaylavan-advice p{
+  font-family: 'Quicksand', sans-serif;
+}
+
+
+/*****WEBER'S ADVICE*****/
+.maria-wright-advice body {     /* added the class so that this person's body properties wouldn't impact ALL other pages  PSM */
+>>>>>>> master:css/style.css
   background-color: #fbf5e0;
   margin: 0px;
+}
+/* Maria Wright's Advice */
+.maria-wright-advice {
+  background-color: #fff;
+  font-family: Lato, sans-serif !important;
+  letter-spacing: normal;
+}
+
+.maria-wright-advice h1 {
+  font-family: Lato, sans-serif !important;
+  letter-spacing: normal;
+  text-align: center;
+}
+
+.maria-wright-advice h4 {
+  font-family: Lato, sans-serif !important;
+  letter-spacing: normal;
+  text-align: center;
+}
+
+.maria-wright-advice p {
+  font-family: Lato, sans-serif;
+  padding: 0 100px;
 }
 .weber-advice h1 {
   color: #595959;
@@ -89,18 +198,18 @@ font-size: 24px;
   text-align: center;
 }
 
-.advice {
+.tanishadavey-advice {
   color: #003333;
   font-family: 'Titillium Web', sans-serif;
   font-size: 18px;
 }
 
-.advice h4 {
-  color: #0d4d4d;
+.tanishadavey-advice h4 {
+  color: #00ff00;
   font-size: 24px;
 }
 
-.advice p {
+.tanishadavey-advice p {
   line-height: 22px;
 }
 
@@ -1526,11 +1635,38 @@ text-align: center;
 	font-size: 12px;
 }
 
-
-
-
-
 /******End of katistewart's STYLE/
+
+/**** Kelly Burgess Style ********/
+.kellyburgess-advice {
+  font-family: 'PT Sans', sans-serif;
+  background: #F4ACB7; 
+
+}
+
+.kellyburgess-advice header h1 {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: none;
+}
+.kellyburgess-advice h4 {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: left;
+  text-transform: Capitalize;
+}
+
+.kellyburgess-advice p {
+  font-size: 12px;
+
+}
+
+.kellyburgess-advice footer {
+  font-size: 10px;
+
+}
 
 
 /****** robopingvin's STYLE********/
@@ -12526,6 +12662,56 @@ margin-top: 30px;
 
 /***** End Kai Rilliet's advice *****/
 
+/**** Blair's Advice *****/
+
+.blairglanville-advice {
+  background-color: #cce5ff;
+}
+
+.blairglanville-advice header {
+  text-align: center;
+  margin: auto;
+}
+
+.blairglanville-advice h1 {
+  color: #260d0d;
+  font-size: 28px;
+  font-weight: lighter;
+  padding-top: 30px;
+  font-family: 'Roboto Slab', serif;
+  text-transform: inherit;
+}
+
+.blairglanville-advice div {
+  height: 650px;
+  margin: auto;
+  text-align: left;
+  width: auto;
+  padding: 10px 80px;
+}
+
+.blairglanville-advice h4 {
+  font-family: 'Open Sans Condensed', serif;
+  font-size: 24px;
+  color: #2e3838;
+  text-transform: inherit;
+  font-weight: normal;
+  text-transform: lowercase;
+}
+
+.blairglanville-advice p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  color: darkslategray;
+  text-align: justify;
+}
+
+.blairglanville-advice footer p{
+  font-family: 'Roboto Slab', serif;
+  color: #cc3342;
+  font-weight: bold;
+}
+
 /***** Rich D's Advice *****/
 
 .richdwyer-advice {
@@ -12556,4 +12742,108 @@ margin-top: 30px;
   border: 3px silver solid;
   width: 600px;
   margin: auto;
+}
+
+/***** Aislinn Hall's Advice *****/
+
+.aislinnhall-advice {
+  background: #f9f9f9;
+}
+
+.aislinnhall-advice h1 {
+  font-family: Helvetica;
+  text-align: center;
+  color: #879100;
+  font-size: 26px;
+  text-transform: capitalize;
+}
+
+.aislinnhall-advice h4 {
+  color: #45505e;
+  font-family: monospace;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+.aislinnhall-advice p {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: #3c4f68;
+}
+
+.aislinnhall-advice div {
+  width: 900px;
+  margin: 0 auto;
+  background-color: white;
+  padding: 0px 10px 0px 10px;
+}
+
+.aislinnhall-advice footer p {
+  color: #879100;
+  font-family: sans-serif;
+  font-size: 14px;
+  text-align: center;
+}
+
+/***** Phil M Style *****/
+.philm-advice{
+  font-family: "Roboto", sans-serif;
+  background: #c9d8c5;
+ }
+
+.philm-advice h1{
+  font-size: 35px;
+  float: left;
+  letter-spacing: normal;
+  }
+
+.philm-advice #go-back{
+  float: right;
+  padding-top: 30px;
+}
+
+.philm-advice main{
+  clear: both;
+}
+
+.philm-advice h4{
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #191970;
+  text-align: left;
+}
+
+.philm-advice ul{
+  margin: 25px 0 50px 0;
+}
+
+.philm-advice strong{
+  font-weight: bolder;
+  color: #ff4500;
+}
+
+.philm-advice footer{
+  margin: 50px 0 0 10px;
+  font-size: 8px;
+}
+
+
+/***** Kayla W's Advice *****/
+
+.kaylaw-advice h1 {
+  font-family: 'Jua', sans-serif;
+  font-size: 48px;
+  text-align: center;
+}
+
+.kaylaw-advice h4 {
+  font-family: 'Jua', sans-serif;
+  font-size: 28px;
+}
+
+.kaylaw-advice p {
+  font-family: 'Muli', serif;
+  font-size: 18px;
+  line-height: 23px;
 }
