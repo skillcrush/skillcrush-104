@@ -13013,3 +13013,24 @@ margin-top: 30px;
   font-size: 18px;
   line-height: 23px;
 }
+
+/***** ELIZABETHHOGUE-ADVICE *****/
+
+.elizabethhogue-advice {
+    background-color: tan;
+}
+.elizabethhogue-advice h1 {
+    font-family: 'Arial';
+    text-align: left;
+    font-size: 30px;
+    color: pink;
+    letter-spacing: 0px;
+    text-transform: uppercase;
+}
+
+.elizabethhogue-advice h4 {
+    font-family: 'Calibri';
+    font-size: 25px;
+    text-align: left;
+    color: gold;
+}
