@@ -1,31 +1,82 @@
-/***** Katesimone's Advice *****/
-.katesimone-advice {
-  background-color: #708090;
-  font-family: 'Asap', sans-serif;
-  font-size: 18px;
-  color: #ffffff;
-  padding: 20px;
+/** Add a comment at the beginning of your CSS styles with your name**/
+/***** ELENA'S ADVICE *****/
+.elena-advice {
+    width: 1200px;
+    padding-top: 50px 250px;
+    text-align: center;
+    margin: auto;
+    font-family: 'Montserrat', sans-serif;
 }
-.katesimone-advice header {
-  font-family: 'Abril Fatface', cursive;
+
+.elena-advice h1 {
+    font-size: 20px;
+    font-style: italic;
+    text-transform: capitalize;
+    padding-top: 20px;
+}
+
+.elena-advice span {
+    font-style: italic;
+    font-size: 14px;
+    color: #5c5c8a;
+}
+
+.elena-advice section {
+    padding: 25px 100px;
+    border: 3px dotted black;
+}
+
+.elena-advice section h4 {
+    color: black;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.elena-advice p {
+    font-size: 14px;
+    color: #5c5c8a;
+}
+
+.elena-advice footer p {
+    color: gray;
+}
+
+/**LB'S ADVICE**/
+.laurenbench-advice {
+  background-color: #EDE9F5;
+  font-family: 'Playfair Display', serif;
+  font-weight: 400;
+  font-size: 16pt;
+  color: black;
   text-align: center;
-  color: #ffffff;
-  word-spacing: -2px;
-  letter-spacing: -1px;
-  padding: 20px;
-}
-.katesimone-advice h4 {
-  color: #ffffff;
-  font-family: 'Abril Fatface', cursive;
-  font-size: 20px;
-  letter-spacing: 3px;
-}
-.katesimone-advice p {
-  text-align: justify;
-  border-top: 1px solid #ffffff;
+  padding: 100px;
 }
 
+.laurenbench-advice a {
+  color: white;
+}
+.laurenbench-advice h1 {
+  color: #DDCDE2;
+  font-family: 'Playfair Display', serif;
+  font-weight: 400;
+  font-size: 20pt;
+  letter-spacing: normal;
+  text-transform: none;
+  padding: 100 0 0 0px;
+}
 
+.laurenbench-advice h4 {
+  color: black;
+  font-size: 40pt;
+  font-weight: 900;
+}
+
+.laurenbench-advice footer p {
+  font-size: 12pt;
+  color: #DDCDE2;
+  padding: 100px;
+}
+/**LB ADVICE END**/
 
 /* RICHROKS' ADVICE */
 .richroks-advice {
