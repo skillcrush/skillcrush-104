@@ -1,0 +1,79 @@
+/*************** THIENAN'S ADVICE - START ***************/
+/**************************
+ Creator: ThienAn Gillespie
+ Last edit: 2018 08 10
+**************************/
+
+/*** NOTES ***/
+/*font-family: 'Euphoria Script', cursive;*/
+
+/*** BODY ***/
+.thienan-advice {
+  background-color: #ffffff;
+  color: #4d4d4d;
+  font-family: Arial;
+}
+
+.thienan-advice div {
+  margin: 0 auto;
+  width: 1200px;
+}
+
+.thienan-advice a {
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.thienan-advice h4 {
+  color:#333333;
+  font-size: 1.1em;
+  text-transform: uppercase;
+}
+
+.thienan-advice strong {
+  color: #333333;
+  font-family: 'Euphoria Script', cursive;
+  font-size: 1.5em;
+}
+
+/*** HEADER ***/
+.thienan-advice header {
+  background-color: #f2f2f2;
+  padding: 10px 35px 10px 35px;
+}
+
+.thienan-advice nav {
+  float: right;
+  font-size: 1em;
+  margin: 25px auto;
+}
+
+.thienan-advice header h1 {
+  float: left;
+}
+
+.thienan-advice header h2 {
+  clear: both;
+}
+
+/*** SECTION ***/
+.thienan-advice .half-width {
+  float: left;
+  font-size: 1.1em;
+  margin: 0 auto;
+  padding: 5px 50px 5px 20px;
+  text-align: justify;
+  width: 500px;
+}
+
+/*** FOOTER ***/
+.thienan-advice footer {
+  background-color: #f2f2f2;
+  clear: both;
+  font-size: 0.9em;
+  padding: 10px 0 10px 0;
+  text-align: center;
+}
+
+
+/*************** THIENAN'S ADVICE - END ***************/
