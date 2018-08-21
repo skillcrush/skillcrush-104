@@ -1,0 +1,155 @@
+@charset "UTF-8";
+/* CSS Document */
+/* GENERAL ******************************/
+body{
+	margin: 0;
+	padding: 0;
+ 	font-family: 'Questrial', sans-serif;
+}
+div{
+	position: relative;
+}
+h1{
+    font-family: 'Questrial', sans-serif;
+    color: white;
+    font-size: 130px;
+    line-height: 140px;
+    margin-top: 50px;
+	text-shadow: 4px 3px 0px #009688, 9px 8px 0px rgba(0, 0, 0, 0.15);
+}
+h2{
+    font-family: 'Questrial', sans-serif;
+    color: #b2dfdb;
+    font-size: 50px;
+    line-height: 150px;
+    font-weight: 800;
+    margin-top: -100px;
+    margin-left: 10px;
+}
+h3{
+	font-size: 35px;
+	line-height: 45px;
+}
+.indent{
+	color: #ff9800;
+	font-size: 100px;
+}
+p{
+	color: #212121;
+	font-size: 16px;
+	line-height: 24px;
+}
+#pageHolder{
+	width: 1000px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+}
+/* NAV ******************************/
+header{
+	background-color: #009688;
+	height: 570px;
+}
+.nav{
+	height: 50px;
+	width: 1000px;
+	background-color: #00796b;
+}
+.back_btn{
+	height: 50px;
+	width: 180px;
+	z-index: 20;
+	text-align: center;
+	}
+header .nav .back_btn a{
+	color: white;
+	text-decoration: none;
+	margin-left: 10px;
+	font-size: 16px;
+	line-height: 50px;
+	display: block;
+	padding: 0 10px;
+}
+header a:hover{
+	background-color: #ff9800;
+}
+/* CONTENT ******************************/
+.row{
+	width: 1000px;
+	height: auto;
+	margin: 20px 0;
+	display: inline-block;
+}
+.col_indent{
+	width: 40px;
+	height: 100px;
+	float: left;
+	margin-top: -50px;
+}
+.col_l_container{
+	width: 400px;
+	float: left;
+	margin-left: 10px;
+}
+.col_l_big{
+	width: 370px;
+	float: left;
+}
+.col_l_small{
+	width: 20px;
+    height: 40px;
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 127px;
+    right: 0;
+    margin-right: 30px;
+}
+.col_r{
+	width: 530px;
+	float: left;
+	margin-left: 10px;
+	padding-top: 20px;
+}
+/* FOOTER ******************************/
+.clear_both{
+	width: 1000px;
+	height: 30px;
+	clear: both;
+}
+footer{
+	position: absolute;
+	margin-bottom: 0;
+	width: 1000px;
+	height: 70px;
+	color: #b6b6b6;
+	line-height: 70px;
+}
+footer a{
+	text-decoration: none;
+	color: white;
+}
+/* BACKGROUND ******************************/
+#header_bg_top{
+	position: absolute;
+	width: 100vw;
+	height: 50px;
+	top: 0px;
+	background-color: #00796b;
+	z-index: -9;
+}
+#header_bg{
+	position: absolute;
+	width: 100vw;
+	height: 570px;
+	top: 0px;
+	background-color: #009688;
+	z-index: -10;
+}
+#footer_bg{
+	position: absolute;
+	margin-bottom: 0;
+	width: 100vw;
+	height: 70px;
+	background-color: #727272;
+	z-index: -11;
+}
