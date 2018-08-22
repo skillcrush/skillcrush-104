@@ -1,0 +1,85 @@
+/* Greetings & best wishes to you, intrepid traveller */
+/* seg-advice.html has some bootstrap action too */
+
+header {
+	font-family: 'orbitron';
+	font-size: 14px;
+	padding: 10px;
+}
+
+
+	body {
+margin: 30px;
+background-color:#ff9966;
+background-size:100px 100px;
+}
+
+h1 {
+color:white;
+font-size: 40px;
+text-transform: uppercase;
+font-family: 'shadows into light';
+text-shadow: 1px 1px 2px rgba(93, 93, 93, 1);
+float: right;
+letter-spacing: 2px;
+
+}
+h4 {
+	font-family: 'orbitron';
+	font-weight: bold;
+	font-size: 20px;
+	overflow: auto;
+	width: 100%;
+	text-transform: uppercase;
+	    letter-spacing: 1px;
+
+}
+p {
+	font-family: 'amatic SC';
+	font-size: 22px;
+	letter-spacing: 1px;
+			text-align: justify;
+
+}
+
+.quote {
+font-family: 'shadows into light';
+font-weight: lighter;
+letter-spacing: 1px;
+color: white;
+font-size: 20px;
+float: inherit;
+padding: 10px;
+		text-align: center;
+
+}
+
+@media (min-width: 768px) {
+	body {
+		background-color: lightblue;
+	}
+}
+
+@media (min-width: 1200px) {
+	body {
+		background-color: tomato;
+	}
+	p {
+		float: left;		
+		font-size: 25px;
+		columns: 2;
+	}
+	h4 {
+		font-size: 25px;
+		padding-top: 20px;
+	}
+	h1 {
+		font-size: 50px;
+		align-content: center;
+	}
+	.quote {
+		font-size: 22px;
+
+	}
+ }
+}

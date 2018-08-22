@@ -1,0 +1,80 @@
+body {
+	background: #eee;
+	font-family: "myriad pro", sans-serif;
+}
+
+header a.back {
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	text-decoration: none;
+	color: #fff;
+	background: yellowgreen;
+	padding: 10px 12px;
+	border-radius: 4px;
+	font-size: 14px;
+	box-shadow: 0 2px 0 #7F8B6A;
+	font-weight: bold;
+	text-shadow: 0 1px 1px #aaa;
+}
+
+header a:hover {
+	background: #7FAF1F;
+}
+
+header h1 {
+	text-align: center;
+	margin-top: 100px;
+	color: #333;
+}
+
+section {
+	width: 1000px;
+	margin: 0 auto;
+	background: #fff;
+	padding: 20px;
+	border-radius: 4px;
+	box-shadow: 0 2px 1px #ddd;
+}
+
+footer {
+	padding: 20px;
+	text-align: center;
+	font-size: 20px;
+	color: #999;
+}
+
+.j00t33-advice p {
+	line-height: 1.7em;
+	font-size: 18px;
+	color: #666;
+	word-spacing: 5px;
+	margin-top: 20px;
+}
+
+.j00t33-advice h4{
+	color: #333;
+	font-size: 19px;
+}
+
+.j00t33-advice .img {
+	margin: 0 auto;
+	width: 300px;
+}
+
+.code {
+	font-family: "monospace", sans-serif;
+	font-size: 16px;
+	color: steelblue;
+	font-weight: bold;
+	background: #eee;
+	padding: 2px;
+}
+
+.name {
+	color: tomato;
+}
+
+.name:hover {
+	background: gold;
+}

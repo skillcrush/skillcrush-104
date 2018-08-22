@@ -1,0 +1,43 @@
+/** Add a comment at the beginning of your CSS styles with your name **/
+
+/**terenceou's Styles**/
+.terenceou-advice {
+	background-color: #fff;
+	color: #FF6666;
+	text-decoration: none;
+	font-family:'Open Sans', sans-serif;
+}
+
+.terenceou-advice a {
+	font-size: 10px;
+	text-decoration: none;
+	color: #000;
+	font-family:'Open Sans', sans-serif;
+	}
+
+.copyright {
+	font-size: 10px;
+	color: #000;
+	margin-top: 50px;
+	}
+
+.terenceou-advice h1 {
+	font-size: 22px;
+	margin: 30px;
+	}
+
+.terenceou-advice .advice h4 {
+	font-size: 16px;
+	color: teal;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin: 30px 20px 30px 70px;
+	}
+
+.terenceou-advice .advice p {
+	font-size: 14px;
+	text-align: justify;
+	margin: 30px;
+	}
+
+/**End terenceou's Styles**/

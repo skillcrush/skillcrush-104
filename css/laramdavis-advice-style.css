@@ -1,0 +1,34 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+.laramdavis-advice{
+  background-color: #b4c9cc;
+    font-family: Garamond;
+}
+
+a{
+  color: #2d494c;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+h1, h4, p{
+  text-align: center;
+}
+
+ h1 {
+  color: #383f40;
+  font-size: 45px;
+  }
+
+h4{
+  color: #2d494c;
+  font-size: 36px;
+}
+
+p{
+  color: #657173;
+  font-size: 24px;
+}
+
+.footer {
+  font-size: 18px;
+}

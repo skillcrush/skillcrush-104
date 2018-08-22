@@ -1,0 +1,59 @@
+.carolinap-advice {
+  background-color: #FEEAF2;
+  width: 900px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+h1 {
+	font-family: 'Ubuntu' , sans-serif;
+	font-size: 30px;
+	text-align: center;
+	color: #900C3F;
+	letter-spacing: 2px;
+}
+
+h4 {
+	font-family: 'Ubuntu' , sans-serif;
+	font font-size: 28px;
+	text-transform: uppercase;
+	color: #e84a5f;
+	letter-spacing: 2px;
+}
+
+p, li {
+	font-family: 'Ubuntu' , sans-serif;
+	color: #2a363b;
+	letter-spacing: 1px;
+	font-size: 16px;
+	line-height: 24px;
+}
+
+a {
+	color: #581845;
+	font-family: 'Ubuntu' , sans-serif;
+	text-transform: uppercase;
+}
+
+strong {
+	font-weight: 500;
+	color: #e84a5f;
+	letter-spacing: 1px;
+}
+
+em {
+	letter-spacing: 1px;
+}
+
+iframe {
+	padding: 10px;
+	border: dotted 5px #581845;
+	  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+footer {
+	text-align: center;
+}

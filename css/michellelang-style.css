@@ -1,0 +1,33 @@
+
+
+.michellelang-advice {
+  padding: 5%;
+  width: 80%;
+  margin: auto;
+  background-position: center;
+  background-color: gainsboro;
+  border: 2px steelblue dotted;
+}
+
+.michellelang-advice a {
+  color: black;
+}
+
+.michellelang-advice p {
+  color: maroon;
+}
+.michellelangadvice h1 {
+  font-family: Times;
+  text-align: center;
+  color: maroon
+}
+.michellelang-advice header {
+  font-family: arial;
+  text-align: center;
+  color: steelblue;
+}
+
+.michellelang-advice h4 {
+  font-family: arial;
+  color: maroon;
+}

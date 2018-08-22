@@ -1,0 +1,61 @@
+.jessf-advice * {
+  box-sizing: border-box;
+  color: #222;
+  color: #586877;
+}
+
+body.jessf-advice {
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+  background: #6A899C;
+}
+
+.jessf-advice .container {
+  width: 800px;
+  margin: 0 auto;
+  background: #C1E4FF;
+  padding: 20px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.7);
+}
+
+#intro h1,
+#intro h2,
+.jessf-advice h4 {
+  font-family: 'Happy Monkey', cursive;
+}
+
+#intro h1 {
+  font-size: 2.4em;
+  padding: 20px 0;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+#intro h2 {
+  margin-top: 10px;
+  font-size: 1.2em;
+}
+
+.jessf-advice h4 {
+  background: rgba(120, 142, 162, 0.5);
+  padding: 15px 0;
+  font-size: 1.8em;
+  margin: 20px 0;
+  font-variant: small-caps;
+}
+
+.tip:nth-child(2) {
+  margin: 80px 0;
+}
+
+.jessf-advice  p {
+  line-height: 1.6em;
+}
+
+section {
+  margin: 40px 0;
+}
+
+.centered-text {
+  text-align: center;
+}

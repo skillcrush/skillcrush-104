@@ -1,0 +1,26 @@
+/** Erin's Stylesheet**/
+
+.erinmccool-advice h1 {
+	color: #b30059;
+	font-family: 'Jaldi', sans-serif;
+	font-size: 40px;
+	font-weight: normal;
+}
+.erinmccool-advice h4 {
+	color: #9A12B3;
+	font-family: 'Jaldi', sans-serif;
+	font-size: 32px;
+}
+
+.erinmccool-advice p {
+	color: #674172;
+	font-family: 'Lato', sans-serif;
+	font-size: 20px;
+	text-align: center;
+}
+
+.erinmccool-advice .footer {
+	padding-top: 20px;
+	text-align: center;
+	text-size: 12px;
+}

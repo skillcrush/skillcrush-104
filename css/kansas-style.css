@@ -1,0 +1,133 @@
+body.kansas-advice {
+    width: 96%;
+    margin: auto;
+    font-family: 'Jura', sans-serif;
+    font-size: 16px;
+    background: #edf5e1;
+}
+ h1 span {
+   font-size: 50px;
+   color: #05386b;
+}
+.heart{
+  width: 180px;
+  height: 100px;
+  position: absolute;
+  top: 40%;
+  left: 35%;
+  background:#5cdb95;
+  transition: 1s;
+  transform-origin: right bottom;
+}
+.heart:before {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: #05386b;
+  transition: 2s;
+  transform-origin: right bottom;
+}
+.heart:hover  {
+  transform: rotate(45deg);
+  border-top-left-radius: 50px;
+  border-bottom-left-radius: 50px;
+}
+.heart:hover:before {
+  background: #5cdb95;
+  border-top-left-radius: 50px;
+  border-bottom-left-radius: 50px;
+  transform: rotate(450deg) translateY(100px);
+}
+.content {
+    min-height: 100%;
+    margin: auto;
+    background: #edf5e1;
+    padding: 10px;
+}
+.kansas-advice button {
+    background: #05386b;
+    border: none;
+    height: 30px;
+    box-shadow: 3px 3px #05386b;
+    outline: none;
+    cursor: pointer;
+}
+
+.kansas-advice button a {
+    text-decoration: none;
+    color: #5cdb95;
+    font-size: 14px;
+}
+
+.kansas-advice button a:hover {
+    color: #05386b;
+}
+
+.kansas-advice button:hover {
+    background: #5cdb95;
+    border: #05386b; 1px solid;
+}
+
+.kansas-advice h1,
+.kansas-advice h4,
+.kansas-advice button a {
+  font-family: 'Jura', sans-serif;
+}
+#largebox {
+    width: 825px;
+    background-color: #edf5e1;
+    height: 300px;
+    border: 0px;
+    padding:10px;
+    margin:0px;
+}
+#doubt {
+    height: 300px;
+    width: 250px;
+    background-color: #05386b;
+    float: left;
+    text-align: center;
+    box-shadow: 3px 3px #05386b;
+    color: #5cdb95;
+    outline: none;
+    cursor: pointer;
+}
+#doubt:hover {
+    color: #05386b;
+    background: #5cdb95;
+    border: #5cdb95 5px solid;
+}
+ #positivity {
+    height: 300px;
+    width: 250px;
+    background-color: #05386b;
+    float: left;
+    margin-left: 25px;
+    text-align: center;
+    box-shadow: 3px 3px #05386b;
+    color: #5cdb95;
+ }
+ #positivity:hover {
+   color: #05386b;
+   background: #5cdb95;
+   border: #5cdb95 5px solid;
+ }
+#google {
+    height: 300px;
+    width: 250px;
+    background-color: #05386b;
+    float: left;
+    margin-left: 25px;
+    text-align: center;
+    box-shadow: 3px 3px #05386b;
+    color: #5cdb95;
+}
+#google:hover {
+    color: #05386b;
+    background: #5cdb95;
+    border: #5cdb95 5px solid;
+}
+ #footer {
+    clear: both;
+  }

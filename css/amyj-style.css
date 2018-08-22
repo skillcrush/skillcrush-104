@@ -1,0 +1,15 @@
+body {
+  font-family: 'Work Sans', sans-serif;
+  background-color: pink;
+  color: #fff;
+  padding: 0px 200px;
+}
+
+h1, h4, a{
+  font-family: 'Quicksand', sans-serif;
+  color: #e91e63;
+}
+
+h4 {
+  font-size: 1.5em;
+}

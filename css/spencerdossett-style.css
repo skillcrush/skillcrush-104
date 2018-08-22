@@ -1,0 +1,33 @@
+/** Add a comment at the beginning of your CSS styles with your name **/
+
+/**spencerdossett-advice styles**/
+
+.spencerdossett-advice header {
+	background-color: tomato;
+	font-family: "Times New Roman", Times, serif;
+	color: white;
+	font-size: 20px;
+
+}
+.spencerdossett-advice a {
+	font-family: "Times New Roman",Times, serif;
+	color: Gainsboro;
+}
+.spencerdossett-advice p {
+	/*font-family: "Julius Sans One", sans-serif;*/
+	/*color: white;*/
+	font-weight: 200;
+	font-size: 16px;
+	text-align: justify;
+}
+.spencerdossett-advice div {
+	background-color: tomato;
+	box-shadow: 0.1em 0.1em 0.5em #2f3632;
+	padding: 32px;
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+	color: yellow;
+}
+
+/** end spencerdossett-advice styles**/

@@ -1,0 +1,26 @@
+.matthews-advice{
+	background: linear-gradient(to right, #ff00ff 25%, #33CCFF 37%,  #66FF33);
+	font-family: 'helvetica', helvetica, serif;
+	width: 75%;
+}
+.matthews-advice h1{
+	font-size: 2em;
+	color: white;
+}
+
+.matthews-advice h2{
+	font-size: 1.7em;
+	color: #F0F0F0;
+}
+
+.matthews-advice h4{
+	font-size: 1.4em;
+	color: white;
+}
+
+.matthews-advice div.advice p{
+	text-align: justify;
+	font-size: 1.3em;
+	color: white;
+	line-height: 1.7em;
+}

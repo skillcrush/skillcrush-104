@@ -1,0 +1,15 @@
+* {
+	background-color: pink;
+}
+
+.title {
+	text-align: center;
+}
+
+.advice {
+	margin-left:200px;
+	margin-right:200px;
+	margin-bottom:50px;
+	margin-top:80px;
+}
+

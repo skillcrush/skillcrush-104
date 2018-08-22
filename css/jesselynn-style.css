@@ -1,0 +1,26 @@
+header {
+	font-family: 'Indie Flower', cursive;
+	color: darkslategrey;
+	text-align: center;
+	border: solid 2px darkslategrey;
+}
+
+h4 {
+	font-family: 'Abril Fatface', cursive;
+	text-align: center;
+	color: darkmagenta;
+	font-size: 2em;
+}
+
+p {
+	padding: 5%;
+	font-size: 1.5em;
+	color: grey;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.footer {
+	color: grey;
+	font-family: 'Indie Flower', cursive;
+	font-size: 1em;
+}

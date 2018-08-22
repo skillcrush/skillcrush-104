@@ -1,0 +1,38 @@
+/** Add a comment at the beginning of your CSS styles with your name **/
+
+/* ann advice styling  */
+body{
+	color: Purple;
+	background-color: Black;
+	margin:0 auto;
+	width:800px;
+	font-family: 'Roboto', sans-serif;
+}
+
+a:link{
+	color: Purple;
+}
+
+a:visited {
+	color: Red;
+}
+
+
+.ann-advice h1{
+	font-size: 36px;
+	text-align:center;
+}
+
+.ann-advice h4 {
+	font-size: 22px;
+}
+
+.ann-advice p{
+	font-size: 16px;
+	padding: 0px 0px 0px 0px;
+}
+
+/**End ann **/
+
+
+

@@ -1,0 +1,31 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+.aaronsmith-advice h1 {
+	font-family: Garamond;
+	text-align: center;
+}
+
+.aaronsmith-advice h4 {
+	font-family: Garamond;
+	text-align: center;
+	color: IndianRed;
+	font-size: 36px;
+}
+
+.aaronsmith-advice p {
+	font-family: Garamond;
+	text-align: center;
+	font-size: 24px;
+}
+
+.aaronsmith-advice {
+	background-image: url('https://homeschoolcoach.files.wordpress.com/2012/11/marshmallow_checkerboard.jpg');
+	background-repeat: repeat;
+	background-position: left;
+}
+
+.aaronsmith-advice .footer p {
+	font-family: Garamond;
+	font-size: 18px;
+	text-align: left;
+}

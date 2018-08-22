@@ -1,0 +1,19 @@
+/*Tiffany L's Styles*/
+body {
+  background: #EFC1B4;
+}
+#tiffany{
+  font-family: 'Satisfy', cursive;
+}
+h1 {
+	color: #FF0000;
+	border: 2px dashed #525F82;
+}
+li {
+  color: rgb(100, 0, 100);
+}
+
+h4 {
+  background: rgb(255,100,80);
+  color: darkOrchid;
+}

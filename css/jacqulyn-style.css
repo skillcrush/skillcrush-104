@@ -1,0 +1,25 @@
+/** JACQULYN'S ADVICE **/
+
+.jacqulyn-advice body {
+      font-size: 16px;
+}
+
+.jacqulyn-advice h1 {
+      color: cadetblue;
+      font-family: Georgia;
+}
+
+.jacqulyn-advice h4 {
+      color: #f4b642;
+      font-family: Georgia;
+}
+
+.jacqulyn-advice p {
+      font-family: Arial;
+}
+
+.jacqulyn-advice footer {
+      font-family: Georgia;
+      color: #f4b642;
+      text-align: center;
+}

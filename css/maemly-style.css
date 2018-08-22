@@ -1,0 +1,34 @@
+body {
+  width: 900px;
+  font-family: 'Montserrat', sans-serif;
+
+}
+header {
+  height: 180px;
+  background-color: #F76565;
+}
+header h1 {
+  color: white;
+  font-weight: normal;
+  margin: 90px 0 10px 0px;
+}
+
+.advice {
+  margin-left: 100px;
+}
+
+footer {
+  border-top: solid 3px;
+  font-size: 12px;
+}
+
+#hidden {
+  display: none;
+  z-index: 0;
+  transform: translate(0, -100%);
+  margin-left: 100px;
+}
+
+#redH4 {
+  color: #F76565;
+}

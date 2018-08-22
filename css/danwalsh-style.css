@@ -1,0 +1,10 @@
+/** Add a comment at the beginning of your CSS styles with your name **/
+
+body.danwalsh-advice{
+  
+  color: #008080 /**FF4500**/ ;
+  font-family:'Helvetica', cursive;
+  font-size: 20px;
+  font-weight: bold;
+  background: url("http://imgur.com/WGMzWff.jpg") no-repeat fixed center / cover;
+ }

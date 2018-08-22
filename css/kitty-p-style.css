@@ -1,0 +1,33 @@
+
+
+.kitty-p-advice {
+	background-color: #cccccc;
+	font-family: Tahoma;
+}
+
+
+a {
+	border: 1px solid #ff0000;
+	color:#000000;
+	margin:0% 40%;
+}
+
+h1 {
+	border-bottom: 1px solid #ff0000;
+	text-align: center;
+}
+
+.script {
+	background-color: #ffffff;
+	border: 1px solid #ff0000;
+	padding: 1% 2%;
+	width:95%;
+}
+
+.script h3 {
+	text-align: center;
+}
+
+footer {
+	text-align: center;
+}

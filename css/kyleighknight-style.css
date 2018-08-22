@@ -1,0 +1,38 @@
+/*
+	Author: Kyleigh Knight
+	Date: 08.29.2016
+*/
+
+
+body{
+	background-color: lightblue;
+}
+
+h1{
+	font-family: "Lucida Console", Monaco, monospace;
+	font-weight: bold;
+	text-align: center;
+}
+
+h4{
+	font-family: "Lucida Console", Monaco, monospace;
+	text-indent: 2.25%;
+	font-weight: bold;
+	color: red;
+}
+
+p{
+	font-family:"Courier New", Courier, monospace;
+	text-indent: 2%;
+}
+
+img{
+	display: block;
+	margin: auto;
+	width: 35%;
+}
+
+footer {
+	font-size: 20%;
+	color: white;
+}

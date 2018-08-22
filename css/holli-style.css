@@ -1,0 +1,37 @@
+ h1 {
+font-family: Arial;
+font-size: 2em;
+text-align: left;
+}
+ 
+
+body {
+	background-color: #90C3D4;
+	color: white;
+
+}
+
+header {
+	font-family: Arial;
+
+}
+
+a {
+	text-decoration: none;
+	color: #DAE3D8;
+	font-size: .5em;
+}
+
+h4 {
+	font-style: italic;
+	font-size: 1.5em;
+	color: #DDF5D5;
+}
+
+p {
+	font-family: Arial;
+}
+
+footer {
+	font-size: .5em;
+}

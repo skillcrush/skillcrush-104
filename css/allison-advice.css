@@ -1,0 +1,65 @@
+a {
+	text-decoration: none;
+}
+
+/*  Header */
+
+header {
+	background-image: url("http://bgfons.com/upload/clouds_texture2900.jpg");
+	text-align: center;
+	background-size: cover;
+	height: 400px;
+	color: #000;
+}
+
+header a {
+	color: #3797d3;
+}
+
+header a:hover {
+	color: white;
+}
+
+
+.btext {
+	max-width: 500px;
+	margin: auto;
+	padding: 30px;
+}
+
+header h2 {
+	color: white;
+}
+
+/* Section */
+
+section {
+	max-width: 800px;
+	margin: auto;
+	padding: 30px;
+	text-align: center;
+}
+
+
+img {
+    max-width: 200px;
+}
+
+/* Footer */
+
+
+footer {
+   padding: 20px;
+   background-color: #45b7fe;
+   color: white;
+   height: 100px;
+   text-align: center;
+}
+
+footer a {
+	color: white;
+}
+
+footer a:hover {
+	color: #3797d3;
+}

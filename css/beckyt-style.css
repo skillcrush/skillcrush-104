@@ -1,0 +1,51 @@
+/*Becky T's Stylez*/
+
+.beckyt-advice p {
+  background-color: #66ccff;
+  font-family: 'Quicksand', sans-serif;
+  padding: 20px;
+  border: black solid 1px;
+  margin: 0;
+
+    /*
+    font-family: 'Josefin Sans', sans-serif;
+
+    font-family: 'Quicksand', sans-serif;
+
+    */
+
+}
+.beckyt-advice h1{
+  font-family: 'Josefin Sans', sans-serif;
+  font-variant: small-caps;
+  color: #66ccff;
+  background-color: indigo;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  border: #333366 solid 4px;
+  margin: 0;
+}
+
+.beckyt-advice h3 {
+  font-family: 'Quicksand', sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  background-color: #6666cc;
+  color: #99ffcc;
+  padding: 10px;
+  margin: 0;
+}
+.beckyt-advice h2 {
+  display: flex;
+  justify-content: flex-end;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #99ffcc;
+  border: #333366 solid 2px;
+  background-color: indigo;
+  padding: 10px;
+  margin: 0;
+  font-size: 16px;
+}

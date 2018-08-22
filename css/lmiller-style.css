@@ -1,0 +1,28 @@
+
+/** LUKE'S STYLES **/
+
+body {
+  font-family: 'Montserrat', serif;
+  font-size: 16px;
+  font-color: #222;
+  width: 960px;
+  margin: 0 auto;
+  padding: 30px;
+  background: #eee;
+}
+
+h1 {
+  color: #77a466;
+}
+
+h4 {
+  color: #77a467;
+  text-transform: uppercase;
+}
+
+a {
+  color: #039AFA;
+  font-weight: bold;
+  text-decoration: none;
+}
+

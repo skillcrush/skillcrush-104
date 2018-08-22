@@ -1,0 +1,22 @@
+body{
+	color: powderblue;
+	background-color: #555;
+	margin: 10%;
+	text-align: center;
+}
+
+
+h1{
+	font-size: 1.6rem;
+}
+
+h4 {
+	font-size: 1.2rem;
+}
+
+p {
+	font-size: 1rem;
+	padding: 0;
+}
+
+

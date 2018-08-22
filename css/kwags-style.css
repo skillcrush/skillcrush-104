@@ -1,0 +1,43 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+/* Kayla's Styles */
+.kwags-advice {
+  background-color: #494e6b;
+  color: white;
+  margin: 40px;
+}
+
+.kwags-advice h1{
+  font-family: 'Josefin Slab', serif;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  line-height: 1.25em;
+}
+
+.kwags-advice h4{
+  font-family: 'Raleway', sans-serif;
+  text-transform: uppercase;
+  font-weight: normal;
+  color: #8fd9ea;
+  font-size: 1.25em;
+  line-height: 2em;
+}
+
+.kwags-advice p{
+  font-family: 'Raleway', sans-serif;
+  color: white;
+}
+
+.kwags-advice span{
+  font-weight: 700;
+}
+
+.kwags-advice a{
+  font-size: .75em;
+  color: #98878f;
+  text-decoration: none;
+}
+
+.kwags-advice footer{
+  font-size: .75em;
+}

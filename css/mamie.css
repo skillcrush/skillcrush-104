@@ -1,0 +1,20 @@
+
+.mamie-advice h1 {
+	font-size:2em;
+	color: #006666
+
+}
+
+.mamie-advice h4 {
+	font-family: 'times', serif;
+  font-style: italic;
+	font-size: 12px;
+	color:##00004d;
+}
+
+.mamie-advice p {
+	font-family: 'Tahoma', sans-serif;
+	font-size:1em;
+	color: #007399;
+}
+/**End of Mamie's Styles**/

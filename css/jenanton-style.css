@@ -1,0 +1,47 @@
+/* Jennifer advice styles */
+
+/* Color palette
+dark gray:     	#22212F;
+light purple:	#958EB8;
+teal:			#46A6D8;
+hot pink:		#E63782;
+light pink: 	#F2B6D0;
+ */
+ 
+ body {
+ 	background-color: #958EB8;
+ }
+ 
+ h1 {
+ 	color: #22212F;
+ 	font-family:'Ceviche One', cursive;
+ 	font-size: 50px;
+ 	text-align: center;
+ }
+ 
+ h4 {
+ 	color: #E63782;
+ 	font-family: 'Ceviche One', cursive;
+ 	font-size: 30px;
+ }
+ 
+ p {
+ 	color: #22212F;
+ 	font-family: helvetica;
+ 	font-size: 20px;
+ }
+ 
+ footer {
+ 	padding: 20px;
+ 	text-align: center;
+ }
+ 
+ a {
+ 	color: #46A6D8;
+ 	text-decoration: none;
+ 	font-family: helvetica;
+ 	font-size: 16px;
+ }
+ 
+
+

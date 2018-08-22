@@ -1,0 +1,117 @@
+/*Colours:
+white #FBF9FB;
+yellow #F3BF49
+green #B9D4D4
+black #413F41*/
+/*link green #8BD3D3*/
+
+/*typefaces */
+
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Ubuntu'), url(https://fonts.gstatic.com/s/ubuntu/v9/zvCUQcxqeoKhyOlbifSAaevvDin1pK8aKteLpeZ5c0A.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+
+body {
+  background: #F3BF49;
+}
+
+#header {
+  background: #B9D4D4;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding-top: 15px;
+  padding-left: 15px;
+  /*overflow: auto;*/
+  text-align: center;
+  color:
+
+}
+
+
+
+#link {
+
+ color: #413F41;
+ font-family: 'Open Sans', sans-serif;
+
+
+
+}
+
+/*a:visited {
+    color: pink;
+}*/
+
+
+
+
+a:hover {
+  color: #F3BF49;
+}
+
+
+
+
+
+}
+h1, h2 {
+  /*display: inline;*/
+font-family: 'Ubuntu', sans-serif;
+
+
+}
+
+/*Main body*/
+
+#main-body {
+  background:#efefef;
+  width: 75%;
+  min-height: 600px;
+  color: #413F41;
+  margin-top: 140px;
+  padding-top: 24px;
+
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.main-text {
+  padding-left: 5%;
+  padding-right: 5%;
+  text-align: left;
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+#intro {
+  padding-left: 2%;
+}
+
+li {
+    padding-bottom: 15px;
+}
+#copyright {
+  color:#413F41;
+  font-family: 'Open Sans', sans-serif;
+
+
+}
+
+/*footer*/
+
+.footer {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+}

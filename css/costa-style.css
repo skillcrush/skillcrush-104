@@ -1,0 +1,24 @@
+/** Costa Style **/
+
+
+.header a {
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: .8em;
+}
+
+.header h1 {
+	font-family: 'Rock Salt', cursive;
+	font-size: 1.2em;
+}
+
+
+
+.yoda img {
+	width: 60%;
+
+}
+
+.footer p {
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: .5em;
+}

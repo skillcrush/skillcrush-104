@@ -1,0 +1,20 @@
+html {
+  font-family: Verdana, Geneva, sans-serif;
+  max-width: 900px;
+  background-color: #FFFFCC;
+  color: #663300;
+}
+
+h1 {
+  font-size: 1.4em;
+}
+
+p {
+  font-family: Georgia, serif;
+  color: #3D1F00;
+}
+
+a {
+  color: #CC3300;
+  text-decoration: none;
+}

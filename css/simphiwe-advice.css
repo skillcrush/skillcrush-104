@@ -1,0 +1,45 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+/*
+    ======================================
+    Simphiwe's advice stylesheet beging
+    ======================================
+*/
+.simphiwe-advice {
+    background-color: #D1CFB3;
+
+}
+
+h1 {
+    font-family: 'Lakki Reddy', sans-serif;
+    font-size: 35px;
+    text-align: center;
+    color: #1A7321;
+}
+
+h4 {
+    font-family: 'Taviraj', sans-serif;
+    font-size: 23px;
+    font-weight: bolder;
+    text-align: center;
+    color: #E8520C;
+}
+
+p {
+    font-family: 'Indie Flower', sans-serif;
+    font-size: 19px;
+    color: #810C4B;
+}
+
+footer p {
+    font-family: 'Lakki Reddy', sans-serif;
+    color: #1A7321;
+    text-transform: lowercase;
+    float: right;
+    clear: both;
+}
+
+/* 
+    ======================================
+    Simphiwe's avice stylesheet end
+    ======================================
+*/

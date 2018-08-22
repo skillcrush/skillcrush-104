@@ -1,0 +1,195 @@
+/* Cate's Advice Stylee CSS*/
+/* Global =============================================*/
+
+html {
+	height: 100%;
+}
+body {
+    display: flex;
+	font-family: 'Lato', sans-serif;
+	font-size: 1em;
+	width: 100%;
+	color: #1B3435;
+	margin: 0px;
+	flex-direction: column;
+	min-height: 100%;
+	align-items: flex-start;
+}
+p {
+	font-family: 'Lato', sans-serif;
+	margin-top: 0;
+}
+h1, 
+h2, 
+h3 {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #24787F;
+}
+h1 {
+	font-size: 2.5em;
+    margin-bottom: 0;
+    margin-top: 0.5em;
+}
+ h2 {
+	font-style: italic;
+	font-size: 1.5em;
+	margin-top: 0;
+	max-width: 300px;
+}
+.fill {
+	display: flex;
+	width: 100%;
+	min-height: 5px;
+	flex: 1;
+}
+
+/* Header =============================================*/
+.header-wrapper {
+	background-color: #F0B04D;
+	width: 100%;
+}
+.nav {
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 700;
+	font-size: 0.8em;
+	padding: 1em 0em;   
+    text-transform: uppercase;
+}
+	.nav a {
+		color: #333333;
+		text-decoration: none;
+	}
+		.nav a:hover {
+			color: red;
+	}
+
+/* Main =============================================*/
+
+.container {
+	display: flex;
+	flex-direction: column;
+	width: 94%;
+	margin: 0 auto auto;
+	max-width: 960px;
+	height: 100%;
+}
+	/* Top Container =============================================*/
+	.top-container {
+	    display: flex;
+		flex-flow: row wrap;
+		align-items: flex-start;
+	}
+	@media screen and (min-width: 960px) {	  	
+	  	.top-contianer {
+		    display: flex;  
+			flex-flow: row wrap;
+		}
+			.title h1 {
+				font-size: 3.2em;
+			    margin-bottom: 0;
+			    margin-top: 0.5em;
+			}
+			.title h2 {
+				font-style: italic;
+				font-size: 2em;
+				margin-top: 0;
+				max-width: 100%;
+			}
+	}
+		.title {
+			width: 100%;
+		}
+
+		.top-img {
+			width: 80%;
+			margin: auto auto 1em;
+		}
+		.top-img img {
+			width: 100%;
+		}
+		@media screen and (min-width: 960px) {
+			.top-img {
+				margin: 0px 0px 20px 60px;
+			    order: 3;
+			    max-width: 260px;
+			}
+		}
+		.intro {
+			display: flex;
+			flex-direction: column;
+			align-items: flex-start;
+		}
+		.intro ol {
+			list-style-type: upper-latin;
+			margin-left: 2em;
+			margin-top: 0;
+		}
+		@media screen and (min-width: 960px) {
+			.intro {
+				flex: 1;
+				order: 2;
+				font-size: 1em;
+			}
+		}
+
+	/* Bottom Container =============================================*/
+	.bottom-container {
+	    display: flex;  
+		flex-direction: column;
+		justify-content: center;
+		border-top: none;
+	}
+		.bottom-container h3 {
+			font-size: 2em;
+			margin-bottom: 0;
+		}
+		.flex-item {
+			border-top: 2px solid #F0B04D;
+			margin-top: 1em;
+		}
+	@media screen and (min-width: 960px) {
+		.bottom-container {
+		    display: flex;  
+			flex-direction: row;
+			justify-content: space-between;
+			border-top: 2px solid #F0B04D;
+		}
+			.bottom-container h3 {
+			font-size: 1.5em;
+			margin-bottom: 0.5em;
+			text-align: center;
+			}
+			.bottom-container p {
+				font-size: 1em;
+			}
+			.flex-item {
+				border-top: 0px;
+				margin-top: 0em;
+				padding-bottom: 1em;
+				width: 30%;
+			}
+			.div-1,
+			.div-2 {
+				border-right: 2px solid #F0B04D;
+				padding-right: 2.5%;
+			}
+	}
+
+
+/* Footer =============================================*/
+.footer-wrapper {
+	width: 100%;
+	clear: both;
+	background-color: #E26A5D;
+}
+.footer-wrapper p {
+	padding: 0.5em;
+	margin-top: 1em;
+	color: #333;
+}
+.footer {
+	width: 94%;
+	margin: auto;
+}
+
+

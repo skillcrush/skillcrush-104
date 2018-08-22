@@ -1,0 +1,71 @@
+/**  CSS styles for aliciagoolsby.advice.html **/
+
+
+/**font-family: 'Gloria Hallelujah', cursive;
+font-family: 'Roboto', sans-serif;**/
+
+.aliciagoolsby-advice {
+	background-color:#eeeeee;
+	font-family: 'Roboto', sans-serif;
+	}
+header {
+	padding-top: 3%;
+}
+.aliciagoolsby-advice h1 {
+	font-family: 'Gloria Hallelujah', cursive;
+	text-align: center;
+	font-size: 3em;
+	color: white;
+  text-shadow: 2px 2px 4px #000000;
+	/*border:2px solid black;*/
+	width: 80%;
+	margin:auto;
+	 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	 text-align: center;
+	 }
+
+.aliciagoolsby-advice h4 {
+	padding: 2% 0% 2% 0%;
+	font-family: 'Roboto900i', sans-serif;
+	text-align: center;
+	color: cornflowerblue;
+	font-size: 2.4em;
+	border: 5px solid #dddddd;
+	border-radius: 10%;
+	text-shadow: 2px 2px 4px #000000;
+	box-shadow: 10px 10px 5px grey;
+}
+
+.aliciagoolsby-advice p {
+	text-align: center;
+	font-size: 1.5em;
+}
+
+
+
+
+.words-of-wisdom {
+	margin:0 2%;
+}
+
+.advice {
+	width: 47%;
+	float:left;
+	margin:auto;
+	padding-left: 1%;
+	padding-right: 1%;
+}
+
+.advice2 {
+	float:right;
+	width: 47%;
+	margin:auto;
+	padding-left: 1%;
+	padding-right: 1%;
+}
+
+footer  {
+ font-size: 1em;
+ text-align: left;
+ clear:both;
+}

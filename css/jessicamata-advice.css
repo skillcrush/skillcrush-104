@@ -1,0 +1,27 @@
+/*** Jessica Mata's Advice ***/
+.jessicamata-advice {
+	width: 100%;
+}
+
+.jessicamata-advice h1 {
+	font-family: 'Roboto', sans-serif;
+	color: hsla(198, 100%, 20%, 1);
+	text-align: center;
+}
+
+.jessicamata-advice h4 {
+	font-family: 'Roboto Slab', serif;
+	font-size: 30px;
+	background-color: hsla(198, 100%, 20%, 1);
+	padding: 0 400px 0 400px;
+	color: hsla(25, 100%, 79%, 1);
+}
+
+.jessicamata-advice p {
+	background-color: hsla(25, 100%, 79%, 1);
+	color: hsla(198, 100%, 20%, 1);
+	font-family: 'Roboto Slab', serif;
+	font-size:20px;
+	padding: 0 400px 50px 400px;
+	line-height: 40px;
+}

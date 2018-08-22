@@ -1,0 +1,35 @@
+.sabina-advice{
+	background: url("http://www.hdwallpapersn.com/wp-content/uploads/2015/04/desktop-backgrounds6.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+section{
+	background:rgba(0,0,0, 0.5);
+	border:1px solid #eee;
+	border-radius:5px;
+	width:900px;
+	padding:10px;
+	margin:0 auto;
+}
+h1, h4{
+	font-family: 'Oswald', sans-serif;
+	color:#fff;
+}
+h4{
+	font-size:25px;
+	margin-top:0px;
+	margin-bottom:0px;
+}
+p{
+	font-family: 'Open Sans', sans-serif;
+	color:#fff;
+	margin-top:0px;
+	margin-bottom:10px;
+}
+a{
+	font-family: 'Oswald', sans-serif;
+	color:#fff;
+}

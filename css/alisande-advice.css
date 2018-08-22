@@ -1,0 +1,33 @@
+
+/** Alisande advice styling **/
+
+body {
+	background-image: url("http://www.vectorsland.com/imgd/l87441-blue-science-fiction-background-39281.jpg");
+	color: #111;
+}
+
+.alisande-advice h1 {
+	color: #000000;
+	font-family: 'Lato', sans-serif;
+	font-size: 50px;
+	font-weight: normal;
+}
+
+.alisande-advice h4 {
+	color: #0000FF;
+	font-family: 'Lato', sans-serif;
+	font-size: 36px;
+}
+
+.alisande-advice p {
+	color: #0000CD;
+	font-family: 'Lato', sans-serif;
+	font-size: 24px;
+	}
+
+.alisande-advice .footer {
+	padding-top: 20px;
+	text-align: center;
+	text-size: 12px;
+}
+

@@ -1,0 +1,79 @@
+body {
+background: #082031;
+}
+
+h1 {
+  font-family: 'Slabo 27px', serif;
+  font-size: 35px;
+  color:#E6BC82;
+  text-align: center;
+}
+
+h1:after {
+    content: "";
+    display: block;
+    margin: 0 auto;
+    width: 100%; /* Change width here */
+    padding-top: 10px; /* How far down from header it is */
+    border-bottom: 3px dashed #660707; /* Border look */
+  }
+
+
+h4 {
+  font-family: 'Slabo 27px', serif;
+  font-size: 25px;
+  text-align: center;
+  color: #BD632F;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  color:#E6BC82;
+  font-size: 16px;
+  line-height: 28px;
+  margin: 10px 10%;
+}
+
+span {
+  font-family: 'Poller One', cursive;
+}
+
+#button {
+
+  background: #660707;
+  text-align: center;
+  padding: 2px;
+  border: 1px solid #E6BC82;
+}
+
+#button a {
+  color: #E6BC82;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#button:hover {
+  background: #BD632F;
+}
+
+
+
+.bold {
+  font-weight: 700;
+}
+
+
+
+footer {
+  background: #660707;
+  width: 100%;
+  padding: 1px;
+  border: 1px solid #E6BC82;
+}
+
+footer p {
+  color: #E6BC82;
+  text-align: center;
+}

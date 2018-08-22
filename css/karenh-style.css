@@ -1,0 +1,30 @@
+/** Add a comment at the beginning of your CSS styles with your name **/
+
+/** BEG KARENH STYLING**/
+
+.karenh-advice {
+	font-family: Arial;
+}
+
+.karenh-advice h1 {
+	text-align: center;
+	text-transform: uppercase;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.karenh-advice h4 {
+	text-transform: uppercase;
+	color: #de85b1;
+}
+
+.karenh-advice p {
+	font-family: Lato, sans-serif;
+}
+
+.karenh-advice footer {
+	text-align: center;
+	text-transform: uppercase;
+}
+
+/**END OF KARENH STYLING**/
+

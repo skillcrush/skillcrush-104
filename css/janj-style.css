@@ -1,0 +1,74 @@
+/* GLOBAL STYLES
+-----------------------------------------*/
+html, body {
+  height: 100%;
+}
+
+/* apply a natural box layout model to all elements, but allowing components to change */
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+  color: #333;
+  background: #FFFFFD;  
+}
+h1 {
+  font-size: 42px;
+  font-family: "Nixie One", serif;
+}
+h1, h2 {
+  font-weight: 300;
+  text-transform: uppercase;
+  text-align: center;
+  margin: 0; /* removes default space */
+  line-height: 1; /* tightens up the space between the headings */
+}
+a {
+  color: #bf6d50;
+  text-decoration: none;
+  transition: all 0.5s ease;
+}
+
+header,
+section{
+  padding: 20px 20px;
+}
+
+.name {
+  color: #940038;
+}
+
+h4 {
+  text-transform: uppercase;
+  color: #bf506a;
+  font-size: 20px;
+}
+
+/* FOOTER
+-----------------------------------------*/
+/* sticky footer */
+.page-wrap {
+  min-height: auto%;
+  margin-bottom: -35px; /* must be the same height as footer */
+}
+.page-wrap:after {
+  content: "";
+  display: block;
+}
+footer, .page-wrap:after {
+  height: 35px; /* wowever tall you want the footer to be */
+}
+footer {
+  background: #222;
+  color: #ccc;
+  clear: both;
+  padding: 0 5px; /* adds space inside the footer */
+  line-height: 35px;
+}

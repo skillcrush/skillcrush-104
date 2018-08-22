@@ -1,0 +1,47 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/****Valerie Biamonte's advice*****/
+.valeriebiamonte-advice h1{
+   font-family:  noto-sans;
+   font-size:  34px;
+   font-weight:  bold;
+   color:  rebeccapurple;
+   background-color: floralwhite;
+   margin:  25px;
+   text-align: center;
+  }
+
+.valeriebiamonte-advice h2{
+   font-family:  fantasy;
+   font-size:  32px;
+   font-weight:  bold;
+   color:  rebeccapurple;
+   margin:  35px;
+   text-align: center;
+}
+
+.valeriebiamonte-advice p{
+   background-color: floralwhite;
+   font-family:  sans-serif;
+   font-size:  24px;
+   font-weight: regular;
+   color:  black;
+   margin-bottom:  15px;
+   margin-left: 100px;
+    text-align:  justify;
+   width: 1000px;
+   }
+
+.valeriebiamonte-advice footer p{
+   font-family:  sans-serif;
+   font-size:  20px;
+   font-weight: regular;
+   color:  black;
+   margin-top:  50px;
+   text-align:  center;
+}
+
+body {
+    width: 1200px;
+}
+    

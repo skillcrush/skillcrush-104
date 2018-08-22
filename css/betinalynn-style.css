@@ -1,0 +1,30 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+/*betinalynn Styles*/
+
+.betinalynn-advice h1 {
+  font-family: 'Zilla Slab', serif;
+  font-weight: 600;
+}
+
+.betinalynn-advice h4 {
+  font-family: 'Zilla Slab', serif;
+  background-color: #944dff;
+  text-align: left;
+  font-size: 2.5em;
+  font-weight: 400;
+  color: #000000;
+}
+
+.betinalynn-advice .advice {
+  background-color: #4dff88;
+}
+
+.betinalynn-advice p {
+  font-family: 'Zilla Slab', serif;
+  color: #eee;
+}
+
+.betinalynn-advice footer p {
+  color: #8C8085;
+  font-size: .75em;
+}

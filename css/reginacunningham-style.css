@@ -1,0 +1,48 @@
+body {
+  background-color: #ffe6ff;
+  top-margin: 50px;
+}
+
+footer {
+  background-color: #ffccff;
+  bottom: 0;
+  color: #1a001a;
+  clear: both;
+  font-size: 18px;
+  text-align: center;
+  padding: 5px;
+  margin: -8px;
+  position: fixed;
+  width: 100%;
+}
+h1{
+  font-size: 32px;
+  color: #1a001a;
+  text-align: center;
+}
+ h2, h4 {
+  color: #1a001a;
+
+}
+
+
+a{
+  color: #1a001a;
+}
+
+a:hover {
+  font-size: 18px;
+}
+
+p {
+  padding-left: 10px;
+}
+
+.advice {
+font-size: 24px;
+  text-align: center;
+}
+
+.advice2 {
+  font-size: 24px;
+text-align: center;}

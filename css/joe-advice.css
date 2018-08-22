@@ -1,0 +1,37 @@
+/** Add a comment at the beginning of your CSS styles with your name **/
+
+/**Joe's styling**/
+
+.joe-advice{
+	font-family: helvetica;
+	background: yellow;
+	}
+
+.joe-advice h1{
+	text-shadow: white 1px -1px 5px;
+	color: white;
+	text-align: center;
+	border-radius: 15px;
+	background: rgba(0, 0, 0, 0.70);
+	}
+
+.joe-advice h4{
+	text-shadow: white 1px -1px 5px;
+	color: white;
+	border-radius: 15px 15px 0 0;
+	background: rgba(0, 0, 0, 0.70);
+	padding-left: 10px;
+	margin-bottom: 2px;
+	}
+	
+.joe-advice p{
+	color: white;
+	border-radius: 0 0 15px 15px;
+	background: rgba(0, 0, 0, 0.70);
+	padding-left: 10px;
+	margin-top: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	}
+
+/**End Joe's styling**/

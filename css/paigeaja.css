@@ -1,0 +1,38 @@
+.paigeaja-advice {
+	width: 100%;
+	margin: 2%;
+	font-family: 'Taviraj', serif; 
+	font-size: 16px;
+	background: darkslategray;
+	color: #ccc;
+}
+.paigeaja-advice header a {
+	text-decoration: none;
+	color: #ccc
+}
+.paigeaja-advice header h1 {
+	font-size: 2em;
+	margin: 2%;
+}
+.paigeaja-advice header h2 {
+	margin: 2% 15%;
+	font-size: 2.5em;
+	color: #9ED8C9;
+}
+.paigeaja-advice .hero-img {
+	text-align: center;
+}
+
+.paigeaja-advice img {
+	width: 500px; 
+	height: 513px;
+}
+
+.paigeaja-advice p {
+	width: 70%;
+	font-size: 1.3em;
+}
+
+.paigeaja-advice footer p {
+	font-size: 1em;
+}

@@ -1,0 +1,39 @@
+
+body {
+    background: #f4a261;
+    text-align: center;
+}
+
+p{
+    font-family: 'Amatic SC', cursive;
+    color:#0a0a0b;
+    font-size: 18px;
+}
+
+
+
+h1, h4 {
+    font-family:'Cabin Sketch', cursive;
+    color: #2a9d8f;
+}
+
+footer p {
+    font-size: 12px;
+    color: #264653;
+}
+
+a {
+    color: #264653;
+    font-family: 'Amatic SC', cursive;
+}
+
+.main {
+    width: 100%
+}
+
+.advice {
+    width: 96%;
+    padding: 0 2%;
+    margin:auto;
+    max-width: 960px;
+}

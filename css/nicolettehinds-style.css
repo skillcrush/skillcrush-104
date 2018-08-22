@@ -1,0 +1,24 @@
+/** Nicolette's Styles **/
+.nicolette-advice {
+	background-image: url("https://static.pexels.com/photos/7108/notebook-computer-chill-relax.jpg");
+	background-size: cover;
+	
+}
+.nicolette-advice h1 {
+	font-family: 'Lobster', cursive;
+	text-shadow: 2px 2px #bfbfbf;
+}
+.nicolette-advice h4 {
+	text-shadow: 2px 1px #000;
+}
+.nicolette-advice p {
+	font-family: 'Indie Flower', cursive;
+	font-size: 20px;
+	color: #8080ff;
+	text-shadow: 2px 1px #000;
+}
+.nicolette-advice footer p {
+	text-align: center;
+	color: #fff;
+}
+/** End of Nicolette's Styles**/

@@ -1,0 +1,91 @@
+html {
+  font-size: 16px;
+  font-family: cursive;
+}
+
+@font-face {
+  font-family: 'Amatic SC', cursive;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-flow: column;
+  padding: 0 3% 0 3%;
+}
+
+header {
+  font-family: 'Amatic SC', cursive;
+  text-align: center;
+}
+
+.brandon-advice {
+
+}
+
+.advice {
+
+}
+
+footer {
+  text-align: left;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+span {
+
+}
+
+h4 {
+  font-size: 1.1em;
+}
+
+p {
+  font-size: 1em;
+}
+
+.fullscreen-bg {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    z-index: -100;
+}
+
+.fullscreen-bg__video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+@media (min-aspect-ratio: 16/9) {
+  .fullscreen-bg__video {
+    height: 300%;
+    top: -100%;
+  }
+}
+
+@media (max-aspect-ratio: 16/9) {
+  .fullscreen-bg__video {
+    width: 300%;
+    left: -100%;
+  }
+}
+
+@media (max-width: 767px) {
+  .fullscreen-bg {
+    background: url('https://youtu.be/wJF5NXygL4k') center center / cover no-repeat;
+  }
+
+  .fullscreen-bg__video {
+    display: none;
+  }
+}

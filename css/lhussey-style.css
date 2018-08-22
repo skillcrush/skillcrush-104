@@ -1,0 +1,48 @@
+
+/* Google Fonts */
+@import 'https://fonts.googleapis.com/css?family=Open+Sans|Lato';
+
+a {
+  color: #1cb3b9;
+  font-family: 'Lato', sans-serif;
+  text-decoration: none;
+}
+
+header h1 {
+  background-color: #1cb3b9;
+  border-radius: 1em;
+  color: #FFF;
+  font-family: 'Roboto', sans-serif;
+  margin: .5em;
+  padding: .5em;
+  text-align: center;
+}
+
+section {
+  margin: .65em;
+  padding: .5em;
+}
+
+h2 {
+  color: #1CB3B9;
+  font-family: 'Roboto', sans-serif;
+}
+
+p {
+  color: #4D4D4D;
+  font-family: 'Lato', sans-serif;
+  line-height: 1.4em;
+
+}
+
+footer {
+  background-color: #1cb3b9;
+  border-radius: 1em;
+  margin: .5em;
+  padding: .5em;
+  text-align: center;
+}
+
+footer p {
+  color: #FFF;
+}

@@ -1,0 +1,37 @@
+/** Geez, I wish there was a clean copy of the original style.css file :-( ~whiny comment by csdevera **/
+
+/** Start of csdevera-style **/
+.csdevera-advice {
+    width: 100%;
+    background-color: ghostwhite;
+    font-family: sans-serif;
+    margin: 0 auto;    
+}
+.csdevera-advice a {
+    text-decoration: none;
+    color: #0066ff;
+    font-weight: bold;
+}
+.csdevera-advice h1 {
+    color: #00008B;
+    font-weight: bold;
+    text-align: left;
+}
+.csdevera-advice h4 {
+    font-family: sans-serif;
+    font-size: 22px;
+    text-align: left;
+    color: #ff6600;
+}
+.csdevera-advice p {
+    display: block;
+    color:#00008B;
+    text-align: left;
+}
+.csdevera-advice footer {
+    color: #00008B; 
+    text-align: left;
+    font-size: 13px;
+    font-style: italic;
+}
+/** End of csdevera-style **/

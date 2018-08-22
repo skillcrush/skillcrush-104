@@ -1,0 +1,57 @@
+
+/** Bety styles **/
+
+.bety-advice h1 {
+  font-size: 2em;
+}
+
+.bety-advice h4 {
+  font-size: 1.5em;
+}
+
+.bety-advice {
+  border: 3px solid white;
+  background-color:#884444;
+  color:#ffdddd;
+  font-family: 'Oswald', sans-serif;
+  margin: 20px;
+  padding:20px 40px;
+}
+
+.bety-advice h1 {
+  color: #ffccdd;
+  margin-top:30px;
+  padding-top:20px;
+  padding-bottom:20px;
+  margin-bottom:0px;
+  font-size:28px;
+  border-top:2px solid white;
+  border-bottom:2px solid white;
+}
+
+.bety-advice p {
+  margin-bottom:40px;
+  font-style:italic;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.bety-advice a {
+  color:#c99;
+  text-transform: uppercase;
+  text-decoration:none;
+  font-size: 13px;
+}
+
+.bety-advice header {
+  text-align:center;
+}
+
+.bety-advice div {
+  margin:0 40px 40px 40px; padding:40px;
+}
+
+.bety-advice footer {
+  font-size: 12px;
+}
+
+/** END BETY'S STYLE **/

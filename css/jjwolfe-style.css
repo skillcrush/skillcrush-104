@@ -1,0 +1,27 @@
+body {
+  background: #ffb4a1;
+  font-family: '';
+  color: #ffffff;
+  margin: 2rem;
+  font-weight: 400;
+}
+
+h1{
+  font-family: 'Merriweather', serif;
+  font-weight: bold;
+}
+
+body a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+h4 {
+  text-decoration: underline;
+  font-family: 'Merriweather', serif;
+}
+
+.advice {
+  margin: 3rem;
+  text-align: justify;
+}

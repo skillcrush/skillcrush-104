@@ -1,0 +1,21 @@
+.trailynne-advice {
+  background-color: black;
+}
+.trailynne-advice h1 {
+  color: red;
+  text-decoration: underline;
+  text-align: center;
+  font-size: 25px;
+  background-color: black;
+}
+
+.trailynne-advice h3 {
+  text-align: center;
+  text-transform: uppercase;
+  color: orange;
+}
+
+.trailynne-advice p {
+  width: 500px;
+  color: white;
+}

@@ -1,0 +1,35 @@
+.samuel-advice {
+  background-color: rgba(204, 204, 217, 0.5);
+  padding: 25px;
+  margin: 50px;
+}
+.advice
+{
+background-color: rgba(221, 222, 204, 0.5);
+  padding: 24px;
+  margin: 50px;    
+}
+h1, h2 {
+  font-family: 'Just Another Hand', cursive;
+  text-align: center;
+}
+h1 {
+  margin-top: 10px;
+  font-size: 60px;
+  color: #64ff50;
+}
+h2 {
+  font-size: 40px;
+}
+p {
+  font-family: 'Montserrat', sans-serif;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  font-weight: 900;
+}

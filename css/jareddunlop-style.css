@@ -1,0 +1,48 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/****Jared's advice*****/
+body {
+	background-color: gray;
+}
+
+.jared-advice h1{
+   font-family:  noto-serif
+   font-size:  48px;
+   font-weight:  bold;
+   color:  white;
+   background-color:  blue;
+   margin:  25px;
+   text-align: center;
+}
+
+.jared-advice h2{
+   font-family:  noto-sans;
+   font-size:  36px;
+   font-weight:  bold;
+   color:  blue;
+   margin:  35px;
+}
+
+.jared-advice h4{
+  margin-left: 150px;
+    
+}
+
+.jared-advice p{
+   font-family:  noto-sans;
+   font-size:  24px;
+   font-weight: regular;
+   color:  black;
+   margin-bottom:  10px;
+   margin-left: 150px;
+   text-align:  left;
+   }
+
+.jared-advice footer p{
+   font-family:  noto-sans
+   font-size:  12px;
+   font-weight: regular;
+   color:  black;
+   margin-top:  50px;
+   text-align:  center
+   }

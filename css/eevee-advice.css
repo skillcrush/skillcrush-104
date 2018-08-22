@@ -1,0 +1,22 @@
+/** Add a comment at the beginning of your CSS styles with your name **/
+
+/**Elizabeth's Advice css **/
+.Elizabeth-advice h1 {
+	font-family: 'Oxygen', sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	color: #0000b3;
+}
+.Elizabeth-advice p{
+	font-family: 'Oxygen', sans-serif;
+	font-size: 16px;
+	color: #00004d
+}
+a	{
+	text-decoration: none;
+}
+.Elizabeth-advice h4 {
+	font-family:'Oxygen', sans-serif;
+	font-size: 18px;
+	color: #0000b3;
+}

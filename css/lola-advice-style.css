@@ -1,0 +1,46 @@
+/** Add a comment at the beginning of your CSS styles with your name **/
+
+/*Lolas's Styles*/
+
+.lola-advice {
+    font-family: 'Julius Sans One', sans-serif;
+    color: white;
+    background: url(http://mledun.github.io/images/lola-chess.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.lola-advice div {
+    box-shadow: .1em .1em .5em #2F3632;
+    
+    width:  90%;
+    height: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 500px;
+    background:rgba(98,116,65,0.7);
+    
+
+}
+
+.lola-advice h1 {
+
+	color: #e26a98;
+	background:rgba(255,255,255,0.7);
+	font-family: 'Pacifico', cursive;
+
+
+	}
+
+.lola-advice h4 {
+    background-color: #e26a98;
+		font-style: italic;
+		font-size: 28px;
+		color: white;
+		font-family: 'Pacifico';
+}
+
+/*end Lola's Styles*/
+

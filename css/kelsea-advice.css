@@ -1,0 +1,67 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	font-family: 'Helvetica', sans-serif;
+	text-decoration: none;
+}
+
+.kelsea-advice,
+a{
+	color: #333;
+}
+
+.kelsea-advice header{
+	background-color: #333;
+	text-align: center;
+	padding: 7rem;
+	color: #fff;
+}
+
+.kelsea-advice h1{
+	font-size: 3rem;
+	padding: 1.5rem;
+}
+
+.kelsea-section{
+	width: 55%;
+	margin: 0 auto;
+	padding: 2rem;
+}
+
+.kelsea-advice h4{
+	font-size: 1.5rem;
+	line-height: 2rem;
+	margin-top: 2.5rem;
+}
+
+.kelsea-section p{
+	font-size: 1.25rem;
+	line-height: 1.75rem;
+	margin-top: 1rem;
+}
+
+.kelsea-advice .advice{
+	margin-bottom: 3rem;
+}
+
+.kelsea-advice a{
+	font-size: 1.25rem;
+	background-color: #333;
+	color: #fff;
+	padding: 1rem;
+	border-radius: .5rem;
+}
+
+.kelsea-advice a:hover{
+	background-color: black;
+}
+
+.kelsea-advice footer{
+	text-align: center;
+	font-size: 1.25rem;
+	padding: 1rem;
+	margin-top: 3rem;
+	background-color: #333;
+	color: #fff;
+}

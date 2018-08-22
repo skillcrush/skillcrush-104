@@ -1,0 +1,43 @@
+.christinaz-advice {
+	background: #0A4766 url(http://colorlisa.com/pictures/39_1.jpg) no-repeat center center fixed;
+	background-size: cover;
+	color: #FFD499;
+	text-align: left;
+	font-family: serif;
+	font-weight: normal;
+	line-height: 34px;
+}
+
+.christinaz-advice header a {
+	text-decoration: none;
+	color: #FFAA32;
+}
+
+.christinaz-advice h1 {
+	text-align: center;
+	margin-bottom: 25px;
+	font-size: 28px;
+}
+
+.christinaz-advice h2 {
+	font-size: 26px;
+}
+
+.christinaz-advice h3 {
+	font-size: 20px;
+}
+
+.christinaz-advice span {
+		color: #FFAA32;
+		font-weight: bold;
+}
+
+#christinaz-advice {
+	width: 1200px;
+	height: auto;
+	margin: auto 100px;
+}
+
+.christinaz-advice footer {
+	margin: 100px 0 0 100px;
+}
