@@ -1,0 +1,46 @@
+/****** NEVADA'S ADVICE*****/ 
+.nevadacode-advice body, html{
+    height: 100%;
+    margin: 0;
+    background: url('https://cdn.pixabay.com/photo/2015/11/13/03/26/dirty-1041382_960_720.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+  .nevadacode-advice header a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Forum', cursive;
+    float: right;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    font-weight: bold;
+  }
+
+
+  .nevadacode-advice h1{
+    font-family: 'Fredericka the Great', cursive;
+    text-align: center;
+    font-size: 55px;
+    font-weight: normal; 
+    padding-top: 40px;
+    padding-left: 100px ;
+    padding-right: 100px; 
+  }
+  .nevadacode-advice h4{
+    font-family: 'Fredericka the Great', cursive;
+    text-align: center;
+    padding: 20px; 
+    font-weight: normal; 
+    font-size: 32px;
+  }
+  
+  .nevadacode-advice p{
+   font-family: 'Forum', cursive;
+   text-align: center;
+   font-weight: normal; 
+   font-size:20px;
+   padding-left: 100px ;
+   padding-right: 100px; 
+  }
