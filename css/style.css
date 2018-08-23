@@ -12993,7 +12993,7 @@ margin-top: 30px;
   margin: 50px 0 0 10px;
   font-size: 8px;
 }
- 
+
 /***** Kayla W's Advice *****/
 
 .kaylaw-advice h1 {
@@ -13032,4 +13032,66 @@ margin-top: 30px;
     font-size: 25px;
     text-align: left;
     color: gold;
+}
+/*******Techmeg's Advice*********/
+.techmeg-advice {
+  background-color: lightcyan;
+  font-family: 'PT Sans', sans-serif;
+}
+.techmeg-header {
+  height: 200px;
+  padding: 50px;
+}
+.techmeg h1, h4, p {
+  font-family: 'PT Sans', sans-serif;
+}
+
+.techmeg-header h1{
+  color: lightseagreen;
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+  text-transform: inherit;
+}
+.meg-advice {
+  border-top: 4px double lightslategrey;
+  padding: 50px;
+  width=100%
+  box-sizing: border-box;
+}
+.meg-advice h4 {
+  color: darkslateblue;
+  font-size: 20px;
+  font-weight: lighter;
+  font-style: italic;
+}
+.box-1, .box-2 {
+  padding: 15px;
+  color: darkslateblue;
+
+}
+.box-1 {
+  border: 2px solid lightslategrey;
+  background-color: lightsteelblue;
+  font-family: 'PT Sans', sans-serif;
+  float: left;
+  height: 250px;
+  width: 45%;
+}
+.box-2 {
+  border: 2px solid lightslategrey;
+  background-color: mediumaquamarine;
+  float: left;
+  height: 250px;
+  margin-left: 40px;
+  margin-bottom: 50px;
+  width: 45%;
+}
+footer {
+  clear: left;
+  color: black;
+}
+.tm-copyright {
+  color: black;
+  font-size: 10px;
 }

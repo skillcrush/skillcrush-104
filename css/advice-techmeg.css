@@ -1,0 +1,19 @@
+/***Meg's Advice***/
+.techmeg-advice {
+  background-color: lightcyan;
+  font-family: sans-serif;
+}
+header {
+  height: 250px;
+  margin: 20px;
+}
+h1 {
+  color: lightseagreen;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+}
+.meg-advice {
+  border-top: 4px double lightslategrey;
+  width=100%
+}
