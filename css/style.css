@@ -12993,7 +12993,7 @@ margin-top: 30px;
   margin: 50px 0 0 10px;
   font-size: 8px;
 }
- 
+
 /***** Kayla W's Advice *****/
 
 .kaylaw-advice h1 {
@@ -13032,4 +13032,51 @@ margin-top: 30px;
     font-size: 25px;
     text-align: left;
     color: gold;
+}
+
+/***** LIZJ ADVICE *****/
+
+.lizj-advice {
+    background-color: #006666;
+}
+
+.lizj-advice header a {
+    text-decoration: none;
+    color: #e6e6e6;
+    font-family: verdana;
+    text-transform: uppercase;
+}
+
+.lizj-advice h1 {
+    color: #d9d9d9;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.lizj-advice h1 span {
+    color: #00e6e6;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: lowercase;
+    font-size: 80px;
+}
+
+.lizj-advice h4 {
+    background-color: #cccccc;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: lowercase;
+    font-size: 40px;
+    font-style: italic;
+}
+
+.lizj-advice p {
+    color: #f2f2f2;
+    font-size: 22px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+.lizj-advice h5 {
+    color: #00e6e6;
+    font-family: verdana;
+    text-align: center;
+    font-size: 15px;
 }
