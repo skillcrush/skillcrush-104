@@ -12993,7 +12993,7 @@ margin-top: 30px;
   margin: 50px 0 0 10px;
   font-size: 8px;
 }
- 
+
 /***** Kayla W's Advice *****/
 
 .kaylaw-advice h1 {
@@ -13031,5 +13031,31 @@ margin-top: 30px;
     font-family: 'Calibri';
     font-size: 25px;
     text-align: left;
-    color: gold;
+    color: gold;}
+
+/**** cyrell-advice ****/
+
+.cyrell-advice {
+  background-color: #ffc266;
+}
+
+.cyrell-advice h1 {
+  font-family: monospace;
+  font-size: 35px;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border: 2px solid maroon;
+}
+
+.cyrell-advice h4 {
+  color: maroon;
+  font-family: verdana;
+  text-decoration: underline;
+}
+
+.cyrell-advice p {
+  text-align: center;
+  font-family: verdana;
+  font-size: 15px;
 }
