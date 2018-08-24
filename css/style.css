@@ -1,4 +1,45 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+/* SWEETSPOT'S ADVICE */
+.elena-advice {
+    width: 1200px;
+    padding-top: 50px 250px;
+    text-align: center;
+    margin: auto;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.sweetspot-advice h1 {
+    font-size: 20px;
+    font-style: italic;
+    text-transform: capitalize;
+    padding-top: 20px;
+}
+
+.sweetspot-advice span {
+    font-style: italic;
+    font-size: 14px;
+    color: #5c5c8a;
+}
+
+.sweetspot-advice section {
+    padding: 25px 100px;
+    border: 3px dotted black;
+}
+
+.sweetspot-advice section h4 {
+    color: black;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.sweetspot-advice p {
+    font-size: 14px;
+    color: #5c5c8a;
+}
+
+.sweetspot-advice footer p {
+    color: gray;
+}
 /***** ELENA'S ADVICE *****/
 .elena-advice {
     width: 1200px;
