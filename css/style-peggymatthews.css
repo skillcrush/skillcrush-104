@@ -1,0 +1,20 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/*****Peggy'S ADVICE*****/
+.peggymatthews-advice{
+  background-color: #f2e6d9;
+}
+.peggymatthews-advice h1{
+  color: #341C09;
+  font-family: 'Georgia', serif;
+  font-size: 32px;
+}
+.peggymatthews-advice h4{
+  color: #B85B14;
+  font-size: 28px;
+}
+.peggymatthews-advice p{
+  color:#000000;
+  font-size: 24px;
+  line-height: 24px;
+}
