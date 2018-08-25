@@ -1,0 +1,63 @@
+/******clubb's advice******/
+.advice-body-clubb{
+    font-family: 'Lato', sans-serif;
+    background: #f5f5ef;
+  }
+  .advice-titles-clubb{
+    font-family:'Roboto', sans-serif;
+    text-transform: capitalize;
+    margin-top:40px;
+  }
+  .advice-main-title{
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    margin-top:40px; 
+  }
+  .full-width-clubb{
+    width: 1200px;
+    margin: 0 auto;
+  }
+  .half-width-clubb{
+    width: 567px;
+    height: 200px;
+    float: left;
+    margin-top:3px;
+    margin-right:3px;
+    padding-left: 15px;
+    padding-right:15px;
+    background: #ebebe0;
+
+  }
+  .third-width-clubb{
+    width: 367px;
+    height: 250px;
+    float: left;
+    margin-top:30px;
+    margin-right:3px;
+    background: #ebebe0;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .link-top-clubb{
+    float:right;
+    font-family: 'Roboto', sans-serif;
+  }
+  .img-banner-clubb{
+    border: solid #ccc 3px;
+    margin:0 auto;
+    margin-top: 30px;
+  }
+  .copyright-clubb{
+    color: #000;
+    clear: none;
+    margin-top: 45px;
+    clear: both;
+    margin: auto;
+    text-align: center;
+    padding-top: 20px;
+  }
+  /*****end of clubb's code*****/
+  
+  
+  
+  
