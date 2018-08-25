@@ -1,7 +1,7 @@
 body {
     width: 100%;
     font-size: 15px;
-    background-color: #f2f2f2;
+    background-color: #f3f3f3;
 }
 
 header p {
@@ -24,8 +24,19 @@ p {
     line-height: 1.2;
 }
 
+q {
+    margin-left: 100px;
+}
+
 header h1, header p, .advice, footer {
     margin: 0 auto;
     max-width: 700px;
-    font-family: 'Open Sans', sans-serif
+}
+
+header p, .advice, footer {
+    font-family: 'Open Sans', sans-serif;
+}
+
+footer {
+    margin-top: 40px;
 }
