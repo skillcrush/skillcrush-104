@@ -1,3 +1,124 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+/* SWEETSPOT'S ADVICE */
+.elena-advice {
+    width: 1200px;
+    padding-top: 50px 250px;
+    text-align: center;
+    margin: auto;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.sweetspot-advice h1 {
+    font-size: 20px;
+    font-style: italic;
+    text-transform: capitalize;
+    padding-top: 20px;
+}
+
+.sweetspot-advice span {
+    font-style: italic;
+    font-size: 14px;
+    color: #5c5c8a;
+}
+
+.sweetspot-advice section {
+    padding: 25px 100px;
+    border: 3px dotted black;
+}
+
+.sweetspot-advice section h4 {
+    color: black;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.sweetspot-advice p {
+    font-size: 14px;
+    color: #5c5c8a;
+}
+
+.sweetspot-advice footer p {
+    color: gray;
+}
+/***** ELENA'S ADVICE *****/
+.elena-advice {
+    width: 1200px;
+    padding-top: 50px 250px;
+    text-align: center;
+    margin: auto;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.elena-advice h1 {
+    font-size: 20px;
+    font-style: italic;
+    text-transform: capitalize;
+    padding-top: 20px;
+}
+
+.elena-advice span {
+    font-style: italic;
+    font-size: 14px;
+    color: #5c5c8a;
+}
+
+.elena-advice section {
+    padding: 25px 100px;
+    border: 3px dotted black;
+}
+
+.elena-advice section h4 {
+    color: black;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.elena-advice p {
+    font-size: 14px;
+    color: #5c5c8a;
+}
+
+.elena-advice footer p {
+    color: gray;
+}
+
+/**LB'S ADVICE**/
+.laurenbench-advice {
+  background-color: #EDE9F5;
+  font-family: 'Playfair Display', serif;
+  font-weight: 400;
+  font-size: 16pt;
+  color: black;
+  text-align: center;
+  padding: 100px;
+}
+
+.laurenbench-advice a {
+  color: white;
+}
+.laurenbench-advice h1 {
+  color: #DDCDE2;
+  font-family: 'Playfair Display', serif;
+  font-weight: 400;
+  font-size: 20pt;
+  letter-spacing: normal;
+  text-transform: none;
+  padding: 100 0 0 0px;
+}
+
+.laurenbench-advice h4 {
+  color: black;
+  font-size: 40pt;
+  font-weight: 900;
+}
+
+.laurenbench-advice footer p {
+  font-size: 12pt;
+  color: #DDCDE2;
+  padding: 100px;
+}
+/**LB ADVICE END**/
+
 /* RICHROKS' ADVICE */
 .richroks-advice {
   background-color: #FAFAFA;
@@ -12914,7 +13035,6 @@ margin-top: 30px;
   font-size: 8px;
 }
 
-
 /***** Kayla W's Advice *****/
 
 .kaylaw-advice h1 {
@@ -12932,4 +13052,98 @@ margin-top: 30px;
   font-family: 'Muli', serif;
   font-size: 18px;
   line-height: 23px;
+}
+
+/***** ELIZABETHHOGUE-ADVICE *****/
+
+.elizabethhogue-advice {
+    background-color: tan;
+}
+.elizabethhogue-advice h1 {
+    font-family: 'Arial';
+    text-align: left;
+    font-size: 30px;
+    color: pink;
+    letter-spacing: 0px;
+    text-transform: uppercase;
+}
+
+.elizabethhogue-advice h4 {
+    font-family: 'Calibri';
+    font-size: 25px;
+    text-align: left;
+    color: gold;}
+
+/**** cyrell-advice ****/
+
+.cyrell-advice {
+  background-color: #ffc266;
+}
+
+.cyrell-advice h1 {
+  font-family: monospace;
+  font-size: 35px;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border: 2px solid maroon;
+}
+
+.cyrell-advice h4 {
+  color: maroon;
+  font-family: verdana;
+  text-decoration: underline;
+}
+
+.cyrell-advice p {
+  text-align: center;
+  font-family: verdana;
+  font-size: 16px;
+}
+
+/***** LIZJ ADVICE *****/
+
+.lizj-advice {
+    background-color: #006666;
+}
+
+.lizj-advice header a {
+    text-decoration: none;
+    color: #e6e6e6;
+    font-family: verdana;
+    text-transform: uppercase;
+}
+
+.lizj-advice h1 {
+    color: #d9d9d9;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.lizj-advice h1 span {
+    color: #00e6e6;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: lowercase;
+    font-size: 80px;
+}
+
+.lizj-advice h4 {
+    background-color: #cccccc;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: lowercase;
+    font-size: 40px;
+    font-style: italic;
+}
+
+.lizj-advice p {
+    color: #f2f2f2;
+    font-size: 22px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+.lizj-advice h5 {
+    color: #00e6e6;
+    font-family: verdana;
+    text-align: center;
+    font-size: 15px;
 }
