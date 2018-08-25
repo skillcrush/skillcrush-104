@@ -26,6 +26,26 @@
 }
 
 /** Add a comment at the beginning of your CSS styles with your name**/
+
+/*****LAURA M'S ADVICE*****/
+.lauram-advice{
+  background-color: #D4E4F7;
+}
+.lauram-advice h1{
+  color: #341C09;
+  font-family: 'Georgia', serif;
+  font-size: 32px;
+}
+.lauram-advice h4{
+  color: #B85B14;
+  font-size: 28px;
+}
+.lauram-advice p{
+  color:#000000;
+  font-size: 24px;
+  line-height: 24px;
+}
+
 /* SWEETSPOT'S ADVICE */
 .elena-advice {
     width: 1200px;
@@ -67,6 +87,7 @@
 .sweetspot-advice footer p {
     color: gray;
 }
+
 /***** ELENA'S ADVICE *****/
 .elena-advice {
     width: 1200px;
@@ -333,7 +354,6 @@ font-size:16px;
 .mackaylavan-advice p{
   font-family: 'Quicksand', sans-serif;
 }
-
 
 /*****WEBER'S ADVICE*****/
 .maria-wright-advice body {     /* added the class so that this person's body properties wouldn't impact ALL other pages  PSM */
