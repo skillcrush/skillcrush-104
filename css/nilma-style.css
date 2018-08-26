@@ -1,0 +1,86 @@
+span {font-size: 6rem;
+    text-transform: uppercase;
+    color: #f2395a;
+    line-height:100px;
+    -webkit-transform: skew(-5deg, -5deg) rotate(5deg);
+             transform: skew(-5deg, -5deg) rotate(5deg);
+     -webkit-transform-origin: center center;
+             transform-origin: center center;
+     text-shadow: 1px 1px #d10e31,
+                  2px 2px #d10e31,
+                  3px 3px #d10e31,
+                  4px 4px #d10e31,
+                  5px 5px #d10e31,
+                  6px 6px #d10e31,
+                  7px 7px #d10e31,
+                  8px 8px #890920,
+                  9px 9px #890920,
+                  10px 10px #890920,
+                  11px 11px 15px rgba(0,0,0,0.5);
+}
+
+body {
+  margin-top: 30px;
+  color: #848484;
+  font-family: 'Architects Daughter', cursive;
+
+}
+footer{
+ margin-top: 30px;
+  color: #848484 ;
+  text-align: center;
+  font-weight: bold;
+}
+.background-image {
+  background: url("https://skillcrush.com/wp-content/themes/skillcrush3.0-child/img/backgrounds/login-page-bg.png") no-repeat center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+/** Header **/
+header {
+  margin-bottom: 20px;
+}
+
+header a, a:visited, a:link {
+  color: #727176;
+  text-transform: uppercase;
+  margin: 4px 20px 20px;
+    padding: 10px;
+    border: 1px solid;
+    text-decoration: none;
+}
+.intro{
+  margin: 0 -10px 0 -10px;
+    padding: 40px 200px 40px 100px;
+    text-align: center;
+    background-color:rgba(241,96,89,0.5);
+  color: #ffffff;
+    letter-spacing: -1px;
+    margin: 0.5em 0 0.5em;
+    text-transform: uppercase;
+
+   
+
+}
+.advice{
+  margin: 20px;
+  border:1px solid #848484 ;
+  padding: 30px;
+}
+
+h4{
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+   color: #f2395a;
+    text-shadow: 3px 3px 0px #e7eef2, 8px 8px 0px rgba(0,0,0,0.1);
+    line-height:50px;
+    font-size: 30px;
+}
+p {
+  font-family: 'Architects Daughter', cursive;
+  font-size:18px;
+
+}
