@@ -1,0 +1,39 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/*** Keri Leach's  Advice ***/
+
+.kerileach-advice {
+  background-color: #336699;
+}
+
+.kerileach-advice h1 {
+  font-family: 'Arial', sans-serif;
+  font-size: 30px;
+  text-align: left;
+  color: #ffffff;
+  letter-spacing: 0px;
+}
+
+.kerileach-advice h4 {
+  font-family: 'Arial', sans-serif;
+  font-size: 25x;
+  color: #ffffff;
+  letter-spacing: 1px;
+
+}
+
+.kerileach-advice .advice p {
+  font-family: 'Arial', sans-serif;
+  font-size: 20px;
+  color: #ffffff;
+  letter-spacing: 0px;
+}
+
+.kerileach-advice footer p {
+  font-family: 'Arial', sans-serif;
+  font-size: 18x;
+  color: #ffffff;
+  letter-spacing: 0px;
+  text-align: center;
+  padding-top: 60px;
+}
