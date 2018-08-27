@@ -1,0 +1,62 @@
+/******  Vicki Hoffmann's Advice Styles  *****/
+body{
+  font-family: 'Quicksand', sans-serif;
+}
+
+
+/***** GRID *****/
+
+.full-width {
+    width: 1200px;
+    margin: 0 auto;
+    float: left;
+}
+
+.half-width{
+    width: 600px;
+    float: left;
+}
+
+.third-width{
+    width: 300px;
+    float: left;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+}
+
+
+header{
+    height:400px;
+    width: 1195px;
+    background: url('http://gdurl.com/6QXL');
+    background-size: auto;
+}
+
+main h2{
+  text-align: left;
+}
+
+#final-thought {
+
+  height: auto;
+  width: 1145px;
+  background-color: #ffd9b3;
+  padding-right: 25px;
+  padding-left: 25px;
+  float: left;
+  text-align: left;
+}
+
+#last-section{
+  padding-left: 200px;
+}
+
+#last{
+  text-align: right;
+  padding-right: 50px;
+}
+
+footer{
+  float: left;
+}
