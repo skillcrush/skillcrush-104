@@ -1,4 +1,93 @@
+/***** Katesimone's Advice *****/
+.katesimone-advice {
+  background-color: #708090;
+  font-family: 'Asap', sans-serif;
+  font-size: 18px;
+  color: #ffffff;
+  padding: 20px;
+}
+.katesimone-advice header {
+  font-family: 'Abril Fatface', cursive;
+  text-align: center;
+  color: #ffffff;
+  word-spacing: -2px;
+  letter-spacing: -1px;
+  padding: 20px;
+}
+.katesimone-advice h4 {
+  color: #ffffff;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 20px;
+  letter-spacing: 3px;
+}
+.katesimone-advice p {
+  text-align: justify;
+  border-top: 1px solid #ffffff;
+}
+
 /** Add a comment at the beginning of your CSS styles with your name**/
+
+/*****LAURA M'S ADVICE*****/
+.lauram-advice{
+  background-color: #D4E4F7;
+}
+.lauram-advice h1{
+  color: #341C09;
+  font-family: 'Georgia', serif;
+  font-size: 32px;
+}
+.lauram-advice h4{
+  color: #B85B14;
+  font-size: 28px;
+}
+.lauram-advice p{
+  color:#000000;
+  font-size: 24px;
+  line-height: 24px;
+}
+
+/* SWEETSPOT'S ADVICE */
+.elena-advice {
+    width: 1200px;
+    padding-top: 50px 250px;
+    text-align: center;
+    margin: auto;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.sweetspot-advice h1 {
+    font-size: 20px;
+    font-style: italic;
+    text-transform: capitalize;
+    padding-top: 20px;
+}
+
+.sweetspot-advice span {
+    font-style: italic;
+    font-size: 14px;
+    color: #5c5c8a;
+}
+
+.sweetspot-advice section {
+    padding: 25px 100px;
+    border: 3px dotted black;
+}
+
+.sweetspot-advice section h4 {
+    color: black;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.sweetspot-advice p {
+    font-size: 14px;
+    color: #5c5c8a;
+}
+
+.sweetspot-advice footer p {
+    color: gray;
+}
+
 /***** ELENA'S ADVICE *****/
 .elena-advice {
     width: 1200px;
@@ -265,7 +354,6 @@ font-size:16px;
 .mackaylavan-advice p{
   font-family: 'Quicksand', sans-serif;
 }
-
 
 /*****WEBER'S ADVICE*****/
 .maria-wright-advice body {     /* added the class so that this person's body properties wouldn't impact ALL other pages  PSM */
@@ -4412,6 +4500,15 @@ body.troypratt-advice footer {
   font-family: "Pacifico", cursive;
 }
 /*End Heidi's Styles*/
+/***** Tina's Styles *****/
+.tinahenry-advice {
+  font-family: 'Bitter', sans-serif;
+  font-size: 35px;
+}
+.tinahenry-advice h1{
+  font-size: 15px;
+  font-style: italic;
+}
 
 /* === Maile's Styles === */
 .maile-advice {
@@ -13031,8 +13128,151 @@ margin-top: 30px;
     font-family: 'Calibri';
     font-size: 25px;
     text-align: left;
-    color: gold;
+    color: gold;}
+
+/**** cyrell-advice ****/
+
+.cyrell-advice {
+  background-color: #ffc266;
 }
+
+.cyrell-advice h1 {
+  font-family: monospace;
+  font-size: 35px;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border: 2px solid maroon;
+}
+
+.cyrell-advice h4 {
+  color: maroon;
+  font-family: verdana;
+  text-decoration: underline;
+}
+
+.cyrell-advice p {
+  text-align: center;
+  font-family: verdana;
+  font-size: 16px;
+}
+
+/***** LIZJ ADVICE *****/
+
+.lizj-advice {
+    background-color: #006666;
+}
+
+.lizj-advice header a {
+    text-decoration: none;
+    color: #e6e6e6;
+    font-family: verdana;
+    text-transform: uppercase;
+}
+
+.lizj-advice h1 {
+    color: #d9d9d9;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.lizj-advice h1 span {
+    color: #00e6e6;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: lowercase;
+    font-size: 80px;
+}
+
+.lizj-advice h4 {
+    background-color: #cccccc;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: lowercase;
+    font-size: 40px;
+    font-style: italic;
+}
+
+.lizj-advice p {
+    color: #f2f2f2;
+    font-size: 22px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+.lizj-advice h5 {
+    color: #00e6e6;
+    font-family: verdana;
+    text-align: center;
+    font-size: 15px;
+}
+
+
+/**** CupofGray-advice ****/
+.cupofgray-advice{
+  font-family: 'Montserrat', sans-serif;
+  margin: 0 auto;
+  text-transform: none;
+  max-width: 1000px;
+  padding:2em;
+  background-image: url(https://images.unsplash.com/photo-1511933801659-156d99ebea3e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=cd08b80c202214cd9c9a73b83d72b843&auto=format&fit=crop&w=634&q=80);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: #002842;
+}
+.cupofgray-advice h1{
+  font-family: 'Montserrat', sans-serif;
+  text-transform: none;
+  text-align: center;
+  font-weight: 400;
+  padding:0.5em;
+  line-height: 1.5em;
+  font-size: 2em;
+  color: #002842;
+}
+.cupofgray-advice section{
+  background-color: hsla(360, 100%, 100%, 0.5);
+  padding-bottom: 1em;
+}
+.cupofgray-advice h2{
+  font-family: 'Montserrat', sans-serif;
+  text-transform: none;
+  text-align: center;
+  font-weight: 400;
+  padding-top:1em;
+  line-height: 1em;
+  font-size: 1.25em;
+  color: #C3174C;
+}
+.cupofgray-advice p{
+  font-family: 'Montserrat', sans-serif;
+  text-transform: none;
+  text-align: center;
+  font-weight: 400;
+  padding:0 2em;
+  line-height: 1em;
+  font-size: 1em;
+  color: #002842;
+}
+.cupofgray-advice footer p{
+  font-family: 'Montserrat', sans-serif;
+  text-transform: none;
+  text-align: center;
+  font-weight: 400;
+  padding:1em;
+  line-height: 1em;
+  font-size: 0.75em;
+  color: #C3174C !important;
+  display: flex !important;
+  justify-content: center;
+}
+.cupofgray-advice a{
+  color: #c3174c;
+  text-decoration: none;
+}
+.cupofgray-advice a:hover{
+  text-decoration: underline;
+}
+/**** End of CupofGray-advice ****/
+
 /*******Techmeg's Advice*********/
 .techmeg-advice {
   background-color: lightcyan;
