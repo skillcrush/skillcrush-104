@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+body {
+  background-color: #B3C5D7;
+}
+
+.content-wrap {
+  max-width: 70%;
+  margin: 4em auto;
+  color: #7392B7;
+  background-color: white;
+  padding: 2em;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.advice {
+  margin-top: 2em;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+h4 {
+ font-size:  1.5rem;
+}
+
+footer {
+  text-align: center;
+  margin-top: 4em;
+  color: white;
+}
+
+a {
+  color: white
+}
