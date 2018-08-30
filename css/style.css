@@ -1,3 +1,18 @@
+/***** Mallory Carpenter's Advice *****/
+.mallory-advice {
+  background-color: black;
+  font-family: 'Asap', sans-serif;
+  font-size: 18px;
+  color: green;
+  padding: 20px;
+}
+
+.mallory-advice h4 {
+  font-family: 'Asap', sans-serif;
+  font-size: 18px;
+  color: blue;
+  padding: 20px;
+
 /**** TERI'S ADVICE ****/
 body {
 	font-family: 'Open Sans', sans-serif;
