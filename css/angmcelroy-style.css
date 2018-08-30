@@ -1,0 +1,64 @@
+/** Grid **/
+
+.angmcelroy-advice {
+	margin-top: 50px;
+	max-width: 1200px;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+.two-column {
+	max-width: 600px;
+	width: 40%;
+	float: left;
+	padding-left: 5%;
+	padding-right: 5%;
+	overflow: auto;
+}
+footer {
+	text-align: center;
+	padding-top: 30px;
+	clear: both;
+}
+
+
+
+/** Button Styles **/
+.angmcelroy-back-button {
+	font-family: 'Crimson Text', serif;
+	font-size: 14px;
+	text-decoration: none;
+	padding: 7px;
+	border: 2px;
+	border-radius: 1px;
+	border-style: solid;
+	margin-left: -20%
+
+}
+/** Section Text Styles **/
+
+.angmcelroy-advice p{
+	font-family: 'Crimson Text', serif;
+}
+
+.angmcelroy-advice h1{
+	background: #542189;
+	padding: 5%;
+	font-family: 'Crimson Text', serif;
+	font-weight: 700;
+	font-size: 24px;
+	text-align: center;
+	color: #ffffff;
+	margin-bottom: 5%;
+	text-transform: none;
+}
+
+.angmcelroy-advice-section h4{
+	font-family: 'Indie Flower', cursive;
+	font-size: 20px;
+	text-transform: none;
+	color: #542189;
+
+}
+footer p{
+	color: #542189;
+}

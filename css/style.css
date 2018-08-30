@@ -48,6 +48,56 @@ body {
 	padding: 20px;
 }
 
+/***** Jessica Campbell's Advice *****/
+.jessicacampbell-advice {
+  background-color: #708090;
+  font-family: 'Asap', sans-serif;
+  font-size: 18px;
+  color: #ffffff;
+  padding: 20px;
+}
+
+/**** MarypK's Advice *****/
+
+.marypk-advice {
+  background-color: #edc8cd;
+  font-family: 'Optima', sans-serif;
+}
+
+.marypk-advice header {
+  width: 100%;
+  background-color: #51709c;
+  padding: 0 20px;
+  height: 30px;
+  line-height: 10px
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.marypk-advice a {
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  padding: 15px 0;
+}
+
+.marypk-advice a:hover {
+  background-color: #edc8cd;
+}
+
+.marypk-advice section {
+  background-color: white;
+  margin: auto;
+  padding: 50px;
+}
+
+.marypk-advice h1 {
+  text-align: center;
+  font-size: 22px;
+}
+/*==== end of Maypk's advice=====*/
+
 /***** Katesimone's Advice *****/
 .katesimone-advice {
   background-color: #708090;
