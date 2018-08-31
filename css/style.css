@@ -1,3 +1,14 @@
+/****Sonja Parsell's Advice */
+
+.sonja-advice {
+  background: lightgrey;
+  font-family: 'Asap', sans-serif;
+  font-weight: lighter;
+  color: turquoise;
+  margin: 40px 200px 40px 200px;
+}
+
+
 /***** Mallory Carpenter's Advice *****/
 .mallory-advice {
   background-color: black;
