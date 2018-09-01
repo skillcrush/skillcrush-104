@@ -1,0 +1,48 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+#back-link a{
+    text-decoration: none;
+    color:#365c61;
+}
+#back-link a:hover{
+    text-decoration: none;
+    color:#243d41;
+}
+
+#back-link{
+  text-align:center;
+  margin-bottom: 55px;
+}
+
+h1 {
+  font-family: 'Great Vibes', cursive;
+  font-size: 48px;
+  text-align:center;
+  color: #3c666c;
+}
+.half-width{
+  width:48%;
+  float:left;
+  margin: 0 10px 40px 10px;
+
+}
+.advice {
+  color: #003333;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 18px;
+}
+
+.advice h4 {
+  color: #3c666c;
+  font-size: 20px;
+}
+
+.advice p {
+  font-size: 15px;
+  line-height: 22px;
+}
+
+footer {
+    text-align:center;
+    color: #365c61;
+}

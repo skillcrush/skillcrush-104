@@ -7,6 +7,51 @@
 }
 /***** End of Jenny's Advice *****/
 
+
+/*****WEBER'S ADVICE*****/
+body {
+  background-color: #fbf5e0;
+  margin: 0px;
+}
+.weber-advice h1 {
+  color: #595959;
+  font-family: 'Special Elite', cursive;
+  letter-spacing: 0px;
+  padding-left: 25px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  text-transform: lowercase;
+}
+.weber-advice h2 {
+  color: #595959;
+  font-family: 'Special Elite', cursive;
+  padding-left: 25px;
+  padding-bottom: 10px;
+  text-align: left;
+}
+.weber-advice ul li {
+  color: black;
+  font-family: 'Josefin Slab', serif;
+  font-size: 22px;
+  line-height: 26px;
+  text-align: left;
+}
+.weber-advice h3 {
+  color: black;
+  font-family: 'Josefin Slab', serif;
+  padding-left: 25px;
+  padding-top: 10px;
+  text-align: left;
+}
+.weber-advice h4 {
+  color: #595959;
+  font-family: 'Special Elite', cursive;
+  padding-top: 10px;
+  padding-right: 25px;
+  text-align: right;
+  text-transform: capitalize;
+}
+>>>>>>> origin/experiments
 /***** MEL F'S ADVICE *****/
 .mel-advice {
 background color: "lightsteelblue";
@@ -31,7 +76,7 @@ font-size: 24px;
 /* TANISHA DAVEY'S ADVICE */
 
 .tanishadavey-advice h1 {
-  color: #407f7f;  
+  color: #407f7f;
   font-family: 'Amaranth', sans-serif;
   font-size: 36px;
   letter-spacing: 1px;
@@ -41,7 +86,7 @@ font-size: 24px;
 .advice {
   color: #003333;
   font-family: 'Titillium Web', sans-serif;
-  font-size: 18px;  
+  font-size: 18px;
 }
 
 .advice h4 {
@@ -12377,7 +12422,7 @@ margin-top: 30px;
 
 .clariss-advice h1{
     letter-spacing: 1px;
-    text-align: center; 
+    text-align: center;
   }
 
 .clariss-advice h4{
@@ -12474,3 +12519,35 @@ margin-top: 30px;
 }
 
 /***** End Kai Rilliet's advice *****/
+
+/***** Rich D's Advice *****/
+
+.richdwyer-advice {
+  background: cyan;
+}
+
+.richdwyer-advice h1 {
+  font-size: 42px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.richdwyer-advice h4 {
+  font-size: 32px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.richdwyer-advice p {
+  font-size: 24px;
+  text-align: center;
+  font-variant: small-caps;
+  line-height: 32px;
+}
+
+.richdwyer-advice div {
+  background: lightcoral;
+  border: 3px silver solid;
+  width: 600px;
+  margin: auto;
+}
