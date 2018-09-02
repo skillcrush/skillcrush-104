@@ -1,0 +1,16 @@
+
+/** Add a comment at the beginning of your CSS styles with your name**/
+/** Anton's Advice **/
+body .antonlo-advice {  
+  background-color: orange;
+  padding: 50px 25px 50px 25px;
+}
+
+header {
+  text-align: center;
+    padding-top: 30px;
+}
+
+.antonlo-advice h4 {
+  color: blue;
+}
