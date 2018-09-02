@@ -470,6 +470,7 @@ font-size:16px;
   font-family: 'Quicksand', sans-serif;
 }
 
+
 /*****WEBER'S ADVICE*****/
 .maria-wright-advice body {     /* added the class so that this person's body properties wouldn't impact ALL other pages  PSM */
   background-color: #fbf5e0;
@@ -536,6 +537,7 @@ font-size:16px;
   text-align: right;
   text-transform: capitalize;
 }
+
 /***** MEL F'S ADVICE *****/
 .mel-advice {
 background color: "lightsteelblue";
