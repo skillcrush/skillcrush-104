@@ -1,0 +1,56 @@
+body.lisasperling-advice {
+	background-color: #f7f7f7;
+	font-size: 18px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	line-height: 32px;
+}
+.lisasperling-advice h1,
+.lisasperling-advice h2,
+.lisasperling-advice h3 {
+	color:#ff6b6b;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+	letter-spacing: 1px;
+	margin: 20px 0;
+	text-transform: uppercase;
+}
+.lisasperling-advice h1 {
+    font-size: 60px;
+    line-height: 1.4;
+    margin-bottom: 0;
+    margin-top: 50px;
+}
+.lisasperling-advice p {
+	margin-top: 0;
+	margin-bottom: 40px;
+}
+.lisasperling-advice footer p {
+	color: #ccc;
+	font-size: 12px;
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+}
+.lisasperling-advice a.button {
+	/*background-color: #320eec;*/
+	background-color: #ff6b6b;
+	color: #fff;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 12px;
+	letter-spacing: 1px;
+	padding: 15px 20px;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+.lisasperling-advice a:hover {
+	border-bottom: 1px solid;
+}
+
+.lisasperling-advice .container {
+	margin: 0 auto;
+	max-width: 768px;
+	padding: 20px;
+	width: 100%;
+
+}
+
