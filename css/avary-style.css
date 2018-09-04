@@ -1,0 +1,25 @@
+/** Avary's Advice **/
+
+.avarymitchell-advise {
+  width: 1200px;
+  margin: auto;
+  padding: 50px 200px 0px 200px;
+}
+
+body {
+  background-color: #77a466;
+}
+
+.avarymitchell-advice h1, p{
+  font-family: 'Shadows Into Light', cursive;
+  text-align: center;
+}
+
+.avarymitchell-advice h4 {
+  font-size: 20px;
+  text-align: center;
+}
+
+.avarymitchell-advice p{
+  font-size: 30px;
+}

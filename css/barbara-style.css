@@ -1,0 +1,39 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/** Barbara's Styles **/
+.barbara-advice {
+    width: 90%;
+    background-color: #fff2e6;
+    font-family: 'lobster two';
+    margin: 50px;
+}
+.barbara-advice a {
+    text-decoration: none;
+    color: #000099;
+    font-size: 14px;
+    font-style: italic;
+}
+.barbara-advice h1 {
+    color: #00008B;
+    font-weight: bold;
+    text-align: left;
+}
+.barbara-advice h4 {
+    font-family: 'lobster two';
+    font-size: 22px;
+    text-align: left;
+    color: #ff6600;
+}
+.barbara-advice p {
+    color:#00008B;
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+.barbara-advice footer p {
+    color: #000099;
+    font-family: 'lobster two';
+    text-align: center;
+    font-size: 12px;
+    font-style: italic;
+}
