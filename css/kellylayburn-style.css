@@ -1,0 +1,49 @@
+body {
+	font-family: Arial Helvetica, sans-serif;
+	font-size: 16px;
+	background-color: cadetblue;
+}
+
+
+.full-width {
+	margin: 25px auto;
+	width: 1200px;
+	background-color: bisque;
+	padding: 25px;
+	overflow: auto;
+}
+
+.advice-left, .advice-right {
+	width: 560px;
+	float:left;
+}
+
+.advice-left {
+padding-right: 20px;
+}
+
+.advice-right {
+	padding-left: 20px;
+}
+
+h1 {
+	font-family: 'Permanent Marker', cursive;
+	font-size: 40px;
+	font-weight: lighter;
+	color: #ffff99;
+	width:1200px;
+	background-color:#b47e64;
+	text-align: center;
+}
+
+h4 {
+	font-family: 'Dancing Script', cursive;
+	color:brown;
+	font-size: 30px;
+}
+
+footer {
+	font-size: 14px;
+	color: darkslateblue;
+	text-align: center;
+}
