@@ -1,3 +1,11 @@
+/**** Nina Advice ****/
+.ninab-advice {
+  background-color: #708090;
+  font-family: 'Asap', sans-serif;
+  font-size: 18px;
+  color: #ffffff;
+  padding: 20px;
+}
 /***** Mallory Carpenter's Advice *****/
 .mallory-advice {
   background-color: black;
