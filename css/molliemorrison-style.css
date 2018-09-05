@@ -1,0 +1,21 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/** MOLLIE'S ADVICE**/
+
+.molliemorrison-advice {
+  font-family: 'Quicksand', sans-serif;
+  color: pink;
+  text-align: left;
+  background-color: #f3c486
+}
+
+.molliemorrison-advice h1 {
+  font-family: 'Anton', sans-serif;
+  color: black;
+  text-align: left;
+}
+.molliemorrison-advice h4 {
+  font-family: 'Anton', sans-serif;
+  color: black;
+  text-align: left;
+}
