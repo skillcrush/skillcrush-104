@@ -1,0 +1,59 @@
+/***** Margot's Advice Style Sheet*****/
+
+/***** text styling *****/
+.margot-advice {
+  background-color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  color: #000000;
+  padding: 20px;
+  text-align: left;
+}
+
+.margot-advice h1 {
+  font-family: 'Abril Fatface', cursive;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: normal;
+  letter-spacing: normal;
+  line-height: 75px;
+  text-transform: none;
+  text-align: center;
+  color: #000000;
+}
+
+.margot-advice h4 {
+  font-family: 'Abril Fatface', cursive;
+  font-size: 16px;
+  text-transform: uppercase;
+  text-align: center;
+  padding-top: 50px
+  color: #000000;
+}
+
+.margot-advice footer {
+  font-size: 12px;
+  text-align: center;
+  padding-top: 25px;
+}
+
+/**** link styling ****/
+/* unvisited link */
+a:link {
+    color: #85bc59;
+}
+
+/* visited link */
+a:visited {
+    color: #85bc59;
+}
+
+/* mouse over link */
+a:hover {
+    color: #9ddb6b;
+}
+
+/* selected link */
+a:active {
+    color: grey;
+}
