@@ -1,3 +1,4 @@
+
 /*****Larissa's Advice*****/
 .larissa-advice {
   background-color: #bf00ff;
@@ -5,6 +6,71 @@
   text-align: left;
 }
 
+
+/***** Mallory Carpenter's Advice *****/
+.mallory-advice {
+  background-color: black;
+  font-family: 'Asap', sans-serif;
+  font-size: 18px;
+  color: green;
+  padding: 20px;
+}
+
+.mallory-advice h4 {
+  font-family: 'Asap', sans-serif;
+  font-size: 18px;
+  color: blue;
+  padding: 20px;
+
+/**** TERI'S ADVICE ****/
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.teriw-advice {
+	background-color: #ffe6e6;
+}
+
+.teriw-advice header {
+	color: #ff0066;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.teriw-advice h1, h4 {
+	color: #ff0066;
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+}
+
+.teriw-advice h1 {
+	letter-spacing:0px;
+	font-size:36px;
+}
+
+.teriw-advice h4 {
+	color: #ff0066;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	font-weight:700;
+	line-height:20px;
+}
+
+.teriw-advice p {
+	font-size: 18px;
+	font-weight:400;
+	padding-right: 200px;
+	padding-left: 200px;
+	text-align: left;
+}
+.special-1 {
+	font-style: italic;
+	font-weight: 700;
+	color: #ff0066;
+}
+
+.teriw-advice footer {
+	padding: 20px;
+}
 
 /***** Jessica Campbell's Advice *****/
 .jessicacampbell-advice {
@@ -14,6 +80,47 @@
   color: #ffffff;
   padding: 20px;
 }
+
+/**** MarypK's Advice *****/
+
+.marypk-advice {
+  background-color: #edc8cd;
+  font-family: 'Optima', sans-serif;
+}
+
+.marypk-advice header {
+  width: 100%;
+  background-color: #51709c;
+  padding: 0 20px;
+  height: 30px;
+  line-height: 10px
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.marypk-advice a {
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  padding: 15px 0;
+}
+
+.marypk-advice a:hover {
+  background-color: #edc8cd;
+}
+
+.marypk-advice section {
+  background-color: white;
+  margin: auto;
+  padding: 50px;
+}
+
+.marypk-advice h1 {
+  text-align: center;
+  font-size: 22px;
+}
+/*==== end of Maypk's advice=====*/
 
 /***** Katesimone's Advice *****/
 .katesimone-advice {
@@ -372,6 +479,7 @@ font-size:16px;
   font-family: 'Quicksand', sans-serif;
 }
 
+
 /*****WEBER'S ADVICE*****/
 .maria-wright-advice body {     /* added the class so that this person's body properties wouldn't impact ALL other pages  PSM */
   background-color: #fbf5e0;
@@ -438,6 +546,7 @@ font-size:16px;
   text-align: right;
   text-transform: capitalize;
 }
+
 /***** MEL F'S ADVICE *****/
 .mel-advice {
 background color: "lightsteelblue";
