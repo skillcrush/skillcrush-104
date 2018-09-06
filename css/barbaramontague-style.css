@@ -21,14 +21,16 @@
   color: blue;
   padding: 20px;
 
+
   /***** Barbara Montague's Advice *****/
-  .barbaramontague-advice {
+  .advice {
     background-color: pink;
     font-family: 'Asap', sans-serif;
-    font-size: 24px;
+    font-size: 18px;
     color: blue;
     padding: 20px;
   }
+
 
 /**** TERI'S ADVICE ****/
 body {
