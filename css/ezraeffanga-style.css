@@ -1,0 +1,71 @@
+body {
+    width: 100%;
+    font-size: 15px;
+    background-color: #B5495B;
+}
+
+header {
+    margin: 0 auto;
+    padding-top: 20px;
+    max-width: 500px; 
+    color: #F8C3CD;
+    text-align: center;
+}
+
+
+header a {
+    text-decoration: none;
+    color: #B5495B;
+    background-color: #F8C3CD;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+
+a, header p, .advice, footer {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.head {
+    margin-top: 40px;
+}
+
+h1, h4 {
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+}
+
+h4 {
+    color: #B5495B;
+}
+
+/**creating a semi-transparent background**/
+.surrounding {
+    background-color: #F8C3CD;
+    max-width: 800px;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top: 60px;
+}
+/**ends here**/
+
+.lilbox {
+    padding: 10px 0px 20px 0px;
+    color: #B5495B
+}
+
+
+/**My attempt on indenting a quote**/
+q {
+    margin-left: 100px;
+}
+
+.advice, footer {
+    margin: 0 auto;
+    max-width: 700px;
+}
+
+footer {
+    color:  #F8C3CD; 
+   text-align: center
+}
