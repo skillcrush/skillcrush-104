@@ -1,0 +1,31 @@
+/*****Base Styles*****/
+
+body{
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #5b605e;
+}
+
+/*****Header*****/
+
+header h1{
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #20a893;
+  font-size: 40px;
+  text-align: center;
+}
+
+/*****Advice*****/
+
+.advice h4{
+  color: #5b605e;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 30px;
+
+}
+
+/*****Footer*****/
+
+footer {
+  padding: 30px;
+  text-align: center;
+}
