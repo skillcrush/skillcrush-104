@@ -13461,3 +13461,38 @@ footer {
   color: black;
   font-size: 10px;
 }
+
+/*******JENIA'S ADVICE ******/
+.jenia-advice {
+    background-color:  #e1c1f0;
+}
+
+.jenia-advice header{
+  background-color: white;
+  padding: 30px;
+}
+
+.jenia-advice h1{
+  color: DarkSlateGray;
+  font-family: 'Verdana',sans-serif;
+ font-size: 24px;
+ text-align: center;
+}
+
+.jenia-advice h4{
+ color: DarkSlateGray;
+ font-family: 'Verdana',sans-serif;
+ font-size: 20px;
+}
+
+.jenia-advice p{
+  font-size: 18px;
+  padding-right: 200px;
+  padding-left: 200px;
+  text-align: left;
+}
+
+.jenia-advice footer{
+  background-color: white;
+  padding-top: 400px;
+}
