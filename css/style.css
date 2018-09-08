@@ -20,14 +20,7 @@
   font-size: 18px;
   color: blue;
   padding: 20px;
-
-/***** Barbara Montague's Advice *****/
-.barbaramontague-advice {
-    background-color: pink;
-    font-family: 'Open Sans', sans-serif;
-    font-size: 24px;
-
-  }
+}
 
 /**** TERI'S ADVICE ****/
 body {
@@ -77,6 +70,13 @@ body {
 
 .teriw-advice footer {
 	padding: 20px;
+}
+
+/***** Barbara Montague's Advice *****/
+.barbaramontague-advice {
+  background-color: pink;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 24px;
 }
 
 /***** Jessica Campbell's Advice *****/
