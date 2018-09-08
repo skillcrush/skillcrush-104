@@ -1,0 +1,42 @@
+
+
+  /***** Leah's Advice *****/
+.leah-advice header {
+  background-color: blue;
+  font-family: 'Avenir', sans-serif;
+  font-size: 16px;
+  color: orange;
+  padding: 40px;
+}
+
+.leah-advice h4 {
+  font-family: 'Avenir', sans-serif;
+  font-size: 16px;
+  color: blue;
+  padding: 40px;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.leah-advice h4 {
+	color: #ff0066;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	font-weight:700;
+	line-height:20px;
+}
+
+.leah-advice p {
+	font-size: 18px;
+	font-weight:400;
+	padding-right: 200px;
+	padding-left: 200px;
+	text-align: left;
+}
+
+
+.leah-advice footer {
+	padding: 20px;
+}

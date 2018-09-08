@@ -1,3 +1,4 @@
+
 /****Sonja Parsell's Advice */
 
 .sonjap-advice {
@@ -8,6 +9,14 @@
   margin: 40px 200px 40px 200px;
 }
 
+/**** Nina Advice ****/
+.ninab-advice {
+  background-color: #708090;
+  font-family: 'Asap', sans-serif;
+  font-size: 18px;
+  color: #ffffff;
+  padding: 20px;
+}
 
 /***** Mallory Carpenter's Advice *****/
 .mallory-advice {
@@ -23,9 +32,10 @@
   font-size: 18px;
   color: green;
   padding: 20px;
+}
 
 /**** TERI'S ADVICE ****/
-body {
+.teriw-advice {
 	font-family: 'Open Sans', sans-serif;
 }
 
@@ -95,7 +105,7 @@ body {
   background-color: #51709c;
   padding: 0 20px;
   height: 30px;
-  line-height: 10px
+  line-height: 10px;
   position: fixed;
   top: 0;
   left: 0;
@@ -481,6 +491,7 @@ font-size:16px;
   font-family: 'Quicksand', sans-serif;
 }
 
+
 /*****WEBER'S ADVICE*****/
 .maria-wright-advice body {     /* added the class so that this person's body properties wouldn't impact ALL other pages  PSM */
   background-color: #fbf5e0;
@@ -547,9 +558,10 @@ font-size:16px;
   text-align: right;
   text-transform: capitalize;
 }
+
 /***** MEL F'S ADVICE *****/
 .mel-advice {
-background color: "lightsteelblue";
+background-color: "lightsteelblue";
 }
 
 .mel-advice h1 {
@@ -13338,7 +13350,7 @@ margin-top: 30px;
   text-transform: none;
   max-width: 1000px;
   padding:2em;
-  background-image: url(https://images.unsplash.com/photo-1511933801659-156d99ebea3e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=cd08b80c202214cd9c9a73b83d72b843&auto=format&fit=crop&w=634&q=80);
+  background-image: url('https://images.unsplash.com/photo-1511933801659-156d99ebea3e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=cd08b80c202214cd9c9a73b83d72b843&auto=format&fit=crop&w=634&q=80');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -13422,7 +13434,7 @@ margin-top: 30px;
 .meg-advice {
   border-top: 4px double lightslategrey;
   padding: 50px;
-  width=100%
+  width: 100%;
   box-sizing: border-box;
 }
 .meg-advice h4 {
