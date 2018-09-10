@@ -13461,3 +13461,11 @@ footer {
   color: black;
   font-size: 10px;
 }
+
+
+/* Tay's advice */
+.taytufenkjian-advice h1 {
+  font-family: 'PT Sans', sans-serif;
+  color:  #998899;
+}
+
