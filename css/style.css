@@ -1,3 +1,35 @@
+/***** MELLO'S ADVICE *****/
+.mellohughes-advice {
+  background-color: #00b386;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  color: #ffffff;
+  padding: 30px;
+}
+
+.mellohughes-advice h1 {
+  text-align: center;
+  font-size: 36px;
+  font-style: italic;
+  text-transform: capitalize;
+}
+
+.mellohughes-advice h4 {
+  font-size: 28px;
+  text-transform: capitalize;
+  padding-top: 30px;
+}
+
+.mellohughes-advice p {
+  font-size: 18px;
+  text-align: center;
+}
+
+.mellohughes-advice footer p {
+  padding-top: 50px;
+  color: black;
+}
+
 /**** Nina Advice ****/
 .ninab-advice {
   background-color: #708090;
