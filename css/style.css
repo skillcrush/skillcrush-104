@@ -72,6 +72,13 @@
 	padding: 20px;
 }
 
+/***** Barbara Montague's Advice *****/
+.barbaramontague-advice {
+  background-color: pink;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 24px;
+}
+
 /***** Jessica Campbell's Advice *****/
 .jessicacampbell-advice {
   background-color: #708090;
@@ -13469,3 +13476,42 @@ footer {
   color:  #998899;
 }
 
+/*****end of techmegs advice********/
+
+/*******laurajs advice***********/
+.laurajs-advice-body {
+    background: #39a5de;
+    padding: auto;
+    margin: 20px;
+}
+
+.laurajs-advice-body h1 {
+    font-size: 25px;
+    color: darkblue;
+    text-align: center;
+    text-transform: capitalize;
+    padding: 15px 15px;
+}
+
+
+.laurajs-advice-body h4 {
+    font-size: 20px;
+    color: darkblue;
+    text-decoration: underline;
+    padding: 10px;
+}
+
+.laurajs-advice-body p {
+    margin: 10px 10px;
+    padding: 15px 15px;
+    font-weight: 500;
+}
+
+.laurajs-advice-footer {
+    color: darkblue;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 20px 10px;
+    float: right;
+}
+/*******end of laurajs advice***********/
