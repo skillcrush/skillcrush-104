@@ -1,3 +1,14 @@
+
+
+/*****Larissa's Advice*****/
+.larissa-advice {
+  background-color: #bf00ff;
+  font-family: helvetica;
+  text-align: left;
+}
+
+
+
 /**** Nina Advice ****/
 .ninab-advice {
   background-color: #708090;
@@ -6,6 +17,7 @@
   color: #ffffff;
   padding: 20px;
 }
+
 /***** Mallory Carpenter's Advice *****/
 .mallory-advice {
   background-color: black;
