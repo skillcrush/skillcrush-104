@@ -1,3 +1,14 @@
+
+/****Sonja Parsell's Advice */
+
+.sonjap-advice {
+  background: navy;
+  font-family: 'Asap', sans-serif;
+  font-weight: lighter;
+  color: turquoise;
+  margin: 40px 200px 40px 200px;
+}
+
 /**** Nina Advice ****/
 .ninab-advice {
   background-color: #708090;
@@ -6,6 +17,7 @@
   color: #ffffff;
   padding: 20px;
 }
+
 /***** Mallory Carpenter's Advice *****/
 .mallory-advice {
   background-color: black;
@@ -18,7 +30,7 @@
 .mallory-advice h4 {
   font-family: 'Asap', sans-serif;
   font-size: 18px;
-  color: blue;
+  color: green;
   padding: 20px;
 }
 
