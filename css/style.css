@@ -1,3 +1,20 @@
+/**Sarahgan's Advice***/
+.sarahgan-advice {
+  font-family:sans-serif;
+  font-size: 20px;
+  color: DarkSlateGray;
+  padding: 20px;
+}
+
+.sarahgan-advice h1 {
+  text-transform: uppercase;
+  color:black;
+}
+
+.sarahgan-advice h4 {
+  text-decoration: underline;
+}
+
 /***** Mallory Carpenter's Advice *****/
 .mallory-advice {
   background-color: black;
