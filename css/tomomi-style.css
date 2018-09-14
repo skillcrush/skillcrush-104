@@ -1,0 +1,55 @@
+body{
+	background: repeating-linear-gradient(
+	45deg,
+	#ffe6e6,
+	#ffe6e6 1px,
+	#ffcccc 15px,
+	#ffcccc 20px
+	);
+}
+
+header a {
+  	color: green;
+  	float: right;
+  	padding: 10px 30px;
+}
+
+header h1 {	
+	clear : both;
+	font-family: 'Lobster', cursive;
+	font-size: 36px;
+	text-align: center;
+	padding-top: 30px;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ffe6f2;
+    margin: 1em 0;
+    padding: 0;    
+}
+
+.mid-size{
+	background-color: white;
+	border-radius: 15px 50px;
+	float: left;
+	padding: 20px;
+	margin: 5px;
+}
+
+h4 {
+	font-family: 'Damion', cursive;
+	font-size: 25px;
+}
+
+footer {
+	clear: both;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 5px;
+}
+footer span{
+	font-style: italic;
+}
