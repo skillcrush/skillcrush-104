@@ -13535,3 +13535,27 @@ footer {
     float: right;
 }
 /*******end of laurajs advice***********/
+
+/* kevinconvery's advice*/
+.kevinconvery-advice {
+  text-align: center;
+}
+
+.kevinconvery-advice h1 {
+  font-family: Arial;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.kevinconvery-advice h3 {
+  font-family: Trebuchet;
+  font-weight: bold;
+}
+.kevinconvery-advice p {
+  font-family: Georgia;
+  font-variant: small-caps;
+}
+.kevinconvery-advice h4 {
+  font: Arial;
+  font-style: italic;
+  font-weight: bold;
+}
