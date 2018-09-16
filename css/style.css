@@ -16,6 +16,28 @@
   text-decoration: underline;
 }
 
+/* Jacob Bennett Advice */
+.jacobhbennett-advice a {
+  float: right;
+
+
+
+}
+
+.jacobhbennett-advice h4 {
+  font-family: fantasy;
+  letter-spacing: 5px;
+
+}
+
+.jacobhbennett-advice h1 {
+  font-family: 'arial';
+  font-size: 24px;
+  letter-spacing: normal;
+  text-align: center;
+
+
+}
 
 /**** Nina Advice ****/
 .ninab-advice {
