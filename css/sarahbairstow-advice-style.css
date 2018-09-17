@@ -1,0 +1,26 @@
+/***** SarahBee's advice *****/
+.sarahbee-advice {
+  background-color: #ffffcc;
+  padding: 30px;
+}
+
+.sarahbee-advice h1 {
+  color: #e63900;
+  font-family: 'PT Sans Caption', sans-serif;
+  font-size: 30px;
+  line-height: 50px;
+}
+.sarahbee-advice h4 {
+  color: #e63900;
+  font-family: 'PT Sans Caption', sans-serif;
+  font-size: 24px;
+  text-align: left;
+}
+
+.sarahbee-advice p {
+  color: #661a00;
+  font-family: 'News Cycle', sans-serif;
+  font-size: 18px;
+}
+
+/***** End SarahBee's advice *****/

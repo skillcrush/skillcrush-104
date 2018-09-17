@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'Nanum Pen Script', cursive;
+    font-family: 'Lily Script One', cursive;
+}
+
+.mariacejo-advice {
+    font-family: Arial, Helvetica, sans-serif 
+    background-color:#c2c6ce;
+}
+
+.advice {
+    width: 600px;
+    padding: 0 350px;
+}
+
+h1 {
+  font-family: 'Lily Script One', cursive;
+  font-size: 24pt;
+  color: #e44040;
+  text-align: center;
+}
+
+h4 {
+  font-family: 'Nanum Pen Script', cursive;
+  font-size: 20pt;
+  color:  #517ad3;
+  text-align: center;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+footer {
+    color: #ab6bad;
+    font-weight: bold;
+    padding-top: 100px;
+}
+
+
+
