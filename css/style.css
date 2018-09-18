@@ -1,8 +1,68 @@
+
 /*****Larissa's Advice*****/
 .larissa-advice {
   background-color: #DCDCDC;
   font-family: Helvetica;
   text-align: center;
+  
+/**** Mark's advice *****/
+
+.mark-advice p {
+  font-variant: small-caps;
+  font-family: 'Verdana';
+  font-size: 18px;
+}
+
+.mark-advice h1 {
+  color: brown;
+  font-style: italic;
+  font-family: sans-serif;
+}
+
+.mark-advice h4 {
+  font-size: 24px;
+  text-transform: lowercase;
+}
+
+
+/**Sarahgan's Advice***/
+.sarahgan-advice {
+  font-family:sans-serif;
+  font-size: 20px;
+  color: DarkSlateGray;
+  padding: 20px;
+}
+
+.sarahgan-advice h1 {
+  text-transform: uppercase;
+  color:black;
+}
+
+.sarahgan-advice h4 {
+  text-decoration: underline;
+}
+
+/* Jacob Bennett Advice */
+.jacobhbennett-advice a {
+  float: right;
+
+
+
+}
+
+.jacobhbennett-advice h4 {
+  font-family: fantasy;
+  letter-spacing: 5px;
+
+}
+
+.jacobhbennett-advice h1 {
+  font-family: 'arial';
+  font-size: 24px;
+  letter-spacing: normal;
+  text-align: center;
+
+
 }
 
 /**** Nina Advice ****/
@@ -13,6 +73,7 @@
   color: #ffffff;
   padding: 20px;
 }
+
 /***** Mallory Carpenter's Advice *****/
 .mallory-advice {
   background-color: black;
@@ -13522,3 +13583,27 @@ footer {
     float: right;
 }
 /*******end of laurajs advice***********/
+
+/* kevinconvery's advice*/
+.kevinconvery-advice {
+  text-align: center;
+}
+
+.kevinconvery-advice h1 {
+  font-family: Arial;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.kevinconvery-advice h3 {
+  font-family: Trebuchet;
+  font-weight: bold;
+}
+.kevinconvery-advice p {
+  font-family: Georgia;
+  font-variant: small-caps;
+}
+.kevinconvery-advice h4 {
+  font: Arial;
+  font-style: italic;
+  font-weight: bold;
+}
