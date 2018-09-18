@@ -1,3 +1,22 @@
+/**** Mark's advice *****/
+
+.mark-advice p {
+  font-variant: small-caps;
+  font-family: 'Verdana';
+  font-size: 18px;
+}
+
+.mark-advice h1 {
+  color: brown;
+  font-style: italic;
+  font-family: sans-serif;
+}
+
+.mark-advice h4 {
+  font-size: 24px;
+  text-transform: lowercase;
+}
+
 
 /**Sarahgan's Advice***/
 .sarahgan-advice {
