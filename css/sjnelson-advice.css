@@ -1,0 +1,39 @@
+/* General Advice */
+
+
+
+
+  .sjnelson-advice {
+      width: 90%;
+      background-color: #6495ED;
+      font-family: 'lobster two';
+      margin: 50px;
+
+
+
+}
+
+  .sjnelson-advice a {
+    text-decoration: none;
+    color: #000099;
+    font-size: 14px;
+    font-style: italic;
+  }
+
+   .sjnelson-advice h1, h4 {
+     text-align: center;
+     font-style: normal;
+     font-family:'Dancing Script',cursive;
+     text-align: center;
+     color: white;
+
+
+}
+
+   .sjnelson-advice p {
+     text-align: center;
+     font-family: sans-serif;
+     font-weight: bold;
+     color: white;
+
+}

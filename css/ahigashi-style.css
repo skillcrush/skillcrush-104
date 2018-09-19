@@ -1,0 +1,38 @@
+.ahigashi-advice {
+  color: white;
+  font-family: 'Tahoma', sans-serif;
+  margin: 20px;
+  padding:20px 40px;
+  background: rgb(49, 142, 173);
+}
+
+.ahigashi-advice a {
+  color:white;
+}
+
+.ahigashi-advice h1 {
+	font-size: 30px;
+}
+
+.ahigashi-advice h4 {
+	font-size: 20px;
+	color: rgb(49, 142, 173);
+  text-transform: uppercase;
+}
+
+.ahigashi-advice p {
+  margin-bottom:40px;
+  font-style:italic;
+  font-family: 'Georgia', sans-serif;
+  color: black;
+}
+
+.ahigashi-advice section {
+	background: white;
+	padding: 10px;
+}
+
+.ahigashi-advice footer p{
+	color: white;
+	text-align: right;
+}
