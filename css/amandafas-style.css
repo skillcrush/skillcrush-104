@@ -1,0 +1,29 @@
+.amandafas-advice {
+	background-color: #f9ecf2;
+}
+
+.amandafas-advice h1 {
+	color:#ac3973;
+	font-family: 'Raleway', sans-serif;
+	font-size: 36px;
+	text-align: center;
+	text-transform: capitalize;
+
+}
+
+.amandafas-advice h4 {
+	color: #cc6699;
+	font-family: 'Raleway', sans-serif;
+	font-size: 28px;
+	text-align: center;
+	text-decoration: underline;
+	text-transform: capitalize;
+} 
+
+.amandafas-advice p {
+	color: #d98cb3;
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: center;
+
+
+}
