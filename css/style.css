@@ -1,11 +1,16 @@
-
+/*****CarlyM advice*****/
+.carlym-advice {
+    background-color: #ffb3b3;
+    font-family: 'Arial';
+    font-size: 14px;
+}
 /*****Larissa's Advice*****/
 .larissa-advice {
   background-color: #DCDCDC;
   font-family: Helvetica;
   text-align: center;
 }
-  
+
 /**** Mark's advice *****/
 
 .mark-advice p {
