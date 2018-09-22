@@ -1,3 +1,40 @@
+/** amypennybacker's advice **/
+
+.amypennybacker-advice {
+    background-color: #d9dde3;
+}
+
+.amypennybacker-advice h1 {
+    font-family: 'squada one';
+    font-size: 42px;
+    color: #f64e39;
+    text-align: left;
+    padding-left: 80px;
+}
+
+.amypennybacker-advice h3 {
+  font-family: 'squada one';
+  font-size: 36px;
+  color: #f86b5a;
+  text-align: left;
+  padding-left: 80px;
+}
+
+.amypennybacker-advice h4 {
+  font-family: 'squada one';
+  font-size: 24px;
+  color: #4271b8;
+  text-align: left;
+  padding-left: 150px;
+}
+
+.amypennybacker-advice p {
+  font-family: 'rockwell';
+  font-size: 16px;
+  color: #0c1522;
+  text-align: left;
+  padding-left: 150px;
+}
 
 /*****Larissa's Advice*****/
 .larissa-advice {
@@ -5,7 +42,7 @@
   font-family: Helvetica;
   text-align: center;
 }
-  
+
 /**** Mark's advice *****/
 
 .mark-advice p {
