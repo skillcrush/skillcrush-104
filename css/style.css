@@ -36,6 +36,13 @@
   padding-left: 150px;
 }
 
+/***Carly M Advice ****/
+.carlym-advice {
+    background-color: #ffb3b3;
+    font-family: 'Verdana'
+    text-size: 16px;
+}
+
 /*****Larissa's Advice*****/
 .larissa-advice {
   background-color: #DCDCDC;
