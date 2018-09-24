@@ -1,3 +1,27 @@
+/** melissa's advice **/
+
+.melissas-advice {
+  background-color: #26004d;
+}
+
+.melissas-advice h1 {
+  font-family: 'garamond';
+  font-size: 40px;
+  color: white;
+  text-align: center;
+  font-variant: smallcaps;
+  }
+
+  .melissas-advice p {
+    font-family: 'garamond';
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    letter-spacing: 3px;
+
+  }
+
+
 /** amypennybacker's advice **/
 
 .amypennybacker-advice {
