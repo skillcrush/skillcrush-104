@@ -1,18 +1,22 @@
 
-/* Michelle O'Neill's Advice */
-.michelleoneill-advice {
-  font-family: 'Raleway', sans-serif;
-  font-size: 20px;
-  color: GoldenRod;
-  padding: 20px;
+.michelleoneill-advice a {
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 
 .michelleoneill-advice h1 {
-  text-decoration: bold;
-  color: black;
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+  font-size: 40 px;
+  color: #D71212
 }
 
 .michelleoneill-advice h4 {
-  text-decoration: bold;
-  color: black;
+  font-family: 'Montserrat', sans-serif;
+  color: #5B5759;
+}
+
+.michelleoneill-advice p {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 18px;
+  color: darkgrey;
 }
