@@ -43,6 +43,30 @@
     text-size: 16px;
 }
 
+/**** Tamara Advice ****/
+.tamaragoldson-advice {
+  background-color: #ffff66;
+  font-size: 30px;
+  color: #000000;
+  text-align: center;
+  padding: 20px;
+
+}
+.tamaragoldson-advice p {
+    font-family: 'Monda', sans-serif;
+  
+}
+
+.tamaragoldson-advice h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 35px;
+}
+
+.tamaragoldson-advice h2 {
+    font-family: 'Dancing Script', cursive;
+    color: #009933;
+}
+
 /*****Larissa's Advice*****/
 .larissa-advice {
   background-color: #DCDCDC;
