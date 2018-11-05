@@ -1,0 +1,104 @@
+/** This is the style sheet for M. Drlik's advice **/
+
+/******BASE STYLES******/
+body{
+  font-family: 'Source Sans Pro', sans serif;
+  /** color: #7F7F7F;**/
+  width: 1260px;
+}
+
+/****** Header Section ******/
+
+.wrapper{
+  height: 300px;
+}
+
+header a{
+  font-family: "Lora";
+  font-size: 15px;
+  font-weight: bold;
+  color: #5858FA;
+  background-color: #F781F3;
+  width: 140px;
+  height: 30px;
+  margin-left: 15px;
+  margin-top: 40px;
+  padding: 4px;
+  border: 1px solid black;
+  border-radius: 30%;
+}
+
+header h1{
+  text-align: center;
+	font-family: "Lora";
+	font-size: 40px;
+	line-height: 50px;
+	color: #2B2B2B;
+	padding: 20px 100px 20px 100px;
+}
+
+.rectangle{
+  height: 230px;
+  width: 900px;
+  position: absolute;
+  margin-top: 30px;
+  margin-left: 180px;
+  background: linear-gradient(to right, #4d4dff, #ff80ff);
+  border-radius: 40px;
+  z-index: 4;
+}
+
+
+/** Create circles "cloud" effect **/
+.circle {
+  width: 265px;
+  height: 265px;
+  position: absolute;
+  top: 40px;
+  border-radius: 100%;
+  display: inline-block;
+  background: #4d4dff;
+}
+#circle-1 {
+  left: 85px;
+}
+
+#circle-2 {
+  left: 255px;
+}
+
+#circle-3 {
+  left: 425px;
+}
+
+#circle-4 {
+  left: 595px;
+}
+
+#circle-5 {
+  left: 765px;
+}
+
+#circle-6 {
+  left: 935px;
+}
+
+
+/****** Advice Section ******/
+
+section{
+  width: 600px;
+  margin-left: 330px;
+  background-color: #e6e6e6;
+  margin-top: 40px;
+  padding: 20px;
+}
+
+section h4{
+  text-align: center;
+  font-size: 25px;
+}
+
+section li{
+  padding-top: 8px;
+}
