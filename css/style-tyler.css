@@ -1,0 +1,54 @@
+/***** BODY *****/
+header h1 {
+  text-align: center;
+  font-size: 44px;
+  font-style: italic;
+  font-variant: small-caps;
+  text-decoration: underline;
+}
+
+header h1 span {
+  font-size: 28px;
+}
+
+section .border1 {
+  border-radius: 25px;
+  background: #00b300;
+  padding: 10px;
+  width: auto;
+  height: 275px;
+}
+
+section .border2 {
+  border-radius: 25px;
+  background: #ff9900;
+  padding: 10px;
+  margin: 10px 0px;
+  width: auto;
+  height: 325px;
+}
+
+section h4 {
+  font-style: italic;
+  font-variant: small-caps;
+  font-size: 24px;
+  text-indent: 2.5em;
+  color: white;
+}
+
+section p {
+  font-size: 18px;
+  color: yellow;
+  font-variant: small-caps;
+}
+
+section p span {
+  text-transform: capitalize;
+  font-size: 28px;
+}
+
+/***** FOOTER *****/
+
+footer p {
+  line-height: 125px;
+}
