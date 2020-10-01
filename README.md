@@ -1,5 +1,5 @@
 # Skillcrush 104
-#### Create Your First Web App With Ruby
+#### Create Your own First Web App With Ruby!
 
 Helloooo, Skillcrushers!
 
