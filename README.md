@@ -7,3 +7,6 @@ This repository exists so you can practice cloning GitHub repos, and also forkin
 
 Have fun!
 
+## What I’m practicing
+
+I’m using this repository to relearn Git and GitHub.
